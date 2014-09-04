@@ -1,0 +1,14 @@
+name man_priest
+move 3
+ballistic_skill 0
+ballistic_range 0
+ballistic_damage 0
+melee_skill 0
+melee_damage 1
+armor 0
+wounds 9
+team 1
+magic_skill 9
+magic_range 9
+magics +armor9
+program s0

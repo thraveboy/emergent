@@ -1,0 +1,11 @@
+name man_troop1
+move 3
+ballistic_skill 2
+ballistic_range 2
+ballistic_damage 1
+melee_skill 2
+melee_damage 1
+armor 2
+wounds 1
+team 1
+program s0 e1 s0 s1 s0 s1 s0 s1 s0 s1 s0 s1 s0 s1 s0 s1 s0 s1

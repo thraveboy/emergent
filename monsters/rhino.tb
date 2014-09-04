@@ -1,0 +1,9 @@
+name Rhino
+move 5
+ballistic_skill 0
+ballistic_range 0
+ballistic_damage 0
+melee_skill 14
+melee_damage 4
+armor 4
+wounds 3

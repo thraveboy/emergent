@@ -1,0 +1,13 @@
+name base_dark_elf
+move 1
+ballistic_skill 1
+ballistic_range 1
+ballistic_damage 2
+melee_skill 1
+melee_damage 1
+armor 1
+wounds 1
+magic_range 1
+magic_skill 1
+team 1
+program n5

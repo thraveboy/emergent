@@ -1,0 +1,14 @@
+name big_dragon
+move 10
+ballistic_skill 5
+ballistic_range 5
+ballistic_damage 5
+melee_skill 3
+melee_damage 4
+armor 3
+wounds 5
+team 2
+program s8 e8 n8 w8
+magic_range 1
+magic_skill 5
+magics +magic_skill3 -ballistic_skill2

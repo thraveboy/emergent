@@ -1,0 +1,1 @@
+rm match-team.results

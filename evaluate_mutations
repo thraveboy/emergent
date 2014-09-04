@@ -1,0 +1,5 @@
+ sort living_mutations_team1.mt | uniq -c | sort > living_mutation_team1_summary; sort dead_mutations_team1.mt | uniq -c | sort > dead_mutation_team1_summary
+ ruby mutation_stats.rb living_mutation_team1_summary dead_mutation_team1_summary 
+
+ sort living_mutations_teamothers.mt | uniq -c | sort > living_mutation_teamothers_summary; sort dead_mutations_teamothers.mt | uniq -c | sort> dead_mutation_teamothers_summary
+ ruby mutation_stats.rb living_mutation_teamothers_summary dead_mutation_teamothers_summary 

@@ -1,0 +1,24 @@
+To open the HUD:
+
+./open_hud.sh
+
+The shell that will run a file lots of times
+
+ time ./mutation_run.sh > /dev/null
+
+or
+
+ time ./run_dark_elf_match_1.sh > /dev/null
+
+
+To show the mutation analysis:
+
+ sort living_mutations.mt | uniq -c | sort | tail > living_mutation_summary; sort dead_mutations.mt | uniq -c | sort | tail > dead_mutation_summary
+ ruby mutation_stats.rb living_mutation_summary dead_mutation_summary 
+
+
+
+To run match analysis
+
+wc -l match-team.results ; ruby team_stats.rb match-team.results 
+

@@ -1,0 +1,4 @@
+rm living_mutations_team1.mt
+rm living_mutations_teamothers.mt
+rm dead_mutations_team1.mt
+rm dead_mutations_teamothers.mt

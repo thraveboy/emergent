@@ -1,0 +1,11 @@
+name man_lord
+move 4
+ballistic_skill 0
+ballistic_range 0
+ballistic_damage 0
+melee_skill 9
+melee_damage 9
+armor 9
+wounds 9
+team 1
+program s0

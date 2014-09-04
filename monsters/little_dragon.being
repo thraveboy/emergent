@@ -1,0 +1,12 @@
+name big_dragon
+move 4
+ballistic_skill 3
+ballistic_range 5
+ballistic_damage 1
+ballistic_defense_skill 1
+melee_skill 1
+melee_damage 2
+armor 3
+wounds 2
+team 2
+program s4 e4 e4 n4 w1 w1 w1 s4 s4 w2 n4 n4

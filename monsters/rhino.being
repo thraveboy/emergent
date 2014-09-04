@@ -1,0 +1,13 @@
+name rhino
+move 5
+ballistic_skill 0
+ballistic_range 0
+ballistic_damage 0
+melee_skill 4
+melee_damage 4
+armor 4
+wounds 3
+team 1
+magic_range 1
+magics -armor
+program s2 s3 s2 s2 e2 n3 n2 n3 e3 s2 s2 s3 e2 n2 n2 n2 n3

@@ -1,0 +1,11 @@
+name man_troop_little
+move 1
+ballistic_skill 0
+ballistic_range 0
+ballistic_damage 0
+melee_skill 0
+melee_damage 4
+armor 0
+wounds 1
+team 1
+program s1 s1 s1 s1 s1 s1 s1 s1 s1 s1 s1 s1 s1 s1 s1 s1 s1 s1 

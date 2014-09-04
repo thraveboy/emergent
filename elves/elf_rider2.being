@@ -1,0 +1,11 @@
+name elf_rider2
+move 4
+ballistic_skill 4
+ballistic_range 3
+ballistic_damage 2
+melee_skill 3
+melee_damage 1
+armor 1
+wounds 1
+team 2
+program n0 w3 n4 n4 n4 n4 n4 s4 s4 s4 s4 s4

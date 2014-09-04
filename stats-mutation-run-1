@@ -1,0 +1,41 @@
+Living
+------
+living_mutation_summary
+
+armor: 30643 of 46198 is 66.33%
+wounds: 24108 of 42740 is 56.41%
+ballistic_damage: 21278 of 42259 is 50.35%
+
+--------Average Living: 175275 of 385188 is 45.5%  -----
+
+melee_damage: 19112 of 42375 is 45.1%
+melee_skill: 16284 of 42197 is 38.59%
+ballistic_skill: 16351 of 42446 is 38.52%
+ballistic_defense_skill: 16326 of 42738 is 38.2%
+ballistic_range: 15974 of 42497 is 37.59%
+move: 15199 of 41738 is 36.42%
+
+
+Dead
+----
+dead_mutation_summary
+armor: 15555 of 46198 is 33.67%
+wounds: 18632 of 42740 is 43.59%
+ballistic_damage: 20981 of 42259 is 49.65%
+
+---------AverageDead: 209913 of 385188 is 54.5%
+
+melee_damage: 23263 of 42375 is 54.9%
+melee_skill: 25913 of 42197 is 61.41%
+ballistic_range: 26523 of 42497 is 62.41%
+ballistic_skill: 26095 of 42446 is 61.48%
+ballistic_defense_skill: 26412 of 42738 is 61.8%
+move: 26539 of 41738 is 63.58%
+
+
+Baseline
+--------
+Living: 175275 of 385188 is 45.5%  
+Dead: 209913 of 385188 is 54.5%
+
+

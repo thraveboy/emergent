@@ -1,0 +1,9 @@
+name Big Dragoon
+move 10
+ballistic_skill 15
+ballistic_range 5
+ballistic_damage 3
+melee_skill 10
+melee_damage 4
+armor 3
+wounds 5

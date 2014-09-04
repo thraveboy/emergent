@@ -1,0 +1,11 @@
+name elven_lord
+move 5
+ballistic_skill 5
+ballistic_range 5
+ballistic_damage 5
+melee_skill 5
+melee_damage 5
+armor 5
+wounds 5
+team 2
+program n5 n5 n5 n5 s5 s5 s5 s5 s5
