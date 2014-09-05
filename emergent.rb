@@ -171,9 +171,9 @@ class Thing
       @initialized = true
       @filename = filename
     else
-      putsl "..._"
-      putsl "   file #{filename} does not exist__"
-      putsl "                                    <<<."
+      putsl red("..._")
+      putsl red("   file #{filename} does not exist__")
+      putsl red("                                    <<<.")
     end
   end
 
@@ -225,6 +225,7 @@ end
 
 class Being < Thing
   attr_accessor :points
+  attr_accessor :program
 
   def print_this_baby_out(omitted_variables = [], display = [])
     being_omit = ['initialized', 'filename']
@@ -236,6 +237,7 @@ class Being < Thing
 
   def initialize(filename = nil)
     @points = 1
+    @program = ''
     super(filename)
     $buffable_stats.each do |buffable_stat|
       metaclass.instance_eval do
@@ -929,10 +931,21 @@ class Assign_Program_BeingOperator < Thing
   def execute(beings, programs)
    if !beings.nil? && !programs.nil?
      current_being = beings.pop
-     current_program = programs.pop
-     current_being.program = current_program.program
-     puts "Current Program: #{current_program}"
-     beings.push current_being
+     current_program_popped = programs.pop
+     if !current_program_popped.nil? && !current_being.nil?
+       current_program = current_program_popped.program
+       current_being_program = current_being.program
+       if current_being_program.nil?
+         current_being_program = ''
+       end
+       current_being_program.concat("#{current_program} ")
+       current_being.program = current_being_program
+     else
+       putsl "Could not assign program (#{current_program_popped}) to being (#{current_being})"
+     end
+     if !current_being.nil?
+       beings.push current_being
+     end
    end
   end
 end
@@ -1103,6 +1116,7 @@ class LineOfCommand
       putsl Dir["*"]
       putsl "***Have flowed***"
     elsif shortcut_everything?("assign", guess)
+      putsl "Assigning program to being..."
       beings = instance_variable_get("@beings")
       programs = instance_variable_get("@programs")
       program_beings = Assign_Program_BeingOperator.new
@@ -1137,8 +1151,6 @@ class LineOfCommand
       world.operate_over_space(Attack_WorldOperator.new('melee'), displays, true, beings)
     elsif shortcut_everything?("teams", guess)
       beings = instance_variable_get("@beings")
-      displays = instance_variable_get("@displays")
-      print_things_list('being', beings, displays)
       output_team_stats(beings)
     elsif self.is_list_objects_command?(@types, guess)
       list_type = self.get_list_type(@types, guess)

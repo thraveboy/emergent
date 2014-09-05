@@ -4,6 +4,6 @@ currentiteration=0
 
 while [ $currentiteration -le $numberofiterations ]
 do
-  ruby emergent.rb games/gameCurrentGame;
+  ruby emergent.rb games/currentGame;
   let currentiteration=currentiteration+1
 done

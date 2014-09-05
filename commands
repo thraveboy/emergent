@@ -2,13 +2,33 @@ To open the HUD:
 
 ./open_hud.sh
 
-The shell that will run a file lots of times
 
- time ./mutation_run.sh > /dev/null
+To run a match:
 
-or
+ ruby emergent.rb games/gameDarkElf1
+
+To run a match lots of times:
 
  time ./run_dark_elf_match_1.sh > /dev/null
+
+ 
+To clean the raw match results:
+
+./clean_match_raw.sh
+
+To run a match lots of times (like above)
+
+ time ./run_dark_elf_match_1.sh > /dev/null
+
+To analyze match results:
+
+ ruby match_stats.rb match-team.results
+
+
+
+The shell that will run a mutation  lots of times
+
+ time ./mutation_run.sh > /dev/null
 
 
 To show the mutation analysis:
