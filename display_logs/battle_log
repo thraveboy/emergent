@@ -32,24 +32,32 @@ Assigning program to being...
 Assigning program to being...
 ...Thing dark_elf_shield created and initialized
  ..
-...Thing dark_elf_shieldc.program created and initialized
- ..
+[31m..._[0m
+[31m   file programs/current_team_1_programs/position-7.program does not exist__[0m
+[31m                                    <<<.[0m
 Assigning program to being...
+Could not assign program () to being (#<Being:0x007fb2ea018e30>)
 ...Thing dark_elf_shield created and initialized
  ..
-...Thing dark_elf_shieldd.program created and initialized
- ..
+[31m..._[0m
+[31m   file programs/current_team_1_programs/position-8.program does not exist__[0m
+[31m                                    <<<.[0m
 Assigning program to being...
+Could not assign program () to being (#<Being:0x007fb2e907de80>)
 ...Thing dark_elf_quick_flight created and initialized
  ..
-...Thing dark_elf_quick_flightc_program created and initialized
- ..
+[31m..._[0m
+[31m   file programs/current_team_1_programs/position-9.program does not exist__[0m
+[31m                                    <<<.[0m
 Assigning program to being...
+Could not assign program () to being (#<Being:0x007fb2ea8c8e40>)
 ...Thing dark_elf_quick_flight created and initialized
  ..
-...Thing dark_elf_quick_flightd_program created and initialized
- ..
+[31m..._[0m
+[31m   file programs/current_team_1_programs/position-10.program does not exist__[0m
+[31m                                    <<<.[0m
 Assigning program to being...
+Could not assign program () to being (#<Being:0x007fb2ea85b3b8>)
 ...Thing dark_elf_shield created and initialized
  ..
 ...Thing straight-1.program created and initialized
@@ -77,11 +85,9 @@ Assigning program to being...
 Assigning program to being...
 ...Thing dark_elf_rust created and initialized
  ..
-[31m..._[0m
-[31m   file programs/current_team_2_programs/1.program does not exist__[0m
-[31m                                    <<<.[0m
+...Thing straight-1.program created and initialized
+ ..
 Assigning program to being...
-Could not assign program () to being (#<Being:0x007fc2618392c8>)
 ...Thing dark_elf_shield created and initialized
  ..
 ...Thing straight-1.program created and initialized
@@ -116,187 +122,11 @@ Assigning program to being...
 +++++Melee attacks
 =====Movement
 -----Magic
+[36mdark_elf_rust(4,3) attempts to buff [1mdark_elf_shield[0m(3,6) armor by -1 : Fails.[0m
 -----Ranged attacks
 +++++Melee attacks
 =====Movement
 -----Magic
+[36mdark_elf_rust(4,4) attempts to buff [1mdark_elf_shield[0m(2,6) armor by -1 : Fails.[0m
 -----Ranged attacks
 +++++Melee attacks
-=====Movement
------Magic
------Ranged attacks
-dark_elf_shield(8,5) hit [1mdark_elf_shield[0m(8,6) with a ranged attack. 
-[37mThe dark_elf_shield ranged attack bounces off [1mdark_elf_shield[0m..[0m
-[1mdark_elf_quick_flight[0m(0,8) hit dark_elf_shield(0,5) with a ranged attack. [33m[1mdark_elf_quick_flight[0m damages dark_elf_shield for 1 wounds..[0m
-[31mdark_elf_shield[0m[31m is killed![0m
-+++++Melee attacks
-dark_elf_shield(1,5) hit [1mdark_elf_shield[0m(1,6) with a melee attack. 
-[37mThe dark_elf_shield melee attack bounces off [1mdark_elf_shield[0m..[0m
-dark_elf_shield(2,5) hit [1mdark_elf_shield[0m(1,6) with a melee attack. 
-[37mThe dark_elf_shield melee attack bounces off [1mdark_elf_shield[0m..[0m
-dark_elf_shield(7,5) hit [1mdark_elf_shield[0m(8,6) with a melee attack. 
-[37mThe dark_elf_shield melee attack bounces off [1mdark_elf_shield[0m..[0m
-dark_elf_shield(9,5) hit [1mdark_elf_shield[0m(8,6) with a melee attack. 
-[37mThe dark_elf_shield melee attack bounces off [1mdark_elf_shield[0m..[0m
-[1mdark_elf_shield[0m(1,6) hit dark_elf_shield(1,5) with a melee attack. 
-[37mThe [1mdark_elf_shield[0m melee attack bounces off dark_elf_shield..[0m
-[1mdark_elf_shield[0m(8,6) hit dark_elf_shield(7,5) with a melee attack. 
-[37mThe [1mdark_elf_shield[0m melee attack bounces off dark_elf_shield..[0m
-[1mdark_elf_shield[0m(8,6) hit dark_elf_shield(8,5) with a melee attack. 
-[37mThe [1mdark_elf_shield[0m melee attack bounces off dark_elf_shield..[0m
-[1mdark_elf_shield[0m(8,6) hit dark_elf_shield(9,5) with a melee attack. 
-[37mThe [1mdark_elf_shield[0m melee attack bounces off dark_elf_shield..[0m
-=====Movement
------Magic
-[35m[1mdark_elf_rust[0m(4,9) attempts to buff dark_elf_shield(2,6) armor by -1 : Succeeds.[0m
-[35m[1mdark_elf_rust[0m(4,9) attempts to buff dark_elf_shield(3,6) armor by -1 : Succeeds.[0m
-[35m[1mdark_elf_rust[0m(4,9) attempts to buff dark_elf_shroud_hammer(5,6) armor by -1 : Succeeds.[0m
-[36m[1mdark_elf_rust[0m(4,9) attempts to buff dark_elf_shield(6,6) armor by -1 : Fails.[0m
-[35m[1mdark_elf_rust[0m(4,9) attempts to buff dark_elf_shield(7,6) armor by -1 : Succeeds.[0m
------Ranged attacks
-dark_elf_shield(8,5) hit [1mdark_elf_shield[0m(8,6) with a ranged attack. [33mdark_elf_shield damages [1mdark_elf_shield[0m for 1 wounds..[0m
-[31m[1mdark_elf_shield[0m[0m[31m is killed![0m
-[1mdark_elf_shield[0m(8,6) hit dark_elf_shield(9,6) with a ranged attack. [33m[1mdark_elf_shield[0m damages dark_elf_shield for 1 wounds..[0m
-[31mdark_elf_shield[0m[31m is killed![0m
-dark_elf_shield(9,6) hit [1mdark_elf_shield[0m(9,7) with a ranged attack. [33mdark_elf_shield damages [1mdark_elf_shield[0m for 2 wounds..[0m
-[31m[1mdark_elf_shield[0m[0m[31m is killed![0m
-[1mdark_elf_quick_flight[0m(9,8) hit dark_elf_shield(9,6) with a ranged attack. 
-[37mThe [1mdark_elf_quick_flight[0m ranged attack bounces off dark_elf_shield..[0m
-[1mdark_elf_quick_flight[0m(9,9) hit dark_elf_shield(9,6) with a ranged attack. [33m[1mdark_elf_quick_flight[0m damages dark_elf_shield for 2 wounds..[0m
-+++++Melee attacks
-[1mdark_elf_shield[0m(0,6) hit dark_elf_shield(1,5) with a melee attack. 
-[37mThe [1mdark_elf_shield[0m melee attack bounces off dark_elf_shield..[0m
-=====Movement
------Magic
-[36m[1mdark_elf_rust[0m(4,9) attempts to buff dark_elf_shield(1,6) armor by -1 : Fails.[0m
-[36m[1mdark_elf_rust[0m(4,9) attempts to buff dark_elf_shield(2,7) armor by -1 : Fails.[0m
-[35m[1mdark_elf_rust[0m(4,9) attempts to buff dark_elf_shield(3,7) armor by -1 : Succeeds.[0m
-[35m[1mdark_elf_rust[0m(4,9) attempts to buff dark_elf_shroud_hammer(5,7) armor by -1 : Succeeds.[0m
-[35m[1mdark_elf_rust[0m(4,9) attempts to buff dark_elf_shield(6,7) armor by -1 : Succeeds.[0m
-[35m[1mdark_elf_rust[0m(4,9) attempts to buff dark_elf_shield(7,7) armor by -1 : Succeeds.[0m
------Ranged attacks
-[1mdark_elf_shield[0m(0,6) hit dark_elf_shield(1,6) with a ranged attack. 
-[37mThe [1mdark_elf_shield[0m ranged attack bounces off dark_elf_shield..[0m
-+++++Melee attacks
-dark_elf_shield(1,6) hit [1mdark_elf_shield[0m(0,6) with a melee attack. 
-[37mThe dark_elf_shield melee attack bounces off [1mdark_elf_shield[0m..[0m
-dark_elf_shield(2,7) hit [1mdark_elf_shroud_hammer[0m(3,8) with a melee attack. 
-[37mThe dark_elf_shield melee attack bounces off [1mdark_elf_shroud_hammer[0m..[0m
-=====Movement
------Magic
-[35m[1mdark_elf_rust[0m(4,9) attempts to buff dark_elf_shield(1,7) armor by -1 : Succeeds.[0m
-[36m[1mdark_elf_rust[0m(4,9) attempts to buff dark_elf_shield(2,8) armor by -1 : Fails.[0m
-[35m[1mdark_elf_rust[0m(4,9) attempts to buff dark_elf_shield(3,7) armor by -1 : Succeeds.[0m
-[36m[1mdark_elf_rust[0m(4,9) attempts to buff dark_elf_shroud_hammer(5,8) armor by -1 : Fails.[0m
-[36m[1mdark_elf_rust[0m(4,9) attempts to buff dark_elf_shield(6,8) armor by -1 : Fails.[0m
-[36m[1mdark_elf_rust[0m(4,9) attempts to buff dark_elf_shield(7,8) armor by -1 : Fails.[0m
------Ranged attacks
-[1mdark_elf_shield[0m(0,7) hit dark_elf_shield(1,7) with a ranged attack. 
-[37mThe [1mdark_elf_shield[0m ranged attack bounces off dark_elf_shield..[0m
-dark_elf_shield(3,7) hit [1mdark_elf_shroud_hammer[0m(3,8) with a ranged attack. 
-[37mThe dark_elf_shield ranged attack bounces off [1mdark_elf_shroud_hammer[0m..[0m
-[1mdark_elf_quick_flight[0m(9,8) hit dark_elf_shield(6,8) with a ranged attack. [33m[1mdark_elf_quick_flight[0m damages dark_elf_shield for 2 wounds..[0m
-[31mdark_elf_shield[0m[31m is killed![0m
-+++++Melee attacks
-dark_elf_shield(1,7) hit [1mdark_elf_shield[0m(0,6) with a melee attack. 
-[37mThe dark_elf_shield melee attack bounces off [1mdark_elf_shield[0m..[0m
-dark_elf_shield(1,7) hit [1mdark_elf_quick_flight[0m(0,8) with a melee attack. 
-[37mThe dark_elf_shield melee attack bounces off [1mdark_elf_quick_flight[0m..[0m
-dark_elf_shield(3,7) hit [1mdark_elf_shroud_hammer[0m(3,8) with a melee attack. [33mdark_elf_shield damages [1mdark_elf_shroud_hammer[0m for 1 wounds..[0m
-dark_elf_shield(8,7) hit [1mdark_elf_quick_flight[0m(9,8) with a melee attack. 
-[37mThe dark_elf_shield melee attack bounces off [1mdark_elf_quick_flight[0m..[0m
-[1mdark_elf_shroud_hammer[0m(3,8) hit dark_elf_shield(3,7) with a melee attack. 
-[37mThe [1mdark_elf_shroud_hammer[0m melee attack bounces off dark_elf_shield..[0m
-=====Movement
------Magic
-[35m[1mdark_elf_rust[0m(4,9) attempts to buff dark_elf_shield(1,8) armor by -1 : Succeeds.[0m
-[36m[1mdark_elf_rust[0m(4,9) attempts to buff dark_elf_shield(2,9) armor by -1 : Fails.[0m
-[35m[1mdark_elf_rust[0m(4,9) attempts to buff dark_elf_shield(3,7) armor by -1 : Succeeds.[0m
-[35m[1mdark_elf_rust[0m(4,9) attempts to buff dark_elf_shroud_hammer(5,9) armor by -1 : Succeeds.[0m
-[36m[1mdark_elf_rust[0m(4,9) attempts to buff dark_elf_shield(7,9) armor by -1 : Fails.[0m
------Ranged attacks
-dark_elf_shield(3,7) hit [1mdark_elf_shroud_hammer[0m(3,8) with a ranged attack. [33mdark_elf_shield damages [1mdark_elf_shroud_hammer[0m for 1 wounds..[0m
-[1mdark_elf_shroud_hammer[0m(3,8) hit dark_elf_shield(3,7) with a ranged attack. [33m[1mdark_elf_shroud_hammer[0m damages dark_elf_shield for 1 wounds..[0m
-[31mdark_elf_shield[0m[31m is killed![0m
-[1mdark_elf_quick_flight[0m(9,8) hit dark_elf_shield(8,8) with a ranged attack. 
-[37mThe [1mdark_elf_quick_flight[0m ranged attack bounces off dark_elf_shield..[0m
-[1mdark_elf_quick_flight[0m(0,9) hit dark_elf_shield(2,9) with a ranged attack. [33m[1mdark_elf_quick_flight[0m damages dark_elf_shield for 1 wounds..[0m
-[31mdark_elf_shield[0m[31m is killed![0m
-[1mdark_elf_quick_flight[0m(9,9) hit dark_elf_shield(7,9) with a ranged attack. 
-[37mThe [1mdark_elf_quick_flight[0m ranged attack bounces off dark_elf_shield..[0m
-+++++Melee attacks
-[1mdark_elf_shield[0m(0,7) hit dark_elf_shield(1,8) with a melee attack. 
-[37mThe [1mdark_elf_shield[0m melee attack bounces off dark_elf_shield..[0m
-[1mdark_elf_quick_flight[0m(0,8) hit dark_elf_shield(1,8) with a melee attack. 
-[37mThe [1mdark_elf_quick_flight[0m melee attack bounces off dark_elf_shield..[0m
-dark_elf_shield(8,8) hit [1mdark_elf_quick_flight[0m(9,8) with a melee attack. 
-[37mThe dark_elf_shield melee attack bounces off [1mdark_elf_quick_flight[0m..[0m
-dark_elf_shield(8,8) hit [1mdark_elf_quick_flight[0m(9,9) with a melee attack. 
-[37mThe dark_elf_shield melee attack bounces off [1mdark_elf_quick_flight[0m..[0m
-=====Movement
------Magic
-[35m[1mdark_elf_rust[0m(4,9) attempts to buff dark_elf_shield(1,9) armor by -1 : Succeeds.[0m
-[36m[1mdark_elf_rust[0m(4,9) attempts to buff dark_elf_shroud_hammer(5,9) armor by -1 : Fails.[0m
-[36m[1mdark_elf_rust[0m(4,9) attempts to buff dark_elf_shield(7,9) armor by -1 : Fails.[0m
------Ranged attacks
-[1mdark_elf_quick_flight[0m(0,9) hit dark_elf_shield(1,9) with a ranged attack. [33m[1mdark_elf_quick_flight[0m damages dark_elf_shield for 1 wounds..[0m
-[31mdark_elf_shield[0m[31m is killed![0m
-[1mdark_elf_quick_flight[0m(9,9) hit dark_elf_shield(7,9) with a ranged attack. [33m[1mdark_elf_quick_flight[0m damages dark_elf_shield for 1 wounds..[0m
-[31mdark_elf_shield[0m[31m is killed![0m
-+++++Melee attacks
-[1mdark_elf_shroud_hammer[0m(4,8) hit dark_elf_shroud_hammer(5,9) with a melee attack. 
-[37mThe [1mdark_elf_shroud_hammer[0m melee attack bounces off dark_elf_shroud_hammer..[0m
-[1mdark_elf_rust[0m(4,9) hit dark_elf_shroud_hammer(5,9) with a melee attack. 
-[37mThe [1mdark_elf_rust[0m melee attack bounces off dark_elf_shroud_hammer..[0m
-dark_elf_shroud_hammer(5,9) hit [1mdark_elf_rust[0m(4,9) with a melee attack. [33mdark_elf_shroud_hammer damages [1mdark_elf_rust[0m for 1 wounds..[0m
-[31m[1mdark_elf_rust[0m[0m[31m is killed![0m
-[1mdark_elf_quick_flight[0m(9,9) hit dark_elf_shield(8,9) with a melee attack. 
-[37mThe [1mdark_elf_quick_flight[0m melee attack bounces off dark_elf_shield..[0m
-=====Movement
------Magic
------Ranged attacks
-+++++Melee attacks
-[1mdark_elf_quick_flight[0m(9,8) hit dark_elf_shield(8,9) with a melee attack. 
-[37mThe [1mdark_elf_quick_flight[0m melee attack bounces off dark_elf_shield..[0m
-[1mdark_elf_quick_flight[0m(9,9) hit dark_elf_shield(8,9) with a melee attack. 
-[37mThe [1mdark_elf_quick_flight[0m melee attack bounces off dark_elf_shield..[0m
-=====Movement
------Magic
------Ranged attacks
-[1mdark_elf_quick_flight[0m(9,9) hit dark_elf_shield(8,9) with a ranged attack. 
-[37mThe [1mdark_elf_quick_flight[0m ranged attack bounces off dark_elf_shield..[0m
-+++++Melee attacks
-[1mdark_elf_quick_flight[0m(9,8) hit dark_elf_shield(8,9) with a melee attack. 
-[37mThe [1mdark_elf_quick_flight[0m melee attack bounces off dark_elf_shield..[0m
-dark_elf_shield(8,9) hit [1mdark_elf_quick_flight[0m(9,9) with a melee attack. 
-[37mThe dark_elf_shield melee attack bounces off [1mdark_elf_quick_flight[0m..[0m
-[1mdark_elf_quick_flight[0m(9,9) hit dark_elf_shield(8,9) with a melee attack. 
-[37mThe [1mdark_elf_quick_flight[0m melee attack bounces off dark_elf_shield..[0m
-=====Movement
------Magic
------Ranged attacks
-[1mdark_elf_quick_flight[0m(9,9) hit dark_elf_shield(8,9) with a ranged attack. 
-[37mThe [1mdark_elf_quick_flight[0m ranged attack bounces off dark_elf_shield..[0m
-+++++Melee attacks
-[1mdark_elf_shroud_hammer[0m(4,8) hit dark_elf_shroud_hammer(5,9) with a melee attack. 
-[37mThe [1mdark_elf_shroud_hammer[0m melee attack bounces off dark_elf_shroud_hammer..[0m
-dark_elf_shroud_hammer(5,9) hit [1mdark_elf_shroud_hammer[0m(4,8) with a melee attack. [33mdark_elf_shroud_hammer damages [1mdark_elf_shroud_hammer[0m for 2 wounds..[0m
-[31m[1mdark_elf_shroud_hammer[0m[0m[31m is killed![0m
-dark_elf_shield(8,9) hit [1mdark_elf_quick_flight[0m(9,9) with a melee attack. 
-[37mThe dark_elf_shield melee attack bounces off [1mdark_elf_quick_flight[0m..[0m
-[1mdark_elf_quick_flight[0m(9,9) hit dark_elf_shield(8,9) with a melee attack. 
-[37mThe [1mdark_elf_quick_flight[0m melee attack bounces off dark_elf_shield..[0m
-=====Movement
------Magic
------Ranged attacks
-[1mdark_elf_quick_flight[0m(9,9) hit dark_elf_shield(8,9) with a ranged attack. 
-[37mThe [1mdark_elf_quick_flight[0m ranged attack bounces off dark_elf_shield..[0m
-+++++Melee attacks
-[1mdark_elf_quick_flight[0m(9,9) hit dark_elf_shield(8,9) with a melee attack. 
-[37mThe [1mdark_elf_quick_flight[0m melee attack bounces off dark_elf_shield..[0m
-=====Movement
------Magic
------Ranged attacks
-+++++Melee attacks
-dark_elf_shield(8,9) hit [1mdark_elf_quick_flight[0m(9,9) with a melee attack. 
-[37mThe dark_elf_shield melee attack bounces off [1mdark_elf_quick_flight[0m..[0m
