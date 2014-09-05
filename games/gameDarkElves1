@@ -4,6 +4,8 @@ dark_elves/dark_elf_quick_flightb.being
 dark_elves/dark_elf_shielda.being
 dark_elves/dark_elf_shieldb.being
 dark_elves/dark_elf_shroud_hammer.being
+programs/dark_elf_shroud_hammer_1.program
+assign
 dark_elves/dark_elf_rust.being
 dark_elves/dark_elf_shieldc.being
 dark_elves/dark_elf_shieldd.being

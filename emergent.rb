@@ -925,6 +925,18 @@ class Attack_WorldOperator
 
 end
 
+class Assign_Program_BeingOperator < Thing
+  def execute(beings, programs)
+   if !beings.nil? && !programs.nil?
+     current_being = beings.pop
+     current_program = programs.pop
+     current_being.program = current_program.program
+     puts "Current Program: #{current_program}"
+     beings.push current_being
+   end
+  end
+end
+
 #-----Commands---
 
 class Command
@@ -1020,6 +1032,12 @@ class Display < Thing
   end
 end
 
+#"""""program
+
+class Program < Thing
+  attr_accessor :program
+end
+
 #-------
 #----------------
 #------------
@@ -1046,7 +1064,7 @@ end
 class LineOfCommand
   #Print very first command line prompt
 
-  @types = ["being", "world", "display"]
+  @types = ["being", "world", "display", "program"]
 
   @types.each do |current_type|
    instance_variable_set("@#{current_type}s", [])
@@ -1084,6 +1102,16 @@ class LineOfCommand
       putsl "The Definitions and flows....."
       putsl Dir["*"]
       putsl "***Have flowed***"
+    elsif shortcut_everything?("assign", guess)
+      beings = instance_variable_get("@beings")
+      programs = instance_variable_get("@programs")
+      program_beings = Assign_Program_BeingOperator.new
+      program_beings.execute(beings, programs)
+    elsif shortcut_everything?("dump", guess)
+      beings = instance_variable_get("@beings")
+      displays = instance_variable_get("@displays")
+      putsl "Dumping living mutations.."
+      team_results = DumpMutations_BeingOperator.new.execute(beings)
     elsif shortcut_everything?("mutate", guess)
       beings = instance_variable_get("@beings")
       world = instance_variable_get("@worlds")[-1]
@@ -1094,16 +1122,6 @@ class LineOfCommand
       world = instance_variable_get("@worlds")[-1]
       populate_beings = Populate_Beings_BeingOperator.new
       populate_beings.execute(beings, world)
-    elsif shortcut_everything?("teams", guess)
-      beings = instance_variable_get("@beings")
-      displays = instance_variable_get("@displays")
-      print_things_list('being', beings, displays)
-      output_team_stats(beings)
-    elsif shortcut_everything?("dump", guess)
-      beings = instance_variable_get("@beings")
-      displays = instance_variable_get("@displays")
-      putsl "Dumping living mutations.."
-      team_results = DumpMutations_BeingOperator.new.execute(beings)
     elsif shortcut_everything?("step", guess)
       world = instance_variable_get("@worlds")[-1]
       displays = instance_variable_get("@displays")
@@ -1117,6 +1135,11 @@ class LineOfCommand
       world.operate_over_space(Attack_WorldOperator.new('ranged'), displays, true, beings)
       putsl "+++++Melee attacks"
       world.operate_over_space(Attack_WorldOperator.new('melee'), displays, true, beings)
+    elsif shortcut_everything?("teams", guess)
+      beings = instance_variable_get("@beings")
+      displays = instance_variable_get("@displays")
+      print_things_list('being', beings, displays)
+      output_team_stats(beings)
     elsif self.is_list_objects_command?(@types, guess)
       list_type = self.get_list_type(@types, guess)
       if !list_type.nil?
