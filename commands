@@ -10,11 +10,11 @@ To open the HUD:
 
 To run a match:
 
- ruby emergent.rb games/currentGame
+./run_current_match-interactive.sh
 
 To run a match lots of times:
 
- time ./run_current_match-15moves.sh > /dev/null
+time ./run_current_match-15moves.sh 100
 
  
 To clean the raw match results:
@@ -23,16 +23,16 @@ To clean the raw match results:
 
 To run a match lots of times (like above)
 
- time ./run_current_match-15moves.sh > /dev/null
+time ./run_current_match-15moves.sh 10 
 
 To analyze match results:
 
  ruby match_stats.rb match-team.results
 
 
-To run a match many times, analyze the results, and output the results to a file:
+To clean raw results, run a match many times, analyze results, and output the results to a file:
 
-time ./clean_run_match.sh | tee results/test_1.results
+time ./run_clean_match.sh | tee results/test_1.results
 
 
 
