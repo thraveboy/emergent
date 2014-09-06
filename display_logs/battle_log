@@ -1,132 +1,119 @@
 ...Thing standard 1010.world created and initialized
  ..
-...Thing dark_elf_quick_flight created and initialized
+...Thing base_man created and initialized
  ..
-...Thing dark_elf_quick_flighta_program created and initialized
- ..
-Assigning program to being...
-...Thing dark_elf_quick_flight created and initialized
- ..
-...Thing dark_elf_quick_flightb_program created and initialized
+...Thing position1 created and initialized
  ..
 Assigning program to being...
-...Thing dark_elf_shield created and initialized
+...Thing base_man created and initialized
  ..
-...Thing dark_elf_shielda_program created and initialized
- ..
-Assigning program to being...
-...Thing dark_elf_shield created and initialized
- ..
-...Thing dark_elf_shieldb_program created and initialized
+...Thing position-2 created and initialized
  ..
 Assigning program to being...
-...Thing dark_elf_shroud_hammer created and initialized
+...Thing base_man created and initialized
  ..
-...Thing dark_elf_shroud_hammer_program created and initialized
- ..
-Assigning program to being...
-...Thing dark_elf_rust created and initialized
- ..
-...Thing dark_elf_quick_rust_program created and initialized
+...Thing position3 created and initialized
  ..
 Assigning program to being...
-...Thing dark_elf_shield created and initialized
+...Thing base_man created and initialized
  ..
-[31m..._[0m
-[31m   file programs/current_team_1_programs/position-7.program does not exist__[0m
-[31m                                    <<<.[0m
-Assigning program to being...
-Could not assign program () to being (#<Being:0x007fb2ea018e30>)
-...Thing dark_elf_shield created and initialized
- ..
-[31m..._[0m
-[31m   file programs/current_team_1_programs/position-8.program does not exist__[0m
-[31m                                    <<<.[0m
-Assigning program to being...
-Could not assign program () to being (#<Being:0x007fb2e907de80>)
-...Thing dark_elf_quick_flight created and initialized
- ..
-[31m..._[0m
-[31m   file programs/current_team_1_programs/position-9.program does not exist__[0m
-[31m                                    <<<.[0m
-Assigning program to being...
-Could not assign program () to being (#<Being:0x007fb2ea8c8e40>)
-...Thing dark_elf_quick_flight created and initialized
- ..
-[31m..._[0m
-[31m   file programs/current_team_1_programs/position-10.program does not exist__[0m
-[31m                                    <<<.[0m
-Assigning program to being...
-Could not assign program () to being (#<Being:0x007fb2ea85b3b8>)
-...Thing dark_elf_shield created and initialized
- ..
-...Thing straight-1.program created and initialized
+...Thing position4 created and initialized
  ..
 Assigning program to being...
-...Thing dark_elf_shield created and initialized
+...Thing base_man created and initialized
  ..
-...Thing straight-1.program created and initialized
- ..
-Assigning program to being...
-...Thing dark_elf_shield created and initialized
- ..
-...Thing straight-1.program created and initialized
+...Thing position-5 created and initialized
  ..
 Assigning program to being...
-...Thing dark_elf_shield created and initialized
+...Thing base_man created and initialized
  ..
-...Thing straight-1.program created and initialized
- ..
-Assigning program to being...
-...Thing dark_elf_shroud_hammer created and initialized
- ..
-...Thing straight-1.program created and initialized
+...Thing position6 created and initialized
  ..
 Assigning program to being...
-...Thing dark_elf_rust created and initialized
+...Thing base_man created and initialized
  ..
-...Thing straight-1.program created and initialized
- ..
-Assigning program to being...
-...Thing dark_elf_shield created and initialized
- ..
-...Thing straight-1.program created and initialized
+...Thing position7 created and initialized
  ..
 Assigning program to being...
-...Thing dark_elf_shield created and initialized
+...Thing base_man created and initialized
  ..
-...Thing straight-1.program created and initialized
- ..
-Assigning program to being...
-...Thing dark_elf_shield created and initialized
- ..
-...Thing straight-1.program created and initialized
+...Thing position8 created and initialized
  ..
 Assigning program to being...
-...Thing dark_elf_shield created and initialized
+...Thing base_man created and initialized
  ..
-...Thing straight-1.program created and initialized
+...Thing position9 created and initialized
+ ..
+Assigning program to being...
+...Thing base_man created and initialized
+ ..
+...Thing position10 created and initialized
+ ..
+Assigning program to being...
+incrementing team number. new beings will now be on team 2.
+...Thing base_man created and initialized
+ ..
+...Thing position1 created and initialized
+ ..
+Assigning program to being...
+...Thing base_man created and initialized
+ ..
+...Thing position2 created and initialized
+ ..
+Assigning program to being...
+...Thing base_man created and initialized
+ ..
+...Thing position3 created and initialized
+ ..
+Assigning program to being...
+...Thing base_man created and initialized
+ ..
+...Thing position4 created and initialized
+ ..
+Assigning program to being...
+...Thing base_man created and initialized
+ ..
+...Thing position5 created and initialized
+ ..
+Assigning program to being...
+...Thing base_man created and initialized
+ ..
+...Thing position6 created and initialized
+ ..
+Assigning program to being...
+...Thing base_man created and initialized
+ ..
+...Thing position7 created and initialized
+ ..
+Assigning program to being...
+...Thing base_man created and initialized
+ ..
+...Thing position8 created and initialized
+ ..
+Assigning program to being...
+...Thing base_man created and initialized
+ ..
+...Thing position9 created and initialized
+ ..
+Assigning program to being...
+...Thing base_man created and initialized
+ ..
+...Thing position10 created and initialized
  ..
 Assigning program to being...
 ...Thing Display for Men and Elves created and initialized
  ..
 .....Adding beings to world....
 11111111112222222222 done populating....
-=====Movement
------Magic
------Ranged attacks
-+++++Melee attacks
-=====Movement
------Magic
------Ranged attacks
-+++++Melee attacks
-=====Movement
------Magic
-[36mdark_elf_rust(4,3) attempts to buff [1mdark_elf_shield[0m(3,6) armor by -1 : Fails.[0m
------Ranged attacks
-+++++Melee attacks
-=====Movement
------Magic
-[36mdark_elf_rust(4,4) attempts to buff [1mdark_elf_shield[0m(2,6) armor by -1 : Fails.[0m
------Ranged attacks
-+++++Melee attacks
+=====movement
+-----magic
+-----ranged attacks
++++++melee attacks
+=====movement
+-----magic
+-----ranged attacks
++++++melee attacks
+=====movement
+-----magic
+-----ranged attacks
++++++melee attacks

@@ -19,6 +19,8 @@ $map_log = File.new(MAP_LOG_FILE, 'w')
 $battle_log = File.new(BATTLE_LOG_FILE, 'w')
 $team_log = File.new(TEAM_LOG_FILE, 'w')
 
+$team_number = 1
+
 # Set sync = true so that writing to the display log files
 # happens immediately (is not cached and stalled).
 $map_log.sync = true
@@ -226,6 +228,7 @@ end
 class Being < Thing
   attr_accessor :points
   attr_accessor :program
+  attr_accessor :team
 
   def print_this_baby_out(omitted_variables = [], display = [])
     being_omit = ['initialized', 'filename']
@@ -238,6 +241,7 @@ class Being < Thing
   def initialize(filename = nil)
     @points = 1
     @program = ''
+    @team = $team_number
     super(filename)
     $buffable_stats.each do |buffable_stat|
       metaclass.instance_eval do
@@ -1126,6 +1130,9 @@ class LineOfCommand
       displays = instance_variable_get("@displays")
       putsl "Dumping living mutations.."
       team_results = DumpMutations_BeingOperator.new.execute(beings)
+    elsif shortcut_everything?("increment", guess)
+      $team_number += 1
+      putsl "incrementing team number. new beings will now be on team #{$team_number}."
     elsif shortcut_everything?("mutate", guess)
       beings = instance_variable_get("@beings")
       world = instance_variable_get("@worlds")[-1]
@@ -1140,14 +1147,14 @@ class LineOfCommand
       world = instance_variable_get("@worlds")[-1]
       displays = instance_variable_get("@displays")
       beings = instance_variable_get("@beings")
-      putsl "=====Movement"
+      putsl "=====movement"
       world.operate_over_space(Being_Command_WorldOperator.new, displays, true, beings)
       world.print_map(displays)
-      putsl "-----Magic"
+      putsl "-----magic"
       world.operate_over_space(Magic_WorldOperator.new, displays, true, beings)
-      putsl "-----Ranged attacks"
+      putsl "-----ranged attacks"
       world.operate_over_space(Attack_WorldOperator.new('ranged'), displays, true, beings)
-      putsl "+++++Melee attacks"
+      putsl "+++++melee attacks"
       world.operate_over_space(Attack_WorldOperator.new('melee'), displays, true, beings)
     elsif shortcut_everything?("teams", guess)
       beings = instance_variable_get("@beings")
@@ -1175,7 +1182,7 @@ class LineOfCommand
             else
               putsl  "    ||"
               putsl  "   \ ./"
-              putsl  "  Thing not created"
+              putsl  "  thing not created"
               putsl  "    from #{guess} because"
               putsl  "       no 'name' "
               putsl  "  characteristic defined"
@@ -1183,8 +1190,8 @@ class LineOfCommand
             end
           end
         else
-          putsl ">ERR"
-          putsl "ERR<"
+          putsl ">err"
+          putsl "err<"
         end
        end
     end
