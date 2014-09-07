@@ -30,6 +30,15 @@ To analyze match results:
  ruby match_stats.rb match-team.results
 
 
+To concat a program to another:
+
+ruby program_concat.rb programs/straight_single-north-1-10 programs/wide_wall-north-15-10 programs/currentProgram
+
+To shift a program positions:
+
+ruby program_shift.rb programs/vertical_wall_march_north_3-15-5 programs/currentProgramShifted 5;
+
+
 To clean raw results, run a match many times, analyze results, and output the results to a file:
 
 time ./run_clean_match.sh | tee results/test_1.results
