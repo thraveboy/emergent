@@ -1,4 +1,4 @@
-...Thing standard 1010.world created and initialized
+...Thing standard4020.world created and initialized
  ..
 ...Thing Display for Men and Elves created and initialized
  ..
@@ -128,129 +128,136 @@ Assigning program to being...
 =====movement
 -----magic
 -----ranged attacks
-base_elf(0,0) hit [1mbase_man[0m(0,3) with a ranged attack. 
++++++melee attacks
+=====movement
+-----magic
+-----ranged attacks
++++++melee attacks
+=====movement
+-----magic
+-----ranged attacks
++++++melee attacks
+=====movement
+-----magic
+-----ranged attacks
++++++melee attacks
+=====movement
+-----magic
+-----ranged attacks
++++++melee attacks
+=====movement
+-----magic
+-----ranged attacks
++++++melee attacks
+=====movement
+-----magic
+-----ranged attacks
++++++melee attacks
+=====movement
+-----magic
+-----ranged attacks
++++++melee attacks
+=====movement
+-----magic
+-----ranged attacks
++++++melee attacks
+=====movement
+-----magic
+-----ranged attacks
++++++melee attacks
+=====movement
+-----magic
+-----ranged attacks
+base_elf(15,0) hit [1mbase_man[0m(15,3) with a ranged attack. 
 [37mThe base_elf ranged attack bounces off [1mbase_man[0m..[0m
-base_elf(1,0) hit [1mbase_man[0m(1,3) with a ranged attack. 
+base_elf(16,0) hit [1mbase_man[0m(16,3) with a ranged attack. 
 [37mThe base_elf ranged attack bounces off [1mbase_man[0m..[0m
-base_elf(3,0) hit [1mbase_man[0m(3,3) with a ranged attack. 
-[37mThe base_elf ranged attack bounces off [1mbase_man[0m..[0m
-base_elf(4,0) hit [1mbase_man[0m(4,3) with a ranged attack. 
-[37mThe base_elf ranged attack bounces off [1mbase_man[0m..[0m
-base_elf(5,0) hit [1mbase_man[0m(5,3) with a ranged attack. [33mbase_elf damages [1mbase_man[0m for 1 wounds..[0m
+base_elf(18,0) hit [1mbase_man[0m(18,3) with a ranged attack. [33mbase_elf damages [1mbase_man[0m for 1 wounds..[0m
 [31m[1mbase_man[0m[0m[31m is killed![0m
-base_elf(6,0) hit [1mbase_man[0m(6,3) with a ranged attack. 
+base_elf(19,0) hit [1mbase_man[0m(19,3) with a ranged attack. 
 [37mThe base_elf ranged attack bounces off [1mbase_man[0m..[0m
-base_elf(7,0) hit [1mbase_man[0m(7,3) with a ranged attack. [33mbase_elf damages [1mbase_man[0m for 1 wounds..[0m
+base_elf(21,0) hit [1mbase_man[0m(21,3) with a ranged attack. [33mbase_elf damages [1mbase_man[0m for 1 wounds..[0m
 [31m[1mbase_man[0m[0m[31m is killed![0m
-base_elf(8,0) hit [1mbase_man[0m(8,3) with a ranged attack. 
-[37mThe base_elf ranged attack bounces off [1mbase_man[0m..[0m
-base_elf(9,0) hit [1mbase_man[0m(9,3) with a ranged attack. 
+base_elf(24,0) hit [1mbase_man[0m(24,3) with a ranged attack. 
 [37mThe base_elf ranged attack bounces off [1mbase_man[0m..[0m
 +++++melee attacks
 =====movement
 -----magic
 -----ranged attacks
-base_elf(3,0) hit [1mbase_man[0m(3,2) with a ranged attack. 
+base_elf(15,0) hit [1mbase_man[0m(15,2) with a ranged attack. 
 [37mThe base_elf ranged attack bounces off [1mbase_man[0m..[0m
-base_elf(4,0) hit [1mbase_man[0m(4,2) with a ranged attack. 
+base_elf(16,0) hit [1mbase_man[0m(16,2) with a ranged attack. [33mbase_elf damages [1mbase_man[0m for 2 wounds..[0m
+[31m[1mbase_man[0m[0m[31m is killed![0m
+base_elf(22,0) hit [1mbase_man[0m(22,2) with a ranged attack. 
 [37mThe base_elf ranged attack bounces off [1mbase_man[0m..[0m
-base_elf(6,0) hit [1mbase_man[0m(6,2) with a ranged attack. 
+base_elf(23,0) hit [1mbase_man[0m(23,2) with a ranged attack. 
 [37mThe base_elf ranged attack bounces off [1mbase_man[0m..[0m
-base_elf(8,0) hit [1mbase_man[0m(8,2) with a ranged attack. [33mbase_elf damages [1mbase_man[0m for 2 wounds..[0m
+base_elf(24,0) hit [1mbase_man[0m(24,2) with a ranged attack. [33mbase_elf damages [1mbase_man[0m for 1 wounds..[0m
 [31m[1mbase_man[0m[0m[31m is killed![0m
 +++++melee attacks
 =====movement
 -----magic
 -----ranged attacks
-base_elf(1,0) hit [1mbase_man[0m(1,1) with a ranged attack. [33mbase_elf damages [1mbase_man[0m for 1 wounds..[0m
-[31m[1mbase_man[0m[0m[31m is killed![0m
-base_elf(3,0) hit [1mbase_man[0m(3,1) with a ranged attack. [33mbase_elf damages [1mbase_man[0m for 1 wounds..[0m
-[31m[1mbase_man[0m[0m[31m is killed![0m
-base_elf(4,0) hit [1mbase_man[0m(4,1) with a ranged attack. 
+base_elf(15,0) hit [1mbase_man[0m(15,1) with a ranged attack. 
 [37mThe base_elf ranged attack bounces off [1mbase_man[0m..[0m
-base_elf(9,0) hit [1mbase_man[0m(9,1) with a ranged attack. [33mbase_elf damages [1mbase_man[0m for 1 wounds..[0m
+base_elf(17,0) hit [1mbase_man[0m(17,1) with a ranged attack. [33mbase_elf damages [1mbase_man[0m for 2 wounds..[0m
 [31m[1mbase_man[0m[0m[31m is killed![0m
-[1mbase_man[0m(0,1) hit base_elf(0,0) with a ranged attack. 
+base_elf(22,0) hit [1mbase_man[0m(22,1) with a ranged attack. 
+[37mThe base_elf ranged attack bounces off [1mbase_man[0m..[0m
+[1mbase_man[0m(19,1) hit base_elf(19,0) with a ranged attack. 
 [37mThe [1mbase_man[0m ranged attack bounces off base_elf..[0m
-[1mbase_man[0m(1,1) hit base_elf(1,0) with a ranged attack. [33m[1mbase_man[0m damages base_elf for 2 wounds..[0m
-[31mbase_elf[0m[31m is killed![0m
-[1mbase_man[0m(2,1) hit base_elf(2,0) with a ranged attack. 
+[1mbase_man[0m(20,1) hit base_elf(20,0) with a ranged attack. 
 [37mThe [1mbase_man[0m ranged attack bounces off base_elf..[0m
-[1mbase_man[0m(3,1) hit base_elf(3,0) with a ranged attack. 
+[1mbase_man[0m(23,1) hit base_elf(23,0) with a ranged attack. 
 [37mThe [1mbase_man[0m ranged attack bounces off base_elf..[0m
-[1mbase_man[0m(4,1) hit base_elf(4,0) with a ranged attack. [33m[1mbase_man[0m damages base_elf for 2 wounds..[0m
-[31mbase_elf[0m[31m is killed![0m
-[1mbase_man[0m(6,1) hit base_elf(6,0) with a ranged attack. 
-[37mThe [1mbase_man[0m ranged attack bounces off base_elf..[0m
-[1mbase_man[0m(9,1) hit base_elf(9,0) with a ranged attack. [33m[1mbase_man[0m damages base_elf for 1 wounds..[0m
-[31mbase_elf[0m[31m is killed![0m
 +++++melee attacks
-base_elf(2,0) hit [1mbase_man[0m(2,1) with a melee attack. 
+base_elf(15,0) hit [1mbase_man[0m(15,1) with a melee attack. 
 [37mThe base_elf melee attack bounces off [1mbase_man[0m..[0m
-base_elf(3,0) hit [1mbase_man[0m(2,1) with a melee attack. [33mbase_elf damages [1mbase_man[0m for 1 wounds..[0m
+base_elf(16,0) hit [1mbase_man[0m(15,1) with a melee attack. 
+[37mThe base_elf melee attack bounces off [1mbase_man[0m..[0m
+base_elf(18,0) hit [1mbase_man[0m(19,1) with a melee attack. [33mbase_elf damages [1mbase_man[0m for 2 wounds..[0m
 [31m[1mbase_man[0m[0m[31m is killed![0m
-base_elf(3,0) hit [1mbase_man[0m(4,1) with a melee attack. 
+base_elf(19,0) hit [1mbase_man[0m(19,1) with a melee attack. 
 [37mThe base_elf melee attack bounces off [1mbase_man[0m..[0m
-base_elf(5,0) hit [1mbase_man[0m(6,1) with a melee attack. 
+base_elf(20,0) hit [1mbase_man[0m(19,1) with a melee attack. 
 [37mThe base_elf melee attack bounces off [1mbase_man[0m..[0m
-[1mbase_man[0m(0,1) hit base_elf(0,0) with a melee attack. 
+base_elf(21,0) hit [1mbase_man[0m(20,1) with a melee attack. 
+[37mThe base_elf melee attack bounces off [1mbase_man[0m..[0m
+base_elf(21,0) hit [1mbase_man[0m(22,1) with a melee attack. 
+[37mThe base_elf melee attack bounces off [1mbase_man[0m..[0m
+base_elf(22,0) hit [1mbase_man[0m(22,1) with a melee attack. 
+[37mThe base_elf melee attack bounces off [1mbase_man[0m..[0m
+base_elf(22,0) hit [1mbase_man[0m(23,1) with a melee attack. [33mbase_elf damages [1mbase_man[0m for 1 wounds..[0m
+[31m[1mbase_man[0m[0m[31m is killed![0m
+base_elf(24,0) hit [1mbase_man[0m(23,1) with a melee attack. 
+[37mThe base_elf melee attack bounces off [1mbase_man[0m..[0m
+[1mbase_man[0m(15,1) hit base_elf(15,0) with a melee attack. [33m[1mbase_man[0m damages base_elf for 2 wounds..[0m
+[31mbase_elf[0m[31m is killed![0m
+[1mbase_man[0m(22,1) hit base_elf(21,0) with a melee attack. 
 [37mThe [1mbase_man[0m melee attack bounces off base_elf..[0m
-[1mbase_man[0m(2,1) hit base_elf(2,0) with a melee attack. [33m[1mbase_man[0m damages base_elf for 2 wounds..[0m
-[31mbase_elf[0m[31m is killed![0m
-[1mbase_man[0m(2,1) hit base_elf(3,0) with a melee attack. [33m[1mbase_man[0m damages base_elf for 3 wounds..[0m
-[31mbase_elf[0m[31m is killed![0m
-[1mbase_man[0m(4,1) hit base_elf(5,0) with a melee attack. [33m[1mbase_man[0m damages base_elf for 3 wounds..[0m
-[31mbase_elf[0m[31m is killed![0m
-[1mbase_man[0m(6,1) hit base_elf(5,0) with a melee attack. [33m[1mbase_man[0m damages base_elf for 2 wounds..[0m
-[1mbase_man[0m(6,1) hit base_elf(6,0) with a melee attack. [33m[1mbase_man[0m damages base_elf for 1 wounds..[0m
-[31mbase_elf[0m[31m is killed![0m
-[1mbase_man[0m(6,1) hit base_elf(7,0) with a melee attack. [33m[1mbase_man[0m damages base_elf for 2 wounds..[0m
+[1mbase_man[0m(23,1) hit base_elf(23,0) with a melee attack. [33m[1mbase_man[0m damages base_elf for 3 wounds..[0m
 [31mbase_elf[0m[31m is killed![0m
 =====movement
 -----magic
 -----ranged attacks
-+++++melee attacks
-base_elf(0,0) hit [1mbase_man[0m(0,1) with a melee attack. 
-[37mThe base_elf melee attack bounces off [1mbase_man[0m..[0m
-=====movement
------magic
------ranged attacks
-base_elf(0,0) hit [1mbase_man[0m(0,1) with a ranged attack. 
+base_elf(20,0) hit [1mbase_man[0m(20,1) with a ranged attack. [33mbase_elf damages [1mbase_man[0m for 1 wounds..[0m
+[31m[1mbase_man[0m[0m[31m is killed![0m
+base_elf(22,0) hit [1mbase_man[0m(22,1) with a ranged attack. 
 [37mThe base_elf ranged attack bounces off [1mbase_man[0m..[0m
-[1mbase_man[0m(0,1) hit base_elf(0,0) with a ranged attack. 
-[37mThe [1mbase_man[0m ranged attack bounces off base_elf..[0m
-+++++melee attacks
-base_elf(0,0) hit [1mbase_man[0m(0,1) with a melee attack. 
-[37mThe base_elf melee attack bounces off [1mbase_man[0m..[0m
-=====movement
------magic
------ranged attacks
-[1mbase_man[0m(0,1) hit base_elf(0,0) with a ranged attack. 
-[37mThe [1mbase_man[0m ranged attack bounces off base_elf..[0m
-+++++melee attacks
-=====movement
------magic
------ranged attacks
-+++++melee attacks
-base_elf(0,0) hit [1mbase_man[0m(0,1) with a melee attack. 
-[37mThe base_elf melee attack bounces off [1mbase_man[0m..[0m
-=====movement
------magic
------ranged attacks
-[1mbase_man[0m(0,1) hit base_elf(0,0) with a ranged attack. 
-[37mThe [1mbase_man[0m ranged attack bounces off base_elf..[0m
-+++++melee attacks
-base_elf(0,0) hit [1mbase_man[0m(0,1) with a melee attack. 
-[37mThe base_elf melee attack bounces off [1mbase_man[0m..[0m
-=====movement
------magic
------ranged attacks
-base_elf(0,0) hit [1mbase_man[0m(0,1) with a ranged attack. 
-[37mThe base_elf ranged attack bounces off [1mbase_man[0m..[0m
-[1mbase_man[0m(0,1) hit base_elf(0,0) with a ranged attack. [33m[1mbase_man[0m damages base_elf for 1 wounds..[0m
+[1mbase_man[0m(20,1) hit base_elf(20,0) with a ranged attack. [33m[1mbase_man[0m damages base_elf for 1 wounds..[0m
+[31mbase_elf[0m[31m is killed![0m
+[1mbase_man[0m(22,1) hit base_elf(22,0) with a ranged attack. [33m[1mbase_man[0m damages base_elf for 1 wounds..[0m
 [31mbase_elf[0m[31m is killed![0m
 +++++melee attacks
+base_elf(16,0) hit [1mbase_man[0m(15,0) with a melee attack. 
+[37mThe base_elf melee attack bounces off [1mbase_man[0m..[0m
+[1mbase_man[0m(22,1) hit base_elf(21,0) with a melee attack. [33m[1mbase_man[0m damages base_elf for 3 wounds..[0m
+[31mbase_elf[0m[31m is killed![0m
 =====movement
 -----magic
 -----ranged attacks
 +++++melee attacks
+[1mbase_man[0m(15,0) hit base_elf(16,0) with a melee attack. [33m[1mbase_man[0m damages base_elf for 3 wounds..[0m
+[31mbase_elf[0m[31m is killed![0m
+base_elf(16,0) hit [1mbase_man[0m(15,0) with a melee attack. 
+[37mThe base_elf melee attack bounces off [1mbase_man[0m..[0m

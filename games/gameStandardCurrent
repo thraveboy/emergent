@@ -1,5 +1,5 @@
-worlds/currentWorld
-displays/currentDisplay
+worlds/currentWorld.world
+displays/currentDisplay.display
 units/current_team_1/position-1.being
 programs/current_team_1_programs/position-1.program
 assign
