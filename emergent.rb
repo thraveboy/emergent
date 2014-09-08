@@ -5,7 +5,7 @@ VERBOSE_MACHINE = FALSE
 CLEAR_SCREEN = FALSE
 CLEAR_SCREEN_MAP_LOG = TRUE
 CLEAR_SCREAN_TEAM_LOG = TRUE
-STEP_COMMAND_PAUSE_LENGTH = 0
+STEP_COMMAND_PAUSE_LENGTH = 0.01
 PAUSE_LENGTH = 0
 IMPORTANT_MULTIPLIER = 2
 SEED = 0
@@ -917,10 +917,10 @@ class Attack_WorldOperator
                       if (removed_wounds > 0)
                         wound_string = return_string.concat(yellow("#{attacking_being_name} damages #{def_being_name} for #{removed_wounds} wounds.."))
                         damage_result =
-                          "putsl '#{wound_string}'; damaged_being = self.remove('Being', #{loop_x}, #{loop_y}); if (!damaged_being.nil?) then damaged_being.wounds = damaged_being.wounds.to_i - #{removed_wounds}; if (damaged_being.wounds.to_i > 0) then self.add(damaged_being, #{loop_x}, #{loop_y}) else damaged_being_name = (damaged_being.team.to_i == 1 ? bold(damaged_being.name) : damaged_being.name); printl red(damaged_being_name); putsl red(' is killed!'); end; important_pause; end;"
+                          "putsl '#{wound_string}'; damaged_being = self.remove('Being', #{loop_x}, #{loop_y}); if (!damaged_being.nil?) then damaged_being.wounds = damaged_being.wounds.to_i - #{removed_wounds}; if (damaged_being.wounds.to_i > 0) then self.add(damaged_being, #{loop_x}, #{loop_y}) else damaged_being_name = (damaged_being.team.to_i == 1 ? bold(damaged_being.name) : damaged_being.name); printl red(damaged_being_name); printl '(#{loop_x},#{loop_y})'; putsl red(' is killed!'); end; important_pause; end;"
                         result.push(damage_result)
                       else
-                        bounce_string = "The #{attacking_being_name} #{@type} attack bounces off #{def_being_name}.."
+                        bounce_string = "The #{attacking_being_name} #{@type} attack bounces off #{def_being_name}(#{loop_x},#{loop_y}).."
                         bounce_result = "putsl '#{return_string}'; putsl white('#{bounce_string}'); important_pause";
                         result.push(bounce_result)
                       end

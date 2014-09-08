@@ -13,6 +13,14 @@ do
     echo -n "Games Run: "; echo $gamesrun
     ruby match_stats.rb match-team.results
   fi
+  let popafive=currentiteration%5
+  if [ $popafive -eq 0 ] ;
+   then
+     echo -n "+"
+   else
+     echo -n "."
+  fi
+
   cat games/move-15 games/move-15 games/move-15-quit | ruby emergent.rb games/currentGame > /dev/null;
   let gamesrun=gamesrun+1
   let currentiteration=currentiteration+1
