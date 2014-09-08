@@ -1,5 +1,6 @@
 require "readline"
 
+DUMP_LOGS = TRUE
 VERBOSE_MACHINE = FALSE
 CLEAR_SCREEN = FALSE
 CLEAR_SCREEN_MAP_LOG = TRUE
@@ -28,19 +29,23 @@ $battle_log.sync = true
 $team_log.sync = true
 
 def printl (text, log_file = "battle")
-  print text
-  if log_file == "battle"
-    $battle_log.write text
-  elsif log_file == "team"
-    $team_log.write text
-  else
-    $map_log.write text
+  if DUMP_LOGS
+    print text
+    if log_file == "battle"
+      $battle_log.write text
+    elsif log_file == "team"
+     $team_log.write text
+    else
+      $map_log.write text
+    end
   end
 end
 
 def putsl (text, log_file = "battle")
-  text_with_newline = text.dup.concat("\n")
-  printl(text_with_newline, log_file)
+  if DUMP_LOGS
+    text_with_newline = text.dup.concat("\n")
+    printl(text_with_newline, log_file)
+  end
 end
 
 $buffable_stats = ['armor', 'ballistic_skill', 'ballistic_range', 'ballistic_damage',
@@ -113,12 +118,14 @@ def bold(text); colorize(text, 1); end
 def blink(text); colorize(text, 5); end
 
 def clear_screen(log = "")
-  if (log == "map")
-    $map_log.write("\e[2J\n")
-  elsif (log == "team")
-    $team_log.write("\e[2J\n")
-  else
-    print "\e[2J"
+  if DUMP_LOGS
+    if (log == "map")
+      $map_log.write("\e[2J\n")
+    elsif (log == "team")
+      $team_log.write("\e[2J\n")
+    else
+      print "\e[2J"
+    end
   end
 end
 
@@ -980,7 +987,7 @@ class Command
           when 'e'
             command_type = 'w'
           when 'w'
-            commant_type = 'e'
+            command_type = 'e'
           end
           returned_command["command"] = command_type
         end

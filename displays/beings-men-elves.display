@@ -1,6 +1,6 @@
 name Display for Men and Elves
 base_dark_elf d
-base_man b
+base_man m
 dark_elf_quick_flight f
 dark_elf_deranger d
 dark_elf_ranger_clad r
