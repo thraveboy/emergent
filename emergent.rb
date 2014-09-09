@@ -5,9 +5,9 @@ VERBOSE_MACHINE = FALSE
 CLEAR_SCREEN = FALSE
 CLEAR_SCREEN_MAP_LOG = TRUE
 CLEAR_SCREAN_TEAM_LOG = TRUE
-STEP_COMMAND_PAUSE_LENGTH = 0.01
+STEP_COMMAND_PAUSE_LENGTH = 0.001
 PAUSE_LENGTH = 0
-IMPORTANT_MULTIPLIER = 2
+IMPORTANT_MULTIPLIER = 500
 SEED = 0
 TOTAL_MUTATIONS = 20
 MUTATION_MULTIPLIER = 3
@@ -117,10 +117,15 @@ def white_bg(text); colorize(text, 47); end
 def bold(text); colorize(text, 1); end
 def blink(text); colorize(text, 5); end
 
-def clear_screen(log = "")
+def clear_screen(log = "", full_wipe = false)
   if DUMP_LOGS
     if (log == "map")
-      $map_log.write("\e[2J\n")
+      if full_wipe
+        $team_log.write("\e[2J\n")
+      else
+        # go to top left corner instead of clear
+        $map_log.write("\e[2H")
+      end
     elsif (log == "team")
       $team_log.write("\e[2J\n")
     else
