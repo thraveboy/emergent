@@ -23,6 +23,7 @@ $battle_log = File.new(BATTLE_LOG_FILE, 'w')
 $team_log = File.new(TEAM_LOG_FILE, 'w')
 
 $team_number = 1
+$objective_multiplier = 10
 
 # Set sync = true so that writing to the display log files
 # happens immediately (is not cached and stalled).
@@ -233,6 +234,7 @@ class Being < Thing
   attr_accessor :points
   attr_accessor :program
   attr_accessor :team
+  attr_accessor :objective_points
 
   def print_this_baby_out(omitted_variables = [], display = [])
     being_omit = ['initialized', 'filename']
@@ -246,6 +248,7 @@ class Being < Thing
     @points = 1
     @program = ''
     @team = $team_number
+    @objective_points = 0
     super(filename)
     $buffable_stats.each do |buffable_stat|
       metaclass.instance_eval do
@@ -262,8 +265,12 @@ class Being < Thing
     self.apply_mutation
   end
 
+  def get_points_including_objectives
+    return @points + (@objective_points * $objective_multiplier)
+  end
+
   def get_brief_stats
-    current_points = @points
+    current_points = get_points_including_objectives
     return_string = "#{current_points} Points -#{self.name}: wounds: #{self.wounds}"
   end
 
@@ -421,6 +428,38 @@ class World < Thing
     return nil
   end
 
+  def objective_location?(world_location_symbol)
+    if world_location_symbol.nil?
+      return false
+    end
+    if !@objectives.nil? && @objectives.include?(world_location_symbol)
+      return true
+    end
+    return false
+  end
+
+  def blocked_location?(world_location_symbol)
+    if world_location_symbol.nil?
+      return false
+    end
+    if !@blocks.nil? && @blocks.include?(world_location_symbol)
+      return true
+    end
+    return false
+  end
+
+  def colorize_location(world_location_to_print)
+    if world_location_to_print.nil?
+      return world_location_to_print
+    end
+    if blocked_location?(world_location_to_print)
+      return blue(world_location_to_print)
+    elsif objective_location?(world_location_to_print)
+      return bold(magneta(world_location_to_print))
+    end
+    return world_location_to_print
+  end
+
   def print_map(displays = [])
     if CLEAR_SCREEN_MAP_LOG
       clear_screen("map")
@@ -447,18 +486,18 @@ class World < Thing
               else
                 what_to_print = white(display_value)
               end
+              if initial_location_strings != nil && initial_location_strings[0] != nil
+                if objective_location?(initial_location_strings[0])
+                  what_to_print = cyan_bg(what_to_print)
+                end
+              end
             end
           end
           printl("#{what_to_print}", "map")
         else
-          if initial_location_strings != nil
-            if initial_location_strings[0] != nil
-              world_location_to_print = initial_location_strings[0]
-              if @blocks.include?(world_location_to_print)
-                world_location_to_print = blue(world_location_to_print)
-              end
+          if initial_location_strings != nil && initial_location_strings[0] != nil
+              world_location_to_print = colorize_location(initial_location_strings[0])
               printl(world_location_to_print, "map")
-            end
           end
         end
       end
@@ -480,7 +519,7 @@ class World < Thing
               result_queue.push(result_to_push)
             else
               eval result_to_push
-              output_team_stats(beings)
+              output_team_stats(beings, self)
               self.print_map(displays)
             end
           end
@@ -496,7 +535,7 @@ class World < Thing
           clear_screen
          end
          eval queue_action
-         output_team_stats(beings)
+         output_team_stats(beings, self)
          self.print_map(displays)
          do_important_pauses
       end
@@ -647,10 +686,12 @@ class Mutate_Beings_BeingOperator < Thing
 end
 
 class TeamStats_BeingOperator < Thing
-  def execute(beings, output_to_file = false)
+  def execute(beings, world, output_to_file = false)
     team_stats = Hash.new
     team_1_points = 0
     team_others_points = 0
+    world.operate_over_space(ObjectivePointAssignBeings_WorldOperator.new)
+
     beings.each do |current_being|
       if !current_being.nil?
         current_team = current_being.team.to_i
@@ -662,9 +703,9 @@ class TeamStats_BeingOperator < Thing
             if current_wounds.to_i > 0
               current_being_team_stats = white(current_being_team_stats)
               if current_team == 1
-                team_1_points += current_being_points
+                team_1_points += current_being.get_points_including_objectives
               else
-                team_others_points += current_being_points
+                team_others_points += current_being.get_points_including_objectives
               end
             else
               current_being_team_stats = red(current_being_team_stats)
@@ -678,10 +719,14 @@ class TeamStats_BeingOperator < Thing
           if team_stats["#{current_team}"].nil?
             team_stats["#{current_team}"] = ''
           end
+          if current_being.objective_points.to_i > 0
+            current_being_team_stats = blue_bg(current_being_team_stats)
+          end
           team_stats["#{current_team}"].concat("\n#{current_being_team_stats}")
         end
       end
     end
+
     team_stats["1 Points"] = team_1_points
     team_stats["2 Points"] = team_others_points
     if output_to_file
@@ -824,6 +869,27 @@ class Magic_WorldOperator
     return result
   end
 
+end
+
+class ObjectivePointAssignBeings_WorldOperator
+
+  def execute(world, x, y)
+    result = []
+    location_beings = world.get('being', x, y)
+    if (location_beings != nil) && (location_beings != [])
+      result = []
+      current_being = location_beings.pop
+      current_location_string = world.get('string', x, y)
+      current_being.objective_points = 0
+      if !current_location_string.nil? && !current_location_string[0].nil?
+        if world.objective_location?(current_location_string[0])
+          current_being.objective_points = 1
+        end
+      end
+      location_beings.push(current_being)
+    end
+    return result
+  end
 end
 
 class Attack_WorldOperator
@@ -1086,8 +1152,8 @@ rescue NameError
   return false
 end
 
-def output_team_stats(beings, output_to_file=false)
-  team_results = TeamStats_BeingOperator.new.execute(beings, output_to_file)
+def output_team_stats(beings, world, output_to_file=false)
+  team_results = TeamStats_BeingOperator.new.execute(beings, world, output_to_file)
   clear_screen("team")
   team_results.each do |key, value|
     putsl("Team #{key}: #{value}", "team")
@@ -1125,22 +1191,21 @@ class LineOfCommand
 
   def self.evaluate_command(guess)
     guess.strip!
+    beings = instance_variable_get("@beings")
+    programs = instance_variable_get("@programs")
+    displays = instance_variable_get("@displays")
+    world = instance_variable_get("@worlds")[-1]
     if (shortcut_everything?("exit", guess) ||
       shortcut_everything?("quit", guess))
-      beings = instance_variable_get("@beings")
-      if !beings.nil?
-        output_team_stats(beings, true)
+      if !beings.nil? && !world.nil?
+        output_team_stats(beings, world, true)
       end
       exit
     elsif shortcut_everything?("assign", guess)
       putsl "Assigning program to being..."
-      beings = instance_variable_get("@beings")
-      programs = instance_variable_get("@programs")
       program_beings = Assign_Program_BeingOperator.new
       program_beings.execute(beings, programs)
     elsif shortcut_everything?("dump", guess)
-      beings = instance_variable_get("@beings")
-      displays = instance_variable_get("@displays")
       putsl "Dumping living mutations.."
       team_results = DumpMutations_BeingOperator.new.execute(beings)
     elsif shortcut_everything?("increment", guess)
@@ -1152,22 +1217,15 @@ class LineOfCommand
       putsl directory_string
       putsl "***Have flowed***"
     elsif shortcut_everything?("mutate", guess)
-      beings = instance_variable_get("@beings")
-      world = instance_variable_get("@worlds")[-1]
       mutate_beings = Mutate_Beings_BeingOperator.new
       mutate_beings.execute(beings, world)
     elsif shortcut_everything?("nologs", guess)
       $dump_logs = FALSE
       puts "dumped"
     elsif shortcut_everything?("populate", guess)
-      beings = instance_variable_get("@beings")
-      world = instance_variable_get("@worlds")[-1]
       populate_beings = Populate_Beings_BeingOperator.new
       populate_beings.execute(beings, world)
     elsif shortcut_everything?("step", guess)
-      world = instance_variable_get("@worlds")[-1]
-      displays = instance_variable_get("@displays")
-      beings = instance_variable_get("@beings")
       putsl "=====movement"
       world.operate_over_space(Being_Command_WorldOperator.new, displays, true, beings)
       world.print_map(displays)
@@ -1178,13 +1236,11 @@ class LineOfCommand
       putsl "+++++melee attacks"
       world.operate_over_space(Attack_WorldOperator.new('melee'), displays, true, beings)
     elsif shortcut_everything?("teams", guess)
-      beings = instance_variable_get("@beings")
-      output_team_stats(beings)
+      output_team_stats(beings, world)
     elsif self.is_list_objects_command?(@types, guess)
       list_type = self.get_list_type(@types, guess)
       if !list_type.nil?
         type_objs = instance_variable_get("@#{list_type}s")
-        displays = instance_variable_get("@displays")
         print_things_list(list_type, type_objs, displays)
       end
     else
