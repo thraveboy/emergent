@@ -21,7 +21,7 @@ do
      echo -n "."
   fi
 
-  cat games/move-15 games/move-15 games/move-15-quit | ruby emergent.rb games/currentGame > /dev/null;
+  cat display_logs_off  games/move-15 games/move-15 games/move-15-quit | ruby emergent.rb games/currentGame > /dev/null;
   let gamesrun=gamesrun+1
   let currentiteration=currentiteration+1
 done

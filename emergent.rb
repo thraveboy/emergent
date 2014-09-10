@@ -1,13 +1,13 @@
 require "readline"
 
-DUMP_LOGS = TRUE
-VERBOSE_MACHINE = FALSE
+STEP_COMMAND_PAUSE_LENGTH = 0
+IMPORTANT_MULTIPLIER = 1
+PAUSE_LENGTH = 0
+
 CLEAR_SCREEN = FALSE
 CLEAR_SCREEN_MAP_LOG = TRUE
 CLEAR_SCREAN_TEAM_LOG = TRUE
-STEP_COMMAND_PAUSE_LENGTH = 0.001
-PAUSE_LENGTH = 0
-IMPORTANT_MULTIPLIER = 500
+
 SEED = 0
 TOTAL_MUTATIONS = 20
 MUTATION_MULTIPLIER = 3
@@ -15,6 +15,8 @@ MUTATION_MULTIPLIER = 3
 MAP_LOG_FILE = "display_logs/map_log"
 TEAM_LOG_FILE = "display_logs/team_log"
 BATTLE_LOG_FILE = "display_logs/battle_log"
+
+$dump_logs = TRUE
 
 $map_log = File.new(MAP_LOG_FILE, 'w')
 $battle_log = File.new(BATTLE_LOG_FILE, 'w')
@@ -29,7 +31,7 @@ $battle_log.sync = true
 $team_log.sync = true
 
 def printl (text, log_file = "battle")
-  if DUMP_LOGS
+  if $dump_logs
     print text
     if log_file == "battle"
       $battle_log.write text
@@ -42,7 +44,7 @@ def printl (text, log_file = "battle")
 end
 
 def putsl (text, log_file = "battle")
-  if DUMP_LOGS
+  if $dump_logs
     text_with_newline = text.dup.concat("\n")
     printl(text_with_newline, log_file)
   end
@@ -87,12 +89,6 @@ else
   $randomizer = Random.new
 end
 
-def verbose_machine(what_to_say)
-  if VERBOSE_MACHINE
-    puts what_to_say
-  end
-end
-
 # Colored Output
 def colorize(text, color_code)
   "\e[#{color_code}m#{text}\e[0m"
@@ -118,7 +114,7 @@ def bold(text); colorize(text, 1); end
 def blink(text); colorize(text, 5); end
 
 def clear_screen(log = "", full_wipe = false)
-  if DUMP_LOGS
+  if $dump_logs
     if (log == "map")
       if full_wipe
         $team_log.write("\e[2J\n")
@@ -164,10 +160,8 @@ class Thing
     value = split_line[1]
     self.class.send(:attr_accessor, key)
     instance_variable_set("@#{key}", value)
-    Object.send(:verbose_machine, "@#{key}")
   rescue
-    Object.send(:verbose_machine,
-      "Can not add characteristic from line #{characteristic_line}")
+    puts red("Can not add characteristic from line #{characteristic_line}")
   end
 
   def initialize(filename = nil)
@@ -175,7 +169,6 @@ class Thing
       @initialized = true
       return
     end
-    Object.send(:verbose_machine, "Building Thing from " + filename)
     if File.exists?(filename)
       File.read(filename).each_line do |line|
         if !line.nil?
@@ -192,7 +185,6 @@ class Thing
   end
 
   def method_missing(m, *args, &block)
-    Object.send(:verbose_machine, "Method #{m} isn't defined.")
     return nil
   end
 
@@ -461,7 +453,11 @@ class World < Thing
         else
           if initial_location_strings != nil
             if initial_location_strings[0] != nil
-              printl(initial_location_strings[0], "map")
+              world_location_to_print = initial_location_strings[0]
+              if @blocks.include?(world_location_to_print)
+                world_location_to_print = blue(world_location_to_print)
+              end
+              printl(world_location_to_print, "map")
             end
           end
         end
@@ -1018,7 +1014,6 @@ class Command
     command_type = current_command["command"].downcase
     obj.instance_variable_set("@facing", command_type)
     command_args = current_command["args"]
-    verbose_machine("#{obj.name} #{command_type} #{command_args}")
     if command_type != ''
       x_move_dir = 0
       y_move_dir = 0
@@ -1137,10 +1132,6 @@ class LineOfCommand
         output_team_stats(beings, true)
       end
       exit
-    elsif shortcut_everything?("list", guess)
-      putsl "The Definitions and flows....."
-      putsl Dir["*"]
-      putsl "***Have flowed***"
     elsif shortcut_everything?("assign", guess)
       putsl "Assigning program to being..."
       beings = instance_variable_get("@beings")
@@ -1155,11 +1146,19 @@ class LineOfCommand
     elsif shortcut_everything?("increment", guess)
       $team_number += 1
       putsl "incrementing team number. new beings will now be on team #{$team_number}."
+    elsif shortcut_everything?("list", guess)
+      putsl "The Definitions and flows....."
+      directory_string = Dir["*"].join("'\n'")
+      putsl directory_string
+      putsl "***Have flowed***"
     elsif shortcut_everything?("mutate", guess)
       beings = instance_variable_get("@beings")
       world = instance_variable_get("@worlds")[-1]
       mutate_beings = Mutate_Beings_BeingOperator.new
       mutate_beings.execute(beings, world)
+    elsif shortcut_everything?("nologs", guess)
+      $dump_logs = FALSE
+      puts "dumped"
     elsif shortcut_everything?("populate", guess)
       beings = instance_variable_get("@beings")
       world = instance_variable_get("@worlds")[-1]
@@ -1194,11 +1193,9 @@ class LineOfCommand
         type = filename_ext[1..-1].capitalize
         if @types.include?(type.downcase)
           thing = Object.const_get("#{type}").new(guess)
-          Object.send(:verbose_machine, thing.instance_variables)
           if (thing.initialized == true)
             if (defined? thing.name)
               putsl "...Thing #{thing.name} created and initialized"
-              Object.send(:verbose_machine, thing.instance_variables)
               putsl " .."
               instance_variable_get("@#{filename_ext[1..-1]}s").push(thing)
             else
