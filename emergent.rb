@@ -388,6 +388,16 @@ class World < Thing
   def can_add?(what_to_add, x, y)
     unless (@space[y].nil? || y >= @space.size ||
             @space[y][x].nil? || x >= @space[y].size)
+      if !@blocks.nil?
+        initial_location_strings = @space[y][x].get_objects_of_type(String)
+        if initial_location_strings != nil
+          if initial_location_strings[0] != nil
+            if @blocks.include?(initial_location_strings[0])
+              return false
+            end
+          end
+        end
+      end
       return @space[y][x].can_add?(what_to_add)
     end
     return false

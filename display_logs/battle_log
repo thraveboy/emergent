@@ -219,67 +219,47 @@ Assigning program to being...
 -----magic
 -----ranged attacks
 +++++melee attacks
-base_dark_elf(7,10) hit [1mbase_man[0m(6,11) with a melee attack. [33mbase_dark_elf damages [1mbase_man[0m for 2 wounds..[0m
-[31m[1mbase_man[0m[0m(6,11)[31m is killed![0m
-base_dark_elf(20,10) hit [1mbase_man[0m(19,11) with a melee attack. [33mbase_dark_elf damages [1mbase_man[0m for 2 wounds..[0m
-[31m[1mbase_man[0m[0m(19,11)[31m is killed![0m
-[1mbase_man[0m(6,11) hit base_dark_elf(7,10) with a melee attack. [33m[1mbase_man[0m damages base_dark_elf for 2 wounds..[0m
+base_dark_elf(7,10) hit [1mbase_man[0m(6,11) with a melee attack. 
+[37mThe base_dark_elf melee attack bounces off [1mbase_man[0m(6,11)..[0m
+base_dark_elf(20,10) hit [1mbase_man[0m(19,11) with a melee attack. 
+[37mThe base_dark_elf melee attack bounces off [1mbase_man[0m(19,11)..[0m
+base_dark_elf(31,10) hit [1mbase_man[0m(32,11) with a melee attack. 
+[37mThe base_dark_elf melee attack bounces off [1mbase_man[0m(32,11)..[0m
+[1mbase_man[0m(6,11) hit base_dark_elf(7,10) with a melee attack. [33m[1mbase_man[0m damages base_dark_elf for 3 wounds..[0m
 [31mbase_dark_elf[0m(7,10)[31m is killed![0m
-[1mbase_man[0m(19,11) hit base_dark_elf(18,10) with a melee attack. 
-[37mThe [1mbase_man[0m melee attack bounces off base_dark_elf(18,10)..[0m
-[1mbase_man[0m(19,11) hit base_dark_elf(20,10) with a melee attack. [33m[1mbase_man[0m damages base_dark_elf for 1 wounds..[0m
-[31mbase_dark_elf[0m(20,10)[31m is killed![0m
-[1mbase_man[0m(32,11) hit base_dark_elf(31,10) with a melee attack. [33m[1mbase_man[0m damages base_dark_elf for 1 wounds..[0m
-[31mbase_dark_elf[0m(31,10)[31m is killed![0m
-[1mbase_man[0m(32,11) hit base_dark_elf(33,10) with a melee attack. [33m[1mbase_man[0m damages base_dark_elf for 1 wounds..[0m
+[1mbase_man[0m(32,11) hit base_dark_elf(33,10) with a melee attack. [33m[1mbase_man[0m damages base_dark_elf for 2 wounds..[0m
 [31mbase_dark_elf[0m(33,10)[31m is killed![0m
 =====movement
 -----magic
 -----ranged attacks
-base_dark_elf(17,11) hit [1mbase_man[0m(17,12) with a ranged attack. [33mbase_dark_elf damages [1mbase_man[0m for 3 wounds..[0m
-[31m[1mbase_man[0m[0m(17,12)[31m is killed![0m
+base_dark_elf(17,11) hit [1mbase_man[0m(17,12) with a ranged attack. 
+[37mThe base_dark_elf ranged attack bounces off [1mbase_man[0m(17,12)..[0m
+base_dark_elf(20,11) hit [1mbase_man[0m(20,12) with a ranged attack. [33mbase_dark_elf damages [1mbase_man[0m for 1 wounds..[0m
+[31m[1mbase_man[0m[0m(20,12)[31m is killed![0m
+base_dark_elf(31,11) hit [1mbase_man[0m(31,12) with a ranged attack. [33mbase_dark_elf damages [1mbase_man[0m for 1 wounds..[0m
+[31m[1mbase_man[0m[0m(31,12)[31m is killed![0m
 [1mbase_man[0m(18,12) hit base_dark_elf(18,11) with a ranged attack. [33m[1mbase_man[0m damages base_dark_elf for 2 wounds..[0m
 [31mbase_dark_elf[0m(18,11)[31m is killed![0m
+[1mbase_man[0m(20,12) hit base_dark_elf(20,11) with a ranged attack. [33m[1mbase_man[0m damages base_dark_elf for 1 wounds..[0m
+[31mbase_dark_elf[0m(20,11)[31m is killed![0m
+[1mbase_man[0m(31,12) hit base_dark_elf(31,11) with a ranged attack. 
+[37mThe [1mbase_man[0m ranged attack bounces off base_dark_elf(31,11)..[0m
 +++++melee attacks
-base_dark_elf(22,11) hit [1mbase_man[0m(21,12) with a melee attack. [33mbase_dark_elf damages [1mbase_man[0m for 2 wounds..[0m
-[31m[1mbase_man[0m[0m(21,12)[31m is killed![0m
-base_dark_elf(29,11) hit [1mbase_man[0m(30,12) with a melee attack. 
-[37mThe base_dark_elf melee attack bounces off [1mbase_man[0m(30,12)..[0m
-[1mbase_man[0m(8,12) hit base_dark_elf(9,11) with a melee attack. [33m[1mbase_man[0m damages base_dark_elf for 2 wounds..[0m
+[1mbase_man[0m(32,10) hit base_dark_elf(31,11) with a melee attack. 
+[37mThe [1mbase_man[0m melee attack bounces off base_dark_elf(31,11)..[0m
+base_dark_elf(9,11) hit [1mbase_man[0m(8,12) with a melee attack. 
+[37mThe base_dark_elf melee attack bounces off [1mbase_man[0m(8,12)..[0m
+base_dark_elf(17,11) hit [1mbase_man[0m(17,12) with a melee attack. 
+[37mThe base_dark_elf melee attack bounces off [1mbase_man[0m(17,12)..[0m
+base_dark_elf(17,11) hit [1mbase_man[0m(18,12) with a melee attack. 
+[37mThe base_dark_elf melee attack bounces off [1mbase_man[0m(18,12)..[0m
+base_dark_elf(29,11) hit [1mbase_man[0m(30,12) with a melee attack. [33mbase_dark_elf damages [1mbase_man[0m for 1 wounds..[0m
+[31m[1mbase_man[0m[0m(30,12)[31m is killed![0m
+[1mbase_man[0m(8,12) hit base_dark_elf(9,11) with a melee attack. [33m[1mbase_man[0m damages base_dark_elf for 3 wounds..[0m
 [31mbase_dark_elf[0m(9,11)[31m is killed![0m
-[1mbase_man[0m(21,12) hit base_dark_elf(22,11) with a melee attack. [33m[1mbase_man[0m damages base_dark_elf for 1 wounds..[0m
-[31mbase_dark_elf[0m(22,11)[31m is killed![0m
-[1mbase_man[0m(30,12) hit base_dark_elf(29,11) with a melee attack. [33m[1mbase_man[0m damages base_dark_elf for 2 wounds..[0m
-[31mbase_dark_elf[0m(29,11)[31m is killed![0m
-=====movement
------magic
------ranged attacks
-+++++melee attacks
-=====movement
------magic
------ranged attacks
-+++++melee attacks
-=====movement
------magic
------ranged attacks
-+++++melee attacks
-=====movement
------magic
------ranged attacks
-+++++melee attacks
-=====movement
------magic
------ranged attacks
-+++++melee attacks
-=====movement
------magic
------ranged attacks
-+++++melee attacks
-=====movement
------magic
------ranged attacks
-+++++melee attacks
-=====movement
------magic
------ranged attacks
-+++++melee attacks
+[1mbase_man[0m(18,12) hit base_dark_elf(17,11) with a melee attack. 
+[37mThe [1mbase_man[0m melee attack bounces off base_dark_elf(17,11)..[0m
+[1mbase_man[0m(30,12) hit base_dark_elf(29,11) with a melee attack. 
+[37mThe [1mbase_man[0m melee attack bounces off base_dark_elf(29,11)..[0m
+[1mbase_man[0m(30,12) hit base_dark_elf(31,11) with a melee attack. [33m[1mbase_man[0m damages base_dark_elf for 1 wounds..[0m
+[31mbase_dark_elf[0m(31,11)[31m is killed![0m
