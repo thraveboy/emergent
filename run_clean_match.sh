@@ -1,3 +1,3 @@
 ./clean_match_raw.sh
-time ./run_current_match-45moves.sh $1
+time ./run_current_match-30moves.sh $1
 
