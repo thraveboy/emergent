@@ -6,7 +6,6 @@ PAUSE_LENGTH = 0
 
 CLEAR_SCREEN = FALSE
 CLEAR_SCREEN_MAP_LOG = TRUE
-CLEAR_SCREAN_TEAM_LOG = TRUE
 
 SEED = 0
 TOTAL_MUTATIONS = 20
@@ -118,13 +117,13 @@ def clear_screen(log = "", full_wipe = false)
   if $dump_logs
     if (log == "map")
       if full_wipe
-        $team_log.write("\e[2J\n")
+        $team_log.print("\e[2J")
       else
         # go to top left corner instead of clear
-        $map_log.write("\e[2H")
+        $map_log.print("\e[2H")
       end
     elsif (log == "team")
-      $team_log.write("\e[2J\n")
+      $team_log.print("\e[2H")
     else
       print "\e[2J"
     end
@@ -1276,6 +1275,10 @@ class LineOfCommand
     if worlds != nil && worlds[-1] != nil
       worlds[-1].print_map(displays)
     end
+  end
+
+  if CLEAR_SCREEN_MAP_LOG
+    clear_screen("map", true)
   end
 
   ARGV.each do|a|
