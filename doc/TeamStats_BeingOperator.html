@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+
+<title>class TeamStats_BeingOperator - RDoc Documentation</title>
+
+<link type="text/css" media="screen" href="./rdoc.css" rel="stylesheet">
+
+<script type="text/javascript">
+  var rdoc_rel_prefix = "./";
+</script>
+
+<script type="text/javascript" charset="utf-8" src="./js/jquery.js"></script>
+<script type="text/javascript" charset="utf-8" src="./js/navigation.js"></script>
+<script type="text/javascript" charset="utf-8" src="./js/search_index.js"></script>
+<script type="text/javascript" charset="utf-8" src="./js/search.js"></script>
+<script type="text/javascript" charset="utf-8" src="./js/searcher.js"></script>
+<script type="text/javascript" charset="utf-8" src="./js/darkfish.js"></script>
+
+
+<body id="top" class="class">
+<nav id="metadata">
+  <nav id="home-section" class="section">
+  <h3 class="section-header">
+    <a href="./index.html">Home</a>
+    <a href="./table_of_contents.html#classes">Classes</a>
+    <a href="./table_of_contents.html#methods">Methods</a>
+  </h3>
+</nav>
+
+
+  <nav id="search-section" class="section project-section" class="initially-hidden">
+  <form action="#" method="get" accept-charset="utf-8">
+    <h3 class="section-header">
+      <input type="text" name="search" placeholder="Search" id="search-field"
+             title="Type to search, Up and Down to navigate, Enter to load">
+    </h3>
+  </form>
+
+  <ul id="search-results" class="initially-hidden"></ul>
+</nav>
+
+
+  
+
+  <div id="file-metadata">
+    <nav id="file-list-section" class="section">
+  <h3 class="section-header">Defined In</h3>
+  <ul>
+    <li>emergent.rb
+  </ul>
+</nav>
+
+    
+  </div>
+
+  <div id="class-metadata">
+    
+    <nav id="parent-class-section" class="section">
+  <h3 class="section-header">Parent</h3>
+  
+  <p class="link"><a href="Thing.html">Thing</a>
+  
+</nav>
+
+    
+    
+    <!-- Method Quickref -->
+<nav id="method-list-section" class="section">
+  <h3 class="section-header">Methods</h3>
+
+  <ul class="link-list">
+    
+    <li ><a href="#method-i-execute">#execute</a>
+    
+  </ul>
+</nav>
+
+  </div>
+
+  <div id="project-metadata">
+    
+    <nav id="classindex-section" class="section project-section">
+  <h3 class="section-header">Class and Module Index</h3>
+
+  <ul class="link-list">
+  
+    <li><a href="./Assign_Program_BeingOperator.html">Assign_Program_BeingOperator</a>
+  
+    <li><a href="./Attack_WorldOperator.html">Attack_WorldOperator</a>
+  
+    <li><a href="./Being.html">Being</a>
+  
+    <li><a href="./Being_Command_WorldOperator.html">Being_Command_WorldOperator</a>
+  
+    <li><a href="./Command.html">Command</a>
+  
+    <li><a href="./Container.html">Container</a>
+  
+    <li><a href="./Display.html">Display</a>
+  
+    <li><a href="./DumpMutations_BeingOperator.html">DumpMutations_BeingOperator</a>
+  
+    <li><a href="./LineOfCommand.html">LineOfCommand</a>
+  
+    <li><a href="./Location.html">Location</a>
+  
+    <li><a href="./Magic_WorldOperator.html">Magic_WorldOperator</a>
+  
+    <li><a href="./Mutate_Beings_BeingOperator.html">Mutate_Beings_BeingOperator</a>
+  
+    <li><a href="./Object.html">Object</a>
+  
+    <li><a href="./ObjectivePointAssignBeings_WorldOperator.html">ObjectivePointAssignBeings_WorldOperator</a>
+  
+    <li><a href="./Populate_Beings_BeingOperator.html">Populate_Beings_BeingOperator</a>
+  
+    <li><a href="./Program.html">Program</a>
+  
+    <li><a href="./TeamStats_BeingOperator.html">TeamStats_BeingOperator</a>
+  
+    <li><a href="./Thing.html">Thing</a>
+  
+    <li><a href="./World.html">World</a>
+  
+  </ul>
+</nav>
+
+  </div>
+</nav>
+
+<div id="documentation">
+  <h1 class="class">class TeamStats_BeingOperator</h1>
+
+  <div id="description" class="description">
+    
+  </div><!-- description -->
+
+  
+  
+  
+  <section id="5Buntitled-5D" class="documentation-section">
+    
+
+    
+
+    
+
+    
+
+    <!-- Methods -->
+    
+     <section id="public-instance-5Buntitled-5D-method-details" class="method-section section">
+      <h3 class="section-header">Public Instance Methods</h3>
+
+    
+      <div id="method-i-execute" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">execute</span><span
+            class="method-args">(beings, world, output_to_file = false)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="execute-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 688</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">execute</span>(<span class="ruby-identifier">beings</span>, <span class="ruby-identifier">world</span>, <span class="ruby-identifier">output_to_file</span> = <span class="ruby-keyword">false</span>)
+  <span class="ruby-identifier">team_stats</span> = <span class="ruby-constant">Hash</span>.<span class="ruby-identifier">new</span>
+  <span class="ruby-identifier">team_1_points</span> = <span class="ruby-value">0</span>
+  <span class="ruby-identifier">team_others_points</span> = <span class="ruby-value">0</span>
+  <span class="ruby-identifier">world</span>.<span class="ruby-identifier">operate_over_space</span>(<span class="ruby-constant">ObjectivePointAssignBeings_WorldOperator</span>.<span class="ruby-identifier">new</span>)
+
+  <span class="ruby-identifier">beings</span>.<span class="ruby-identifier">each</span> <span class="ruby-keyword">do</span> <span class="ruby-operator">|</span><span class="ruby-identifier">current_being</span><span class="ruby-operator">|</span>
+    <span class="ruby-keyword">if</span> <span class="ruby-operator">!</span><span class="ruby-identifier">current_being</span>.<span class="ruby-identifier">nil?</span>
+      <span class="ruby-identifier">current_team</span> = <span class="ruby-identifier">current_being</span>.<span class="ruby-identifier">team</span>.<span class="ruby-identifier">to_i</span>
+      <span class="ruby-identifier">current_being_points</span> = <span class="ruby-identifier">current_being</span>.<span class="ruby-identifier">points</span>.<span class="ruby-identifier">to_i</span>
+      <span class="ruby-keyword">if</span> <span class="ruby-operator">!</span><span class="ruby-identifier">current_team</span>.<span class="ruby-identifier">nil?</span>
+        <span class="ruby-identifier">current_being_team_stats</span> = <span class="ruby-identifier">current_being</span>.<span class="ruby-identifier">get_brief_stats</span>
+        <span class="ruby-identifier">current_wounds</span> = <span class="ruby-identifier">current_being</span>.<span class="ruby-identifier">wounds</span>
+        <span class="ruby-keyword">if</span> <span class="ruby-operator">!</span><span class="ruby-identifier">current_wounds</span>.<span class="ruby-identifier">nil?</span>
+          <span class="ruby-keyword">if</span> <span class="ruby-identifier">current_wounds</span>.<span class="ruby-identifier">to_i</span> <span class="ruby-operator">&gt;</span> <span class="ruby-value">0</span>
+            <span class="ruby-identifier">current_being_team_stats</span> = <span class="ruby-identifier">white</span>(<span class="ruby-identifier">current_being_team_stats</span>)
+            <span class="ruby-keyword">if</span> <span class="ruby-identifier">current_team</span> <span class="ruby-operator">==</span> <span class="ruby-value">1</span>
+              <span class="ruby-identifier">team_1_points</span> <span class="ruby-operator">+=</span> <span class="ruby-identifier">current_being</span>.<span class="ruby-identifier">get_points_including_objectives</span>
+            <span class="ruby-keyword">else</span>
+              <span class="ruby-identifier">team_others_points</span> <span class="ruby-operator">+=</span> <span class="ruby-identifier">current_being</span>.<span class="ruby-identifier">get_points_including_objectives</span>
+            <span class="ruby-keyword">end</span>
+          <span class="ruby-keyword">else</span>
+            <span class="ruby-identifier">current_being_team_stats</span> = <span class="ruby-identifier">red</span>(<span class="ruby-identifier">current_being_team_stats</span>)
+            <span class="ruby-keyword">if</span> <span class="ruby-identifier">current_team</span> <span class="ruby-operator">==</span> <span class="ruby-value">1</span>
+              <span class="ruby-identifier">team_1_points</span> <span class="ruby-operator">-=</span> <span class="ruby-identifier">current_being_points</span>
+            <span class="ruby-keyword">else</span>
+              <span class="ruby-identifier">team_others_points</span> <span class="ruby-operator">-=</span> <span class="ruby-identifier">current_being_points</span>
+            <span class="ruby-keyword">end</span>
+          <span class="ruby-keyword">end</span>
+        <span class="ruby-keyword">end</span>
+        <span class="ruby-keyword">if</span> <span class="ruby-identifier">team_stats</span>[<span class="ruby-node">&quot;#{current_team}&quot;</span>].<span class="ruby-identifier">nil?</span>
+          <span class="ruby-identifier">team_stats</span>[<span class="ruby-node">&quot;#{current_team}&quot;</span>] = <span class="ruby-string">&#39;&#39;</span>
+        <span class="ruby-keyword">end</span>
+        <span class="ruby-keyword">if</span> <span class="ruby-identifier">current_being</span>.<span class="ruby-identifier">objective_points</span>.<span class="ruby-identifier">to_i</span> <span class="ruby-operator">&gt;</span> <span class="ruby-value">0</span>
+          <span class="ruby-identifier">current_being_team_stats</span> = <span class="ruby-identifier">blue_bg</span>(<span class="ruby-identifier">current_being_team_stats</span>)
+        <span class="ruby-keyword">end</span>
+        <span class="ruby-identifier">team_stats</span>[<span class="ruby-node">&quot;#{current_team}&quot;</span>].<span class="ruby-identifier">concat</span>(<span class="ruby-node">&quot;\n#{current_being_team_stats}&quot;</span>)
+      <span class="ruby-keyword">end</span>
+    <span class="ruby-keyword">end</span>
+  <span class="ruby-keyword">end</span>
+
+  <span class="ruby-identifier">team_stats</span>[<span class="ruby-string">&quot;1 Points&quot;</span>] = <span class="ruby-identifier">team_1_points</span>
+  <span class="ruby-identifier">team_stats</span>[<span class="ruby-string">&quot;2 Points&quot;</span>] = <span class="ruby-identifier">team_others_points</span>
+  <span class="ruby-keyword">if</span> <span class="ruby-identifier">output_to_file</span>
+    <span class="ruby-identifier">team_results_file</span> = <span class="ruby-constant">File</span>.<span class="ruby-identifier">new</span>(<span class="ruby-string">&quot;match-team.results&quot;</span>, <span class="ruby-string">&quot;a&quot;</span>)
+    <span class="ruby-identifier">team_results_file</span>.<span class="ruby-identifier">write</span>(<span class="ruby-node">&quot;#{team_1_points} #{team_others_points}\n&quot;</span>)
+    <span class="ruby-identifier">team_results_file</span>.<span class="ruby-identifier">close</span>
+  <span class="ruby-keyword">end</span>
+  <span class="ruby-keyword">return</span> <span class="ruby-identifier">team_stats</span>
+<span class="ruby-keyword">end</span></pre>
+          </div><!-- execute-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- execute-method -->
+
+    
+    </section><!-- public-instance-method-details -->
+  
+  </section><!-- 5Buntitled-5D -->
+
+</div><!-- documentation -->
+
+
+<footer id="validator-badges">
+  <p><a href="http://validator.w3.org/check/referer">[Validate]</a>
+  <p>Generated by <a href="https://github.com/rdoc/rdoc">RDoc</a> 4.0.0.
+  <p>Generated with the <a href="http://deveiate.org/projects/Darkfish-Rdoc/">Darkfish Rdoc Generator</a> 3.
+</footer>
+

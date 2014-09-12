@@ -6,13 +6,13 @@ moditer=0
 
 while [ $currentiteration -le $numberofiterations ]
 do
-  let moditer=currentiteration%25
+  let moditer=currentiteration%10
   if [ $moditer -eq 0 ] ; 
    then
     ./show_current_game_config.sh
     echo -n "Games Run: "; echo $gamesrun
     ruby match_stats.rb match-team.results
-  fi
+  fi 
   let popafive=currentiteration%5
   if [ $popafive -eq 0 ] ;
    then
@@ -21,7 +21,7 @@ do
      echo -n "."
   fi
 
-  cat display_logs_off  games/move-15 games/move-15 games/move-15-quit | ruby emergent.rb games/currentGame > /dev/null;
+  cat games/move-15 games/move-15 games/move-15-quit | ruby emergent.rb games/display_logs_off games/currentGame > /dev/null;
   let gamesrun=gamesrun+1
   let currentiteration=currentiteration+1
 done
@@ -29,4 +29,5 @@ done
 ./show_current_game_config.sh
 
 echo -n "Games Run: "; echo $gamesrun
+
 ruby match_stats.rb match-team.results

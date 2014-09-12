@@ -1,0 +1,1235 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+
+<title>class Object - RDoc Documentation</title>
+
+<link type="text/css" media="screen" href="./rdoc.css" rel="stylesheet">
+
+<script type="text/javascript">
+  var rdoc_rel_prefix = "./";
+</script>
+
+<script type="text/javascript" charset="utf-8" src="./js/jquery.js"></script>
+<script type="text/javascript" charset="utf-8" src="./js/navigation.js"></script>
+<script type="text/javascript" charset="utf-8" src="./js/search_index.js"></script>
+<script type="text/javascript" charset="utf-8" src="./js/search.js"></script>
+<script type="text/javascript" charset="utf-8" src="./js/searcher.js"></script>
+<script type="text/javascript" charset="utf-8" src="./js/darkfish.js"></script>
+
+
+<body id="top" class="class">
+<nav id="metadata">
+  <nav id="home-section" class="section">
+  <h3 class="section-header">
+    <a href="./index.html">Home</a>
+    <a href="./table_of_contents.html#classes">Classes</a>
+    <a href="./table_of_contents.html#methods">Methods</a>
+  </h3>
+</nav>
+
+
+  <nav id="search-section" class="section project-section" class="initially-hidden">
+  <form action="#" method="get" accept-charset="utf-8">
+    <h3 class="section-header">
+      <input type="text" name="search" placeholder="Search" id="search-field"
+             title="Type to search, Up and Down to navigate, Enter to load">
+    </h3>
+  </form>
+
+  <ul id="search-results" class="initially-hidden"></ul>
+</nav>
+
+
+  
+
+  <div id="file-metadata">
+    <nav id="file-list-section" class="section">
+  <h3 class="section-header">Defined In</h3>
+  <ul>
+    <li>emergent.rb
+  </ul>
+</nav>
+
+    
+  </div>
+
+  <div id="class-metadata">
+    
+    <nav id="parent-class-section" class="section">
+  <h3 class="section-header">Parent</h3>
+  
+  <p class="link">BasicObject
+  
+</nav>
+
+    
+    
+    <!-- Method Quickref -->
+<nav id="method-list-section" class="section">
+  <h3 class="section-header">Methods</h3>
+
+  <ul class="link-list">
+    
+    <li ><a href="#method-i-add_stacks_to_buffable_stat_list">#add_stacks_to_buffable_stat_list</a>
+    
+    <li ><a href="#method-i-blink">#blink</a>
+    
+    <li ><a href="#method-i-blue">#blue</a>
+    
+    <li ><a href="#method-i-blue_bg">#blue_bg</a>
+    
+    <li ><a href="#method-i-bold">#bold</a>
+    
+    <li ><a href="#method-i-class_exists-3F">#class_exists?</a>
+    
+    <li ><a href="#method-i-clear_screen">#clear_screen</a>
+    
+    <li ><a href="#method-i-colorize">#colorize</a>
+    
+    <li ><a href="#method-i-cyan">#cyan</a>
+    
+    <li ><a href="#method-i-cyan_bg">#cyan_bg</a>
+    
+    <li ><a href="#method-i-do_important_pauses">#do_important_pauses</a>
+    
+    <li ><a href="#method-i-green">#green</a>
+    
+    <li ><a href="#method-i-green_bg">#green_bg</a>
+    
+    <li ><a href="#method-i-important_pause">#important_pause</a>
+    
+    <li ><a href="#method-i-magneta">#magneta</a>
+    
+    <li ><a href="#method-i-magneta_bg">#magneta_bg</a>
+    
+    <li ><a href="#method-i-metaclass">#metaclass</a>
+    
+    <li ><a href="#method-i-output_team_stats">#output_team_stats</a>
+    
+    <li ><a href="#method-i-print_things_list">#print_things_list</a>
+    
+    <li ><a href="#method-i-printl">#printl</a>
+    
+    <li ><a href="#method-i-putsl">#putsl</a>
+    
+    <li ><a href="#method-i-red">#red</a>
+    
+    <li ><a href="#method-i-red_bg">#red_bg</a>
+    
+    <li ><a href="#method-i-shortcut_everything-3F">#shortcut_everything?</a>
+    
+    <li ><a href="#method-i-white">#white</a>
+    
+    <li ><a href="#method-i-white_bg">#white_bg</a>
+    
+    <li ><a href="#method-i-yellow">#yellow</a>
+    
+    <li ><a href="#method-i-yellow_bg">#yellow_bg</a>
+    
+  </ul>
+</nav>
+
+  </div>
+
+  <div id="project-metadata">
+    
+    <nav id="classindex-section" class="section project-section">
+  <h3 class="section-header">Class and Module Index</h3>
+
+  <ul class="link-list">
+  
+    <li><a href="./Assign_Program_BeingOperator.html">Assign_Program_BeingOperator</a>
+  
+    <li><a href="./Attack_WorldOperator.html">Attack_WorldOperator</a>
+  
+    <li><a href="./Being.html">Being</a>
+  
+    <li><a href="./Being_Command_WorldOperator.html">Being_Command_WorldOperator</a>
+  
+    <li><a href="./Command.html">Command</a>
+  
+    <li><a href="./Container.html">Container</a>
+  
+    <li><a href="./Display.html">Display</a>
+  
+    <li><a href="./DumpMutations_BeingOperator.html">DumpMutations_BeingOperator</a>
+  
+    <li><a href="./LineOfCommand.html">LineOfCommand</a>
+  
+    <li><a href="./Location.html">Location</a>
+  
+    <li><a href="./Magic_WorldOperator.html">Magic_WorldOperator</a>
+  
+    <li><a href="./Mutate_Beings_BeingOperator.html">Mutate_Beings_BeingOperator</a>
+  
+    <li><a href="./Object.html">Object</a>
+  
+    <li><a href="./ObjectivePointAssignBeings_WorldOperator.html">ObjectivePointAssignBeings_WorldOperator</a>
+  
+    <li><a href="./Populate_Beings_BeingOperator.html">Populate_Beings_BeingOperator</a>
+  
+    <li><a href="./Program.html">Program</a>
+  
+    <li><a href="./TeamStats_BeingOperator.html">TeamStats_BeingOperator</a>
+  
+    <li><a href="./Thing.html">Thing</a>
+  
+    <li><a href="./World.html">World</a>
+  
+  </ul>
+</nav>
+
+  </div>
+</nav>
+
+<div id="documentation">
+  <h1 class="class">class Object</h1>
+
+  <div id="description" class="description">
+    
+  </div><!-- description -->
+
+  
+  
+  
+  <section id="5Buntitled-5D" class="documentation-section">
+    
+
+    
+
+    
+    <!-- Constants -->
+    <section id="constants-list" class="section">
+      <h3 class="section-header">Constants</h3>
+      <dl>
+      
+        <dt id="BATTLE_LOG_FILE">BATTLE_LOG_FILE
+        
+        <dd class="description">
+        
+      
+        <dt id="CLEAR_SCREEN">CLEAR_SCREEN
+        
+        <dd class="description">
+        
+      
+        <dt id="CLEAR_SCREEN_MAP_LOG">CLEAR_SCREEN_MAP_LOG
+        
+        <dd class="description">
+        
+      
+        <dt id="IMPORTANT_MULTIPLIER">IMPORTANT_MULTIPLIER
+        
+        <dd class="description">
+        
+      
+        <dt id="MAP_LOG_FILE">MAP_LOG_FILE
+        
+        <dd class="description">
+        
+      
+        <dt id="MUTATION_MULTIPLIER">MUTATION_MULTIPLIER
+        
+        <dd class="description">
+        
+      
+        <dt id="PAUSE_LENGTH">PAUSE_LENGTH
+        
+        <dd class="description">
+        
+      
+        <dt id="SEED">SEED
+        
+        <dd class="description">
+        
+      
+        <dt id="STEP_COMMAND_PAUSE_LENGTH">STEP_COMMAND_PAUSE_LENGTH
+        
+        <dd class="description">
+        
+      
+        <dt id="TEAM_LOG_FILE">TEAM_LOG_FILE
+        
+        <dd class="description">
+        
+      
+        <dt id="TOTAL_MUTATIONS">TOTAL_MUTATIONS
+        
+        <dd class="description">
+        
+      
+      </dl>
+    </section>
+    
+
+    
+
+    <!-- Methods -->
+    
+     <section id="public-instance-5Buntitled-5D-method-details" class="method-section section">
+      <h3 class="section-header">Public Instance Methods</h3>
+
+    
+      <div id="method-i-add_stacks_to_buffable_stat_list" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">add_stacks_to_buffable_stat_list</span><span
+            class="method-args">()</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="add_stacks_to_buffable_stat_list-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 74</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">add_stacks_to_buffable_stat_list</span>
+  <span class="ruby-identifier">buff_stacks</span> = []
+  <span class="ruby-identifier">$buffable_stats</span>.<span class="ruby-identifier">each</span> <span class="ruby-keyword">do</span> <span class="ruby-operator">|</span><span class="ruby-identifier">buff_stat</span><span class="ruby-operator">|</span>
+    <span class="ruby-identifier">buff_stacks</span>.<span class="ruby-identifier">push</span>(<span class="ruby-node">&quot;#{buff_stat}_buffs&quot;</span>)
+  <span class="ruby-keyword">end</span>
+  <span class="ruby-identifier">buff_stacks</span>.<span class="ruby-identifier">each</span> <span class="ruby-keyword">do</span> <span class="ruby-operator">|</span><span class="ruby-identifier">stack_to_add</span><span class="ruby-operator">|</span>
+    <span class="ruby-identifier">$buffable_stats_and_stacks</span>.<span class="ruby-identifier">push</span>(<span class="ruby-identifier">stack_to_add</span>)
+  <span class="ruby-keyword">end</span>
+<span class="ruby-keyword">end</span></pre>
+          </div><!-- add_stacks_to_buffable_stat_list-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- add_stacks_to_buffable_stat_list-method -->
+
+    
+      <div id="method-i-blink" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">blink</span><span
+            class="method-args">(text)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="blink-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 114</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">blink</span>(<span class="ruby-identifier">text</span>); <span class="ruby-identifier">colorize</span>(<span class="ruby-identifier">text</span>, <span class="ruby-value">5</span>); <span class="ruby-keyword">end</span></pre>
+          </div><!-- blink-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- blink-method -->
+
+    
+      <div id="method-i-blue" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">blue</span><span
+            class="method-args">(text)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="blue-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 100</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">blue</span>(<span class="ruby-identifier">text</span>); <span class="ruby-identifier">colorize</span>(<span class="ruby-identifier">text</span>, <span class="ruby-value">34</span>); <span class="ruby-keyword">end</span></pre>
+          </div><!-- blue-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- blue-method -->
+
+    
+      <div id="method-i-blue_bg" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">blue_bg</span><span
+            class="method-args">(text)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="blue_bg-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 108</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">blue_bg</span>(<span class="ruby-identifier">text</span>); <span class="ruby-identifier">colorize</span>(<span class="ruby-identifier">text</span>, <span class="ruby-value">44</span>); <span class="ruby-keyword">end</span></pre>
+          </div><!-- blue_bg-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- blue_bg-method -->
+
+    
+      <div id="method-i-bold" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">bold</span><span
+            class="method-args">(text)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="bold-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 113</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">bold</span>(<span class="ruby-identifier">text</span>); <span class="ruby-identifier">colorize</span>(<span class="ruby-identifier">text</span>, <span class="ruby-value">1</span>); <span class="ruby-keyword">end</span></pre>
+          </div><!-- bold-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- bold-method -->
+
+    
+      <div id="method-i-class_exists-3F" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">class_exists?</span><span
+            class="method-args">(class_name)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="class_exists-3F-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 1147</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">class_exists?</span>(<span class="ruby-identifier">class_name</span>)
+  <span class="ruby-identifier">klass</span> = <span class="ruby-constant">Module</span>.<span class="ruby-identifier">const_get</span>(<span class="ruby-identifier">class_name</span>)
+  <span class="ruby-keyword">return</span> <span class="ruby-identifier">klass</span>.<span class="ruby-identifier">is_a?</span>(<span class="ruby-constant">Class</span>)
+<span class="ruby-keyword">rescue</span> <span class="ruby-constant">NameError</span>
+  <span class="ruby-keyword">return</span> <span class="ruby-keyword">false</span>
+<span class="ruby-keyword">end</span></pre>
+          </div><!-- class_exists-3F-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- class_exists-3F-method -->
+
+    
+      <div id="method-i-clear_screen" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">clear_screen</span><span
+            class="method-args">(log = "", full_wipe = false)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="clear_screen-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 116</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">clear_screen</span>(<span class="ruby-identifier">log</span> = <span class="ruby-string">&quot;&quot;</span>, <span class="ruby-identifier">full_wipe</span> = <span class="ruby-keyword">false</span>)
+  <span class="ruby-keyword">if</span> <span class="ruby-identifier">$dump_logs</span>
+    <span class="ruby-keyword">if</span> (<span class="ruby-identifier">log</span> <span class="ruby-operator">==</span> <span class="ruby-string">&quot;map&quot;</span>)
+      <span class="ruby-keyword">if</span> <span class="ruby-identifier">full_wipe</span>
+        <span class="ruby-identifier">$team_log</span>.<span class="ruby-identifier">print</span>(<span class="ruby-string">&quot;\e[2J&quot;</span>)
+      <span class="ruby-keyword">else</span>
+        <span class="ruby-comment"># go to top left corner instead of clear</span>
+        <span class="ruby-identifier">$map_log</span>.<span class="ruby-identifier">print</span>(<span class="ruby-string">&quot;\e[2H&quot;</span>)
+      <span class="ruby-keyword">end</span>
+    <span class="ruby-keyword">elsif</span> (<span class="ruby-identifier">log</span> <span class="ruby-operator">==</span> <span class="ruby-string">&quot;team&quot;</span>)
+      <span class="ruby-identifier">$team_log</span>.<span class="ruby-identifier">print</span>(<span class="ruby-string">&quot;\e[2H&quot;</span>)
+    <span class="ruby-keyword">else</span>
+      <span class="ruby-identifier">print</span> <span class="ruby-string">&quot;\e[2J&quot;</span>
+    <span class="ruby-keyword">end</span>
+  <span class="ruby-keyword">end</span>
+<span class="ruby-keyword">end</span></pre>
+          </div><!-- clear_screen-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- clear_screen-method -->
+
+    
+      <div id="method-i-colorize" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">colorize</span><span
+            class="method-args">(text, color_code)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          <p>Colored Output</p>
+          
+          
+
+          
+          <div class="method-source-code" id="colorize-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 93</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">colorize</span>(<span class="ruby-identifier">text</span>, <span class="ruby-identifier">color_code</span>)
+  <span class="ruby-node">&quot;\e[#{color_code}m#{text}\e[0m&quot;</span>
+<span class="ruby-keyword">end</span></pre>
+          </div><!-- colorize-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- colorize-method -->
+
+    
+      <div id="method-i-cyan" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">cyan</span><span
+            class="method-args">(text)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="cyan-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 102</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">cyan</span>(<span class="ruby-identifier">text</span>); <span class="ruby-identifier">colorize</span>(<span class="ruby-identifier">text</span>, <span class="ruby-value">36</span>); <span class="ruby-keyword">end</span></pre>
+          </div><!-- cyan-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- cyan-method -->
+
+    
+      <div id="method-i-cyan_bg" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">cyan_bg</span><span
+            class="method-args">(text)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="cyan_bg-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 110</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">cyan_bg</span>(<span class="ruby-identifier">text</span>); <span class="ruby-identifier">colorize</span>(<span class="ruby-identifier">text</span>, <span class="ruby-value">46</span>); <span class="ruby-keyword">end</span></pre>
+          </div><!-- cyan_bg-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- cyan_bg-method -->
+
+    
+      <div id="method-i-do_important_pauses" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">do_important_pauses</span><span
+            class="method-args">()</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="do_important_pauses-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 67</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">do_important_pauses</span>
+  <span class="ruby-keyword">if</span> <span class="ruby-identifier">$important_pause_switch</span>
+    <span class="ruby-identifier">sleep</span> <span class="ruby-constant">IMPORTANT_MULTIPLIER</span> <span class="ruby-operator">*</span> <span class="ruby-constant">STEP_COMMAND_PAUSE_LENGTH</span>
+  <span class="ruby-keyword">end</span>
+  <span class="ruby-identifier">$important_pause_switch</span> = <span class="ruby-keyword">false</span>
+<span class="ruby-keyword">end</span></pre>
+          </div><!-- do_important_pauses-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- do_important_pauses-method -->
+
+    
+      <div id="method-i-green" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">green</span><span
+            class="method-args">(text)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="green-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 98</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">green</span>(<span class="ruby-identifier">text</span>); <span class="ruby-identifier">colorize</span>(<span class="ruby-identifier">text</span>, <span class="ruby-value">32</span>); <span class="ruby-keyword">end</span></pre>
+          </div><!-- green-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- green-method -->
+
+    
+      <div id="method-i-green_bg" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">green_bg</span><span
+            class="method-args">(text)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="green_bg-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 106</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">green_bg</span>(<span class="ruby-identifier">text</span>); <span class="ruby-identifier">colorize</span>(<span class="ruby-identifier">text</span>, <span class="ruby-value">42</span>); <span class="ruby-keyword">end</span></pre>
+          </div><!-- green_bg-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- green_bg-method -->
+
+    
+      <div id="method-i-important_pause" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">important_pause</span><span
+            class="method-args">()</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="important_pause-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 63</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">important_pause</span>
+  <span class="ruby-identifier">$important_pause_switch</span> = <span class="ruby-keyword">true</span>
+<span class="ruby-keyword">end</span></pre>
+          </div><!-- important_pause-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- important_pause-method -->
+
+    
+      <div id="method-i-magneta" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">magneta</span><span
+            class="method-args">(text)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="magneta-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 101</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">magneta</span>(<span class="ruby-identifier">text</span>); <span class="ruby-identifier">colorize</span>(<span class="ruby-identifier">text</span>, <span class="ruby-value">35</span>); <span class="ruby-keyword">end</span></pre>
+          </div><!-- magneta-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- magneta-method -->
+
+    
+      <div id="method-i-magneta_bg" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">magneta_bg</span><span
+            class="method-args">(text)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="magneta_bg-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 109</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">magneta_bg</span>(<span class="ruby-identifier">text</span>); <span class="ruby-identifier">colorize</span>(<span class="ruby-identifier">text</span>, <span class="ruby-value">45</span>); <span class="ruby-keyword">end</span></pre>
+          </div><!-- magneta_bg-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- magneta_bg-method -->
+
+    
+      <div id="method-i-metaclass" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">metaclass</span><span
+            class="method-args">()</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="metaclass-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 138</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">metaclass</span>
+  <span class="ruby-keyword">class</span> <span class="ruby-operator">&lt;&lt;</span> <span class="ruby-keyword">self</span>; <span class="ruby-keyword">self</span>; <span class="ruby-keyword">end</span>
+<span class="ruby-keyword">end</span></pre>
+          </div><!-- metaclass-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- metaclass-method -->
+
+    
+      <div id="method-i-output_team_stats" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">output_team_stats</span><span
+            class="method-args">(beings, world, output_to_file=false)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="output_team_stats-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 1154</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">output_team_stats</span>(<span class="ruby-identifier">beings</span>, <span class="ruby-identifier">world</span>, <span class="ruby-identifier">output_to_file</span>=<span class="ruby-keyword">false</span>)
+  <span class="ruby-identifier">team_results</span> = <span class="ruby-constant">TeamStats_BeingOperator</span>.<span class="ruby-identifier">new</span>.<span class="ruby-identifier">execute</span>(<span class="ruby-identifier">beings</span>, <span class="ruby-identifier">world</span>, <span class="ruby-identifier">output_to_file</span>)
+  <span class="ruby-identifier">clear_screen</span>(<span class="ruby-string">&quot;team&quot;</span>)
+  <span class="ruby-identifier">team_results</span>.<span class="ruby-identifier">each</span> <span class="ruby-keyword">do</span> <span class="ruby-operator">|</span><span class="ruby-identifier">key</span>, <span class="ruby-identifier">value</span><span class="ruby-operator">|</span>
+    <span class="ruby-identifier">putsl</span>(<span class="ruby-node">&quot;Team #{key}: #{value}&quot;</span>, <span class="ruby-string">&quot;team&quot;</span>)
+    <span class="ruby-identifier">putsl</span>(<span class="ruby-string">&quot;&quot;</span>, <span class="ruby-string">&quot;team&quot;</span>)
+  <span class="ruby-keyword">end</span>
+<span class="ruby-keyword">end</span></pre>
+          </div><!-- output_team_stats-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- output_team_stats-method -->
+
+    
+      <div id="method-i-print_things_list" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">print_things_list</span><span
+            class="method-args">(name, things, displays = [])</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          <pre>What to call these things, and then go through the ARRRRaayyyy and
+pop out the info on these puppies...</pre>
+
+<p>/ /</p>
+          
+          
+
+          
+          <div class="method-source-code" id="print_things_list-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 213</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">print_things_list</span>(<span class="ruby-identifier">name</span>, <span class="ruby-identifier">things</span>, <span class="ruby-identifier">displays</span> = [])
+  <span class="ruby-identifier">i</span> = <span class="ruby-value">0</span>
+  <span class="ruby-identifier">putsl</span> <span class="ruby-node">&quot;#{name}s in existence...&quot;</span>
+  <span class="ruby-identifier">putsl</span> <span class="ruby-string">&quot;-&quot;</span>
+  <span class="ruby-identifier">putsl</span> <span class="ruby-string">&quot;_&quot;</span>
+  <span class="ruby-keyword">for</span> <span class="ruby-identifier">thing_instance</span> <span class="ruby-keyword">in</span> <span class="ruby-identifier">things</span>
+    <span class="ruby-identifier">i</span> <span class="ruby-operator">+=</span> <span class="ruby-value">1</span>
+    <span class="ruby-identifier">printl</span> <span class="ruby-node">&quot;#{name} #{i} : &quot;</span>
+    <span class="ruby-identifier">thing_instance</span>.<span class="ruby-identifier">print_this_baby_out</span>([], <span class="ruby-identifier">displays</span>)
+  <span class="ruby-keyword">end</span>
+  <span class="ruby-identifier">putsl</span> <span class="ruby-string">&quot;_&quot;</span>
+  <span class="ruby-identifier">putsl</span> <span class="ruby-string">&quot;-&quot;</span>
+<span class="ruby-keyword">end</span></pre>
+          </div><!-- print_things_list-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- print_things_list-method -->
+
+    
+      <div id="method-i-printl" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">printl</span><span
+            class="method-args">(text, log_file = "battle")</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="printl-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 33</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">printl</span> (<span class="ruby-identifier">text</span>, <span class="ruby-identifier">log_file</span> = <span class="ruby-string">&quot;battle&quot;</span>)
+  <span class="ruby-keyword">if</span> <span class="ruby-identifier">$dump_logs</span>
+    <span class="ruby-identifier">print</span> <span class="ruby-identifier">text</span>
+    <span class="ruby-keyword">if</span> <span class="ruby-identifier">log_file</span> <span class="ruby-operator">==</span> <span class="ruby-string">&quot;battle&quot;</span>
+      <span class="ruby-identifier">$battle_log</span>.<span class="ruby-identifier">write</span> <span class="ruby-identifier">text</span>
+    <span class="ruby-keyword">elsif</span> <span class="ruby-identifier">log_file</span> <span class="ruby-operator">==</span> <span class="ruby-string">&quot;team&quot;</span>
+     <span class="ruby-identifier">$team_log</span>.<span class="ruby-identifier">write</span> <span class="ruby-identifier">text</span>
+    <span class="ruby-keyword">else</span>
+      <span class="ruby-identifier">$map_log</span>.<span class="ruby-identifier">write</span> <span class="ruby-identifier">text</span>
+    <span class="ruby-keyword">end</span>
+  <span class="ruby-keyword">end</span>
+<span class="ruby-keyword">end</span></pre>
+          </div><!-- printl-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- printl-method -->
+
+    
+      <div id="method-i-putsl" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">putsl</span><span
+            class="method-args">(text, log_file = "battle")</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="putsl-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 46</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">putsl</span> (<span class="ruby-identifier">text</span>, <span class="ruby-identifier">log_file</span> = <span class="ruby-string">&quot;battle&quot;</span>)
+  <span class="ruby-keyword">if</span> <span class="ruby-identifier">$dump_logs</span>
+    <span class="ruby-identifier">text_with_newline</span> = <span class="ruby-identifier">text</span>.<span class="ruby-identifier">dup</span>.<span class="ruby-identifier">concat</span>(<span class="ruby-string">&quot;\n&quot;</span>)
+    <span class="ruby-identifier">printl</span>(<span class="ruby-identifier">text_with_newline</span>, <span class="ruby-identifier">log_file</span>)
+  <span class="ruby-keyword">end</span>
+<span class="ruby-keyword">end</span></pre>
+          </div><!-- putsl-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- putsl-method -->
+
+    
+      <div id="method-i-red" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">red</span><span
+            class="method-args">(text)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="red-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 97</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">red</span>(<span class="ruby-identifier">text</span>); <span class="ruby-identifier">colorize</span>(<span class="ruby-identifier">text</span>, <span class="ruby-value">31</span>); <span class="ruby-keyword">end</span></pre>
+          </div><!-- red-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- red-method -->
+
+    
+      <div id="method-i-red_bg" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">red_bg</span><span
+            class="method-args">(text)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="red_bg-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 105</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">red_bg</span>(<span class="ruby-identifier">text</span>); <span class="ruby-identifier">colorize</span>(<span class="ruby-identifier">text</span>, <span class="ruby-value">41</span>); <span class="ruby-keyword">end</span></pre>
+          </div><!-- red_bg-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- red_bg-method -->
+
+    
+      <div id="method-i-shortcut_everything-3F" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">shortcut_everything?</span><span
+            class="method-args">(command, input)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="shortcut_everything-3F-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 133</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">shortcut_everything?</span>(<span class="ruby-identifier">command</span>, <span class="ruby-identifier">input</span>)
+  (<span class="ruby-identifier">input</span>.<span class="ruby-identifier">casecmp</span> <span class="ruby-identifier">command</span>) <span class="ruby-operator">==</span> <span class="ruby-value">0</span> <span class="ruby-operator">||</span> (<span class="ruby-identifier">input</span>.<span class="ruby-identifier">casecmp</span> <span class="ruby-identifier">command</span>[<span class="ruby-value">0</span>]) <span class="ruby-operator">==</span> <span class="ruby-value">0</span>
+<span class="ruby-keyword">end</span></pre>
+          </div><!-- shortcut_everything-3F-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- shortcut_everything-3F-method -->
+
+    
+      <div id="method-i-white" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">white</span><span
+            class="method-args">(text)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="white-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 103</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">white</span>(<span class="ruby-identifier">text</span>); <span class="ruby-identifier">colorize</span>(<span class="ruby-identifier">text</span>, <span class="ruby-value">37</span>); <span class="ruby-keyword">end</span></pre>
+          </div><!-- white-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- white-method -->
+
+    
+      <div id="method-i-white_bg" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">white_bg</span><span
+            class="method-args">(text)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="white_bg-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 111</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">white_bg</span>(<span class="ruby-identifier">text</span>); <span class="ruby-identifier">colorize</span>(<span class="ruby-identifier">text</span>, <span class="ruby-value">47</span>); <span class="ruby-keyword">end</span></pre>
+          </div><!-- white_bg-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- white_bg-method -->
+
+    
+      <div id="method-i-yellow" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">yellow</span><span
+            class="method-args">(text)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="yellow-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 99</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">yellow</span>(<span class="ruby-identifier">text</span>); <span class="ruby-identifier">colorize</span>(<span class="ruby-identifier">text</span>, <span class="ruby-value">33</span>); <span class="ruby-keyword">end</span></pre>
+          </div><!-- yellow-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- yellow-method -->
+
+    
+      <div id="method-i-yellow_bg" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">yellow_bg</span><span
+            class="method-args">(text)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="yellow_bg-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 107</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">yellow_bg</span>(<span class="ruby-identifier">text</span>); <span class="ruby-identifier">colorize</span>(<span class="ruby-identifier">text</span>, <span class="ruby-value">43</span>); <span class="ruby-keyword">end</span></pre>
+          </div><!-- yellow_bg-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- yellow_bg-method -->
+
+    
+    </section><!-- public-instance-method-details -->
+  
+  </section><!-- 5Buntitled-5D -->
+
+</div><!-- documentation -->
+
+
+<footer id="validator-badges">
+  <p><a href="http://validator.w3.org/check/referer">[Validate]</a>
+  <p>Generated by <a href="https://github.com/rdoc/rdoc">RDoc</a> 4.0.0.
+  <p>Generated with the <a href="http://deveiate.org/projects/Darkfish-Rdoc/">Darkfish Rdoc Generator</a> 3.
+</footer>
+

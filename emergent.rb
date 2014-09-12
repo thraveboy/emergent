@@ -460,47 +460,49 @@ class World < Thing
   end
 
   def print_map(displays = [])
-    if CLEAR_SCREEN_MAP_LOG
-      clear_screen("map")
-    end
-    @space.each do |y_axis|
-      y_axis.each do |location|
-        initial_location_strings = location.get_objects_of_type(String)
-        beings_here = location.get_objects_of_type(Being)
-        what_to_print = 'E'
-        if beings_here != nil && beings_here != []
-          displays.each do |current_display|
-            display_value = ''
-            current_being = beings_here[-1]
-            display_value = current_display.get(current_being.name)
-            being_wounds = current_being.wounds.to_i
-            if current_being.team.to_i == 1
-              display_value = bold(display_value)
-            end
-            if display_value != ''
-              if being_wounds < 2
-                what_to_print = red(display_value)
-              elsif being_wounds < 3
-                what_to_print = yellow(display_value)
-              else
-                what_to_print = white(display_value)
+    if $dump_logs
+      if CLEAR_SCREEN_MAP_LOG
+        clear_screen("map")
+      end
+      @space.each do |y_axis|
+        y_axis.each do |location|
+          initial_location_strings = location.get_objects_of_type(String)
+          beings_here = location.get_objects_of_type(Being)
+          what_to_print = 'E'
+          if beings_here != nil && beings_here != []
+            displays.each do |current_display|
+              display_value = ''
+              current_being = beings_here[-1]
+              display_value = current_display.get(current_being.name)
+              being_wounds = current_being.wounds.to_i
+              if current_being.team.to_i == 1
+                display_value = bold(display_value)
               end
-              if initial_location_strings != nil && initial_location_strings[0] != nil
-                if objective_location?(initial_location_strings[0])
-                  what_to_print = cyan_bg(what_to_print)
+              if display_value != ''
+                if being_wounds < 2
+                  what_to_print = red(display_value)
+                elsif being_wounds < 3
+                  what_to_print = yellow(display_value)
+                else
+                  what_to_print = white(display_value)
+                end
+                if initial_location_strings != nil && initial_location_strings[0] != nil
+                  if objective_location?(initial_location_strings[0])
+                    what_to_print = cyan_bg(what_to_print)
+                  end
                 end
               end
             end
-          end
-          printl("#{what_to_print}", "map")
-        else
-          if initial_location_strings != nil && initial_location_strings[0] != nil
-              world_location_to_print = colorize_location(initial_location_strings[0])
-              printl(world_location_to_print, "map")
+            printl("#{what_to_print}", "map")
+          else
+            if initial_location_strings != nil && initial_location_strings[0] != nil
+                world_location_to_print = colorize_location(initial_location_strings[0])
+                printl(world_location_to_print, "map")
+            end
           end
         end
+       putsl("", "map")
       end
-     putsl("", "map")
     end
   end
 
@@ -1220,7 +1222,7 @@ class LineOfCommand
       mutate_beings.execute(beings, world)
     elsif shortcut_everything?("nologs", guess)
       $dump_logs = FALSE
-      puts "dumped"
+      puts "turned off display logs"
     elsif shortcut_everything?("populate", guess)
       populate_beings = Populate_Beings_BeingOperator.new
       populate_beings.execute(beings, world)

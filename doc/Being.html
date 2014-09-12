@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+
+<title>class Being - RDoc Documentation</title>
+
+<link type="text/css" media="screen" href="./rdoc.css" rel="stylesheet">
+
+<script type="text/javascript">
+  var rdoc_rel_prefix = "./";
+</script>
+
+<script type="text/javascript" charset="utf-8" src="./js/jquery.js"></script>
+<script type="text/javascript" charset="utf-8" src="./js/navigation.js"></script>
+<script type="text/javascript" charset="utf-8" src="./js/search_index.js"></script>
+<script type="text/javascript" charset="utf-8" src="./js/search.js"></script>
+<script type="text/javascript" charset="utf-8" src="./js/searcher.js"></script>
+<script type="text/javascript" charset="utf-8" src="./js/darkfish.js"></script>
+
+
+<body id="top" class="class">
+<nav id="metadata">
+  <nav id="home-section" class="section">
+  <h3 class="section-header">
+    <a href="./index.html">Home</a>
+    <a href="./table_of_contents.html#classes">Classes</a>
+    <a href="./table_of_contents.html#methods">Methods</a>
+  </h3>
+</nav>
+
+
+  <nav id="search-section" class="section project-section" class="initially-hidden">
+  <form action="#" method="get" accept-charset="utf-8">
+    <h3 class="section-header">
+      <input type="text" name="search" placeholder="Search" id="search-field"
+             title="Type to search, Up and Down to navigate, Enter to load">
+    </h3>
+  </form>
+
+  <ul id="search-results" class="initially-hidden"></ul>
+</nav>
+
+
+  
+
+  <div id="file-metadata">
+    <nav id="file-list-section" class="section">
+  <h3 class="section-header">Defined In</h3>
+  <ul>
+    <li>emergent.rb
+  </ul>
+</nav>
+
+    
+  </div>
+
+  <div id="class-metadata">
+    
+    <nav id="parent-class-section" class="section">
+  <h3 class="section-header">Parent</h3>
+  
+  <p class="link"><a href="Thing.html">Thing</a>
+  
+</nav>
+
+    
+    
+    <!-- Method Quickref -->
+<nav id="method-list-section" class="section">
+  <h3 class="section-header">Methods</h3>
+
+  <ul class="link-list">
+    
+    <li class="calls-super" ><a href="#method-c-new">::new</a>
+    
+    <li ><a href="#method-i-apply_mutation">#apply_mutation</a>
+    
+    <li ><a href="#method-i-get_brief_stats">#get_brief_stats</a>
+    
+    <li ><a href="#method-i-get_points_including_objectives">#get_points_including_objectives</a>
+    
+    <li ><a href="#method-i-mutate">#mutate</a>
+    
+    <li class="calls-super" ><a href="#method-i-print_this_baby_out">#print_this_baby_out</a>
+    
+  </ul>
+</nav>
+
+  </div>
+
+  <div id="project-metadata">
+    
+    <nav id="classindex-section" class="section project-section">
+  <h3 class="section-header">Class and Module Index</h3>
+
+  <ul class="link-list">
+  
+    <li><a href="./Assign_Program_BeingOperator.html">Assign_Program_BeingOperator</a>
+  
+    <li><a href="./Attack_WorldOperator.html">Attack_WorldOperator</a>
+  
+    <li><a href="./Being.html">Being</a>
+  
+    <li><a href="./Being_Command_WorldOperator.html">Being_Command_WorldOperator</a>
+  
+    <li><a href="./Command.html">Command</a>
+  
+    <li><a href="./Container.html">Container</a>
+  
+    <li><a href="./Display.html">Display</a>
+  
+    <li><a href="./DumpMutations_BeingOperator.html">DumpMutations_BeingOperator</a>
+  
+    <li><a href="./LineOfCommand.html">LineOfCommand</a>
+  
+    <li><a href="./Location.html">Location</a>
+  
+    <li><a href="./Magic_WorldOperator.html">Magic_WorldOperator</a>
+  
+    <li><a href="./Mutate_Beings_BeingOperator.html">Mutate_Beings_BeingOperator</a>
+  
+    <li><a href="./Object.html">Object</a>
+  
+    <li><a href="./ObjectivePointAssignBeings_WorldOperator.html">ObjectivePointAssignBeings_WorldOperator</a>
+  
+    <li><a href="./Populate_Beings_BeingOperator.html">Populate_Beings_BeingOperator</a>
+  
+    <li><a href="./Program.html">Program</a>
+  
+    <li><a href="./TeamStats_BeingOperator.html">TeamStats_BeingOperator</a>
+  
+    <li><a href="./Thing.html">Thing</a>
+  
+    <li><a href="./World.html">World</a>
+  
+  </ul>
+</nav>
+
+  </div>
+</nav>
+
+<div id="documentation">
+  <h1 class="class">class Being</h1>
+
+  <div id="description" class="description">
+    
+<p>`</p>
+
+<p>…`.&#39;#.“      <a href="Being.html">Being</a></p>
+
+<pre>,,,....``</pre>
+
+  </div><!-- description -->
+
+  
+  
+  
+  <section id="5Buntitled-5D" class="documentation-section">
+    
+
+    
+
+    
+
+    
+    <!-- Attributes -->
+    <section id="attribute-method-details" class="method-section section">
+      <h3 class="section-header">Attributes</h3>
+
+      
+      <div id="attribute-i-objective_points" class="method-detail">
+        <div class="method-heading attribute-method-heading">
+          <span class="method-name">objective_points</span><span
+            class="attribute-access-type">[RW]</span>
+        </div>
+
+        <div class="method-description">
+        
+        
+        
+        </div>
+      </div>
+      
+      <div id="attribute-i-points" class="method-detail">
+        <div class="method-heading attribute-method-heading">
+          <span class="method-name">points</span><span
+            class="attribute-access-type">[RW]</span>
+        </div>
+
+        <div class="method-description">
+        
+        
+        
+        </div>
+      </div>
+      
+      <div id="attribute-i-program" class="method-detail">
+        <div class="method-heading attribute-method-heading">
+          <span class="method-name">program</span><span
+            class="attribute-access-type">[RW]</span>
+        </div>
+
+        <div class="method-description">
+        
+        
+        
+        </div>
+      </div>
+      
+      <div id="attribute-i-team" class="method-detail">
+        <div class="method-heading attribute-method-heading">
+          <span class="method-name">team</span><span
+            class="attribute-access-type">[RW]</span>
+        </div>
+
+        <div class="method-description">
+        
+        
+        
+        </div>
+      </div>
+      
+    </section><!-- attribute-method-details -->
+    
+
+    <!-- Methods -->
+    
+     <section id="public-class-5Buntitled-5D-method-details" class="method-section section">
+      <h3 class="section-header">Public Class Methods</h3>
+
+    
+      <div id="method-c-new" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">new</span><span
+            class="method-args">(filename = nil)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+            <div class="method-calls-super">
+              Calls superclass method
+              <a href="Thing.html#method-c-new">Thing.new</a>
+            </div>
+          
+
+          
+          <div class="method-source-code" id="new-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 246</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">initialize</span>(<span class="ruby-identifier">filename</span> = <span class="ruby-keyword">nil</span>)
+  <span class="ruby-ivar">@points</span> = <span class="ruby-value">1</span>
+  <span class="ruby-ivar">@program</span> = <span class="ruby-string">&#39;&#39;</span>
+  <span class="ruby-ivar">@team</span> = <span class="ruby-identifier">$team_number</span>
+  <span class="ruby-ivar">@objective_points</span> = <span class="ruby-value">0</span>
+  <span class="ruby-keyword">super</span>(<span class="ruby-identifier">filename</span>)
+  <span class="ruby-identifier">$buffable_stats</span>.<span class="ruby-identifier">each</span> <span class="ruby-keyword">do</span> <span class="ruby-operator">|</span><span class="ruby-identifier">buffable_stat</span><span class="ruby-operator">|</span>
+    <span class="ruby-identifier">metaclass</span>.<span class="ruby-identifier">instance_eval</span> <span class="ruby-keyword">do</span>
+      <span class="ruby-identifier">define_method</span>(<span class="ruby-identifier">buffable_stat</span>) {
+        <span class="ruby-identifier">buff_value</span> = <span class="ruby-value">0</span>
+        <span class="ruby-identifier">buffs</span> = <span class="ruby-identifier">instance_variable_get</span>(<span class="ruby-node">&quot;@#{buffable_stat}_buffs&quot;</span>)
+        <span class="ruby-keyword">if</span> <span class="ruby-operator">!</span><span class="ruby-identifier">buffs</span>.<span class="ruby-identifier">nil?</span> <span class="ruby-operator">&amp;&amp;</span> (<span class="ruby-identifier">buffs</span>.<span class="ruby-identifier">size</span> <span class="ruby-operator">&gt;</span> <span class="ruby-value">0</span>)
+          <span class="ruby-identifier">buff_value</span> = <span class="ruby-identifier">buffs</span>.<span class="ruby-identifier">pop</span>.<span class="ruby-identifier">to_i</span>
+        <span class="ruby-keyword">end</span>
+        <span class="ruby-keyword">return</span> <span class="ruby-identifier">instance_variable_get</span>(<span class="ruby-node">&quot;@#{buffable_stat}&quot;</span>).<span class="ruby-identifier">to_i</span> <span class="ruby-operator">+</span> <span class="ruby-identifier">buff_value</span>
+      }
+    <span class="ruby-keyword">end</span>
+  <span class="ruby-keyword">end</span>
+  <span class="ruby-keyword">self</span>.<span class="ruby-identifier">apply_mutation</span>
+<span class="ruby-keyword">end</span></pre>
+          </div><!-- new-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- new-method -->
+
+    
+    </section><!-- public-class-method-details -->
+  
+     <section id="public-instance-5Buntitled-5D-method-details" class="method-section section">
+      <h3 class="section-header">Public Instance Methods</h3>
+
+    
+      <div id="method-i-apply_mutation" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">apply_mutation</span><span
+            class="method-args">()</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="apply_mutation-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 276</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">apply_mutation</span>
+  <span class="ruby-identifier">current_mutation</span> = <span class="ruby-keyword">self</span>.<span class="ruby-identifier">instance_variable_get</span>(<span class="ruby-string">&quot;@mutation&quot;</span>)
+  <span class="ruby-keyword">if</span> <span class="ruby-operator">!</span><span class="ruby-identifier">current_mutation</span>.<span class="ruby-identifier">nil?</span> <span class="ruby-operator">&amp;&amp;</span> <span class="ruby-identifier">current_mutation</span>.<span class="ruby-identifier">length</span> <span class="ruby-operator">&gt;</span> <span class="ruby-value">0</span>
+    <span class="ruby-identifier">mutation_array</span> = <span class="ruby-identifier">current_mutation</span>.<span class="ruby-identifier">split</span>(<span class="ruby-string">&quot; &quot;</span>)
+    <span class="ruby-identifier">x</span> = <span class="ruby-value">0</span>
+    <span class="ruby-identifier">x_max</span> = <span class="ruby-identifier">mutation_array</span>.<span class="ruby-identifier">size</span>
+    <span class="ruby-keyword">while</span> <span class="ruby-identifier">x</span> <span class="ruby-operator">&lt;</span> <span class="ruby-identifier">x_max</span>
+      <span class="ruby-identifier">current_mutation</span> = <span class="ruby-identifier">mutation_array</span>[<span class="ruby-identifier">x</span>]
+      <span class="ruby-keyword">if</span> <span class="ruby-identifier">current_mutation</span> <span class="ruby-operator">!=</span> <span class="ruby-string">&#39;magics&#39;</span>
+        <span class="ruby-keyword">self</span>.<span class="ruby-identifier">instance_variable_set</span>(<span class="ruby-node">&quot;@#{current_mutation}&quot;</span>, <span class="ruby-keyword">self</span>.<span class="ruby-identifier">instance_variable_get</span>(<span class="ruby-node">&quot;@#{current_mutation}&quot;</span>).<span class="ruby-identifier">to_i</span> <span class="ruby-operator">+</span> <span class="ruby-value">1</span>)
+      <span class="ruby-keyword">else</span>
+        <span class="ruby-identifier">x</span> <span class="ruby-operator">+=</span> <span class="ruby-value">1</span>
+        <span class="ruby-identifier">magic_mutation</span> = <span class="ruby-identifier">mutation_array</span>[<span class="ruby-identifier">x</span>]
+        <span class="ruby-identifier">magic_list</span> = <span class="ruby-keyword">self</span>.<span class="ruby-identifier">instance_variable_get</span>(<span class="ruby-string">&quot;@magics&quot;</span>)
+        <span class="ruby-keyword">if</span> <span class="ruby-identifier">magic_list</span>.<span class="ruby-identifier">nil?</span>
+          <span class="ruby-identifier">magic_list</span> = <span class="ruby-string">&#39;&#39;</span>
+        <span class="ruby-keyword">end</span>
+        <span class="ruby-identifier">buff_amount_addition</span> = (<span class="ruby-identifier">magic_mutation</span>[<span class="ruby-value">-1</span>].<span class="ruby-identifier">to_i</span> <span class="ruby-operator">-</span> <span class="ruby-value">1</span>)
+        <span class="ruby-keyword">if</span> <span class="ruby-identifier">buff_amount_addition</span> <span class="ruby-operator">&gt;</span> <span class="ruby-value">1</span>
+          <span class="ruby-ivar">@points</span> <span class="ruby-operator">+=</span> <span class="ruby-identifier">buff_amount_addition</span>
+        <span class="ruby-keyword">end</span>
+        <span class="ruby-identifier">magic_list</span>.<span class="ruby-identifier">concat</span>(<span class="ruby-node">&quot; #{magic_mutation}&quot;</span>)
+        <span class="ruby-keyword">self</span>.<span class="ruby-identifier">instance_variable_set</span>(<span class="ruby-string">&quot;@magics&quot;</span>, <span class="ruby-identifier">magic_list</span>)
+        <span class="ruby-keyword">self</span>.<span class="ruby-identifier">class</span>.<span class="ruby-identifier">send</span>(<span class="ruby-value">:attr_accessor</span>, <span class="ruby-string">&#39;magics&#39;</span>)
+      <span class="ruby-keyword">end</span>
+      <span class="ruby-ivar">@points</span> <span class="ruby-operator">+=</span> <span class="ruby-value">1</span>
+      <span class="ruby-identifier">x</span> <span class="ruby-operator">+=</span> <span class="ruby-value">1</span>
+    <span class="ruby-keyword">end</span>
+  <span class="ruby-keyword">end</span>
+<span class="ruby-keyword">end</span></pre>
+          </div><!-- apply_mutation-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- apply_mutation-method -->
+
+    
+      <div id="method-i-get_brief_stats" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">get_brief_stats</span><span
+            class="method-args">()</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="get_brief_stats-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 271</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">get_brief_stats</span>
+  <span class="ruby-identifier">current_points</span> = <span class="ruby-identifier">get_points_including_objectives</span>
+  <span class="ruby-identifier">return_string</span> = <span class="ruby-node">&quot;#{current_points} Points -#{self.name}: wounds: #{self.wounds}&quot;</span>
+<span class="ruby-keyword">end</span></pre>
+          </div><!-- get_brief_stats-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- get_brief_stats-method -->
+
+    
+      <div id="method-i-get_points_including_objectives" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">get_points_including_objectives</span><span
+            class="method-args">()</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="get_points_including_objectives-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 267</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">get_points_including_objectives</span>
+  <span class="ruby-keyword">return</span> <span class="ruby-ivar">@points</span> <span class="ruby-operator">+</span> (<span class="ruby-ivar">@objective_points</span> <span class="ruby-operator">*</span> <span class="ruby-identifier">$objective_multiplier</span>)
+<span class="ruby-keyword">end</span></pre>
+          </div><!-- get_points_including_objectives-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- get_points_including_objectives-method -->
+
+    
+      <div id="method-i-mutate" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">mutate</span><span
+            class="method-args">(num_of_mutations = 5)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="mutate-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 307</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">mutate</span>(<span class="ruby-identifier">num_of_mutations</span> = <span class="ruby-value">5</span>)
+  <span class="ruby-identifier">current_mutation</span> = []
+  <span class="ruby-identifier">mutation_number</span> = <span class="ruby-value">0</span>
+  <span class="ruby-keyword">while</span> <span class="ruby-identifier">mutation_number</span> <span class="ruby-operator">&lt;</span> <span class="ruby-identifier">num_of_mutations</span> <span class="ruby-keyword">do</span>
+    <span class="ruby-identifier">rand_num</span> = <span class="ruby-identifier">$randomizer</span>.<span class="ruby-identifier">rand</span>(<span class="ruby-value">100</span>)
+    <span class="ruby-identifier">stat_to_mutate</span> = <span class="ruby-identifier">$mutatable_stats</span>[<span class="ruby-identifier">rand_num</span> <span class="ruby-operator">%</span> <span class="ruby-identifier">$mutatable_stats</span>.<span class="ruby-identifier">size</span>]
+    <span class="ruby-keyword">if</span> <span class="ruby-identifier">stat_to_mutate</span> <span class="ruby-operator">!=</span> <span class="ruby-string">&#39;magics&#39;</span>
+      <span class="ruby-identifier">current_mutation</span>.<span class="ruby-identifier">push</span>(<span class="ruby-identifier">stat_to_mutate</span>)
+      <span class="ruby-identifier">new_stat_value</span> = <span class="ruby-keyword">self</span>.<span class="ruby-identifier">instance_variable_get</span>(<span class="ruby-node">&quot;@#{stat_to_mutate}&quot;</span>).<span class="ruby-identifier">to_i</span> <span class="ruby-operator">+</span> <span class="ruby-value">1</span>
+      <span class="ruby-identifier">mutation_number</span> <span class="ruby-operator">+=</span> <span class="ruby-value">1</span>
+    <span class="ruby-keyword">else</span>
+      <span class="ruby-identifier">rand_num</span> = <span class="ruby-identifier">$randomizer</span>.<span class="ruby-identifier">rand</span>(<span class="ruby-value">100</span>)
+      <span class="ruby-identifier">stat_to_buff</span> = <span class="ruby-identifier">$buffable_stats</span>[<span class="ruby-identifier">rand_num</span> <span class="ruby-operator">%</span> <span class="ruby-identifier">$buffable_stats</span>.<span class="ruby-identifier">size</span>]
+      <span class="ruby-identifier">putsl</span> <span class="ruby-node">&quot;stat_to_buff #{stat_to_buff}&quot;</span>
+      <span class="ruby-identifier">new_stat_value</span> = <span class="ruby-keyword">self</span>.<span class="ruby-identifier">instance_variable_get</span>(<span class="ruby-node">&quot;@#{stat_to_mutate}&quot;</span>)
+      <span class="ruby-keyword">if</span> <span class="ruby-identifier">new_stat_value</span>.<span class="ruby-identifier">nil?</span>
+        <span class="ruby-identifier">new_stat_value</span> = <span class="ruby-string">&quot;&quot;</span>
+      <span class="ruby-keyword">end</span>
+      <span class="ruby-identifier">buff_type</span> = <span class="ruby-string">&quot;+&quot;</span>
+      <span class="ruby-keyword">if</span> <span class="ruby-identifier">rand</span>(<span class="ruby-value">2</span>) <span class="ruby-operator">==</span> <span class="ruby-value">0</span>
+        <span class="ruby-identifier">buff_type</span> = <span class="ruby-string">&quot;-&quot;</span>
+      <span class="ruby-keyword">end</span>
+      <span class="ruby-identifier">buff_amount</span> = <span class="ruby-value">1</span> <span class="ruby-operator">+</span> (<span class="ruby-identifier">$randomizer</span>.<span class="ruby-identifier">rand</span>(<span class="ruby-value">100</span>) <span class="ruby-operator">%</span> (<span class="ruby-identifier">num_of_mutations</span> <span class="ruby-operator">-</span> <span class="ruby-identifier">mutation_number</span>))
+      <span class="ruby-identifier">mutation_number</span> <span class="ruby-operator">+=</span> <span class="ruby-identifier">buff_amount</span>
+      <span class="ruby-identifier">mutation_string</span> = <span class="ruby-node">&quot; #{buff_type}#{stat_to_buff}#{buff_amount}&quot;</span>
+      <span class="ruby-identifier">new_stat_value</span>.<span class="ruby-identifier">concat</span>(<span class="ruby-identifier">mutation_string</span>)
+      <span class="ruby-identifier">current_mutation</span>.<span class="ruby-identifier">push</span>(<span class="ruby-node">&quot;magics #{mutation_string}&quot;</span>)
+    <span class="ruby-keyword">end</span>
+  <span class="ruby-keyword">end</span>
+  <span class="ruby-keyword">self</span>.<span class="ruby-identifier">instance_variable_set</span>(<span class="ruby-string">&quot;@mutation&quot;</span>, <span class="ruby-identifier">current_mutation</span>.<span class="ruby-identifier">join</span>(<span class="ruby-string">&quot; &quot;</span>))
+  <span class="ruby-keyword">self</span>.<span class="ruby-identifier">apply_mutation</span>
+<span class="ruby-keyword">end</span></pre>
+          </div><!-- mutate-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- mutate-method -->
+
+    
+      <div id="method-i-print_this_baby_out" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">print_this_baby_out</span><span
+            class="method-args">(omitted_variables = [], display = [])</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+            <div class="method-calls-super">
+              Calls superclass method
+              <a href="Thing.html#method-i-print_this_baby_out">Thing#print_this_baby_out</a>
+            </div>
+          
+
+          
+          <div class="method-source-code" id="print_this_baby_out-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 238</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">print_this_baby_out</span>(<span class="ruby-identifier">omitted_variables</span> = [], <span class="ruby-identifier">display</span> = [])
+  <span class="ruby-identifier">being_omit</span> = [<span class="ruby-string">&#39;initialized&#39;</span>, <span class="ruby-string">&#39;filename&#39;</span>]
+  <span class="ruby-identifier">being_omit</span>.<span class="ruby-identifier">each</span> <span class="ruby-keyword">do</span> <span class="ruby-operator">|</span><span class="ruby-identifier">bo</span><span class="ruby-operator">|</span>
+    <span class="ruby-identifier">omitted_variables</span>.<span class="ruby-identifier">push</span>(<span class="ruby-identifier">bo</span>)
+  <span class="ruby-keyword">end</span>
+  <span class="ruby-keyword">super</span> <span class="ruby-identifier">omitted_variables</span>
+<span class="ruby-keyword">end</span></pre>
+          </div><!-- print_this_baby_out-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- print_this_baby_out-method -->
+
+    
+    </section><!-- public-instance-method-details -->
+  
+  </section><!-- 5Buntitled-5D -->
+
+</div><!-- documentation -->
+
+
+<footer id="validator-badges">
+  <p><a href="http://validator.w3.org/check/referer">[Validate]</a>
+  <p>Generated by <a href="https://github.com/rdoc/rdoc">RDoc</a> 4.0.0.
+  <p>Generated with the <a href="http://deveiate.org/projects/Darkfish-Rdoc/">Darkfish Rdoc Generator</a> 3.
+</footer>
+

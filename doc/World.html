@@ -1,0 +1,794 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+
+<title>class World - RDoc Documentation</title>
+
+<link type="text/css" media="screen" href="./rdoc.css" rel="stylesheet">
+
+<script type="text/javascript">
+  var rdoc_rel_prefix = "./";
+</script>
+
+<script type="text/javascript" charset="utf-8" src="./js/jquery.js"></script>
+<script type="text/javascript" charset="utf-8" src="./js/navigation.js"></script>
+<script type="text/javascript" charset="utf-8" src="./js/search_index.js"></script>
+<script type="text/javascript" charset="utf-8" src="./js/search.js"></script>
+<script type="text/javascript" charset="utf-8" src="./js/searcher.js"></script>
+<script type="text/javascript" charset="utf-8" src="./js/darkfish.js"></script>
+
+
+<body id="top" class="class">
+<nav id="metadata">
+  <nav id="home-section" class="section">
+  <h3 class="section-header">
+    <a href="./index.html">Home</a>
+    <a href="./table_of_contents.html#classes">Classes</a>
+    <a href="./table_of_contents.html#methods">Methods</a>
+  </h3>
+</nav>
+
+
+  <nav id="search-section" class="section project-section" class="initially-hidden">
+  <form action="#" method="get" accept-charset="utf-8">
+    <h3 class="section-header">
+      <input type="text" name="search" placeholder="Search" id="search-field"
+             title="Type to search, Up and Down to navigate, Enter to load">
+    </h3>
+  </form>
+
+  <ul id="search-results" class="initially-hidden"></ul>
+</nav>
+
+
+  
+
+  <div id="file-metadata">
+    <nav id="file-list-section" class="section">
+  <h3 class="section-header">Defined In</h3>
+  <ul>
+    <li>emergent.rb
+  </ul>
+</nav>
+
+    
+  </div>
+
+  <div id="class-metadata">
+    
+    <nav id="parent-class-section" class="section">
+  <h3 class="section-header">Parent</h3>
+  
+  <p class="link"><a href="Thing.html">Thing</a>
+  
+</nav>
+
+    
+    
+    <!-- Method Quickref -->
+<nav id="method-list-section" class="section">
+  <h3 class="section-header">Methods</h3>
+
+  <ul class="link-list">
+    
+    <li class="calls-super" ><a href="#method-c-new">::new</a>
+    
+    <li ><a href="#method-i-add">#add</a>
+    
+    <li ><a href="#method-i-blocked_location-3F">#blocked_location?</a>
+    
+    <li ><a href="#method-i-can_add-3F">#can_add?</a>
+    
+    <li ><a href="#method-i-colorize_location">#colorize_location</a>
+    
+    <li ><a href="#method-i-get">#get</a>
+    
+    <li ><a href="#method-i-get_location">#get_location</a>
+    
+    <li ><a href="#method-i-get_space_dimensions">#get_space_dimensions</a>
+    
+    <li ><a href="#method-i-objective_location-3F">#objective_location?</a>
+    
+    <li ><a href="#method-i-operate_over_space">#operate_over_space</a>
+    
+    <li ><a href="#method-i-print_map">#print_map</a>
+    
+    <li class="calls-super" ><a href="#method-i-printl_this_baby_out">#printl_this_baby_out</a>
+    
+    <li ><a href="#method-i-remove">#remove</a>
+    
+  </ul>
+</nav>
+
+  </div>
+
+  <div id="project-metadata">
+    
+    <nav id="classindex-section" class="section project-section">
+  <h3 class="section-header">Class and Module Index</h3>
+
+  <ul class="link-list">
+  
+    <li><a href="./Assign_Program_BeingOperator.html">Assign_Program_BeingOperator</a>
+  
+    <li><a href="./Attack_WorldOperator.html">Attack_WorldOperator</a>
+  
+    <li><a href="./Being.html">Being</a>
+  
+    <li><a href="./Being_Command_WorldOperator.html">Being_Command_WorldOperator</a>
+  
+    <li><a href="./Command.html">Command</a>
+  
+    <li><a href="./Container.html">Container</a>
+  
+    <li><a href="./Display.html">Display</a>
+  
+    <li><a href="./DumpMutations_BeingOperator.html">DumpMutations_BeingOperator</a>
+  
+    <li><a href="./LineOfCommand.html">LineOfCommand</a>
+  
+    <li><a href="./Location.html">Location</a>
+  
+    <li><a href="./Magic_WorldOperator.html">Magic_WorldOperator</a>
+  
+    <li><a href="./Mutate_Beings_BeingOperator.html">Mutate_Beings_BeingOperator</a>
+  
+    <li><a href="./Object.html">Object</a>
+  
+    <li><a href="./ObjectivePointAssignBeings_WorldOperator.html">ObjectivePointAssignBeings_WorldOperator</a>
+  
+    <li><a href="./Populate_Beings_BeingOperator.html">Populate_Beings_BeingOperator</a>
+  
+    <li><a href="./Program.html">Program</a>
+  
+    <li><a href="./TeamStats_BeingOperator.html">TeamStats_BeingOperator</a>
+  
+    <li><a href="./Thing.html">Thing</a>
+  
+    <li><a href="./World.html">World</a>
+  
+  </ul>
+</nav>
+
+  </div>
+</nav>
+
+<div id="documentation">
+  <h1 class="class">class World</h1>
+
+  <div id="description" class="description">
+    
+<p>.……^^^%%%%…~~~~~ .…..^^%.….World.~~ .….^%%%%%.…..~~~~~</p>
+
+  </div><!-- description -->
+
+  
+  
+  
+  <section id="5Buntitled-5D" class="documentation-section">
+    
+
+    
+
+    
+
+    
+
+    <!-- Methods -->
+    
+     <section id="public-class-5Buntitled-5D-method-details" class="method-section section">
+      <h3 class="section-header">Public Class Methods</h3>
+
+    
+      <div id="method-c-new" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">new</span><span
+            class="method-args">(filename)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+            <div class="method-calls-super">
+              Calls superclass method
+              <a href="Thing.html#method-c-new">Thing.new</a>
+            </div>
+          
+
+          
+          <div class="method-source-code" id="new-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 346</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">initialize</span>(<span class="ruby-identifier">filename</span>)
+  <span class="ruby-keyword">super</span>(<span class="ruby-identifier">filename</span>)
+  <span class="ruby-ivar">@space</span> = []
+  <span class="ruby-identifier">y_axis</span> = <span class="ruby-value">0</span>
+  <span class="ruby-keyword">while</span> <span class="ruby-identifier">instance_variable_get</span>(<span class="ruby-node">&quot;@y#{y_axis}&quot;</span>) <span class="ruby-operator">!=</span> <span class="ruby-keyword">nil</span>
+    <span class="ruby-identifier">x_as_string</span> = <span class="ruby-identifier">instance_variable_get</span>(<span class="ruby-node">&quot;@y#{y_axis}&quot;</span>)
+    <span class="ruby-identifier">x_max</span> = <span class="ruby-identifier">x_as_string</span>.<span class="ruby-identifier">length</span>
+    <span class="ruby-identifier">x_space</span> = []
+    <span class="ruby-keyword">if</span> <span class="ruby-identifier">x_max</span> <span class="ruby-operator">&gt;</span> <span class="ruby-value">0</span>
+      <span class="ruby-identifier">x_max</span> <span class="ruby-operator">-=</span> <span class="ruby-value">1</span>
+      <span class="ruby-keyword">for</span> <span class="ruby-identifier">x_axis</span> <span class="ruby-keyword">in</span> <span class="ruby-value">0</span><span class="ruby-operator">..</span><span class="ruby-identifier">x_max</span>
+        <span class="ruby-identifier">current_space</span> = <span class="ruby-constant">Location</span>.<span class="ruby-identifier">new</span>
+        <span class="ruby-identifier">current_space</span>.<span class="ruby-identifier">add</span>(<span class="ruby-identifier">x_as_string</span>[<span class="ruby-identifier">x_axis</span>])
+        <span class="ruby-identifier">x_space</span>[<span class="ruby-identifier">x_axis</span>] = <span class="ruby-identifier">current_space</span>
+      <span class="ruby-keyword">end</span>
+    <span class="ruby-keyword">end</span>
+    <span class="ruby-ivar">@space</span>[<span class="ruby-identifier">y_axis</span>] = <span class="ruby-identifier">x_space</span>
+    <span class="ruby-identifier">y_axis</span> <span class="ruby-operator">+=</span> <span class="ruby-value">1</span>
+  <span class="ruby-keyword">end</span>
+<span class="ruby-keyword">end</span></pre>
+          </div><!-- new-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- new-method -->
+
+    
+    </section><!-- public-class-method-details -->
+  
+     <section id="public-instance-5Buntitled-5D-method-details" class="method-section section">
+      <h3 class="section-header">Public Instance Methods</h3>
+
+    
+      <div id="method-i-add" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">add</span><span
+            class="method-args">(obj, x, y)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="add-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 412</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">add</span>(<span class="ruby-identifier">obj</span>, <span class="ruby-identifier">x</span>, <span class="ruby-identifier">y</span>)
+  <span class="ruby-identifier">location</span> = <span class="ruby-keyword">self</span>.<span class="ruby-identifier">get_location</span>(<span class="ruby-identifier">x</span>, <span class="ruby-identifier">y</span>)
+  <span class="ruby-keyword">unless</span> <span class="ruby-identifier">location</span>.<span class="ruby-identifier">nil?</span>
+    <span class="ruby-identifier">location</span>.<span class="ruby-identifier">add</span>(<span class="ruby-identifier">obj</span>)
+    <span class="ruby-keyword">return</span> <span class="ruby-identifier">obj</span>
+  <span class="ruby-keyword">end</span>
+  <span class="ruby-keyword">return</span> <span class="ruby-keyword">nil</span>
+<span class="ruby-keyword">end</span></pre>
+          </div><!-- add-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- add-method -->
+
+    
+      <div id="method-i-blocked_location-3F" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">blocked_location?</span><span
+            class="method-args">(world_location_symbol)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="blocked_location-3F-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 440</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">blocked_location?</span>(<span class="ruby-identifier">world_location_symbol</span>)
+  <span class="ruby-keyword">if</span> <span class="ruby-identifier">world_location_symbol</span>.<span class="ruby-identifier">nil?</span>
+    <span class="ruby-keyword">return</span> <span class="ruby-keyword">false</span>
+  <span class="ruby-keyword">end</span>
+  <span class="ruby-keyword">if</span> <span class="ruby-operator">!</span><span class="ruby-ivar">@blocks</span>.<span class="ruby-identifier">nil?</span> <span class="ruby-operator">&amp;&amp;</span> <span class="ruby-ivar">@blocks</span>.<span class="ruby-identifier">include?</span>(<span class="ruby-identifier">world_location_symbol</span>)
+    <span class="ruby-keyword">return</span> <span class="ruby-keyword">true</span>
+  <span class="ruby-keyword">end</span>
+  <span class="ruby-keyword">return</span> <span class="ruby-keyword">false</span>
+<span class="ruby-keyword">end</span></pre>
+          </div><!-- blocked_location-3F-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- blocked_location-3F-method -->
+
+    
+      <div id="method-i-can_add-3F" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">can_add?</span><span
+            class="method-args">(what_to_add, x, y)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="can_add-3F-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 386</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">can_add?</span>(<span class="ruby-identifier">what_to_add</span>, <span class="ruby-identifier">x</span>, <span class="ruby-identifier">y</span>)
+  <span class="ruby-keyword">unless</span> (<span class="ruby-ivar">@space</span>[<span class="ruby-identifier">y</span>].<span class="ruby-identifier">nil?</span> <span class="ruby-operator">||</span> <span class="ruby-identifier">y</span> <span class="ruby-operator">&gt;=</span> <span class="ruby-ivar">@space</span>.<span class="ruby-identifier">size</span> <span class="ruby-operator">||</span>
+          <span class="ruby-ivar">@space</span>[<span class="ruby-identifier">y</span>][<span class="ruby-identifier">x</span>].<span class="ruby-identifier">nil?</span> <span class="ruby-operator">||</span> <span class="ruby-identifier">x</span> <span class="ruby-operator">&gt;=</span> <span class="ruby-ivar">@space</span>[<span class="ruby-identifier">y</span>].<span class="ruby-identifier">size</span>)
+    <span class="ruby-keyword">if</span> <span class="ruby-operator">!</span><span class="ruby-ivar">@blocks</span>.<span class="ruby-identifier">nil?</span>
+      <span class="ruby-identifier">initial_location_strings</span> = <span class="ruby-ivar">@space</span>[<span class="ruby-identifier">y</span>][<span class="ruby-identifier">x</span>].<span class="ruby-identifier">get_objects_of_type</span>(<span class="ruby-constant">String</span>)
+      <span class="ruby-keyword">if</span> <span class="ruby-identifier">initial_location_strings</span> <span class="ruby-operator">!=</span> <span class="ruby-keyword">nil</span>
+        <span class="ruby-keyword">if</span> <span class="ruby-identifier">initial_location_strings</span>[<span class="ruby-value">0</span>] <span class="ruby-operator">!=</span> <span class="ruby-keyword">nil</span>
+          <span class="ruby-keyword">if</span> <span class="ruby-ivar">@blocks</span>.<span class="ruby-identifier">include?</span>(<span class="ruby-identifier">initial_location_strings</span>[<span class="ruby-value">0</span>])
+            <span class="ruby-keyword">return</span> <span class="ruby-keyword">false</span>
+          <span class="ruby-keyword">end</span>
+        <span class="ruby-keyword">end</span>
+      <span class="ruby-keyword">end</span>
+    <span class="ruby-keyword">end</span>
+    <span class="ruby-keyword">return</span> <span class="ruby-ivar">@space</span>[<span class="ruby-identifier">y</span>][<span class="ruby-identifier">x</span>].<span class="ruby-identifier">can_add?</span>(<span class="ruby-identifier">what_to_add</span>)
+  <span class="ruby-keyword">end</span>
+  <span class="ruby-keyword">return</span> <span class="ruby-keyword">false</span>
+<span class="ruby-keyword">end</span></pre>
+          </div><!-- can_add-3F-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- can_add-3F-method -->
+
+    
+      <div id="method-i-colorize_location" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">colorize_location</span><span
+            class="method-args">(world_location_to_print)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="colorize_location-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 450</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">colorize_location</span>(<span class="ruby-identifier">world_location_to_print</span>)
+  <span class="ruby-keyword">if</span> <span class="ruby-identifier">world_location_to_print</span>.<span class="ruby-identifier">nil?</span>
+    <span class="ruby-keyword">return</span> <span class="ruby-identifier">world_location_to_print</span>
+  <span class="ruby-keyword">end</span>
+  <span class="ruby-keyword">if</span> <span class="ruby-identifier">blocked_location?</span>(<span class="ruby-identifier">world_location_to_print</span>)
+    <span class="ruby-keyword">return</span> <span class="ruby-identifier">blue</span>(<span class="ruby-identifier">world_location_to_print</span>)
+  <span class="ruby-keyword">elsif</span> <span class="ruby-identifier">objective_location?</span>(<span class="ruby-identifier">world_location_to_print</span>)
+    <span class="ruby-keyword">return</span> <span class="ruby-identifier">bold</span>(<span class="ruby-identifier">magneta</span>(<span class="ruby-identifier">world_location_to_print</span>))
+  <span class="ruby-keyword">end</span>
+  <span class="ruby-keyword">return</span> <span class="ruby-identifier">world_location_to_print</span>
+<span class="ruby-keyword">end</span></pre>
+          </div><!-- colorize_location-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- colorize_location-method -->
+
+    
+      <div id="method-i-get" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">get</span><span
+            class="method-args">(type='being', x=0, y=0)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="get-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 404</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">get</span>(<span class="ruby-identifier">type</span>=<span class="ruby-string">&#39;being&#39;</span>, <span class="ruby-identifier">x</span>=<span class="ruby-value">0</span>, <span class="ruby-identifier">y</span>=<span class="ruby-value">0</span>)
+  <span class="ruby-identifier">location</span> = <span class="ruby-keyword">self</span>.<span class="ruby-identifier">get_location</span>(<span class="ruby-identifier">x</span>, <span class="ruby-identifier">y</span>)
+  <span class="ruby-keyword">unless</span> <span class="ruby-identifier">location</span>.<span class="ruby-identifier">nil?</span> <span class="ruby-operator">||</span> (<span class="ruby-identifier">x</span> <span class="ruby-operator">&lt;</span> <span class="ruby-value">0</span>) <span class="ruby-operator">||</span> (<span class="ruby-identifier">y</span> <span class="ruby-operator">&lt;</span> <span class="ruby-value">0</span>)
+    <span class="ruby-keyword">return</span> <span class="ruby-identifier">location</span>.<span class="ruby-identifier">get_objects_of_type</span>(<span class="ruby-identifier">type</span>)
+  <span class="ruby-keyword">end</span>
+  <span class="ruby-keyword">return</span> <span class="ruby-keyword">nil</span>
+<span class="ruby-keyword">end</span></pre>
+          </div><!-- get-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- get-method -->
+
+    
+      <div id="method-i-get_location" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">get_location</span><span
+            class="method-args">(x, y)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="get_location-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 377</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">get_location</span>(<span class="ruby-identifier">x</span>, <span class="ruby-identifier">y</span>)
+  <span class="ruby-keyword">unless</span> (<span class="ruby-identifier">x</span> <span class="ruby-operator">&lt;</span> <span class="ruby-value">0</span> <span class="ruby-operator">||</span> <span class="ruby-identifier">y</span> <span class="ruby-operator">&lt;</span> <span class="ruby-value">0</span> <span class="ruby-operator">||</span>
+          <span class="ruby-ivar">@space</span>[<span class="ruby-identifier">y</span>].<span class="ruby-identifier">nil?</span> <span class="ruby-operator">||</span> <span class="ruby-identifier">y</span> <span class="ruby-operator">&gt;=</span> <span class="ruby-ivar">@space</span>.<span class="ruby-identifier">size</span> <span class="ruby-operator">||</span>
+          <span class="ruby-ivar">@space</span>[<span class="ruby-identifier">y</span>][<span class="ruby-identifier">x</span>].<span class="ruby-identifier">nil?</span> <span class="ruby-operator">||</span> <span class="ruby-identifier">x</span> <span class="ruby-operator">&gt;=</span> <span class="ruby-ivar">@space</span>[<span class="ruby-identifier">y</span>].<span class="ruby-identifier">size</span>)
+    <span class="ruby-keyword">return</span> <span class="ruby-ivar">@space</span>[<span class="ruby-identifier">y</span>][<span class="ruby-identifier">x</span>]
+  <span class="ruby-keyword">end</span>
+  <span class="ruby-keyword">return</span> <span class="ruby-keyword">nil</span>
+<span class="ruby-keyword">end</span></pre>
+          </div><!-- get_location-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- get_location-method -->
+
+    
+      <div id="method-i-get_space_dimensions" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">get_space_dimensions</span><span
+            class="method-args">()</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="get_space_dimensions-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 367</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">get_space_dimensions</span>
+  <span class="ruby-identifier">returned_array</span> = []
+  <span class="ruby-identifier">x_current</span> = <span class="ruby-value">0</span>
+  <span class="ruby-ivar">@space</span>.<span class="ruby-identifier">each</span> <span class="ruby-keyword">do</span> <span class="ruby-operator">|</span><span class="ruby-identifier">x_axis</span><span class="ruby-operator">|</span>
+    <span class="ruby-identifier">returned_array</span>[<span class="ruby-identifier">x_current</span>] = <span class="ruby-identifier">x_axis</span>.<span class="ruby-identifier">length</span>
+    <span class="ruby-identifier">x_current</span> <span class="ruby-operator">+=</span> <span class="ruby-value">1</span>
+  <span class="ruby-keyword">end</span>
+  <span class="ruby-identifier">returned_array</span>
+<span class="ruby-keyword">end</span></pre>
+          </div><!-- get_space_dimensions-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- get_space_dimensions-method -->
+
+    
+      <div id="method-i-objective_location-3F" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">objective_location?</span><span
+            class="method-args">(world_location_symbol)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="objective_location-3F-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 430</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">objective_location?</span>(<span class="ruby-identifier">world_location_symbol</span>)
+  <span class="ruby-keyword">if</span> <span class="ruby-identifier">world_location_symbol</span>.<span class="ruby-identifier">nil?</span>
+    <span class="ruby-keyword">return</span> <span class="ruby-keyword">false</span>
+  <span class="ruby-keyword">end</span>
+  <span class="ruby-keyword">if</span> <span class="ruby-operator">!</span><span class="ruby-ivar">@objectives</span>.<span class="ruby-identifier">nil?</span> <span class="ruby-operator">&amp;&amp;</span> <span class="ruby-ivar">@objectives</span>.<span class="ruby-identifier">include?</span>(<span class="ruby-identifier">world_location_symbol</span>)
+    <span class="ruby-keyword">return</span> <span class="ruby-keyword">true</span>
+  <span class="ruby-keyword">end</span>
+  <span class="ruby-keyword">return</span> <span class="ruby-keyword">false</span>
+<span class="ruby-keyword">end</span></pre>
+          </div><!-- objective_location-3F-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- objective_location-3F-method -->
+
+    
+      <div id="method-i-operate_over_space" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">operate_over_space</span><span
+            class="method-args">(operator, displays = [], simultaneous = true, beings = [])</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="operate_over_space-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 507</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">operate_over_space</span>(<span class="ruby-identifier">operator</span>, <span class="ruby-identifier">displays</span> = [], <span class="ruby-identifier">simultaneous</span> = <span class="ruby-keyword">true</span>, <span class="ruby-identifier">beings</span> = [])
+  <span class="ruby-identifier">y</span>=<span class="ruby-value">0</span>
+  <span class="ruby-identifier">world_dimensions</span> = <span class="ruby-keyword">self</span>.<span class="ruby-identifier">get_space_dimensions</span>
+  <span class="ruby-identifier">result_queue</span> = []
+  <span class="ruby-identifier">world_dimensions</span>.<span class="ruby-identifier">each</span> <span class="ruby-keyword">do</span> <span class="ruby-operator">|</span><span class="ruby-identifier">x_size</span><span class="ruby-operator">|</span>
+    <span class="ruby-identifier">x</span>=<span class="ruby-value">0</span>
+    <span class="ruby-keyword">while</span> <span class="ruby-identifier">x</span> <span class="ruby-operator">&lt;</span> <span class="ruby-identifier">x_size</span> <span class="ruby-keyword">do</span>
+      <span class="ruby-identifier">current_result_array</span> = <span class="ruby-identifier">operator</span>.<span class="ruby-identifier">execute</span>(<span class="ruby-keyword">self</span>, <span class="ruby-identifier">x</span>, <span class="ruby-identifier">y</span>)
+      <span class="ruby-keyword">if</span> (<span class="ruby-operator">!</span><span class="ruby-identifier">current_result_array</span>.<span class="ruby-identifier">nil?</span>)
+        <span class="ruby-identifier">current_result_array</span>.<span class="ruby-identifier">each</span> <span class="ruby-keyword">do</span> <span class="ruby-operator">|</span><span class="ruby-identifier">result_to_push</span><span class="ruby-operator">|</span>
+          <span class="ruby-keyword">if</span> <span class="ruby-identifier">simultaneous</span>
+            <span class="ruby-identifier">result_queue</span>.<span class="ruby-identifier">push</span>(<span class="ruby-identifier">result_to_push</span>)
+          <span class="ruby-keyword">else</span>
+            <span class="ruby-identifier">eval</span> <span class="ruby-identifier">result_to_push</span>
+            <span class="ruby-identifier">output_team_stats</span>(<span class="ruby-identifier">beings</span>, <span class="ruby-keyword">self</span>)
+            <span class="ruby-keyword">self</span>.<span class="ruby-identifier">print_map</span>(<span class="ruby-identifier">displays</span>)
+          <span class="ruby-keyword">end</span>
+        <span class="ruby-keyword">end</span>
+      <span class="ruby-keyword">end</span>
+      <span class="ruby-identifier">x</span> <span class="ruby-operator">+=</span> <span class="ruby-value">1</span>
+    <span class="ruby-keyword">end</span>
+    <span class="ruby-identifier">y</span> <span class="ruby-operator">+=</span> <span class="ruby-value">1</span>
+  <span class="ruby-keyword">end</span>
+  <span class="ruby-keyword">if</span> <span class="ruby-identifier">simultaneous</span>
+    <span class="ruby-identifier">result_queue</span>.<span class="ruby-identifier">each</span> <span class="ruby-keyword">do</span> <span class="ruby-operator">|</span><span class="ruby-identifier">queue_action</span><span class="ruby-operator">|</span>
+      <span class="ruby-identifier">sleep</span> <span class="ruby-constant">STEP_COMMAND_PAUSE_LENGTH</span>
+       <span class="ruby-keyword">if</span> <span class="ruby-constant">CLEAR_SCREEN</span>
+        <span class="ruby-identifier">clear_screen</span>
+       <span class="ruby-keyword">end</span>
+       <span class="ruby-identifier">eval</span> <span class="ruby-identifier">queue_action</span>
+       <span class="ruby-identifier">output_team_stats</span>(<span class="ruby-identifier">beings</span>, <span class="ruby-keyword">self</span>)
+       <span class="ruby-keyword">self</span>.<span class="ruby-identifier">print_map</span>(<span class="ruby-identifier">displays</span>)
+       <span class="ruby-identifier">do_important_pauses</span>
+    <span class="ruby-keyword">end</span>
+  <span class="ruby-keyword">end</span>
+<span class="ruby-keyword">end</span></pre>
+          </div><!-- operate_over_space-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- operate_over_space-method -->
+
+    
+      <div id="method-i-print_map" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">print_map</span><span
+            class="method-args">(displays = [])</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="print_map-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 462</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">print_map</span>(<span class="ruby-identifier">displays</span> = [])
+  <span class="ruby-keyword">if</span> <span class="ruby-constant">CLEAR_SCREEN_MAP_LOG</span>
+    <span class="ruby-identifier">clear_screen</span>(<span class="ruby-string">&quot;map&quot;</span>)
+  <span class="ruby-keyword">end</span>
+  <span class="ruby-ivar">@space</span>.<span class="ruby-identifier">each</span> <span class="ruby-keyword">do</span> <span class="ruby-operator">|</span><span class="ruby-identifier">y_axis</span><span class="ruby-operator">|</span>
+    <span class="ruby-identifier">y_axis</span>.<span class="ruby-identifier">each</span> <span class="ruby-keyword">do</span> <span class="ruby-operator">|</span><span class="ruby-identifier">location</span><span class="ruby-operator">|</span>
+      <span class="ruby-identifier">initial_location_strings</span> = <span class="ruby-identifier">location</span>.<span class="ruby-identifier">get_objects_of_type</span>(<span class="ruby-constant">String</span>)
+      <span class="ruby-identifier">beings_here</span> = <span class="ruby-identifier">location</span>.<span class="ruby-identifier">get_objects_of_type</span>(<span class="ruby-constant">Being</span>)
+      <span class="ruby-identifier">what_to_print</span> = <span class="ruby-string">&#39;E&#39;</span>
+      <span class="ruby-keyword">if</span> <span class="ruby-identifier">beings_here</span> <span class="ruby-operator">!=</span> <span class="ruby-keyword">nil</span> <span class="ruby-operator">&amp;&amp;</span> <span class="ruby-identifier">beings_here</span> <span class="ruby-operator">!=</span> []
+        <span class="ruby-identifier">displays</span>.<span class="ruby-identifier">each</span> <span class="ruby-keyword">do</span> <span class="ruby-operator">|</span><span class="ruby-identifier">current_display</span><span class="ruby-operator">|</span>
+          <span class="ruby-identifier">display_value</span> = <span class="ruby-string">&#39;&#39;</span>
+          <span class="ruby-identifier">current_being</span> = <span class="ruby-identifier">beings_here</span>[<span class="ruby-value">-1</span>]
+          <span class="ruby-identifier">display_value</span> = <span class="ruby-identifier">current_display</span>.<span class="ruby-identifier">get</span>(<span class="ruby-identifier">current_being</span>.<span class="ruby-identifier">name</span>)
+          <span class="ruby-identifier">being_wounds</span> = <span class="ruby-identifier">current_being</span>.<span class="ruby-identifier">wounds</span>.<span class="ruby-identifier">to_i</span>
+          <span class="ruby-keyword">if</span> <span class="ruby-identifier">current_being</span>.<span class="ruby-identifier">team</span>.<span class="ruby-identifier">to_i</span> <span class="ruby-operator">==</span> <span class="ruby-value">1</span>
+            <span class="ruby-identifier">display_value</span> = <span class="ruby-identifier">bold</span>(<span class="ruby-identifier">display_value</span>)
+          <span class="ruby-keyword">end</span>
+          <span class="ruby-keyword">if</span> <span class="ruby-identifier">display_value</span> <span class="ruby-operator">!=</span> <span class="ruby-string">&#39;&#39;</span>
+            <span class="ruby-keyword">if</span> <span class="ruby-identifier">being_wounds</span> <span class="ruby-operator">&lt;</span> <span class="ruby-value">2</span>
+              <span class="ruby-identifier">what_to_print</span> = <span class="ruby-identifier">red</span>(<span class="ruby-identifier">display_value</span>)
+            <span class="ruby-keyword">elsif</span> <span class="ruby-identifier">being_wounds</span> <span class="ruby-operator">&lt;</span> <span class="ruby-value">3</span>
+              <span class="ruby-identifier">what_to_print</span> = <span class="ruby-identifier">yellow</span>(<span class="ruby-identifier">display_value</span>)
+            <span class="ruby-keyword">else</span>
+              <span class="ruby-identifier">what_to_print</span> = <span class="ruby-identifier">white</span>(<span class="ruby-identifier">display_value</span>)
+            <span class="ruby-keyword">end</span>
+            <span class="ruby-keyword">if</span> <span class="ruby-identifier">initial_location_strings</span> <span class="ruby-operator">!=</span> <span class="ruby-keyword">nil</span> <span class="ruby-operator">&amp;&amp;</span> <span class="ruby-identifier">initial_location_strings</span>[<span class="ruby-value">0</span>] <span class="ruby-operator">!=</span> <span class="ruby-keyword">nil</span>
+              <span class="ruby-keyword">if</span> <span class="ruby-identifier">objective_location?</span>(<span class="ruby-identifier">initial_location_strings</span>[<span class="ruby-value">0</span>])
+                <span class="ruby-identifier">what_to_print</span> = <span class="ruby-identifier">cyan_bg</span>(<span class="ruby-identifier">what_to_print</span>)
+              <span class="ruby-keyword">end</span>
+            <span class="ruby-keyword">end</span>
+          <span class="ruby-keyword">end</span>
+        <span class="ruby-keyword">end</span>
+        <span class="ruby-identifier">printl</span>(<span class="ruby-node">&quot;#{what_to_print}&quot;</span>, <span class="ruby-string">&quot;map&quot;</span>)
+      <span class="ruby-keyword">else</span>
+        <span class="ruby-keyword">if</span> <span class="ruby-identifier">initial_location_strings</span> <span class="ruby-operator">!=</span> <span class="ruby-keyword">nil</span> <span class="ruby-operator">&amp;&amp;</span> <span class="ruby-identifier">initial_location_strings</span>[<span class="ruby-value">0</span>] <span class="ruby-operator">!=</span> <span class="ruby-keyword">nil</span>
+            <span class="ruby-identifier">world_location_to_print</span> = <span class="ruby-identifier">colorize_location</span>(<span class="ruby-identifier">initial_location_strings</span>[<span class="ruby-value">0</span>])
+            <span class="ruby-identifier">printl</span>(<span class="ruby-identifier">world_location_to_print</span>, <span class="ruby-string">&quot;map&quot;</span>)
+        <span class="ruby-keyword">end</span>
+      <span class="ruby-keyword">end</span>
+    <span class="ruby-keyword">end</span>
+   <span class="ruby-identifier">putsl</span>(<span class="ruby-string">&quot;&quot;</span>, <span class="ruby-string">&quot;map&quot;</span>)
+  <span class="ruby-keyword">end</span>
+<span class="ruby-keyword">end</span></pre>
+          </div><!-- print_map-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- print_map-method -->
+
+    
+      <div id="method-i-printl_this_baby_out" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">printl_this_baby_out</span><span
+            class="method-args">(omitted_variables = [], displays = [])</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+            <div class="method-calls-super">
+              Calls superclass method
+              
+            </div>
+          
+
+          
+          <div class="method-source-code" id="printl_this_baby_out-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 544</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">printl_this_baby_out</span>(<span class="ruby-identifier">omitted_variables</span> = [], <span class="ruby-identifier">displays</span> = [])
+  <span class="ruby-keyword">super</span> <span class="ruby-identifier">omitted_variables</span>.<span class="ruby-identifier">push</span>(<span class="ruby-string">&#39;space&#39;</span>)
+  <span class="ruby-identifier">putsl</span> <span class="ruby-string">&quot; AMP MPA MAP&quot;</span>
+  <span class="ruby-keyword">self</span>.<span class="ruby-identifier">print_map</span>(<span class="ruby-identifier">displays</span>)
+<span class="ruby-keyword">end</span></pre>
+          </div><!-- printl_this_baby_out-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- printl_this_baby_out-method -->
+
+    
+      <div id="method-i-remove" class="method-detail ">
+        
+        <div class="method-heading">
+          <span class="method-name">remove</span><span
+            class="method-args">(type, x, y)</span>
+          
+          <span class="method-click-advice">click to toggle source</span>
+          
+        </div>
+        
+
+        <div class="method-description">
+          
+          
+          
+          
+
+          
+          <div class="method-source-code" id="remove-source">
+            <pre><span class="ruby-comment"># File emergent.rb, line 421</span>
+<span class="ruby-keyword">def</span> <span class="ruby-identifier">remove</span>(<span class="ruby-identifier">type</span>, <span class="ruby-identifier">x</span>, <span class="ruby-identifier">y</span>)
+  <span class="ruby-identifier">location</span> = <span class="ruby-keyword">self</span>.<span class="ruby-identifier">get_location</span>(<span class="ruby-identifier">x</span>, <span class="ruby-identifier">y</span>)
+  <span class="ruby-keyword">unless</span> <span class="ruby-identifier">location</span>.<span class="ruby-identifier">nil?</span>
+    <span class="ruby-identifier">output_here</span> = <span class="ruby-identifier">location</span>.<span class="ruby-identifier">remove</span>(<span class="ruby-identifier">type</span>)
+    <span class="ruby-keyword">return</span> <span class="ruby-identifier">output_here</span>
+  <span class="ruby-keyword">end</span>
+  <span class="ruby-keyword">return</span> <span class="ruby-keyword">nil</span>
+<span class="ruby-keyword">end</span></pre>
+          </div><!-- remove-source -->
+          
+        </div>
+
+        
+
+        
+      </div><!-- remove-method -->
+
+    
+    </section><!-- public-instance-method-details -->
+  
+  </section><!-- 5Buntitled-5D -->
+
+</div><!-- documentation -->
+
+
+<footer id="validator-badges">
+  <p><a href="http://validator.w3.org/check/referer">[Validate]</a>
+  <p>Generated by <a href="https://github.com/rdoc/rdoc">RDoc</a> 4.0.0.
+  <p>Generated with the <a href="http://deveiate.org/projects/Darkfish-Rdoc/">Darkfish Rdoc Generator</a> 3.
+</footer>
+
