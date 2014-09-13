@@ -224,10 +224,7 @@ def print_things_list(name, things, displays = [])
   putsl "-"
 end
 
-#      `            
 #      ...`.'#.``      Being
-#       ,,,....``  
-
 
 class Being < Thing
   attr_accessor :points
@@ -262,6 +259,23 @@ class Being < Thing
       end
     end
     self.apply_mutation
+  end
+
+  def display_value(display)
+    display_value = display.get(@name)
+    if display_value != ''
+      if @team.to_i == 1
+       display_value = bold(display_value)
+      end
+      if @wounds.to_i < 2
+         display_value = red(display_value)
+       elsif@wounds.to_i < 3
+         display_value = yellow(display_value)
+       else
+         display_value = white(display_value)
+       end
+    end
+    return display_value
   end
 
   def get_points_including_objectives
@@ -335,6 +349,14 @@ class Being < Thing
     end
     self.instance_variable_set("@mutation", current_mutation.join(" "))
     self.apply_mutation
+  end
+end
+
+class ProgramMarker < Thing
+  attr_accessor :program
+
+  def display_value(display, starting_value = '')
+    return yellow_bg(starting_value)
   end
 end
 
@@ -468,28 +490,16 @@ class World < Thing
         y_axis.each do |location|
           initial_location_strings = location.get_objects_of_type(String)
           beings_here = location.get_objects_of_type(Being)
+          markers_here = location.get_objects_of_type(ProgramMarker)
           what_to_print = 'E'
           if beings_here != nil && beings_here != []
             displays.each do |current_display|
-              display_value = ''
+              what_to_print = ''
               current_being = beings_here[-1]
-              display_value = current_display.get(current_being.name)
-              being_wounds = current_being.wounds.to_i
-              if current_being.team.to_i == 1
-                display_value = bold(display_value)
-              end
-              if display_value != ''
-                if being_wounds < 2
-                  what_to_print = red(display_value)
-                elsif being_wounds < 3
-                  what_to_print = yellow(display_value)
-                else
-                  what_to_print = white(display_value)
-                end
-                if initial_location_strings != nil && initial_location_strings[0] != nil
-                  if objective_location?(initial_location_strings[0])
-                    what_to_print = cyan_bg(what_to_print)
-                  end
+              what_to_print = current_being.display_value(current_display)
+              if initial_location_strings != nil && initial_location_strings[0] != nil
+                if objective_location?(initial_location_strings[0])
+                  what_to_print = cyan_bg(what_to_print)
                 end
               end
             end
@@ -581,7 +591,7 @@ end
 # .......Location..... location....ocation...
 class Location < Container
   def can_add?(what_to_add)
-    allowed_types = ["being"]
+    allowed_types = ["being", "programmarker"]
     obj_type = nil
     if !(what_to_add.nil?)
       if allowed_types.include?(what_to_add.class.name.downcase)
