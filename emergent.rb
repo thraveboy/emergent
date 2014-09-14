@@ -1,6 +1,7 @@
 require "readline"
 
-STEP_COMMAND_PAUSE_LENGTH = 0.05
+STEP_COMMAND_PAUSE_LENGTH = 0.01
+PROGRAM_PREVIEW_PAUSE_LENGTH = 0.01
 IMPORTANT_MULTIPLIER = 1
 PAUSE_LENGTH = 0
 
@@ -1114,6 +1115,17 @@ class Assign_Program_BeingOperator < Thing
   end
 end
 
+class Reprogram_BeingOperator < Thing
+  def execute(beings, new_type = '.')
+    command_processor = Command.new
+    beings.each do |current_being|
+      if !current_being.nil? && current_being.marked
+        command_processor.reprogram_next_command(current_being, new_type)
+      end
+    end
+  end
+end
+
 #-----Commands---
 
 class Command
@@ -1148,7 +1160,6 @@ class Command
     end
     return returned_command
   end
-
 
   def execute_next_command(obj, world, start_x, start_y)
     new_location = { "x" => start_x, "y" => start_y }
@@ -1190,8 +1201,31 @@ class Command
     return new_location
   end
 
-end
+  def reprogram_next_command(obj, new_command = '.')
+    current_command = self.parse_next_command(obj)
+    command_type = current_command["command"].downcase
+    command_args = current_command["args"]
+    new_move_amount = 1
+    final_command = 'n'
+    if new_command == '.'
+      new_move_amount = 0
+      final_command = command_type
+    elsif new_command == command_type
+      new_move_amount += 1
+      new_move_amount = [new_move_amount.to_i, obj.move.to_i].min
+    else
+      new_move_amount = 1
+      final_command = new_command
+    end
+    reprogrammed_command = "#{final_command}#{new_move_amount}"
+    program_string = obj.program
+    program_array = program_string.split(" ")
+    program_array.pop
+    program_array.unshift(reprogrammed_command)
+    obj.program = program_array.join(" ")
+  end
 
+end
 
 #   :::::::::
 #;;;:::   :::O@
@@ -1244,8 +1278,20 @@ def clear_markers(beings, world)
   world.operate_over_space(clear_location_markers)
 end
 
+def set_markers_do_iterations(beings, world, displays = [], number_of_iterations = 1)
+  world.operate_over_space(SetMarkers_WorldOperator.new, displays, true, beings)
+  (1..number_of_iterations).each do |i|
+    world.operate_over_space(ObjCommand_WorldOperator.new('programmarker'), displays,
+      true, beings, false)
+    printl("Step: #{i}", "map")
+    sleep(PROGRAM_PREVIEW_PAUSE_LENGTH)
+  end
+
+end
 class LineOfCommand
   @being_selectors = '1234567890!@#$%^&*()'
+  @reprogram_options = '[;\'/.'
+  @reprogram_directions = 'nwes.'
 
   @types = ["being", "world", "display", "program"]
   @types.each do |current_type|
@@ -1279,18 +1325,21 @@ class LineOfCommand
     world = instance_variable_get("@worlds")[-1]
     if !@being_selectors.index(guess[0]).nil?
       clear_markers(beings, world)
-        guess.split("").each do |being_i|
+      guess.split("").each do |being_i|
         mark_being_number = @being_selectors.index(being_i).to_i
         if !beings.nil? && (mark_being_number < beings.size) && !beings[mark_being_number].nil?
           beings[mark_being_number].marked = true
         end
       end
-      world.operate_over_space(SetMarkers_WorldOperator.new, displays, true, beings)
-      (1..$program_steps_to_show).each do |i|
-        world.operate_over_space(ObjCommand_WorldOperator.new('programmarker'), displays,
-          true, beings, false)
-        printl("Step: #{i}", "map")
-        sleep(STEP_COMMAND_PAUSE_LENGTH)
+      set_markers_do_iterations(beings, world, displays, $program_steps_to_show)
+    elsif !@reprogram_options.index(guess[0]).nil?
+      reprogrammed_direction = @reprogram_directions[@reprogram_options.index(guess[0])]
+      if !reprogrammed_direction.nil?
+        reprogrammer = Reprogram_BeingOperator.new
+        reprogrammer.execute(beings, reprogrammed_direction)
+        clear_location_markers = ClearMarkers_WorldOperator.new
+        world.operate_over_space(clear_location_markers)
+        set_markers_do_iterations(beings, world, displays, $program_steps_to_show)
       end
     elsif shortcut_everything?("assign", guess)
       putsl "Assigning program to being..."
@@ -1359,13 +1408,10 @@ class LineOfCommand
               putsl " .."
               instance_variable_get("@#{filename_ext[1..-1]}s").push(thing)
             else
-              putsl  "    ||"
-              putsl  "   \ ./"
               putsl  "  thing not created"
               putsl  "    from #{guess} because"
               putsl  "       no 'name' "
               putsl  "  characteristic defined"
-              putsl  "    |"
             end
           end
         else
