@@ -1278,32 +1278,18 @@ class LineOfCommand
     displays = instance_variable_get("@displays")
     world = instance_variable_get("@worlds")[-1]
     if !@being_selectors.index(guess[0]).nil?
-      guess.split("").each |being_i|
-        mark_being_number = @being_selectors.index(being_i.to_i).to_i
-        if !beings.nil? && (mark_being_number < beings.size) && !beings[mark_being_number].nil?
-          clear_markers(beings, world)
-          beings[mark_being_number].marked = true
-          world.operate_over_space(SetMarkers_WorldOperator.new, displays, true, beings)
-          (1..$program_steps_to_show).each do |i|
+      (1..$program_steps_to_show).each do |i|
+        clear_markers(beings, world)
+        guess.split("").each |being_i|
+          mark_being_number = @being_selectors.index(being_i.to_i).to_i
+          if !beings.nil? && (mark_being_number < beings.size) && !beings[mark_being_number].nil?
+            beings[mark_being_number].marked = true
+            world.operate_over_space(SetMarkers_WorldOperator.new, displays, true, beings)
             world.operate_over_space(ObjCommand_WorldOperator.new('programmarker'), displays,
-              true, beings, false)
+                true, beings, false)
             printl("Step: #{i}", "map")
             sleep(STEP_COMMAND_PAUSE_LENGTH)
           end
-        end
-      end
-        
-      end
-
-      if !beings.nil? && (mark_being_number < beings.size) && !beings[mark_being_number].nil?
-        clear_markers(beings, world)
-        beings[mark_being_number].marked = true
-        world.operate_over_space(SetMarkers_WorldOperator.new, displays, true, beings)
-        (1..$program_steps_to_show).each do |i|
-          world.operate_over_space(ObjCommand_WorldOperator.new('programmarker'), displays,
-            true, beings, false)
-          printl("Step: #{i}", "map")
-          sleep(STEP_COMMAND_PAUSE_LENGTH)
         end
       end
     elsif shortcut_everything?("assign", guess)
