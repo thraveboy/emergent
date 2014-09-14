@@ -1,3 +1,4 @@
 *~
 *.results
 match-team.results
+display_logs/*
