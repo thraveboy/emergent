@@ -1,6 +1,6 @@
 require "readline"
 
-STEP_COMMAND_PAUSE_LENGTH = 0.01
+STEP_COMMAND_PAUSE_LENGTH = 0
 PROGRAM_PREVIEW_PAUSE_LENGTH = 0.01
 IMPORTANT_MULTIPLIER = 1
 PAUSE_LENGTH = 0
@@ -17,6 +17,7 @@ TEAM_LOG_FILE = "display_logs/team_log"
 BATTLE_LOG_FILE = "display_logs/battle_log"
 
 $dump_logs = TRUE
+$current_step = 1
 
 $map_log = File.new(MAP_LOG_FILE, 'w')
 $battle_log = File.new(BATTLE_LOG_FILE, 'w')
@@ -750,10 +751,10 @@ class TeamStats_BeingOperator < Thing
           if team_stats["#{current_team}"].nil?
             team_stats["#{current_team}"] = ''
           end
-          if current_being.objective_points.to_i > 0
+          if current_being.objective_points.to_i > 0 && current_wounds.to_i > 0
             current_being_team_stats = blue_bg(current_being_team_stats)
           end
-          team_stats["#{current_team}"].concat("\n#{current_being_team_stats}")
+          team_stats["#{current_team}"].concat("\n#{current_being_team_stats}     ")
         end
       end
     end
@@ -1126,6 +1127,30 @@ class Reprogram_BeingOperator < Thing
   end
 end
 
+class OutputPrograms_BeingOperator < Thing
+  def execute(beings)
+    current_position = 1
+    shift_amount = 1 - $current_step
+    beings.each do |current_being|
+      if !current_being.nil? && !current_being.team.nil? && !current_being.program.nil?
+         if current_being.team.to_i == 1
+           position_name = "position-#{current_position}"
+           new_program_file = File.new("programs/outputProgram/#{position_name}.program", "w")
+           current_program = current_being.program
+           if shift_amount < 0
+             current_program_array = current_program.split(" ").rotate(shift_amount)
+             current_program = current_program_array.join(" ")
+           end
+           new_program_file.write("name #{position_name}\n")
+           new_program_file.write("program #{current_program}\n")
+           new_program_file.close
+         end
+      end
+      current_position += 1
+    end
+  end
+end
+
 #-----Commands---
 
 class Command
@@ -1265,9 +1290,9 @@ end
 def output_team_stats(beings, world, output_to_file=false)
   team_results = TeamStats_BeingOperator.new.execute(beings, world, output_to_file)
   clear_screen("team")
+  putsl("Current step: #{$current_step-1}     ", "team")
   team_results.each do |key, value|
-    putsl("Team #{key}: #{value}", "team")
-    putsl("", "team")
+    putsl("Team #{key}: #{value}     ", "team")
   end
 end
 
@@ -1278,16 +1303,18 @@ def clear_markers(beings, world)
   world.operate_over_space(clear_location_markers)
 end
 
-def set_markers_do_iterations(beings, world, displays = [], number_of_iterations = 1)
+def set_markers_do_iterations(beings, world, displays = [], current_step = 0, last_step = 1)
   world.operate_over_space(SetMarkers_WorldOperator.new, displays, true, beings)
-  (1..number_of_iterations).each do |i|
-    world.operate_over_space(ObjCommand_WorldOperator.new('programmarker'), displays,
-      true, beings, false)
-    printl("Step: #{i}", "map")
-    sleep(PROGRAM_PREVIEW_PAUSE_LENGTH)
+  if last_step >= current_step then
+    (current_step..last_step).each do |i|
+      world.operate_over_space(ObjCommand_WorldOperator.new('programmarker'), displays,
+        true, beings, false)
+      printl("Step: #{i}", "map")
+      sleep(PROGRAM_PREVIEW_PAUSE_LENGTH)
+    end
   end
-
 end
+
 class LineOfCommand
   @being_selectors = '1234567890!@#$%^&*()'
   @reprogram_options = '[;\'/.'
@@ -1331,7 +1358,7 @@ class LineOfCommand
           beings[mark_being_number].marked = true
         end
       end
-      set_markers_do_iterations(beings, world, displays, $program_steps_to_show)
+      set_markers_do_iterations(beings, world, displays, $current_step, $program_steps_to_show)
     elsif !@reprogram_options.index(guess[0]).nil?
       reprogrammed_direction = @reprogram_directions[@reprogram_options.index(guess[0])]
       if !reprogrammed_direction.nil?
@@ -1339,7 +1366,7 @@ class LineOfCommand
         reprogrammer.execute(beings, reprogrammed_direction)
         clear_location_markers = ClearMarkers_WorldOperator.new
         world.operate_over_space(clear_location_markers)
-        set_markers_do_iterations(beings, world, displays, $program_steps_to_show)
+        set_markers_do_iterations(beings, world, displays, $current_step, $program_steps_to_show)
       end
     elsif shortcut_everything?("assign", guess)
       putsl "Assigning program to being..."
@@ -1351,8 +1378,7 @@ class LineOfCommand
     elsif shortcut_everything?("dump", guess)
       putsl "Dumping living mutations.."
       team_results = DumpMutations_BeingOperator.new.execute(beings)
-    elsif (shortcut_everything?("exit", guess) ||
-      shortcut_everything?("quit", guess))
+    elsif shortcut_everything?("quit", guess)
       if !beings.nil? && !world.nil?
         output_team_stats(beings, world, true)
       end
@@ -1371,10 +1397,14 @@ class LineOfCommand
     elsif shortcut_everything?("nologs", guess)
       $dump_logs = FALSE
       puts "turned off display logs"
+    elsif shortcut_everything?("output", guess)
+      output_program_operator = OutputPrograms_BeingOperator.new
+      output_program_operator.execute(beings)
     elsif shortcut_everything?("populate", guess)
       populate_beings = Populate_Beings_BeingOperator.new
       populate_beings.execute(beings, world)
     elsif shortcut_everything?("step", guess)
+      $current_step += 1
       putsl "=====movement"
       world.operate_over_space(ObjCommand_WorldOperator.new, displays, true, beings)
       if $dump_logs
