@@ -1,4 +1,4 @@
-name base_dark_elf
+name winder_dark_elf
 move 1
 ballistic_skill 1
 ballistic_range 1
@@ -9,5 +9,5 @@ armor 1
 wounds 1
 magic_range 1
 magic_skill 1
-mutation ballistic_range
+mutation magic_range magic_range magic_range magics -armor magics -melee_skill2 magic_skill 
 

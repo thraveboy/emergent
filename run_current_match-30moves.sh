@@ -4,6 +4,8 @@ currentiteration=0
 gamesrun=0
 moditer=0
 
+./create_current_team_load_commands.sh
+
 while [ $currentiteration -le $numberofiterations ]
 do
   let moditer=currentiteration%10
@@ -21,7 +23,7 @@ do
      echo -n "."
   fi
 
-  cat games/move-15 games/move-15-quit | ruby emergent.rb games/display_logs_off games/currentGame > /dev/null;
+cat games/display_logs_off team_1_load_temp team_switch_load_temp team_2_load_temp games/currentGame games/move-15 games/move-15-quit | ruby emergent.rb > /dev/null;
   let gamesrun=gamesrun+1
   let currentiteration=currentiteration+1
 done

@@ -1,0 +1,11 @@
+units/current_team_2
+programs/current_team_2_programs
+units/current_team_2/position-1.being
+programs/current_team_2_programs/position-1.program
+assign
+units/current_team_2/position-2.being
+programs/current_team_2_programs/position-2.program
+assign
+units/current_team_2/position-3.being
+programs/current_team_2_programs/position-3.program
+assign

@@ -1,160 +1,75 @@
-...Thing standard4020.world created and initialized
- ..
-...Thing Display for Men and Elves created and initialized
- ..
-...Thing base_man created and initialized
+...Thing orc created and initialized
  ..
 ...Thing position-1 created and initialized
  ..
 Assigning program to being...
-...Thing base_man created and initialized
+...Thing orc created and initialized
+ ..
+...Thing position-1 created and initialized
+ ..
+Assigning program to being...
+...Thing orc created and initialized
+ ..
+...Thing position-1 created and initialized
+ ..
+Assigning program to being...
+...Thing orc created and initialized
+ ..
+...Thing position-1 created and initialized
+ ..
+Assigning program to being...
+...Thing orc created and initialized
+ ..
+...Thing position-1 created and initialized
+ ..
+Assigning program to being...
+...Thing orc created and initialized
+ ..
+...Thing position-1 created and initialized
+ ..
+Assigning program to being...
+...Thing orc created and initialized
+ ..
+...Thing position-1 created and initialized
+ ..
+Assigning program to being...
+...Thing orc created and initialized
+ ..
+...Thing position-1 created and initialized
+ ..
+Assigning program to being...
+...Thing orc created and initialized
+ ..
+...Thing position-1 created and initialized
+ ..
+Assigning program to being...
+...Thing orc created and initialized
+ ..
+...Thing position-1 created and initialized
+ ..
+Assigning program to being...
+incrementing team number. new beings will now be on team 2.
+...Thing ranger_elf created and initialized
+ ..
+...Thing position-1 created and initialized
+ ..
+Assigning program to being...
+...Thing warrior_man created and initialized
  ..
 ...Thing position-2 created and initialized
  ..
 Assigning program to being...
-...Thing base_man created and initialized
+...Thing winder_dark_elf created and initialized
  ..
 ...Thing position-3 created and initialized
  ..
 Assigning program to being...
-...Thing base_man created and initialized
+...Thing standard4020.world created and initialized
  ..
-...Thing position-4 created and initialized
+...Thing Display for Men and Elves created and initialized
  ..
-Assigning program to being...
-...Thing base_man created and initialized
- ..
-...Thing position-5 created and initialized
- ..
-Assigning program to being...
-...Thing base_man created and initialized
- ..
-...Thing position-6 created and initialized
- ..
-Assigning program to being...
-...Thing base_man created and initialized
- ..
-...Thing position-7 created and initialized
- ..
-Assigning program to being...
-...Thing base_man created and initialized
- ..
-...Thing position-8 created and initialized
- ..
-Assigning program to being...
-...Thing base_man created and initialized
- ..
-...Thing position-9 created and initialized
- ..
-Assigning program to being...
-...Thing base_man created and initialized
- ..
-...Thing position-10 created and initialized
- ..
-Assigning program to being...
-...Thing base_man created and initialized
- ..
-...Thing position-11 created and initialized
- ..
-Assigning program to being...
-...Thing base_man created and initialized
- ..
-...Thing position-12 created and initialized
- ..
-Assigning program to being...
-...Thing base_man created and initialized
- ..
-...Thing position-13 created and initialized
- ..
-Assigning program to being...
-...Thing base_man created and initialized
- ..
-...Thing position-14 created and initialized
- ..
-Assigning program to being...
-...Thing base_man created and initialized
- ..
-...Thing position-15 created and initialized
- ..
-Assigning program to being...
-incrementing team number. new beings will now be on team 2.
-...Thing base_elf created and initialized
- ..
-...Thing  created and initialized
- ..
-Assigning program to being...
-...Thing base_elf created and initialized
- ..
-...Thing position-1 created and initialized
- ..
-Assigning program to being...
-...Thing base_elf created and initialized
- ..
-...Thing position-1 created and initialized
- ..
-Assigning program to being...
-...Thing base_elf created and initialized
- ..
-...Thing position-1 created and initialized
- ..
-Assigning program to being...
-...Thing base_elf created and initialized
- ..
-...Thing position-1 created and initialized
- ..
-Assigning program to being...
-...Thing base_elf created and initialized
- ..
-...Thing position-1 created and initialized
- ..
-Assigning program to being...
-...Thing base_elf created and initialized
- ..
-...Thing position-1 created and initialized
- ..
-Assigning program to being...
-...Thing base_elf created and initialized
- ..
-...Thing position-1 created and initialized
- ..
-Assigning program to being...
-...Thing base_elf created and initialized
- ..
-...Thing position-1 created and initialized
- ..
-Assigning program to being...
-...Thing base_elf created and initialized
- ..
-...Thing position-1 created and initialized
- ..
-Assigning program to being...
-...Thing base_elf created and initialized
- ..
-...Thing position-1 created and initialized
- ..
-Assigning program to being...
-...Thing base_elf created and initialized
- ..
-...Thing position-1 created and initialized
- ..
-Assigning program to being...
-...Thing base_elf created and initialized
- ..
-...Thing position-1 created and initialized
- ..
-Assigning program to being...
-...Thing base_elf created and initialized
- ..
-...Thing position-1 created and initialized
- ..
-Assigning program to being...
-...Thing base_elf created and initialized
- ..
-...Thing position-1 created and initialized
- ..
-Assigning program to being...
 .....Adding beings to world....
-111111111111111222222222222222 done populating....
+1111111111222 done populating....
 =====movement
 -----magic
 -----ranged attacks
@@ -171,183 +86,3 @@ Assigning program to being...
 -----magic
 -----ranged attacks
 +++++melee attacks
-=====movement
------magic
------ranged attacks
-+++++melee attacks
-=====movement
------magic
------ranged attacks
-+++++melee attacks
-=====movement
------magic
------ranged attacks
-+++++melee attacks
-=====movement
------magic
------ranged attacks
-+++++melee attacks
-=====movement
------magic
------ranged attacks
-+++++melee attacks
-=====movement
------magic
------ranged attacks
-+++++melee attacks
-=====movement
------magic
------ranged attacks
-base_elf(17,9) hit [1mbase_man[0m(17,11) with a ranged attack. 
-[37mThe base_elf ranged attack bounces off [1mbase_man[0m(17,11)..[0m
-+++++melee attacks
-[1mbase_man[0m(17,11) hit base_elf(16,11) with a melee attack. [33m[1mbase_man[0m damages base_elf for 2 wounds..[0m
-[31mbase_elf[0m(16,11)[31m is killed![0m
-=====movement
------magic
------ranged attacks
-base_elf(17,9) hit [1mbase_man[0m(17,10) with a ranged attack. 
-[37mThe base_elf ranged attack bounces off [1mbase_man[0m(17,10)..[0m
-[1mbase_man[0m(17,10) hit base_elf(17,9) with a ranged attack. 
-[37mThe [1mbase_man[0m ranged attack bounces off base_elf(17,9)..[0m
-+++++melee attacks
-[1mbase_man[0m(18,10) hit base_elf(17,9) with a melee attack. [33m[1mbase_man[0m damages base_elf for 2 wounds..[0m
-[31mbase_elf[0m(17,9)[31m is killed![0m
-=====movement
------magic
------ranged attacks
-base_elf(19,7) hit [1mbase_man[0m(19,9) with a ranged attack. 
-[37mThe base_elf ranged attack bounces off [1mbase_man[0m(19,9)..[0m
-base_elf(20,7) hit [1mbase_man[0m(20,9) with a ranged attack. 
-[37mThe base_elf ranged attack bounces off [1mbase_man[0m(20,9)..[0m
-+++++melee attacks
-=====movement
------magic
------ranged attacks
-base_elf(18,7) hit [1mbase_man[0m(18,8) with a ranged attack. 
-[37mThe base_elf ranged attack bounces off [1mbase_man[0m(18,8)..[0m
-base_elf(19,7) hit [1mbase_man[0m(19,8) with a ranged attack. 
-[37mThe base_elf ranged attack bounces off [1mbase_man[0m(19,8)..[0m
-base_elf(20,7) hit [1mbase_man[0m(20,8) with a ranged attack. 
-[37mThe base_elf ranged attack bounces off [1mbase_man[0m(20,8)..[0m
-base_elf(21,7) hit [1mbase_man[0m(21,8) with a ranged attack. 
-[37mThe base_elf ranged attack bounces off [1mbase_man[0m(21,8)..[0m
-[1mbase_man[0m(18,8) hit base_elf(18,7) with a ranged attack. [33m[1mbase_man[0m damages base_elf for 2 wounds..[0m
-[31mbase_elf[0m(18,7)[31m is killed![0m
-[1mbase_man[0m(19,8) hit base_elf(19,7) with a ranged attack. [33m[1mbase_man[0m damages base_elf for 2 wounds..[0m
-[31mbase_elf[0m(19,7)[31m is killed![0m
-+++++melee attacks
-base_elf(21,7) hit [1mbase_man[0m(20,8) with a melee attack. 
-[37mThe base_elf melee attack bounces off [1mbase_man[0m(20,8)..[0m
-base_elf(21,7) hit [1mbase_man[0m(21,8) with a melee attack. [33mbase_elf damages [1mbase_man[0m for 1 wounds..[0m
-[31m[1mbase_man[0m[0m(21,8)[31m is killed![0m
-[1mbase_man[0m(19,8) hit base_elf(20,7) with a melee attack. [33m[1mbase_man[0m damages base_elf for 2 wounds..[0m
-[31mbase_elf[0m(20,7)[31m is killed![0m
-[1mbase_man[0m(20,8) hit base_elf(21,7) with a melee attack. [33m[1mbase_man[0m damages base_elf for 4 wounds..[0m
-[31mbase_elf[0m(21,7)[31m is killed![0m
-[1mbase_man[0m(21,8) hit base_elf(21,7) with a melee attack. [33m[1mbase_man[0m damages base_elf for 2 wounds..[0m
-[1mbase_man[0m(21,8) hit base_elf(22,7) with a melee attack. [33m[1mbase_man[0m damages base_elf for 4 wounds..[0m
-[31mbase_elf[0m(22,7)[31m is killed![0m
-=====movement
------magic
------ranged attacks
-base_elf(15,11) hit [1mbase_man[0m(15,13) with a ranged attack. [33mbase_elf damages [1mbase_man[0m for 2 wounds..[0m
-[31m[1mbase_man[0m[0m(15,13)[31m is killed![0m
-+++++melee attacks
-[1mbase_man[0m(16,12) hit base_elf(15,11) with a melee attack. 
-[37mThe [1mbase_man[0m melee attack bounces off base_elf(15,11)..[0m
-=====movement
------magic
------ranged attacks
-+++++melee attacks
-[1mbase_man[0m(16,11) hit base_elf(15,11) with a melee attack. [33m[1mbase_man[0m damages base_elf for 2 wounds..[0m
-[31mbase_elf[0m(15,11)[31m is killed![0m
-=====movement
------magic
------ranged attacks
-+++++melee attacks
-=====movement
------magic
------ranged attacks
-+++++melee attacks
-=====movement
------magic
------ranged attacks
-+++++melee attacks
-=====movement
------magic
------ranged attacks
-+++++melee attacks
-=====movement
------magic
------ranged attacks
-+++++melee attacks
-base_elf(23,4) hit [1mbase_man[0m(22,5) with a melee attack. 
-[37mThe base_elf melee attack bounces off [1mbase_man[0m(22,5)..[0m
-[1mbase_man[0m(22,5) hit base_elf(23,4) with a melee attack. 
-[37mThe [1mbase_man[0m melee attack bounces off base_elf(23,4)..[0m
-=====movement
------magic
------ranged attacks
-+++++melee attacks
-base_elf(24,4) hit [1mbase_man[0m(23,5) with a melee attack. 
-[37mThe base_elf melee attack bounces off [1mbase_man[0m(23,5)..[0m
-[1mbase_man[0m(23,5) hit base_elf(23,4) with a melee attack. [33m[1mbase_man[0m damages base_elf for 3 wounds..[0m
-[31mbase_elf[0m(23,4)[31m is killed![0m
-=====movement
------magic
------ranged attacks
-+++++melee attacks
-base_elf(24,4) hit [1mbase_man[0m(24,5) with a melee attack. [33mbase_elf damages [1mbase_man[0m for 1 wounds..[0m
-[31m[1mbase_man[0m[0m(24,5)[31m is killed![0m
-base_elf(25,4) hit [1mbase_man[0m(24,5) with a melee attack. 
-[37mThe base_elf melee attack bounces off [1mbase_man[0m(24,5)..[0m
-=====movement
------magic
------ranged attacks
-base_elf(24,4) hit [1mbase_man[0m(24,6) with a ranged attack. [33mbase_elf damages [1mbase_man[0m for 1 wounds..[0m
-[31m[1mbase_man[0m[0m(24,6)[31m is killed![0m
-+++++melee attacks
-[1mbase_man[0m(23,5) hit base_elf(24,4) with a melee attack. [33m[1mbase_man[0m damages base_elf for 4 wounds..[0m
-[31mbase_elf[0m(24,4)[31m is killed![0m
-=====movement
------magic
------ranged attacks
-+++++melee attacks
-base_elf(25,4) hit [1mbase_man[0m(24,5) with a melee attack. 
-[37mThe base_elf melee attack bounces off [1mbase_man[0m(24,5)..[0m
-=====movement
------magic
------ranged attacks
-base_elf(25,4) hit [1mbase_man[0m(25,5) with a ranged attack. 
-[37mThe base_elf ranged attack bounces off [1mbase_man[0m(25,5)..[0m
-+++++melee attacks
-base_elf(26,4) hit [1mbase_man[0m(25,5) with a melee attack. 
-[37mThe base_elf melee attack bounces off [1mbase_man[0m(25,5)..[0m
-[1mbase_man[0m(25,5) hit base_elf(26,4) with a melee attack. [33m[1mbase_man[0m damages base_elf for 2 wounds..[0m
-[31mbase_elf[0m(26,4)[31m is killed![0m
-=====movement
------magic
------ranged attacks
-base_elf(25,4) hit [1mbase_man[0m(25,5) with a ranged attack. [33mbase_elf damages [1mbase_man[0m for 1 wounds..[0m
-[31m[1mbase_man[0m[0m(25,5)[31m is killed![0m
-[1mbase_man[0m(25,5) hit base_elf(25,4) with a ranged attack. 
-[37mThe [1mbase_man[0m ranged attack bounces off base_elf(25,4)..[0m
-+++++melee attacks
-=====movement
------magic
------ranged attacks
-+++++melee attacks
-=====movement
------magic
------ranged attacks
-+++++melee attacks
-base_elf(25,5) hit [1mbase_man[0m(24,6) with a melee attack. 
-[37mThe base_elf melee attack bounces off [1mbase_man[0m(24,6)..[0m
-[1mbase_man[0m(24,6) hit base_elf(25,5) with a melee attack. [33m[1mbase_man[0m damages base_elf for 1 wounds..[0m
-=====movement
------magic
------ranged attacks
-+++++melee attacks
-base_elf(25,6) hit [1mbase_man[0m(24,6) with a melee attack. 
-[37mThe base_elf melee attack bounces off [1mbase_man[0m(24,6)..[0m
