@@ -236,6 +236,7 @@ class Being < Thing
   attr_accessor :team
   attr_accessor :objective_points
   attr_accessor :marked
+  attr_accessor :facing
 
   def print_this_baby_out(omitted_variables = [], display = [])
     being_omit = ['initialized', 'filename']
@@ -290,7 +291,7 @@ class Being < Thing
 
   def get_brief_stats
     current_points = get_points_including_objectives
-    return_string = "#{current_points} Points -#{self.name}: wounds: #{self.wounds}"
+    return_string = "#{current_points} Points :#{self.name}: wounds: #{self.wounds} facing: #{self.facing} \n #{self.program}"
   end
 
   def apply_mutation
@@ -1133,14 +1134,17 @@ class OutputPrograms_BeingOperator < Thing
     shift_amount = 1 - $current_step
     beings.each do |current_being|
       if !current_being.nil? && !current_being.team.nil? && !current_being.program.nil?
-         if current_being.team.to_i == 1
+         if current_being.team.to_i == 1 && current_being.wounds.to_i > 0
            position_name = "position-#{current_position}"
            new_program_file = File.new("programs/outputProgram/#{position_name}.program", "w")
+           puts position_name
+           puts current_being.program
            current_program = current_being.program
            if shift_amount < 0
              current_program_array = current_program.split(" ").rotate(shift_amount)
              current_program = current_program_array.join(" ")
            end
+           puts current_program
            new_program_file.write("name #{position_name}\n")
            new_program_file.write("program #{current_program}\n")
            new_program_file.close
