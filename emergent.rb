@@ -144,12 +144,7 @@ class Object
   end
 end
 
-#*****======================================---------======================
-#                                                                         *
 #    THING Land                                                           *
-#                                                                         *
-#===========================---------------===========================*****
-
 
 class Thing
   # Was this object already initialized?
@@ -211,9 +206,6 @@ end
 
 # What to call these things, and then go through the ARRRRaayyyy and
 # pop out the info on these puppies...
-#
-#\/
-#\/
 def print_things_list(name, things, displays = [])
   i = 0
   putsl "#{name}s in existence..."
@@ -291,7 +283,11 @@ class Being < Thing
 
   def get_brief_stats
     current_points = get_points_including_objectives
-    return_string = "#{current_points} Points :#{self.name}: wounds: #{self.wounds} facing: #{self.facing} \n #{self.program}"
+    program_display = self.program[0..1]
+    if self.marked
+      program_display = blue_bg(program_display)
+    end
+    return_string = "#{current_points} Points :#{self.name}: wounds: #{self.wounds} facing: #{self.facing} \nnext command: #{program_display} "
   end
 
   def apply_mutation
@@ -368,9 +364,7 @@ class ProgramMarker < Thing
   end
 end
 
-#                         .......^^^%%%%...~~~~~
 #                         ......^^%.....World.~~
-#                         .....^%%%%%......~~~~~
 
 class World < Thing
   def initialize(filename)
@@ -638,13 +632,7 @@ class Location < Container
   end
 end
 
-#===========================---------------===========================*****
-#*****======================================---------======================
 #                                    Operator(z)                       *
-#                                                                       \
-#*****======================================---------======================
-#===========================---------------===========================*****
-
 
 class Populate_Beings_BeingOperator < Thing
   def execute(beings, world)
@@ -1128,6 +1116,16 @@ class Reprogram_BeingOperator < Thing
   end
 end
 
+class MarkTeam_BeingOperator < Thing
+  def execute(beings, team = 1, mark_on = true)
+    beings.each do |current_being|
+      if !current_being.nil? && !current_being.team.nil? && current_being.team == team
+        current_being.marked = mark_on
+      end
+    end
+  end
+end
+
 class OutputPrograms_BeingOperator < Thing
   def execute(beings)
     current_position = 1
@@ -1256,11 +1254,7 @@ class Command
 
 end
 
-#   :::::::::
-#;;;:::   :::O@
-#;;:::     :::O@
 #;; DISPLAY::O@
-#   :::::::::
 
 class Display < Thing
   def get(name)
@@ -1349,20 +1343,24 @@ class LineOfCommand
   end
 
   def self.evaluate_command(guess)
-    guess.strip!
+    if guess != "\n"
+      guess.strip!
+    end
     beings = instance_variable_get("@beings")
     programs = instance_variable_get("@programs")
     displays = instance_variable_get("@displays")
     world = instance_variable_get("@worlds")[-1]
+    puts "Guess #{guess}"
     if !@being_selectors.index(guess[0]).nil?
-      clear_markers(beings, world)
+      clear_markers([], world)
       guess.split("").each do |being_i|
         mark_being_number = @being_selectors.index(being_i).to_i
         if !beings.nil? && (mark_being_number < beings.size) && !beings[mark_being_number].nil?
-          beings[mark_being_number].marked = true
+          beings[mark_being_number].marked = !beings[mark_being_number].marked
         end
       end
-      set_markers_do_iterations(beings, world, displays, $current_step, $program_steps_to_show)
+      set_markers_do_iterations(beings, world, displays, $current_step, $current_step)
+      output_team_stats(beings, world)
     elsif !@reprogram_options.index(guess[0]).nil?
       reprogrammed_direction = @reprogram_directions[@reprogram_options.index(guess[0])]
       if !reprogrammed_direction.nil?
@@ -1370,8 +1368,21 @@ class LineOfCommand
         reprogrammer.execute(beings, reprogrammed_direction)
         clear_location_markers = ClearMarkers_WorldOperator.new
         world.operate_over_space(clear_location_markers)
-        set_markers_do_iterations(beings, world, displays, $current_step, $program_steps_to_show)
+        set_markers_do_iterations(beings, world, displays, $current_step, $current_step)
       end
+      output_program_operator = OutputPrograms_BeingOperator.new
+      output_program_operator.execute(beings)
+    elsif shortcut_everything?("-", guess)
+      clear_markers(beings, world)
+      mark_team_1 = MarkTeam_BeingOperator.new
+      mark_team_1.execute(beings, 1, false)
+      output_team_stats(beings, world)
+    elsif shortcut_everything?("=", guess)
+      clear_markers(beings, world)
+      mark_team_1 = MarkTeam_BeingOperator.new
+      mark_team_1.execute(beings)
+      set_markers_do_iterations(beings, world, displays, $current_step, $program_steps_to_show)
+      output_team_stats(beings, world)
     elsif shortcut_everything?("assign", guess)
       putsl "Assigning program to being..."
       program_beings = Assign_Program_BeingOperator.new
@@ -1379,6 +1390,7 @@ class LineOfCommand
     elsif shortcut_everything?("clear", guess)
       putsl "Clearing markers..."
       clear_markers(beings, world)
+      output_team_stats(beings, world)
     elsif shortcut_everything?("dump", guess)
       putsl "Dumping living mutations.."
       team_results = DumpMutations_BeingOperator.new.execute(beings)
@@ -1422,6 +1434,7 @@ class LineOfCommand
       world.operate_over_space(Attack_WorldOperator.new('ranged'), displays, true, beings)
       putsl "+++++melee attacks"
       world.operate_over_space(Attack_WorldOperator.new('melee'), displays, true, beings)
+      set_markers_do_iterations(beings, world, displays, $current_step, $current_step)
     elsif shortcut_everything?("teams", guess)
       output_team_stats(beings, world)
     elsif self.is_list_objects_command?(@types, guess)
@@ -1442,9 +1455,7 @@ class LineOfCommand
               putsl " .."
               instance_variable_get("@#{filename_ext[1..-1]}s").push(thing)
             else
-              putsl  "  thing not created"
-              putsl  "    from #{guess} because"
-              putsl  "       no 'name' "
+              putsl  "thing not created from #{guess} because  no 'name' "
               putsl  "  characteristic defined"
             end
           end
@@ -1486,7 +1497,7 @@ class LineOfCommand
     if CLEAR_SCREEN
       clear_screen
     end
-    if guess == ""
+    if guess == "" || guess == "\n"
       guess = last_guess
     end
     self.evaluate_command(guess)
