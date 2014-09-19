@@ -64,67 +64,9 @@ Assigning program to being...
 ...Thing position-3 created and initialized
  ..
 Assigning program to being...
-...Thing generated-40-10-30-50 created and initialized
+...Thing generated-40-20-5-20 created and initialized
  ..
 ...Thing Display for Men and Elves created and initialized
  ..
 .....Adding beings to world....
 1111111111222 done populating....
-[36mwinder_dark_elf(19,3) attempts to buff [1morc[0m(18,6) armor by -1 : Fails.[0m
-[35mwinder_dark_elf(19,3) attempts to buff [1morc[0m(19,6) armor by -1 : Succeeds.[0m
-[35mwinder_dark_elf(19,3) attempts to buff [1morc[0m(20,6) armor by -1 : Succeeds.[0m
-[35mwinder_dark_elf(19,3) attempts to buff [1morc[0m(18,6) melee_skill by -2 : Succeeds.[0m
-[35mwinder_dark_elf(19,3) attempts to buff [1morc[0m(19,6) melee_skill by -2 : Succeeds.[0m
-[36mwinder_dark_elf(19,3) attempts to buff [1morc[0m(20,6) melee_skill by -2 : Fails.[0m
-[35mwinder_dark_elf(19,4) attempts to buff [1morc[0m(18,5) armor by -1 : Succeeds.[0m
-[35mwinder_dark_elf(19,4) attempts to buff [1morc[0m(18,7) armor by -1 : Succeeds.[0m
-[36mwinder_dark_elf(19,4) attempts to buff [1morc[0m(19,5) armor by -1 : Fails.[0m
-[35mwinder_dark_elf(19,4) attempts to buff [1morc[0m(20,5) armor by -1 : Succeeds.[0m
-[35mwinder_dark_elf(19,4) attempts to buff [1morc[0m(21,8) armor by -1 : Succeeds.[0m
-[36mwinder_dark_elf(19,4) attempts to buff [1morc[0m(18,5) melee_skill by -2 : Fails.[0m
-[35mwinder_dark_elf(19,4) attempts to buff [1morc[0m(18,7) melee_skill by -2 : Succeeds.[0m
-[36mwinder_dark_elf(19,4) attempts to buff [1morc[0m(19,5) melee_skill by -2 : Fails.[0m
-[35mwinder_dark_elf(19,4) attempts to buff [1morc[0m(20,5) melee_skill by -2 : Succeeds.[0m
-[36mwinder_dark_elf(19,4) attempts to buff [1morc[0m(21,8) melee_skill by -2 : Fails.[0m
-warrior_man(20,4) hit [1morc[0m(20,5) with a ranged attack. [33mwarrior_man damages [1morc[0m for 1 wounds..[0m
-warrior_man(20,4) hit [1morc[0m(19,5) with a melee attack. [33mwarrior_man damages [1morc[0m for 2 wounds..[0m
-[31m[1morc[0m[0m(19,5)[31m is killed![0m
-[1morc[0m(18,5) hit winder_dark_elf(19,4) with a melee attack. 
-[37mThe [1morc[0m melee attack bounces off winder_dark_elf(19,4)..[0m
-[1morc[0m(19,5) hit winder_dark_elf(19,4) with a melee attack. [33m[1morc[0m damages winder_dark_elf for 1 wounds..[0m
-[31mwinder_dark_elf[0m(19,4)[31m is killed![0m
-[1morc[0m(19,5) hit warrior_man(20,4) with a melee attack. 
-[37mThe [1morc[0m melee attack bounces off warrior_man(20,4)..[0m
-[1morc[0m(20,5) hit winder_dark_elf(19,4) with a melee attack. 
-[37mThe [1morc[0m melee attack bounces off winder_dark_elf(19,4)..[0m
-warrior_man(20,4) hit [1morc[0m(20,5) with a ranged attack. [33mwarrior_man damages [1morc[0m for 3 wounds..[0m
-[31m[1morc[0m[0m(20,5)[31m is killed![0m
-warrior_man(20,5) hit [1morc[0m(19,6) with a melee attack. [33mwarrior_man damages [1morc[0m for 4 wounds..[0m
-[31m[1morc[0m[0m(19,6)[31m is killed![0m
-warrior_man(20,6) hit [1morc[0m(19,7) with a melee attack. [33mwarrior_man damages [1morc[0m for 3 wounds..[0m
-[31m[1morc[0m[0m(19,7)[31m is killed![0m
-warrior_man(20,7) hit [1morc[0m(20,8) with a ranged attack. [33mwarrior_man damages [1morc[0m for 1 wounds..[0m
-[1morc[0m(20,8) hit warrior_man(20,7) with a ranged attack. 
-[37mThe [1morc[0m ranged attack bounces off warrior_man(20,7)..[0m
-warrior_man(20,7) hit [1morc[0m(20,8) with a melee attack. [33mwarrior_man damages [1morc[0m for 3 wounds..[0m
-[31m[1morc[0m[0m(20,8)[31m is killed![0m
-[1morc[0m(19,8) hit warrior_man(20,7) with a melee attack. 
-[37mThe [1morc[0m melee attack bounces off warrior_man(20,7)..[0m
-[1morc[0m(20,2) hit ranger_elf(21,2) with a melee attack. 
-[37mThe [1morc[0m melee attack bounces off ranger_elf(21,2)..[0m
-ranger_elf(21,2) hit [1morc[0m(20,2) with a melee attack. 
-[37mThe ranger_elf melee attack bounces off [1morc[0m(20,2)..[0m
-warrior_man(20,8) hit [1morc[0m(19,8) with a melee attack. [33mwarrior_man damages [1morc[0m for 3 wounds..[0m
-[31m[1morc[0m[0m(19,8)[31m is killed![0m
-warrior_man(20,8) hit [1morc[0m(20,9) with a melee attack. [33mwarrior_man damages [1morc[0m for 1 wounds..[0m
-[1morc[0m(20,9) hit warrior_man(20,8) with a melee attack. 
-[37mThe [1morc[0m melee attack bounces off warrior_man(20,8)..[0m
-warrior_man(20,8) hit [1morc[0m(20,9) with a ranged attack. 
-[37mThe warrior_man ranged attack bounces off [1morc[0m(20,9)..[0m
-ranger_elf(21,2) hit [1morc[0m(20,2) with a melee attack. 
-[37mThe ranger_elf melee attack bounces off [1morc[0m(20,2)..[0m
-warrior_man(20,8) hit [1morc[0m(20,9) with a melee attack. [33mwarrior_man damages [1morc[0m for 2 wounds..[0m
-[31m[1morc[0m[0m(20,9)[31m is killed![0m
-[1morc[0m(20,2) hit ranger_elf(21,2) with a melee attack. [33m[1morc[0m damages ranger_elf for 2 wounds..[0m
-[31mranger_elf[0m(21,2)[31m is killed![0m
-ranger_elf(21,2) hit [1morc[0m(20,2) with a melee attack. [33mranger_elf damages [1morc[0m for 1 wounds..[0m

@@ -1488,7 +1488,7 @@ class LineOfCommand
     end
   end
 
-  last_guess = ""
+  last_guess = "s"
 
   # Main command line input->evaluate^pop-or->newLineandprintnewprompt
   while guess = Readline.readline("-Machine: ", true)
