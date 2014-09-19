@@ -1418,18 +1418,18 @@ class LineOfCommand
       populate_beings.execute(beings, world)
     elsif shortcut_everything?("step", guess)
       $current_step += 1
-      putsl "=====movement"
+      # "=====movement"
       world.operate_over_space(ObjCommand_WorldOperator.new, displays, true, beings)
       if $dump_logs
         clear_markers([], world)
         world.operate_over_space(SetMarkers_WorldOperator.new, displays, true, beings)
       end
       world.print_map(displays)
-      putsl "-----magic"
+      # "-----magic"
       world.operate_over_space(Magic_WorldOperator.new, displays, true, beings)
-      putsl "-----ranged attacks"
+      # "-----ranged attacks"
       world.operate_over_space(Attack_WorldOperator.new('ranged'), displays, true, beings)
-      putsl "+++++melee attacks"
+      # "+++++melee attacks"
       world.operate_over_space(Attack_WorldOperator.new('melee'), displays, true, beings)
       set_markers_do_iterations(beings, world, displays, $current_step, $current_step)
     elsif shortcut_everything?("teams", guess)

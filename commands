@@ -65,3 +65,12 @@ To run match analysis
 
 wc -l match-team.results ; ruby team_stats.rb match-team.results 
 
+
+To generate a new map saved as worlds/generated_world.world
+
+ruby generate_world.rb 40 20 30 5; more worlds/generated_world.world 
+
+
+Generate a new map (overwriting last generated map) and fire up an interactive game session:
+
+ruby generate_world.rb 40 10 30 50; more worlds/generated_world.world ; emergent
