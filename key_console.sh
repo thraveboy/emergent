@@ -10,7 +10,9 @@ while !quit
     system("stty -raw echo")
   end
   print str[0]
-  print "\n"
+  if str[0] != "\r"
+    print "\n"
+  end
   if str == 'q'
     quit = true
   end

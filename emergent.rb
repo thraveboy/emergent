@@ -1343,14 +1343,11 @@ class LineOfCommand
   end
 
   def self.evaluate_command(guess)
-    if guess != "\n"
-      guess.strip!
-    end
+    guess.strip!
     beings = instance_variable_get("@beings")
     programs = instance_variable_get("@programs")
     displays = instance_variable_get("@displays")
     world = instance_variable_get("@worlds")[-1]
-    puts "Guess #{guess}"
     if !@being_selectors.index(guess[0]).nil?
       clear_markers([], world)
       guess.split("").each do |being_i|
@@ -1491,17 +1488,20 @@ class LineOfCommand
     end
   end
 
-  # Main command line input->evaluate^pop-or->newLineandprintnewprompt
   last_guess = ""
+
+  # Main command line input->evaluate^pop-or->newLineandprintnewprompt
   while guess = Readline.readline("-Machine: ", true)
     if CLEAR_SCREEN
       clear_screen
     end
-    if guess == "" || guess == "\n"
+    if guess == "" || guess == "\n" || guess == "\r"
       guess = last_guess
     end
-    self.evaluate_command(guess)
-    last_guess = guess
+    if guess != ""
+      self.evaluate_command(guess)
+      last_guess = guess
+    end
   end
 
   putsl "Reseting.... Done."
