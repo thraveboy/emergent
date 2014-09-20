@@ -9,8 +9,11 @@ CLEAR_SCREEN = FALSE
 CLEAR_SCREEN_MAP_LOG = TRUE
 
 SEED = 0
-TOTAL_MUTATIONS = 20
+TOTAL_MUTATIONS = 30
 MUTATION_MULTIPLIER = 3
+
+PROGRAM_MUTATIONS = 10
+PROGRAM_MUTATION_MAX_SIZE = 3
 
 MAP_LOG_FILE = "display_logs/map_log"
 TEAM_LOG_FILE = "display_logs/team_log"
@@ -160,7 +163,6 @@ class Thing
     self.class.send(:attr_accessor, key)
     instance_variable_set("@#{key}", value)
   rescue
-    puts red("Can not add characteristic from line #{characteristic_line}")
   end
 
   def initialize(filename = nil)
@@ -177,9 +179,7 @@ class Thing
       @initialized = true
       @filename = filename
     else
-      putsl red("..._")
       putsl red("   file #{filename} does not exist__")
-      putsl red("                                    <<<.")
     end
   end
 
@@ -209,15 +209,11 @@ end
 def print_things_list(name, things, displays = [])
   i = 0
   putsl "#{name}s in existence..."
-  putsl "-"
-  putsl "_"
   for thing_instance in things
     i += 1
     printl "#{name} #{i} : "
     thing_instance.print_this_baby_out([], displays)
   end
-  putsl "_"
-  putsl "-"
 end
 
 #      ...`.'#.``      Being
@@ -1126,6 +1122,27 @@ class MarkTeam_BeingOperator < Thing
   end
 end
 
+class MutatePrograms_BeingOperator < Thing
+  def execute(beings, team = 1)
+    mutation_types = 'new'
+    beings.each do |current_being|
+      if !current_being.nil? && !current_being.team.nil? && !current_being.program.nil?
+        if current_being.team.to_i == team
+          current_program = current_being.program
+          current_program_array = current_being.program.split(" ")
+          (1..PROGRAM_MUTATIONS).each do |i|
+            mutation_position = $randomizer.rand(current_program_array.size)
+            mutation_direction = mutation_types[$randomizer.rand(mutation_types.size)]
+            mutation_size = $randomizer.rand(PROGRAM_MUTATION_MAX_SIZE)
+            current_program_array[mutation_position] = "#{mutation_direction}#{mutation_size}"
+          end
+          current_being.program = current_program_array.join(" ")
+        end
+      end
+    end
+  end
+end
+
 class OutputPrograms_BeingOperator < Thing
   def execute(beings)
     current_position = 1
@@ -1135,14 +1152,11 @@ class OutputPrograms_BeingOperator < Thing
          if current_being.team.to_i == 1 && current_being.wounds.to_i > 0
            position_name = "position-#{current_position}"
            new_program_file = File.new("programs/outputProgram/#{position_name}.program", "w")
-           puts position_name
-           puts current_being.program
            current_program = current_being.program
            if shift_amount < 0
              current_program_array = current_program.split(" ").rotate(shift_amount)
              current_program = current_program_array.join(" ")
            end
-           puts current_program
            new_program_file.write("name #{position_name}\n")
            new_program_file.write("program #{current_program}\n")
            new_program_file.close
@@ -1391,11 +1405,6 @@ class LineOfCommand
     elsif shortcut_everything?("dump", guess)
       putsl "Dumping living mutations.."
       team_results = DumpMutations_BeingOperator.new.execute(beings)
-    elsif shortcut_everything?("quit", guess)
-      if !beings.nil? && !world.nil?
-        output_team_stats(beings, world, true)
-      end
-      exit
     elsif shortcut_everything?("increment", guess)
       $team_number += 1
       putsl "incrementing team number. new beings will now be on team #{$team_number}."
@@ -1411,11 +1420,21 @@ class LineOfCommand
       $dump_logs = FALSE
       puts "turned off display logs"
     elsif shortcut_everything?("output", guess)
+      putsl "output programs"
       output_program_operator = OutputPrograms_BeingOperator.new
       output_program_operator.execute(beings)
     elsif shortcut_everything?("populate", guess)
       populate_beings = Populate_Beings_BeingOperator.new
       populate_beings.execute(beings, world)
+    elsif shortcut_everything?("quit", guess)
+      if !beings.nil? && !world.nil?
+        output_team_stats(beings, world, true)
+      end
+      exit
+    elsif shortcut_everything?("reprogram", guess)
+      putsl "reprogram"
+      mutation_program = MutatePrograms_BeingOperator.new
+      mutation_program.execute(beings)
     elsif shortcut_everything?("step", guess)
       $current_step += 1
       # "=====movement"

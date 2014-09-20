@@ -74,3 +74,7 @@ ruby generate_world.rb 40 20 30 5; more worlds/generated_world.world
 Generate a new map (overwriting last generated map) and fire up an interactive game session:
 
 ruby generate_world.rb 40 10 30 50; more worlds/generated_world.world ; emergent
+
+To mutate team 1's program to be optimal against itself (ie: 30 configurations, 10 test matches)
+
+time mutate_program.sh 30 10

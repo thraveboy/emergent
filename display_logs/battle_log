@@ -49,24 +49,59 @@ Assigning program to being...
  ..
 Assigning program to being...
 incrementing team number. new beings will now be on team 2.
-...Thing ranger_elf created and initialized
+...Thing orc created and initialized
  ..
 ...Thing position-1 created and initialized
  ..
 Assigning program to being...
-...Thing warrior_man created and initialized
+...Thing orc created and initialized
  ..
 ...Thing position-2 created and initialized
  ..
 Assigning program to being...
-...Thing winder_dark_elf created and initialized
+...Thing orc created and initialized
  ..
 ...Thing position-3 created and initialized
  ..
 Assigning program to being...
-...Thing generated-40-20-5-20 created and initialized
+...Thing orc created and initialized
+ ..
+...Thing position-4 created and initialized
+ ..
+Assigning program to being...
+...Thing orc created and initialized
+ ..
+...Thing position-5 created and initialized
+ ..
+Assigning program to being...
+...Thing orc created and initialized
+ ..
+...Thing position-6 created and initialized
+ ..
+Assigning program to being...
+...Thing orc created and initialized
+ ..
+...Thing position-7 created and initialized
+ ..
+Assigning program to being...
+...Thing orc created and initialized
+ ..
+...Thing position-8 created and initialized
+ ..
+Assigning program to being...
+...Thing orc created and initialized
+ ..
+...Thing position-9 created and initialized
+ ..
+Assigning program to being...
+...Thing orc created and initialized
+ ..
+...Thing position-10 created and initialized
+ ..
+Assigning program to being...
+...Thing generated-40-10-5-20 created and initialized
  ..
 ...Thing Display for Men and Elves created and initialized
  ..
 .....Adding beings to world....
-1111111111222 done populating....
+11111111112222222222 done populating....

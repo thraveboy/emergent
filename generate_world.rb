@@ -9,7 +9,7 @@ $y_paths = []
 
 $map_hash = Hash.new
 
-$blocks = '~!^><#$'
+$blocks = ',\'o0\\/'
 $objectives = '&?'
 
 $new_map = File.new("worlds/generated_world.world", "w")
