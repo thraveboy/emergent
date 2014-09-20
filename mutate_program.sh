@@ -21,7 +21,7 @@ do
     cat games/display_logs_off team_1_load_temp team_switch_load_temp team_2_load_temp games/currentGame games/move-15 games/move-15-quit | ruby emergent.rb > /dev/null
     let currentmatch=currentmatch+1
   done
-  echo
+  ruby match_stats.rb match-team.results
   result=`ruby match_winner.rb match-team.results`
   if [ $result -eq 1 ]
     then
