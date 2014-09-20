@@ -8,7 +8,8 @@ matchesperiteration=$2
 ./create_current_team_load_commands.sh
 set_programs_team_1.sh programs/outputProgram/
 
-let halfway=$matchesperiteration/2
+let halfway=$matchesperiteration
+let halfway=$halfway/2
 
 while [ $currentiteration -le $numberofiterations ]
 do
@@ -31,18 +32,17 @@ do
         resultmany=`ruby match_winner.rb match-team.results`
         if [ $resultmany -eq 2 ]
           then
-            let team2wins=team2wins+1
+            let team2wins=$team2wins+1
             if [ $team2wins -ge $halfway ]
               then
-              let current_match=matchesperiteration
+              let currentmatch=$matchesperiteration+1
             else 
-              let currentmatch=currentmatch+1
+              let currentmatch=$currentmatch+1
             fi 
         else
-          let currentmatch=currentmatch+1
+          let currentmatch=$currentmatch+1
         fi
         echo -n $resultmany
-      
       done
       ruby match_stats.rb match-team.results
       resultmany=`ruby match_winner.rb match-team.results`

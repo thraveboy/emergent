@@ -1450,7 +1450,9 @@ class LineOfCommand
       world.operate_over_space(Attack_WorldOperator.new('ranged'), displays, true, beings)
       # "+++++melee attacks"
       world.operate_over_space(Attack_WorldOperator.new('melee'), displays, true, beings)
-      set_markers_do_iterations(beings, world, displays, $current_step, $current_step)
+      if $dump_logs
+        set_markers_do_iterations(beings, world, displays, $current_step, $current_step)
+      end
     elsif shortcut_everything?("teams", guess)
       output_team_stats(beings, world)
     elsif self.is_list_objects_command?(@types, guess)
