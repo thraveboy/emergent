@@ -78,3 +78,18 @@ ruby generate_world.rb 40 10 30 50; more worlds/generated_world.world ; emergent
 To mutate team 1's program to be optimal against itself (ie: 30 configurations, 10 test matches)
 
 time mutate_program.sh 30 10
+
+
+To have it reset the program, mutate 100 times and says it succeeds if it wins 20 times.
+
+Reids-MacBook-Air:emergent thraveboy$ show_current_game_config.sh
+Game:gameStandardCurrent
+World:../worlds/generated_world.world
+Display:beings-men-elves.display
+Team 1:../campaigns/mountains_of_the_mist/units/orc_unit/
+Team 2:../campaigns/mountains_of_the_mist/units/party_of_three/
+Team 1 Programs:../programs/outputProgram/
+Team 2 Programs:../programs/currentAttempt/
+Date/time: Tue Feb 29 02:21:38 PST 2000
+Reids-MacBook-Air:emergent thraveboy$ reset_mutation_programs.sh 
+Reids-MacBook-Air:emergent thraveboy$ time mutate_program.sh 100 20

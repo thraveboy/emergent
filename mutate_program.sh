@@ -7,7 +7,8 @@ matchesperiteration=$2
 ./show_current_game_config.sh
 ./create_current_team_load_commands.sh
 set_programs_team_1.sh programs/outputProgram/
-set_programs_team_2.sh programs/currentBest/
+
+let halfway=$matchesperiteration/2
 
 while [ $currentiteration -le $numberofiterations ]
 do
@@ -15,19 +16,45 @@ do
   echo "iteration $currentiteration";
   cat games/display_logs_off team_1_load_temp team_switch_load_temp team_2_load_temp games/currentGame games/reprogram-output-quit | ruby emergent.rb > /dev/null
   ./clean_match_raw.sh
-  while [ $currentmatch -le $matchesperiteration ]
-  do
-    echo -n "."
-    cat games/display_logs_off team_1_load_temp team_switch_load_temp team_2_load_temp games/currentGame games/move-15 games/move-15-quit | ruby emergent.rb > /dev/null
-    let currentmatch=currentmatch+1
-  done
+
+  cat games/display_logs_off team_1_load_temp team_switch_load_temp team_2_load_temp games/currentGame games/move-15 games/move-15-quit | ruby emergent.rb > /dev/null
+
   ruby match_stats.rb match-team.results
   result=`ruby match_winner.rb match-team.results`
   if [ $result -eq 1 ]
     then
-      echo "+new current best+"
-      cat team_1_load_temp team_switch_load_temp team_2_load_temp games/currentGame games/move-15 games/move-15-quit | ruby emergent.rb > /dev/null
-      cp programs/outputProgram/* programs/currentBest
+      let team2wins=0
+      while [ $currentmatch -le $matchesperiteration ]
+      do
+        echo -n "."
+        cat team_1_load_temp team_switch_load_temp team_2_load_temp games/currentGame games/move-15 games/move-15-quit | ruby emergent.rb > /dev/null
+        resultmany=`ruby match_winner.rb match-team.results`
+        if [ $resultmany -eq 2 ]
+          then
+            let team2wins=team2wins+1
+            if [ $team2wins -ge $halfway ]
+              then
+              let current_match=matchesperiteration
+            else 
+              let currentmatch=currentmatch+1
+            fi 
+        else
+          let currentmatch=currentmatch+1
+        fi
+        echo -n $resultmany
+      
+      done
+      ruby match_stats.rb match-team.results
+      resultmany=`ruby match_winner.rb match-team.results`
+      if [ $resultmany -eq 1 ]
+        then
+          cat team_1_load_temp team_switch_load_temp team_2_load_temp games/currentGame games/move-15 games/move-15-quit | ruby emergent.rb > /dev/null
+          cp programs/outputProgram/* programs/currentBest
+          echo "+new current best+ BEAT YOU now in programs/currentBest"
+          exit
+      fi
   fi
   let currentiteration=currentiteration+1
 done
+
+echo "could not defeat you. :("
