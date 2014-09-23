@@ -19,8 +19,12 @@ MAP_LOG_FILE = "display_logs/map_log"
 TEAM_LOG_FILE = "display_logs/team_log"
 BATTLE_LOG_FILE = "display_logs/battle_log"
 
+MAX_STEPS = 30
+
 $dump_logs = TRUE
 $current_step = 1
+
+$output_team_stats_each_action = TRUE
 
 $map_log = File.new(MAP_LOG_FILE, 'w')
 $battle_log = File.new(BATTLE_LOG_FILE, 'w')
@@ -533,7 +537,9 @@ class World < Thing
               result_queue.push(result_to_push)
             else
               eval result_to_push
-              output_team_stats(beings, self)
+              if $output_team_stats_each_action
+                output_team_stats(beings, self)
+              end
               if print_map_each_step
                 self.print_map(displays)
               end
@@ -551,7 +557,9 @@ class World < Thing
           clear_screen
          end
          eval queue_action
-         output_team_stats(beings, self)
+         if $output_team_stats_each_action
+           output_team_stats(beings, self)
+         end
          if print_map_each_step
            self.print_map(displays)
          end
@@ -1300,6 +1308,9 @@ rescue NameError
 end
 
 def output_team_stats(beings, world, output_to_file=false)
+  if !$dump_logs && !output_to_file
+    return
+  end
   team_results = TeamStats_BeingOperator.new.execute(beings, world, output_to_file)
   clear_screen("team")
   putsl("Current step: #{$current_step-1}     ", "team")
@@ -1436,22 +1447,24 @@ class LineOfCommand
       mutation_program = MutatePrograms_BeingOperator.new
       mutation_program.execute(beings)
     elsif shortcut_everything?("step", guess)
-      $current_step += 1
-      # "=====movement"
-      world.operate_over_space(ObjCommand_WorldOperator.new, displays, true, beings)
-      if $dump_logs
-        clear_markers([], world)
-        world.operate_over_space(SetMarkers_WorldOperator.new, displays, true, beings)
-      end
-      world.print_map(displays)
-      # "-----magic"
-      world.operate_over_space(Magic_WorldOperator.new, displays, true, beings)
-      # "-----ranged attacks"
-      world.operate_over_space(Attack_WorldOperator.new('ranged'), displays, true, beings)
-      # "+++++melee attacks"
-      world.operate_over_space(Attack_WorldOperator.new('melee'), displays, true, beings)
-      if $dump_logs
-        set_markers_do_iterations(beings, world, displays, $current_step, $current_step)
+      if ($current_step <= MAX_STEPS)
+        $current_step += 1
+        # "=====movement"
+        world.operate_over_space(ObjCommand_WorldOperator.new, displays, true, beings)
+        if $dump_logs
+          clear_markers([], world)
+          world.operate_over_space(SetMarkers_WorldOperator.new, displays, true, beings)
+        end
+        world.print_map(displays)
+        # "-----magic"
+        world.operate_over_space(Magic_WorldOperator.new, displays, true, beings)
+        # "-----ranged attacks"
+        world.operate_over_space(Attack_WorldOperator.new('ranged'), displays, true, beings)
+        # "+++++melee attacks"
+        world.operate_over_space(Attack_WorldOperator.new('melee'), displays, true, beings)
+        if $dump_logs
+          set_markers_do_iterations(beings, world, displays, $current_step, $current_step)
+        end
       end
     elsif shortcut_everything?("teams", guess)
       output_team_stats(beings, world)

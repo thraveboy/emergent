@@ -1,1 +1,4061 @@
-[2J
+[2J[2HCurrent step: 0     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing:  
+next command: w1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing:  
+next command: w0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing:  
+next command: n1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing:  
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing:  
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing:  
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing:  
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing:  
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing:  
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing:  
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing:  
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing:  
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing:  
+next command: e0 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 1     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: n2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 1     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: n2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 1     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: n2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 1     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: n2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 1     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: n2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 1     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: n2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 1     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: n2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 1     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: n2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 1     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: n2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 1     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: n2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 1     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: n2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 1     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: n2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 1     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: n2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 2     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: n 
+next command: e2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: w1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 2     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: n 
+next command: e2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: w1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 2     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: n 
+next command: e2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: w1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 2     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: n 
+next command: e2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: w1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 2     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: n 
+next command: e2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: w1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 2     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: n 
+next command: e2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: w1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 2     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: n 
+next command: e2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: w1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 2     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: n 
+next command: e2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: w1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 2     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: n 
+next command: e2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: w1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 2     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: n 
+next command: e2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: w1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 2     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: n 
+next command: e2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: w1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 2     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: n 
+next command: e2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: w1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 2     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: n 
+next command: e2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: w1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 3     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: n2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: e0 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 3     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: n2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: e0 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 3     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: n2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: e0 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 3     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: n2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: e0 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 3     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: n2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: e0 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 3     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: n2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: e0 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 3     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: n2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: e0 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 3     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: n2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: e0 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 3     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: n2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: e0 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 3     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: n2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: e0 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 3     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: n2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: e0 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 3     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: n2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: e0 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 3     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: n2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: e0 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 4     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: w1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: n 
+next command: w2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: e 
+next command: w0 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 4     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: w1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: n 
+next command: w2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: e 
+next command: w0 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 4     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: w1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: n 
+next command: w2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: e 
+next command: w0 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 4     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: w1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: n 
+next command: w2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: e 
+next command: w0 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 4     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: w1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: n 
+next command: w2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: e 
+next command: w0 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 4     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: w1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: n 
+next command: w2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: e 
+next command: w0 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 4     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: w1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: n 
+next command: w2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: e 
+next command: w0 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 4     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: w1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: n 
+next command: w2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: e 
+next command: w0 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 4     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: w1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: n 
+next command: w2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: e 
+next command: w0 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 4     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: w1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: n 
+next command: w2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: e 
+next command: w0 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 4     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: w1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: n 
+next command: w2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: e 
+next command: w0 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 4     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: w1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: n 
+next command: w2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: e 
+next command: w0 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 4     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: w1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: n 
+next command: w2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: e 
+next command: w0 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 5     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: w1 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: e2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 5     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: w1 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: e2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 5     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: w1 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: e2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 5     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: w1 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: e2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 5     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: w1 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: e2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 5     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: w1 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: e2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 5     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: w1 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: e2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 5     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: w1 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: e2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 5     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: w1 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: e2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 5     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: w1 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: e2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 5     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: w1 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: e2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 5     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: w1 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: e2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 5     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: w1 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: e2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 6     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: e1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: e0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: e 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 6     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: e1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: e0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: e 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 6     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: e1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: e0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: e 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 6     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: e1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: e0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: e 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 6     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: e1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: e0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: e 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 6     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: e1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: e0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: e 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 6     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: e1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: e0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: e 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 6     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: e1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: e0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: e 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 6     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: e1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: e0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: e 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 6     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: e1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: e0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: e 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 6     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: e1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: e0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: e 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 6     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: e1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: e0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: e 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 6     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: e1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: e0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: e 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 7     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: w0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w0 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 7     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: w0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w0 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 7     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: w0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w0 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 7     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: w0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w0 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 7     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: w0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w0 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 7     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: w0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w0 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 7     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: w0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w0 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 7     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: w0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w0 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 7     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: w0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w0 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 7     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: w0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w0 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 7     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: w0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w0 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 7     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: w0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w0 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 7     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: w0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w0 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 8     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: e2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 8     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: e2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 8     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: e2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 8     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: e2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 8     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: e2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 8     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: e2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 8     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: e2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 8     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: e2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 8     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: e2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 8     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: e2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 8     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: e2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 8     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: e2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 8     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: n0 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: w 
+next command: e2 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: n2 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: w1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 9     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: w2 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: e1 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: w1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 9     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: w2 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: e1 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: w1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 9     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: w2 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: e1 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: w1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 9     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: w2 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: e1 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: w1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 9     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: w2 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: e1 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: w1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 9     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: w2 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: e1 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: w1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 9     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: w2 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: e1 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: w1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 9     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: w2 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: e1 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: w1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 9     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: w2 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: e1 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: w1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 9     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: w2 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: e1 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: w1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 9     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: w2 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: e1 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: w1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 9     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: w2 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: e1 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: w1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 9     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: n 
+next command: w2 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: e1 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: n 
+next command: w1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: e1 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 10     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: n0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: n1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 10     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: n0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: n1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 10     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: n0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: n1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 10     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: n0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: n1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 10     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: n0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: n1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 10     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: n0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: n1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 10     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: n0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: n1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 10     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: n0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: n1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 10     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: n0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: n1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 10     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: n0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: n1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 10     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: n0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: n1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 10     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: n0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: n1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     
+[2HCurrent step: 10     
+Team 1: 
+[37m7 Points :ranger_elf: wounds: 2 facing: w 
+next command: e1 [0m     
+[37m6 Points :warrior_man: wounds: 1 facing: e 
+next command: n0 [0m     
+[37m7 Points :winder_dark_elf: wounds: 1 facing: w 
+next command: n1 [0m          
+Team 2: 
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n1 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n0 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: e1 [0m     
+[37m2 Points :orc: wounds: 2 facing: s 
+next command: w2 [0m     
+[37m2 Points :orc: wounds: 2 facing: e 
+next command: n2 [0m     
+[37m2 Points :orc: wounds: 2 facing: w 
+next command: e2 [0m          
+Team 1 Points: 20     
+Team 2 Points: 20     

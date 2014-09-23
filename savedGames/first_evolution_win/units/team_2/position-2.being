@@ -1,0 +1,12 @@
+name warrior_man
+move 1
+ballistic_skill 1
+ballistic_range 1
+ballistic_damage 1
+melee_skill 1
+melee_damage 2
+armor 1
+wounds 1
+magic_range 1
+magic_skill 1
+mutation melee_damage melee_damage armor melee_skill melee_skill

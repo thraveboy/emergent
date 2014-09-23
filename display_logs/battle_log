@@ -1,0 +1,90 @@
+...Thing ranger_elf created and initialized
+ ..
+...Thing position-1 created and initialized
+ ..
+Assigning program to being...
+...Thing warrior_man created and initialized
+ ..
+...Thing position-2 created and initialized
+ ..
+Assigning program to being...
+...Thing winder_dark_elf created and initialized
+ ..
+...Thing position-3 created and initialized
+ ..
+Assigning program to being...
+incrementing team number. new beings will now be on team 2.
+...Thing orc created and initialized
+ ..
+...Thing position-1 created and initialized
+ ..
+Assigning program to being...
+...Thing orc created and initialized
+ ..
+...Thing position-2 created and initialized
+ ..
+Assigning program to being...
+...Thing orc created and initialized
+ ..
+...Thing position-3 created and initialized
+ ..
+Assigning program to being...
+...Thing orc created and initialized
+ ..
+...Thing position-4 created and initialized
+ ..
+Assigning program to being...
+...Thing orc created and initialized
+ ..
+...Thing position-5 created and initialized
+ ..
+Assigning program to being...
+...Thing orc created and initialized
+ ..
+...Thing position-6 created and initialized
+ ..
+Assigning program to being...
+...Thing orc created and initialized
+ ..
+...Thing position-7 created and initialized
+ ..
+Assigning program to being...
+...Thing orc created and initialized
+ ..
+...Thing position-8 created and initialized
+ ..
+Assigning program to being...
+...Thing orc created and initialized
+ ..
+...Thing position-9 created and initialized
+ ..
+Assigning program to being...
+...Thing orc created and initialized
+ ..
+...Thing position-10 created and initialized
+ ..
+Assigning program to being...
+...Thing generated-40-10-10-50 created and initialized
+ ..
+...Thing Display for Men and Elves created and initialized
+ ..
+.....Adding beings to world....
+1112222222222 done populating....
+[35m[1mwinder_dark_elf[0m(19,6) attempts to buff orc(19,2) armor by -1 : Succeeds.[0m
+[35m[1mwinder_dark_elf[0m(19,6) attempts to buff orc(21,3) armor by -1 : Succeeds.[0m
+[35m[1mwinder_dark_elf[0m(19,6) attempts to buff orc(19,2) melee_skill by -2 : Succeeds.[0m
+[36m[1mwinder_dark_elf[0m(19,6) attempts to buff orc(21,3) melee_skill by -2 : Fails.[0m
+[36m[1mwinder_dark_elf[0m(19,6) attempts to buff orc(19,2) armor by -1 : Fails.[0m
+[35m[1mwinder_dark_elf[0m(19,6) attempts to buff orc(21,4) armor by -1 : Succeeds.[0m
+[35m[1mwinder_dark_elf[0m(19,6) attempts to buff orc(19,2) melee_skill by -2 : Succeeds.[0m
+[35m[1mwinder_dark_elf[0m(19,6) attempts to buff orc(21,4) melee_skill by -2 : Succeeds.[0m
+[35m[1mwinder_dark_elf[0m(19,6) attempts to buff orc(18,2) armor by -1 : Succeeds.[0m
+[36m[1mwinder_dark_elf[0m(19,6) attempts to buff orc(21,4) armor by -1 : Fails.[0m
+[35m[1mwinder_dark_elf[0m(19,6) attempts to buff orc(18,2) melee_skill by -2 : Succeeds.[0m
+[35m[1mwinder_dark_elf[0m(19,6) attempts to buff orc(21,4) melee_skill by -2 : Succeeds.[0m
+[35m[1mwinder_dark_elf[0m(18,6) attempts to buff orc(18,2) armor by -1 : Succeeds.[0m
+[35m[1mwinder_dark_elf[0m(18,6) attempts to buff orc(19,2) armor by -1 : Succeeds.[0m
+[35m[1mwinder_dark_elf[0m(18,6) attempts to buff orc(21,5) armor by -1 : Succeeds.[0m
+[36m[1mwinder_dark_elf[0m(18,6) attempts to buff orc(18,2) melee_skill by -2 : Fails.[0m
+[35m[1mwinder_dark_elf[0m(18,6) attempts to buff orc(19,2) melee_skill by -2 : Succeeds.[0m
+[36m[1mwinder_dark_elf[0m(18,6) attempts to buff orc(21,5) melee_skill by -2 : Fails.[0m

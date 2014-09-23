@@ -2,6 +2,9 @@
 numberofiterations=$1
 currentiteration=1
 matchesperiteration=$2
+stepsthorough=$3
+
+rm defeated
 
 ./clean_match_raw.sh
 ./show_current_game_config.sh
@@ -28,7 +31,7 @@ do
       while [ $currentmatch -le $matchesperiteration ]
       do
         echo -n "."
-        cat team_1_load_temp team_switch_load_temp team_2_load_temp games/currentGame games/move-15 games/move-15-quit | ruby emergent.rb > /dev/null
+        cat games/display_logs_off team_1_load_temp team_switch_load_temp team_2_load_temp games/currentGame games/move-15 games/move-15-quit | ruby emergent.rb > /dev/null
         resultmany=`ruby match_winner.rb match-team.results`
         if [ $resultmany -eq 2 ]
           then
@@ -48,13 +51,19 @@ do
       resultmany=`ruby match_winner.rb match-team.results`
       if [ $resultmany -eq 1 ]
         then
-          cat team_1_load_temp team_switch_load_temp team_2_load_temp games/currentGame games/move-15 games/move-15-quit | ruby emergent.rb > /dev/null
-          cp programs/outputProgram/* programs/currentBest
-          echo "+new current best+ BEAT YOU now in programs/currentBest"
-          exit
+          run_clean_match.sh $stepsthorough
+          resultthorough=`ruby match_winner.rb match-team.results`
+          if [ $resultthorough -eq 1 ]  
+            then
+              cat team_1_load_temp team_switch_load_temp team_2_load_temp games/currentGame games/move-15 games/move-15-quit | ruby emergent.rb > /dev/null
+              cp programs/outputProgram/* programs/currentBest
+              echo "+new current best+ BEAT YOU now in programs/currentBest"
+              exit
+          fi
       fi
   fi
   let currentiteration=currentiteration+1
 done
 
+touch defeated
 echo "could not defeat you. :("

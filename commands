@@ -66,9 +66,9 @@ To run match analysis
 wc -l match-team.results ; ruby team_stats.rb match-team.results 
 
 
-To generate a new map saved as worlds/generated_world.world
+To generate a new map (overwriting last generated map) saved as worlds/generated_world.world
 
-ruby generate_world.rb 40 20 30 5; more worlds/generated_world.world 
+ruby generate_world.rb 40 10 10 50; more worlds/generated_world.world
 
 
 Generate a new map (overwriting last generated map) and fire up an interactive game session:
@@ -93,3 +93,8 @@ Team 2 Programs:../programs/currentAttempt/
 Date/time: Tue Feb 29 02:21:38 PST 2000
 Reids-MacBook-Air:emergent thraveboy$ reset_mutation_programs.sh 
 Reids-MacBook-Air:emergent thraveboy$ time mutate_program.sh 100 20
+
+
+To run two unit/programs against each other and evolve the programs (20 times switching sides, 100 mutations to see if you can win, 20 times to test before full test, full test number is 100)
+
+evolve_both_programs.sh 20 100 20 100
