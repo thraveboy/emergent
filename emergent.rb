@@ -191,17 +191,17 @@ class Thing
     return nil
   end
 
-  def print_this_baby_out(omitted_variables = [], displays=[])
-    putsl @name
-    cray_cray = ""
-    stuck_middle = ":"
-    coo_coo   = ""
+  def print_this_baby_out(omitted_variables = [], displays=[], output_file = nil)
     instance_variables.each do |iv|
       if !(omitted_variables.include? (iv[1..-1]))
         iv_value = instance_variable_get(iv)
         iv_jv_name = "#{iv}"
         iv_jv_name[0] = ''
-        putsl "#{cray_cray}#{iv_jv_name}#{stuck_middle}#{iv_value}#{coo_coo}"
+        output_string = "#{iv_jv_name} #{iv_value}"
+        putsl output_string
+        if !output_file.nil?
+          output_file.write(output_string)
+        end
       end
     end
   end
@@ -230,12 +230,12 @@ class Being < Thing
   attr_accessor :marked
   attr_accessor :facing
 
-  def print_this_baby_out(omitted_variables = [], display = [])
+  def print_this_baby_out(omitted_variables = [], display = [], output_being_file)
     being_omit = ['initialized', 'filename']
     being_omit.each do |bo|
       omitted_variables.push(bo)
     end
-    super omitted_variables
+    super(omitted_variables, display, output_being_file)
   end
 
   def initialize(filename = nil)
@@ -711,10 +711,14 @@ class Mutate_Beings_BeingOperator < Thing
 end
 
 class TeamStats_BeingOperator < Thing
-  def execute(beings, world, output_to_file = false)
+  def execute(beings, world, output_to_file = false, output_beings = false)
     team_stats = Hash.new
     team_1_points = 0
     team_others_points = 0
+    team_being_number = Hash.new
+    team_being_number["1"] = 0
+    team_being_number["2"] = 0
+
     world.operate_over_space(ObjectivePointAssignBeings_WorldOperator.new)
 
     beings.each do |current_being|
@@ -722,6 +726,13 @@ class TeamStats_BeingOperator < Thing
         current_team = current_being.team.to_i
         current_being_points = current_being.points.to_i
         if !current_team.nil?
+          team_being_number["#{current_team}"] += 1
+          position_number = team_being_number["#{current_team}"]
+          if output_beings
+            output_being_file = File.new("units/output_units/team-#{current_team}/position-#{position_number}.being" ,"w")
+            current_being.print_this_baby_out([], [], output_being_file)
+            output_being_file.close
+          end
           current_being_team_stats = current_being.get_brief_stats
           current_wounds = current_being.wounds
           if !current_wounds.nil?
@@ -1093,11 +1104,7 @@ class Assign_Program_BeingOperator < Thing
      current_program_popped = programs.pop
      if !current_program_popped.nil? && !current_being.nil?
        current_program = current_program_popped.program
-       current_being_program = current_being.program
-       if current_being_program.nil?
-         current_being_program = ''
-       end
-       current_being_program.concat("#{current_program} ")
+       current_being_program = "#{current_program} "
        current_being.program = current_being_program
      else
        putsl "Could not assign program (#{current_program_popped}) to being (#{current_being})"
@@ -1307,11 +1314,11 @@ rescue NameError
   return false
 end
 
-def output_team_stats(beings, world, output_to_file=false)
-  if !$dump_logs && !output_to_file
+def output_team_stats(beings, world, output_to_file=false, output_beings=false)
+  if !$dump_logs && !output_to_file && !output_beings
     return
   end
-  team_results = TeamStats_BeingOperator.new.execute(beings, world, output_to_file)
+  team_results = TeamStats_BeingOperator.new.execute(beings, world, output_to_file, output_beings)
   clear_screen("team")
   putsl("Current step: #{$current_step-1}     ", "team")
   team_results.each do |key, value|
@@ -1416,6 +1423,8 @@ class LineOfCommand
     elsif shortcut_everything?("dump", guess)
       putsl "Dumping living mutations.."
       team_results = DumpMutations_BeingOperator.new.execute(beings)
+    elsif shortcut_everything?("emerge", guess)
+      output_team_stats(beings, world, false, TRUE)
     elsif shortcut_everything?("increment", guess)
       $team_number += 1
       putsl "incrementing team number. new beings will now be on team #{$team_number}."
