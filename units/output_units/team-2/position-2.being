@@ -1,1 +1,18 @@
-points 2program n2 e0 w0 e0 e0 w1 e0 n0 n2 w0 n1 n1 e1 w1 n0 n0 e1 n0 w1 n1 w2 w0 w0 w2 e1 w1 n1 n0 w0 e2 team 2objective_points 0marked falsename orcmove 1ballistic_skill 1ballistic_range 1ballistic_damage 1melee_skill 1melee_damage 1armor 1wounds 2magic_range 1magic_skill 1mutation wounds
+name base
+move 2
+ballistic_skill 1
+ballistic_range 1
+ballistic_damage 1
+melee_skill 1
+melee_damage 1
+armor 1
+wounds 2
+magic_range 1
+magic_skill 1
+points 4
+program n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 
+team 2
+objective_points 0
+marked false
+mutation move magics  -ballistic_skill1 wounds
+magics  -ballistic_skill1

@@ -1,1 +1,17 @@
-points 6program w0 n2 e2 n2 w2 w1 e0 w0 e2 e1 n0 w0 e0 n2 w0 w2 e2 n2 w1 n2 e0 n2 e2 n0 w0 e2 n1 n1 w2 e0 team 1objective_points 0marked falsename warrior_manmove 1ballistic_skill 1ballistic_range 1ballistic_damage 1melee_skill 3melee_damage 4armor 2wounds 1magic_range 1magic_skill 1mutation melee_damage melee_damage armor melee_skill melee_skill
+name base
+move 1
+ballistic_skill 1
+ballistic_range 2
+ballistic_damage 1
+melee_skill 1
+melee_damage 1
+armor 1
+wounds 2
+magic_range 1
+magic_skill 2
+points 4
+program n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 
+team 1
+objective_points 0
+marked false
+mutation ballistic_range magic_skill wounds

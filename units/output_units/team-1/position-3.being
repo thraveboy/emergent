@@ -1,1 +1,17 @@
-points 7program n1 n1 w1 e0 w0 e2 n2 n2 n2 w1 n1 n2 e2 n1 n1 e2 n1 n2 e2 n2 n2 e1 n2 e2 w2 w0 n0 w1 e0 n1 team 1objective_points 0marked falsename winder_dark_elfmove 1ballistic_skill 1ballistic_range 1ballistic_damage 2melee_skill 1melee_damage 1armor 1wounds 1magic_range 4magic_skill 2mutation magic_range magic_range magic_range magics -armor magics -melee_skill2 magic_skillmagics  -armor -melee_skill2
+name base
+move 1
+ballistic_skill 3
+ballistic_range 1
+ballistic_damage 1
+melee_skill 1
+melee_damage 1
+armor 1
+wounds 1
+magic_range 1
+magic_skill 2
+points 4
+program n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 
+team 1
+objective_points 0
+marked false
+mutation ballistic_skill ballistic_skill magic_skill

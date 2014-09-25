@@ -1,3 +1,9 @@
+%w(rubygems wordnik).each {|lib| require lib}
+
+Wordnik.configure do |config|
+    config.api_key = '998ae573b71f710d940080a44b401386ba5b536b5d7e95faf'
+end
+
 require "readline"
 
 STEP_COMMAND_PAUSE_LENGTH = 0
@@ -9,8 +15,7 @@ CLEAR_SCREEN = FALSE
 CLEAR_SCREEN_MAP_LOG = TRUE
 
 SEED = 0
-TOTAL_MUTATIONS = 30
-MUTATION_MULTIPLIER = 3
+TOTAL_MUTATIONS = 150
 
 PROGRAM_MUTATIONS = 10
 PROGRAM_MUTATION_MAX_SIZE = 3
@@ -24,7 +29,7 @@ MAX_STEPS = 30
 $dump_logs = TRUE
 $current_step = 1
 
-$output_team_stats_each_action = TRUE
+$output_team_stats_each_action = FALSE
 
 $map_log = File.new(MAP_LOG_FILE, 'w')
 $battle_log = File.new(BATTLE_LOG_FILE, 'w')
@@ -98,6 +103,25 @@ if SEED != 0
   $randomizer = Random.new(SEED)
 else
   $randomizer = Random.new
+end
+
+$synonym_api_cache_hash = Hash.new
+def find_synonym(word)
+  word = word.strip
+  if word[-1] == 's'
+    word = word[0..-2]
+  end
+  if $synonym_api_cache_hash[word].nil?
+    related_hash = Wordnik.word.get_related("#{word}", :type => 'synonym')
+    related_array= related_hash[0]["words"]
+    $synonym_api_cache_hash[word] = related_array
+  else
+    related_array = $synonym_api_cache_hash[word]
+  end
+  rand_word = related_array[$randomizer.rand(related_array.size)]
+  return rand_word
+rescue
+  return word
 end
 
 # Colored Output
@@ -200,7 +224,7 @@ class Thing
         output_string = "#{iv_jv_name} #{iv_value}"
         putsl output_string
         if !output_file.nil?
-          output_file.write(output_string)
+          output_file.write("#{output_string}\n")
         end
       end
     end
@@ -239,12 +263,12 @@ class Being < Thing
   end
 
   def initialize(filename = nil)
+    super(filename)
     @points = 1
     @program = ''
     @team = $team_number
     @objective_points = 0
     @marked = false
-    super(filename)
     $buffable_stats.each do |buffable_stat|
       metaclass.instance_eval do
         define_method(buffable_stat) {
@@ -264,14 +288,12 @@ class Being < Thing
     display_value = display.get(@name)
     if display_value != ''
       if @team.to_i == 1
-       display_value = bold(display_value)
+        display_value = red(display_value)
+      else
+        display_value = white(display_value)
       end
-      if @wounds.to_i < 2
-         display_value = red(display_value)
-       elsif@wounds.to_i < 3
-         display_value = yellow(display_value)
-       else
-         display_value = white(display_value)
+      if @wounds.to_i > 2
+         display_value = bold(display_value)
        end
     end
     return display_value
@@ -290,14 +312,22 @@ class Being < Thing
     return_string = "#{current_points} Points :#{self.name}: wounds: #{self.wounds} facing: #{self.facing} \nnext command: #{program_display} "
   end
 
-  def apply_mutation
+  def apply_mutation(mutate_name = true)
     current_mutation = self.instance_variable_get("@mutation")
+    @points = @points.to_i
+    mutation_name_hash = Hash.new
     if !current_mutation.nil? && current_mutation.length > 0
       mutation_array = current_mutation.split(" ")
       x = 0
       x_max = mutation_array.size
       while x < x_max
         current_mutation = mutation_array[x]
+        if mutate_name
+          if mutation_name_hash["#{current_mutation}"].nil?
+            mutation_name_hash["#{current_mutation}"] = 0
+          end
+          mutation_name_hash["#{current_mutation}"] += 1
+        end
         if current_mutation != 'magics'
           self.instance_variable_set("@#{current_mutation}", self.instance_variable_get("@#{current_mutation}").to_i + 1)
         else
@@ -317,6 +347,23 @@ class Being < Thing
         end
         @points += 1
         x += 1
+      end
+      if mutate_name && !mutation_name_hash.nil?
+        name_value = mutation_name_hash.max_by{ |k, v| v}
+        if !name_value.nil?
+          new_name = name_value[0]
+          if !new_name.nil?
+            synonym_list_name = ''
+            new_name.split("_").each do |i|
+              added_string = find_synonym(i)
+              synonym_list_name.concat("#{added_string}er ")
+            end
+            @name = "#{synonym_list_name}"
+            if @points >= 5
+              @name = @name.split.map(&:capitalize).join(' ')
+            end
+          end
+        end
       end
     end
   end
@@ -695,15 +742,16 @@ class Mutate_Beings_BeingOperator < Thing
         num_mutations = 0
         if being_team == 1
           if team_one_mutations_left > 0
-            num_mutations = $randomizer.rand(team_one_mutations_left) + 1
+            num_mutations = $randomizer.rand([team_one_mutations_left, 9].min) + 1
             team_one_mutations_left -= num_mutations
           end
         else
           if team_others_mutations_left > 0
-            num_mutations = $randomizer.rand(team_others_mutations_left) + 1
+            num_mutations = $randomizer.rand([team_others_mutations_left, 9].min) + 1
             team_others_mutations_left -= num_mutations
           end
         end
+puts num_mutations
         current_being.mutate(num_mutations)
       end
     end
@@ -1289,6 +1337,13 @@ class Display < Thing
   def get(name)
     if instance_variable_get("@#{name}") != nil
       return instance_variable_get("@#{name}")
+    elsif !name.nil?
+      return name[0]
+    end
+    return ''
+  rescue
+    if !name.nil?
+      return name[0]
     end
     return ''
   end

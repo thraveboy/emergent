@@ -1,2 +1,2 @@
 rm programs/outputProgram/*
-cp programs/Blank-15chars-30steps/* programs/outputProgram/
+cp programs/Blank-30chars-30steps/* programs/outputProgram/

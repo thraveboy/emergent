@@ -1,4 +1,5 @@
 name Display for Men and Elves
+base b
 base_dark_elf d
 base_man m
 dark_elf_quick_flight f

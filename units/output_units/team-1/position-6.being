@@ -1,0 +1,17 @@
+name base
+move 1
+ballistic_skill 3
+ballistic_range 3
+ballistic_damage 2
+melee_skill 2
+melee_damage 1
+armor 1
+wounds 2
+magic_range 2
+magic_skill 1
+points 9
+program n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 
+team 1
+objective_points 0
+marked false
+mutation ballistic_range ballistic_skill melee_skill ballistic_range ballistic_damage ballistic_skill wounds magic_range
