@@ -2,6 +2,7 @@
 
 Wordnik.configure do |config|
     config.api_key = '998ae573b71f710d940080a44b401386ba5b536b5d7e95faf'
+    config.logger = Logger.new('/dev/null')
 end
 
 require "readline"
@@ -31,14 +32,14 @@ $current_step = 1
 
 $output_team_stats_each_action = FALSE
 
-$map_log = File.new(MAP_LOG_FILE, 'w')
-$battle_log = File.new(BATTLE_LOG_FILE, 'w')
-$team_log = File.new(TEAM_LOG_FILE, 'w')
-
 $program_steps_to_show = 30
 
 $team_number = 1
 $objective_multiplier = 10
+
+$map_log = File.new(MAP_LOG_FILE, 'w')
+$battle_log = File.new(BATTLE_LOG_FILE, 'w')
+$team_log = File.new(TEAM_LOG_FILE, 'w')
 
 # Set sync = true so that writing to the display log files
 # happens immediately (is not cached and stalled).
@@ -106,21 +107,27 @@ else
 end
 
 $synonym_api_cache_hash = Hash.new
+
 def find_synonym(word)
   word = word.strip
   if word[-1] == 's'
     word = word[0..-2]
   end
-  if $synonym_api_cache_hash[word].nil?
+  if $synonym_api_cache_hash["#{word}"].nil? && $dump_logs
     related_hash = Wordnik.word.get_related("#{word}", :type => 'synonym')
     related_array= related_hash[0]["words"]
-    $synonym_api_cache_hash[word] = related_array
+    $synonym_api_cache_hash["#{word}"] = related_array
+  elsif !$synonym_api_cache_hash["#{word}"].nil?
+    related_array = $synonym_api_cache_hash["#{word}"]
   else
-    related_array = $synonym_api_cache_hash[word]
+    related_array = ["#{word}"]
   end
   rand_word = related_array[$randomizer.rand(related_array.size)]
   return rand_word
 rescue
+  if !$synonym_api_cache_hash.nil? && !word.nil? && $synonym_api_cache_hash["#{word}"].nil?
+    $synonym_api_cache_hash["#{word}"] = ["#{word}"]
+  end
   return word
 end
 
@@ -253,8 +260,9 @@ class Being < Thing
   attr_accessor :objective_points
   attr_accessor :marked
   attr_accessor :facing
+  attr_accessor :specialty
 
-  def print_this_baby_out(omitted_variables = [], display = [], output_being_file)
+  def print_this_baby_out(omitted_variables = [], display = [], output_being_file = nil)
     being_omit = ['initialized', 'filename']
     being_omit.each do |bo|
       omitted_variables.push(bo)
@@ -309,7 +317,7 @@ class Being < Thing
     if self.marked
       program_display = blue_bg(program_display)
     end
-    return_string = "#{current_points} Points :#{self.name}: wounds: #{self.wounds} facing: #{self.facing} \nnext command: #{program_display} "
+    return_string = "pts:#{current_points} wds:#{self.wounds} dir:#{self.facing} nxt:#{program_display} #{self.specialty}er\n     #{self.name}     "
   end
 
   def apply_mutation(mutate_name = true)
@@ -362,6 +370,7 @@ class Being < Thing
             if @points >= 5
               @name = @name.split.map(&:capitalize).join(' ')
             end
+            @specialty = new_name
           end
         end
       end
@@ -761,11 +770,13 @@ end
 class TeamStats_BeingOperator < Thing
   def execute(beings, world, output_to_file = false, output_beings = false)
     team_stats = Hash.new
+    team_stats["2"] = ''
+    team_stats["1"] = ''
     team_1_points = 0
     team_others_points = 0
     team_being_number = Hash.new
-    team_being_number["1"] = 0
     team_being_number["2"] = 0
+    team_being_number["1"] = 0
 
     world.operate_over_space(ObjectivePointAssignBeings_WorldOperator.new)
 
@@ -811,8 +822,8 @@ class TeamStats_BeingOperator < Thing
       end
     end
 
-    team_stats["1 Points"] = team_1_points
     team_stats["2 Points"] = team_others_points
+    team_stats["1 Points"] = team_1_points
     if output_to_file
       team_results_file = File.new("match-team.results", "a")
       team_results_file.write("#{team_1_points} #{team_others_points}\n")
@@ -1528,6 +1539,7 @@ class LineOfCommand
         world.operate_over_space(Attack_WorldOperator.new('melee'), displays, true, beings)
         if $dump_logs
           set_markers_do_iterations(beings, world, displays, $current_step, $current_step)
+          output_team_stats(beings, world)
         end
       end
     elsif shortcut_everything?("teams", guess)
