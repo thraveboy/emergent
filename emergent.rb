@@ -298,7 +298,7 @@ class Being < Thing
   end
 
   def display_value(display)
-    display_value = display.get(@name)
+    display_value = display.get(@specialty)
     if display_value != ''
       if @team.to_i == 1
         display_value = white(display_value)
@@ -325,7 +325,7 @@ class Being < Thing
     return_string = "pts:#{current_points} wds:#{self.wounds} dir:#{self.facing} nxt:#{program_display} #{self.specialty}er\n     #{self.name}     "
   end
 
-  def apply_mutation(mutate_name = true)
+  def apply_mutation(mutate_name = false)
     current_mutation = self.instance_variable_get("@mutation")
     @points = @points.to_i
     mutation_name_hash = Hash.new
@@ -335,12 +335,10 @@ class Being < Thing
       x_max = mutation_array.size
       while x < x_max
         current_mutation = mutation_array[x]
-        if mutate_name
-          if mutation_name_hash["#{current_mutation}"].nil?
-            mutation_name_hash["#{current_mutation}"] = 0
-          end
-          mutation_name_hash["#{current_mutation}"] += 1
+        if mutation_name_hash["#{current_mutation}"].nil?
+          mutation_name_hash["#{current_mutation}"] = 0
         end
+        mutation_name_hash["#{current_mutation}"] += 1
         if current_mutation != 'magics'
           self.instance_variable_set("@#{current_mutation}", self.instance_variable_get("@#{current_mutation}").to_i + 1)
         else
@@ -361,7 +359,7 @@ class Being < Thing
         @points += 1
         x += 1
       end
-      if mutate_name && !mutation_name_hash.nil?
+      if !mutation_name_hash.nil?
         name_value = mutation_name_hash.max_by{ |k, v| v}
         if !name_value.nil?
           new_name = name_value[0]
@@ -371,9 +369,12 @@ class Being < Thing
               added_string = find_synonym(i)
               synonym_list_name.concat("#{added_string}er ")
             end
-            @name = "#{synonym_list_name}"
+            if mutate_name
+              @name = "#{synonym_list_name}"
+            end
             if @points >= 5
               @name = @name.split.map(&:capitalize).join(' ')
+              new_name = new_name.capitalize
             end
             @specialty = new_name
           end
@@ -412,7 +413,7 @@ class Being < Thing
       end
     end
     self.instance_variable_set("@mutation", current_mutation.join(" "))
-    self.apply_mutation
+    self.apply_mutation(true)
   end
 end
 
@@ -798,7 +799,7 @@ class TeamStats_BeingOperator < Thing
             output_being_file.close
           end
           current_being_team_stats =
-              current_being.get_brief_stats.concat(" Pos: #{position_number}")
+              current_being.get_brief_stats.prepend("Pos: #{position_number} ")
           current_wounds = current_being.wounds
           if !current_wounds.nil?
             if current_wounds.to_i > 0
