@@ -1,3 +1,13 @@
+To create generate a new map, and two teams:
+
+emergent 40 20 10 50
+
+and then automatically evolve them
+
+time evolve_both_programs.sh 200 100 10 50
+
+-----
+
 Show current game configuration:
 
 ./show_current_game_config.sh

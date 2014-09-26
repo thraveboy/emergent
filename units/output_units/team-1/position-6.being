@@ -1,17 +1,20 @@
-name base
+name Frenzieder Advocacyer Understander
 move 1
-ballistic_skill 3
-ballistic_range 3
-ballistic_damage 2
+ballistic_skill 1
+ballistic_range 1
+ballistic_damage 1
 melee_skill 2
 melee_damage 1
 armor 1
 wounds 2
-magic_range 2
+magic_range 1
 magic_skill 1
 points 9
 program n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 
 team 1
 objective_points 0
 marked false
-mutation ballistic_range ballistic_skill melee_skill ballistic_range ballistic_damage ballistic_skill wounds magic_range
+specialty ballistic_defense_skill
+mutation ballistic_defense_skill wounds magics  -ballistic_range5 melee_skill
+magics  -ballistic_range5
+ballistic_defense_skill 1

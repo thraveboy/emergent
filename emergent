@@ -1,3 +1,14 @@
 ./close_hud.sh
 ./open_hud.sh
+./show_current_game_config.sh
+./create_current_team_load_commands.sh
+if [ $# -ge 4 ]
+  then
+    echo "Reseting world and teams"
+    ruby generate_world.rb $1 $2 $3 $4
+    ./reset_mutation_programs.sh
+    ./reset_output_units.sh
+    cat team_1_load_temp team_switch_load_temp team_2_load_temp games/currentGame games/mutate-outputbeings games/quit | ruby emergent.rb 
+fi
 ./run_current_match-interactive.sh > /dev/null
+

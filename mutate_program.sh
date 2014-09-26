@@ -18,7 +18,6 @@ while [ $currentiteration -le $numberofiterations ]
 do
   let currentmatch=1
   echo "iteration $currentiteration";
-  cat games/display_logs_off team_1_load_temp team_switch_load_temp team_2_load_temp games/currentGame games/reprogram-output-quit | ruby emergent.rb > /dev/null
   ./clean_match_raw.sh
 
   cat games/display_logs_off team_1_load_temp team_switch_load_temp team_2_load_temp games/currentGame games/move-15 games/move-15-quit | ruby emergent.rb > /dev/null
@@ -62,6 +61,9 @@ do
           fi
       fi
   fi
+
+  cat games/display_logs_off team_1_load_temp team_switch_load_temp team_2_load_temp games/currentGame games/reprogram-output-quit | ruby emergent.rb > /dev/null
+
   let currentiteration=currentiteration+1
 done
 

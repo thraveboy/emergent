@@ -1,18 +1,18 @@
-name base
-move 1
+name Black Arter Causeer
+move 2
 ballistic_skill 1
-ballistic_range 1
-ballistic_damage 3
-melee_skill 3
-melee_damage 1
+ballistic_range 2
+ballistic_damage 1
+melee_skill 1
+melee_damage 2
 armor 1
 wounds 1
 magic_range 2
-magic_skill 2
-points 8
+magic_skill 3
+points 7
 program n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 
 team 1
 objective_points 0
 marked false
-mutation ballistic_damage magic_skill melee_skill magic_range ballistic_damage melee_skill magics  +magic_skill1
-magics  +magic_skill1
+specialty magic_skill
+mutation ballistic_range melee_damage magic_skill magic_range move magic_skill

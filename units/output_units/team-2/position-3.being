@@ -1,18 +1,20 @@
-name base
-move 1
-ballistic_skill 2
+name ballisticaler espousaler handicrafter 
+move 2
+ballistic_skill 1
 ballistic_range 1
 ballistic_damage 1
 melee_skill 1
-melee_damage 2
-armor 2
+melee_damage 1
+armor 1
 wounds 1
 magic_range 1
 magic_skill 1
-points 5
+points 4
 program n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 
 team 2
 objective_points 0
 marked false
-mutation ballistic_defense_skill ballistic_skill melee_damage armor
+specialty ballistic_defense_skill
+mutation ballistic_defense_skill move magics  -armor1
+magics  -armor1
 ballistic_defense_skill 1

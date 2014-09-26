@@ -7,7 +7,7 @@ end
 
 require "readline"
 
-STEP_COMMAND_PAUSE_LENGTH = 0
+STEP_COMMAND_PAUSE_LENGTH = 0.0
 PROGRAM_PREVIEW_PAUSE_LENGTH = 0.01
 IMPORTANT_MULTIPLIER = 1
 PAUSE_LENGTH = 0
@@ -16,7 +16,7 @@ CLEAR_SCREEN = FALSE
 CLEAR_SCREEN_MAP_LOG = TRUE
 
 SEED = 0
-TOTAL_MUTATIONS = 150
+TOTAL_MUTATIONS = 60
 
 PROGRAM_MUTATIONS = 10
 PROGRAM_MUTATION_MAX_SIZE = 3
@@ -277,7 +277,12 @@ class Being < Thing
     @team = $team_number
     @objective_points = 0
     @marked = false
+    @specialty = "standard"
     $buffable_stats.each do |buffable_stat|
+      buff_instance_var = "@#{buffable_stat}_buffs"
+      if self.instance_variable_defined?("#{buff_instance_var}")
+        remove_instance_variable("#{buff_instance_var}")
+      end
       metaclass.instance_eval do
         define_method(buffable_stat) {
           buff_value = 0
@@ -296,9 +301,9 @@ class Being < Thing
     display_value = display.get(@name)
     if display_value != ''
       if @team.to_i == 1
-        display_value = red(display_value)
-      else
         display_value = white(display_value)
+      else
+        display_value = red(display_value)
       end
       if @wounds.to_i > 2
          display_value = bold(display_value)
@@ -360,7 +365,7 @@ class Being < Thing
         name_value = mutation_name_hash.max_by{ |k, v| v}
         if !name_value.nil?
           new_name = name_value[0]
-          if !new_name.nil?
+          if !new_name.nil? && new_name != ''
             synonym_list_name = ''
             new_name.split("_").each do |i|
               added_string = find_synonym(i)
@@ -792,7 +797,8 @@ class TeamStats_BeingOperator < Thing
             current_being.print_this_baby_out([], [], output_being_file)
             output_being_file.close
           end
-          current_being_team_stats = current_being.get_brief_stats
+          current_being_team_stats =
+              current_being.get_brief_stats.concat(" Pos: #{position_number}")
           current_wounds = current_being.wounds
           if !current_wounds.nil?
             if current_wounds.to_i > 0
@@ -1321,7 +1327,7 @@ class Command
     command_type = current_command["command"].downcase
     command_args = current_command["args"]
     new_move_amount = 1
-    final_command = 'n'
+    final_command = command_type
     if new_command == '.'
       new_move_amount = 0
       final_command = command_type
@@ -1454,6 +1460,9 @@ class LineOfCommand
           beings[mark_being_number].marked = !beings[mark_being_number].marked
         end
       end
+      set_markers_do_iterations(beings, world, displays, $current_step, $program_steps_to_show)
+      sleep 1
+      clear_markers([], world)
       set_markers_do_iterations(beings, world, displays, $current_step, $current_step)
       output_team_stats(beings, world)
     elsif !@reprogram_options.index(guess[0]).nil?
@@ -1464,9 +1473,9 @@ class LineOfCommand
         clear_location_markers = ClearMarkers_WorldOperator.new
         world.operate_over_space(clear_location_markers)
         set_markers_do_iterations(beings, world, displays, $current_step, $current_step)
+        output_program_operator = OutputPrograms_BeingOperator.new
+        output_program_operator.execute(beings)
       end
-      output_program_operator = OutputPrograms_BeingOperator.new
-      output_program_operator.execute(beings)
     elsif shortcut_everything?("-", guess)
       clear_markers(beings, world)
       mark_team_1 = MarkTeam_BeingOperator.new

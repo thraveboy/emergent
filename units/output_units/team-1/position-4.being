@@ -1,19 +1,19 @@
-name base
+name Ballisticaler Rambleer
 move 1
 ballistic_skill 1
-ballistic_range 1
+ballistic_range 3
 ballistic_damage 1
 melee_skill 1
 melee_damage 1
-armor 1
+armor 2
 wounds 1
 magic_range 1
 magic_skill 1
-points 6
+points 5
 program n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 
 team 1
 objective_points 0
 marked false
-mutation magics  -ballistic_skill4 ballistic_defense_skill
-magics  -ballistic_skill4
-ballistic_defense_skill 1
+specialty ballistic_range
+mutation ballistic_range magics  +armor2 armor ballistic_range
+magics  +armor2

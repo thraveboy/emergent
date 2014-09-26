@@ -1,17 +1,19 @@
-name base
+name Frenzieder Scopeer
 move 1
 ballistic_skill 2
-ballistic_range 1
+ballistic_range 3
 ballistic_damage 2
 melee_skill 1
 melee_damage 1
 armor 1
-wounds 1
+wounds 2
 magic_range 1
 magic_skill 1
-points 3
+points 7
 program n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 
 team 2
 objective_points 0
 marked false
-mutation ballistic_damage ballistic_skill
+specialty ballistic_range
+mutation ballistic_damage ballistic_skill ballistic_range ballistic_defense_skill ballistic_range wounds
+ballistic_defense_skill 1

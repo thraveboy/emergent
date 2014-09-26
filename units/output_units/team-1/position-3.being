@@ -1,17 +1,18 @@
-name base
+name Tearer
 move 1
-ballistic_skill 3
-ballistic_range 1
+ballistic_skill 2
+ballistic_range 3
 ballistic_damage 1
-melee_skill 1
+melee_skill 3
 melee_damage 1
 armor 1
-wounds 1
+wounds 3
 magic_range 1
-magic_skill 2
-points 4
+magic_skill 1
+points 8
 program n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 
 team 1
 objective_points 0
 marked false
-mutation ballistic_skill ballistic_skill magic_skill
+specialty wounds
+mutation wounds melee_skill ballistic_range melee_skill ballistic_skill wounds ballistic_range
