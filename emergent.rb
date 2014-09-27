@@ -584,7 +584,7 @@ class World < Thing
     end
   end
 
-  def operate_over_space(operator, displays = [], simultaneous = true, beings = [], 
+  def operate_over_space(operator, displays = [], simultaneous = true, beings = [],
                          print_map_each_step = true)
     y=0
     world_dimensions = self.get_space_dimensions

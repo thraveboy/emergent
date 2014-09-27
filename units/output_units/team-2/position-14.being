@@ -1,5 +1,5 @@
-name base
-move 1
+name flutterer 
+move 2
 ballistic_skill 1
 ballistic_range 1
 ballistic_damage 1
@@ -9,10 +9,10 @@ armor 1
 wounds 1
 magic_range 1
 magic_skill 1
-points 1
+points 2
 program n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 
 team 2
 objective_points 0
 marked false
-specialty standard
-mutation 
+specialty move
+mutation move

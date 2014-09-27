@@ -1,19 +1,18 @@
-name Mailer
+name meleeer impairer 
 move 1
 ballistic_skill 1
-ballistic_range 2
-ballistic_damage 3
+ballistic_range 1
+ballistic_damage 2
 melee_skill 1
-melee_damage 1
-armor 3
+melee_damage 2
+armor 1
 wounds 1
-magic_range 2
+magic_range 1
 magic_skill 1
-points 8
+points 3
 program n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 
 team 1
 objective_points 0
 marked false
-specialty armor
-mutation armor magic_range ballistic_defense_skill ballistic_damage ballistic_range armor ballistic_damage
-ballistic_defense_skill 1
+specialty melee_damage
+mutation melee_damage ballistic_damage
