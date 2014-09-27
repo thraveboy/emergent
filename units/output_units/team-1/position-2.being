@@ -1,19 +1,18 @@
-name Wikisaurus:movementer
-move 2
+name Proposeer
+move 3
 ballistic_skill 2
-ballistic_range 1
+ballistic_range 2
 ballistic_damage 1
 melee_skill 1
-melee_damage 1
+melee_damage 2
 armor 1
 wounds 2
-magic_range 1
-magic_skill 2
-points 6
+magic_range 2
+magic_skill 1
+points 8
 program n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 
-team 2
+team 1
 objective_points 0
 marked false
 specialty Move
-mutation move ballistic_skill magics  +ballistic_range1 wounds magic_skill
-magics  +ballistic_range1
+mutation ballistic_skill move magic_range melee_damage ballistic_range move wounds

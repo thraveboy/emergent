@@ -1,20 +1,18 @@
-name Flirter
+name Mailer
 move 2
-ballistic_skill 1
+ballistic_skill 2
 ballistic_range 1
-ballistic_damage 1
+ballistic_damage 2
 melee_skill 1
 melee_damage 2
-armor 1
-wounds 1
+armor 3
+wounds 2
 magic_range 1
 magic_skill 1
-points 5
+points 8
 program n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 
 team 1
 objective_points 0
 marked false
-specialty Move
-mutation move ballistic_defense_skill melee_damage magics  -magic_skill2
-magics  -magic_skill2
-ballistic_defense_skill 1
+specialty Armor
+mutation ballistic_damage wounds ballistic_skill move melee_damage armor armor

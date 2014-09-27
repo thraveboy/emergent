@@ -1,4 +1,4 @@
-name epodeer compasser 
+name base
 move 1
 ballistic_skill 1
 ballistic_range 1
@@ -7,12 +7,12 @@ melee_skill 1
 melee_damage 1
 armor 1
 wounds 1
-magic_range 2
+magic_range 1
 magic_skill 1
-points 2
+points 1
 program n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 
 team 1
 objective_points 0
 marked false
-specialty magic_range
-mutation magic_range
+specialty standard
+mutation 

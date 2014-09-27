@@ -1,18 +1,18 @@
-name meleeer impairer 
-move 1
+name Armor Plateer
+move 2
 ballistic_skill 1
-ballistic_range 1
-ballistic_damage 2
+ballistic_range 2
+ballistic_damage 1
 melee_skill 1
-melee_damage 2
-armor 1
+melee_damage 1
+armor 3
 wounds 1
-magic_range 1
+magic_range 2
 magic_skill 1
-points 3
+points 6
 program n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 
 team 1
 objective_points 0
 marked false
-specialty melee_damage
-mutation melee_damage ballistic_damage
+specialty Armor
+mutation armor armor move ballistic_range magic_range

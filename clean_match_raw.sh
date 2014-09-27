@@ -1,1 +1,1 @@
-rm match-team.results
+rm match-team.results > /dev/null

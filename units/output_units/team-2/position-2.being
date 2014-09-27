@@ -1,19 +1,18 @@
-name ballisticaler justificationer understander 
+name Dweomercrafter Roamer
 move 1
 ballistic_skill 2
 ballistic_range 1
-ballistic_damage 1
+ballistic_damage 2
 melee_skill 1
-melee_damage 1
+melee_damage 3
 armor 1
-wounds 1
-magic_range 1
+wounds 3
+magic_range 4
 magic_skill 1
-points 3
+points 10
 program n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 
 team 2
 objective_points 0
 marked false
-specialty ballistic_defense_skill
-mutation ballistic_defense_skill ballistic_skill
-ballistic_defense_skill 1
+specialty Magic_range
+mutation magic_range ballistic_skill melee_damage wounds wounds melee_damage ballistic_damage magic_range magic_range

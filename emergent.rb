@@ -1309,8 +1309,8 @@ class Command
         while remaining_move > 0 do
           x_to_check += x_move_dir
           y_to_check += y_move_dir
-          checked_location = world.get_location(x_to_check, y_to_check)
-          if !checked_location.nil? && checked_location.can_add?(obj)
+          can_add_to_location = world.can_add?(obj, x_to_check, y_to_check)
+          if can_add_to_location
             new_location["x"] = x_to_check
             new_location["y"] = y_to_check
             remaining_move -= 1

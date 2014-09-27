@@ -1,18 +1,18 @@
-name chitiner 
+name Tearer
 move 1
 ballistic_skill 1
 ballistic_range 1
-ballistic_damage 1
+ballistic_damage 3
 melee_skill 1
 melee_damage 1
-armor 2
-wounds 1
-magic_range 2
+armor 1
+wounds 3
+magic_range 1
 magic_skill 1
-points 3
+points 5
 program n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 
-team 1
+team 2
 objective_points 0
 marked false
-specialty armor
-mutation armor magic_range
+specialty Wounds
+mutation wounds ballistic_damage wounds ballistic_damage

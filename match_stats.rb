@@ -37,10 +37,6 @@ team_1_avg_wins = team_1_avg_wins.round(1)
 team_2_avg_wins = team_2_avg_wins.round(1)
 ties_avg = ties_avg.round(1)
 
-puts
-puts "Wins=      Team 1: #{team_1_wins}  Team 2: #{team_2_wins}     Ties: #{ties}"
-puts "AvgWins=   Team 1: #{team_1_avg_wins}%  Team 2: #{team_2_avg_wins}%    Ties: #{ties_avg}%"
-puts
-puts "Points=    Team 1: #{team_1_points}  Team 2: #{team_2_points}"
-puts "AvgPoints= Team 1: #{team_1_avg_pts}  Team 2: #{team_2_avg_pts}"
-puts
+puts "Wins T1:#{team_1_wins} T2:#{team_2_wins} T:#{ties} AvgWins T1:#{team_1_avg_wins}%  T2:#{team_2_avg_wins}% T:#{ties_avg}%"
+puts "Pts T1:#{team_1_points} T2:#{team_2_points} AvgPts T1:#{team_1_avg_pts} T2:#{team_2_avg_pts}"
+
