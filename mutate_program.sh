@@ -17,7 +17,7 @@ let halfway=$halfway/2
 while [ $currentiteration -le $numberofiterations ]
 do
   let currentmatch=1
-  echo "iteration $currentiteration";
+  echo -n "iteration $currentiteration step";
   echo $4
   ./clean_match_raw.sh
 

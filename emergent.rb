@@ -1333,7 +1333,7 @@ class Command
       new_move_amount = 0
       final_command = command_type
     elsif new_command == command_type
-      new_move_amount += 1
+      new_move_amount = command_args.to_i + 1
       new_move_amount = [new_move_amount.to_i, obj.move.to_i].min
     else
       new_move_amount = 1
@@ -1454,16 +1454,13 @@ class LineOfCommand
     displays = instance_variable_get("@displays")
     world = instance_variable_get("@worlds")[-1]
     if !@being_selectors.index(guess[0]).nil?
-      clear_markers([], world)
+      clear_markers(beings, world)
       guess.split("").each do |being_i|
         mark_being_number = @being_selectors.index(being_i).to_i
         if !beings.nil? && (mark_being_number < beings.size) && !beings[mark_being_number].nil?
           beings[mark_being_number].marked = !beings[mark_being_number].marked
         end
       end
-      set_markers_do_iterations(beings, world, displays, $current_step, $program_steps_to_show)
-      sleep 1
-      clear_markers([], world)
       set_markers_do_iterations(beings, world, displays, $current_step, $current_step)
       output_team_stats(beings, world)
     elsif !@reprogram_options.index(guess[0]).nil?
@@ -1486,7 +1483,7 @@ class LineOfCommand
       clear_markers(beings, world)
       mark_team_1 = MarkTeam_BeingOperator.new
       mark_team_1.execute(beings)
-      set_markers_do_iterations(beings, world, displays, $current_step, $program_steps_to_show)
+      set_markers_do_iterations(beings, world, displays, $current_step, $current_step)
       output_team_stats(beings, world)
     elsif shortcut_everything?("assign", guess)
       putsl "Assigning program to being..."

@@ -9,7 +9,9 @@ while !quit
   ensure 
     system("stty -raw echo")
   end
-  print str[0]
+  if str[0] != "p"
+    print str[0]
+  end
   if str[0] != "\r"
     print "\n"
   end

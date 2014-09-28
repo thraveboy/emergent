@@ -1,1 +1,2015 @@
-[2J
+[2J[2HCurrent step: 0     
+Team 2: 
+[37mPos: 1 pts:4 wds:1 dir: nxt:w0 magic_rangeer
+     myalismer traverseer     [0m     
+[37mPos: 2 pts:10 wds:5 dir: nxt:n0 Magic_rangeer
+     Dweomercrafter Roamer     [0m     
+[37mPos: 3 pts:8 wds:1 dir: nxt:e0 Ballistic_damageer
+     Ballisticaler Eviler     [0m     
+[37mPos: 4 pts:5 wds:1 dir: nxt:n0 Ballistic_damageer
+     Frenzieder Eviler     [0m     
+[37mPos: 5 pts:5 wds:1 dir: nxt:e1 Magicser
+     Black Arter     [0m     
+[37mPos: 6 pts:4 wds:1 dir: nxt:n0 ballistic_skiller
+     frenzieder judgmenter     [0m     
+[37mPos: 7 pts:4 wds:1 dir: nxt:w2 ballistic_defense_skiller
+     frenzieder justificationer causeer     [0m     
+[37mPos: 8 pts:5 wds:5 dir: nxt:n1 Woundser
+     Tearer     [0m     
+[37mPos: 9 pts:8 wds:1 dir: nxt:e1 Ballistic_defense_skiller
+     Ballisticaler Maintenanceer Knowledgeer     [0m     
+[37mPos: 10 pts:7 wds:1 dir: nxt:e0 Moveer
+     Manhandleer     [0m     
+[37mPos: 11 pts:5 wds:1 dir: nxt:n2 Magic_rangeer
+     Black Arter Scopeer     [0m     
+[37mPos: 12 pts:7 wds:3 dir: nxt:e2 Ballistic_defense_skiller
+     Frenzieder Answerer Knowledgeer     [0m     
+[37mPos: 13 pts:1 wds:1 dir: nxt:n2 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir: nxt:n0 standarder
+     base     [0m     
+[37mPos: 15 pts:1 wds:1 dir: nxt:w2 standarder
+     base     [0m          
+Team 1: 
+[37mPos: 1 pts:8 wds:3 dir: nxt:n3 Armorer
+     Mailer     [0m     
+[37mPos: 2 pts:8 wds:3 dir: nxt:n4 Moveer
+     Proposeer     [0m     
+[37mPos: 3 pts:6 wds:1 dir: nxt:n1 Magic_skiller
+     Deviltryer Causeer     [0m     
+[37mPos: 4 pts:5 wds:1 dir: nxt:n3 Moveer
+     Flirter     [0m     
+[37mPos: 5 pts:8 wds:3 dir: nxt:n3 Magic_skiller
+     Sleight Of Hander Handicrafter     [0m     
+[37mPos: 6 pts:3 wds:1 dir: nxt:n1 melee_damageer
+     meleeer eviler     [0m     
+[37mPos: 7 pts:6 wds:1 dir: nxt:n3 Armorer
+     Armor Plateer     [0m     
+[37mPos: 8 pts:10 wds:3 dir: nxt:n3 Magic_rangeer
+     Exorcismer Training Areaer     [0m     
+[37mPos: 9 pts:7 wds:1 dir: nxt:n1 Magicser
+     Black Arter     [0m     
+[37mPos: 10 pts:7 wds:3 dir: nxt:n3 Magic_rangeer
+     Illusionismer Roamer     [0m     
+[37mPos: 11 pts:1 wds:1 dir: nxt:n1 standarder
+     base     [0m     
+[37mPos: 12 pts:1 wds:1 dir: nxt:n1 standarder
+     base     [0m     
+[37mPos: 13 pts:1 wds:1 dir: nxt:n1 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir: nxt:n1 standarder
+     base     [0m     
+[37mPos: 15 pts:1 wds:1 dir: nxt:n1 standarder
+     base     [0m          
+Team 2 Points: 75     
+Team 1 Points: 73     
+[2HCurrent step: 1     
+Team 2: 
+[37mPos: 1 pts:4 wds:1 dir:e nxt:n2 magic_rangeer
+     myalismer traverseer     [0m     
+[37mPos: 2 pts:10 wds:5 dir:s nxt:e1 Magic_rangeer
+     Dweomercrafter Roamer     [0m     
+[37mPos: 3 pts:8 wds:1 dir:w nxt:e0 Ballistic_damageer
+     Ballisticaler Eviler     [0m     
+[37mPos: 4 pts:5 wds:1 dir:s nxt:e1 Ballistic_damageer
+     Frenzieder Eviler     [0m     
+[37mPos: 5 pts:5 wds:1 dir:w nxt:w1 Magicser
+     Black Arter     [0m     
+[37mPos: 6 pts:4 wds:1 dir:s nxt:n2 ballistic_skiller
+     frenzieder judgmenter     [0m     
+[37mPos: 7 pts:4 wds:1 dir:e nxt:w2 ballistic_defense_skiller
+     frenzieder justificationer causeer     [0m     
+[37mPos: 8 pts:5 wds:5 dir:s nxt:e1 Woundser
+     Tearer     [0m     
+[37mPos: 9 pts:8 wds:1 dir:w nxt:w0 Ballistic_defense_skiller
+     Ballisticaler Maintenanceer Knowledgeer     [0m     
+[37mPos: 10 pts:7 wds:1 dir:w nxt:e2 Moveer
+     Manhandleer     [0m     
+[37mPos: 11 pts:5 wds:1 dir:s nxt:n1 Magic_rangeer
+     Black Arter Scopeer     [0m     
+[37mPos: 12 pts:7 wds:3 dir:w nxt:e0 Ballistic_defense_skiller
+     Frenzieder Answerer Knowledgeer     [0m     
+[37mPos: 13 pts:1 wds:1 dir:s nxt:w2 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:s nxt:n1 standarder
+     base     [0m     
+[37mPos: 15 pts:1 wds:1 dir:e nxt:n2 standarder
+     base     [0m          
+Team 1: 
+[37mPos: 1 pts:8 wds:3 dir:n nxt:n2 Armorer
+     Mailer     [0m     
+[37mPos: 2 pts:8 wds:3 dir:n nxt:w1 Moveer
+     Proposeer     [0m     
+[37mPos: 3 pts:6 wds:1 dir:n nxt:e1 Magic_skiller
+     Deviltryer Causeer     [0m     
+[37mPos: 4 pts:5 wds:1 dir:n nxt:n3 Moveer
+     Flirter     [0m     
+[37mPos: 5 pts:8 wds:3 dir:n nxt:n0 Magic_skiller
+     Sleight Of Hander Handicrafter     [0m     
+[37mPos: 6 pts:3 wds:1 dir:n nxt:n0 melee_damageer
+     meleeer eviler     [0m     
+[37mPos: 7 pts:6 wds:1 dir:n nxt:n0 Armorer
+     Armor Plateer     [0m     
+[37mPos: 8 pts:10 wds:3 dir:n nxt:n0 Magic_rangeer
+     Exorcismer Training Areaer     [0m     
+[37mPos: 9 pts:7 wds:1 dir:n nxt:n0 Magicser
+     Black Arter     [0m     
+[37mPos: 10 pts:7 wds:3 dir:n nxt:n0 Magic_rangeer
+     Illusionismer Roamer     [0m     
+[37mPos: 11 pts:1 wds:1 dir:n nxt:n0 standarder
+     base     [0m     
+[37mPos: 12 pts:1 wds:1 dir:n nxt:e1 standarder
+     base     [0m     
+[37mPos: 13 pts:1 wds:1 dir:n nxt:n1 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:n nxt:e1 standarder
+     base     [0m     
+[37mPos: 15 pts:1 wds:1 dir:n nxt:n1 standarder
+     base     [0m          
+Team 2 Points: 75     
+Team 1 Points: 73     
+[2HCurrent step: 2     
+Team 2: 
+[37mPos: 1 pts:4 wds:1 dir:s nxt:n1 magic_rangeer
+     myalismer traverseer     [0m     
+[37mPos: 2 pts:10 wds:5 dir:w nxt:n0 Magic_rangeer
+     Dweomercrafter Roamer     [0m     
+[37mPos: 3 pts:8 wds:1 dir:w nxt:e2 Ballistic_damageer
+     Ballisticaler Eviler     [0m     
+[37mPos: 4 pts:5 wds:1 dir:w nxt:e2 Ballistic_damageer
+     Frenzieder Eviler     [0m     
+[37mPos: 5 pts:5 wds:1 dir:e nxt:e0 Magicser
+     Black Arter     [0m     
+[37mPos: 6 pts:4 wds:1 dir:s nxt:w2 ballistic_skiller
+     frenzieder judgmenter     [0m     
+[37mPos: 7 pts:4 wds:1 dir:e nxt:w2 ballistic_defense_skiller
+     frenzieder justificationer causeer     [0m     
+[37mPos: 8 pts:5 wds:5 dir:w nxt:w2 Woundser
+     Tearer     [0m     
+[37mPos: 9 pts:8 wds:1 dir:e nxt:n0 Ballistic_defense_skiller
+     Ballisticaler Maintenanceer Knowledgeer     [0m     
+[37mPos: 10 pts:7 wds:1 dir:w nxt:e2 Moveer
+     Manhandleer     [0m     
+[37mPos: 11 pts:5 wds:1 dir:s nxt:n0 Magic_rangeer
+     Black Arter Scopeer     [0m     
+[37mPos: 12 pts:7 wds:3 dir:w nxt:w0 Ballistic_defense_skiller
+     Frenzieder Answerer Knowledgeer     [0m     
+[37mPos: 13 pts:1 wds:1 dir:e nxt:n0 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:s nxt:e0 standarder
+     base     [0m     
+[37mPos: 15 pts:1 wds:1 dir:s nxt:n2 standarder
+     base     [0m          
+Team 1: 
+[37mPos: 1 pts:8 wds:3 dir:n nxt:e1 Armorer
+     Mailer     [0m     
+[37mPos: 2 pts:8 wds:3 dir:w nxt:n4 Moveer
+     Proposeer     [0m     
+[37mPos: 3 pts:6 wds:1 dir:e nxt:n1 Magic_skiller
+     Deviltryer Causeer     [0m     
+[37mPos: 4 pts:5 wds:1 dir:n nxt:n1 Moveer
+     Flirter     [0m     
+[37mPos: 5 pts:8 wds:3 dir:n nxt:n1 Magic_skiller
+     Sleight Of Hander Handicrafter     [0m     
+[37mPos: 6 pts:3 wds:1 dir:n nxt:n1 melee_damageer
+     meleeer eviler     [0m     
+[37mPos: 7 pts:6 wds:1 dir:n nxt:n1 Armorer
+     Armor Plateer     [0m     
+[37mPos: 8 pts:10 wds:3 dir:n nxt:n1 Magic_rangeer
+     Exorcismer Training Areaer     [0m     
+[37mPos: 9 pts:7 wds:1 dir:n nxt:n1 Magicser
+     Black Arter     [0m     
+[37mPos: 10 pts:7 wds:3 dir:n nxt:n1 Magic_rangeer
+     Illusionismer Roamer     [0m     
+[37mPos: 11 pts:1 wds:1 dir:n nxt:e1 standarder
+     base     [0m     
+[37mPos: 12 pts:1 wds:1 dir:e nxt:n1 standarder
+     base     [0m     
+[37mPos: 13 pts:1 wds:1 dir:n nxt:n1 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:e nxt:n1 standarder
+     base     [0m     
+[37mPos: 15 pts:1 wds:1 dir:n nxt:n1 standarder
+     base     [0m          
+Team 2 Points: 75     
+Team 1 Points: 73     
+[2HCurrent step: 3     
+Team 2: 
+[37mPos: 1 pts:4 wds:1 dir:s nxt:e1 magic_rangeer
+     myalismer traverseer     [0m     
+[37mPos: 2 pts:10 wds:5 dir:s nxt:w0 Magic_rangeer
+     Dweomercrafter Roamer     [0m     
+[37mPos: 3 pts:8 wds:1 dir:w nxt:e1 Ballistic_damageer
+     Ballisticaler Eviler     [0m     
+[37mPos: 4 pts:5 wds:1 dir:w nxt:e0 Ballistic_damageer
+     Frenzieder Eviler     [0m     
+[37mPos: 5 pts:5 wds:1 dir:w nxt:e2 Magicser
+     Black Arter     [0m     
+[37mPos: 6 pts:4 wds:1 dir:e nxt:w1 ballistic_skiller
+     frenzieder judgmenter     [0m     
+[37mPos: 7 pts:4 wds:1 dir:e nxt:n2 ballistic_defense_skiller
+     frenzieder justificationer causeer     [0m     
+[37mPos: 8 pts:5 wds:5 dir:e nxt:w0 Woundser
+     Tearer     [0m     
+[37mPos: 9 pts:8 wds:1 dir:s nxt:n2 Ballistic_defense_skiller
+     Ballisticaler Maintenanceer Knowledgeer     [0m     
+[37mPos: 10 pts:7 wds:1 dir:w nxt:e2 Moveer
+     Manhandleer     [0m     
+[37mPos: 11 pts:5 wds:1 dir:s nxt:e0 Magic_rangeer
+     Black Arter Scopeer     [0m     
+[37mPos: 12 pts:7 wds:3 dir:e nxt:n0 Ballistic_defense_skiller
+     Frenzieder Answerer Knowledgeer     [0m     
+[37mPos: 13 pts:1 wds:1 dir:s nxt:e0 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:w nxt:e0 standarder
+     base     [0m     
+[37mPos: 15 pts:1 wds:1 dir:s nxt:e1 standarder
+     base     [0m          
+Team 1: 
+[44m[37mPos: 1 pts:18 wds:3 dir:e nxt:n0 Armorer
+     Mailer     [0m[0m     
+[37mPos: 2 pts:8 wds:3 dir:n nxt:n2 Moveer
+     Proposeer     [0m     
+[37mPos: 3 pts:6 wds:1 dir:n nxt:n1 Magic_skiller
+     Deviltryer Causeer     [0m     
+[31mPos: 4 pts:5 wds:0 dir:n nxt:n0 Moveer
+     Flirter     [0m     
+[37mPos: 5 pts:8 wds:3 dir:n nxt:w1 Magic_skiller
+     Sleight Of Hander Handicrafter     [0m     
+[37mPos: 6 pts:3 wds:1 dir:n nxt:n0 melee_damageer
+     meleeer eviler     [0m     
+[37mPos: 7 pts:6 wds:1 dir:n nxt:n0 Armorer
+     Armor Plateer     [0m     
+[37mPos: 8 pts:10 wds:3 dir:n nxt:n0 Magic_rangeer
+     Exorcismer Training Areaer     [0m     
+[37mPos: 9 pts:7 wds:1 dir:n nxt:n0 Magicser
+     Black Arter     [0m     
+[37mPos: 10 pts:7 wds:3 dir:n nxt:e1 Magic_rangeer
+     Illusionismer Roamer     [0m     
+[37mPos: 11 pts:1 wds:1 dir:e nxt:e1 standarder
+     base     [0m     
+[37mPos: 12 pts:1 wds:1 dir:n nxt:n1 standarder
+     base     [0m     
+[37mPos: 13 pts:1 wds:1 dir:n nxt:n1 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:n nxt:n1 standarder
+     base     [0m     
+[37mPos: 15 pts:1 wds:1 dir:n nxt:n1 standarder
+     base     [0m          
+Team 2 Points: 75     
+Team 1 Points: 73     
+[2HCurrent step: 4     
+Team 2: 
+[44m[37mPos: 1 pts:14 wds:1 dir:w nxt:e2 magic_rangeer
+     myalismer traverseer     [0m[0m     
+[37mPos: 2 pts:10 wds:5 dir:e nxt:e0 Magic_rangeer
+     Dweomercrafter Roamer     [0m     
+[37mPos: 3 pts:8 wds:1 dir:w nxt:e2 Ballistic_damageer
+     Ballisticaler Eviler     [0m     
+[37mPos: 4 pts:5 wds:1 dir:w nxt:n2 Ballistic_damageer
+     Frenzieder Eviler     [0m     
+[37mPos: 5 pts:5 wds:1 dir:w nxt:e1 Magicser
+     Black Arter     [0m     
+[37mPos: 6 pts:4 wds:1 dir:e nxt:w1 ballistic_skiller
+     frenzieder judgmenter     [0m     
+[37mPos: 7 pts:4 wds:1 dir:s nxt:w2 ballistic_defense_skiller
+     frenzieder justificationer causeer     [0m     
+[37mPos: 8 pts:5 wds:5 dir:e nxt:e1 Woundser
+     Tearer     [0m     
+[37mPos: 9 pts:8 wds:1 dir:s nxt:w1 Ballistic_defense_skiller
+     Ballisticaler Maintenanceer Knowledgeer     [0m     
+[37mPos: 10 pts:7 wds:1 dir:w nxt:n0 Moveer
+     Manhandleer     [0m     
+[37mPos: 11 pts:5 wds:1 dir:w nxt:n1 Magic_rangeer
+     Black Arter Scopeer     [0m     
+[37mPos: 12 pts:7 wds:3 dir:s nxt:e1 Ballistic_defense_skiller
+     Frenzieder Answerer Knowledgeer     [0m     
+[37mPos: 13 pts:1 wds:1 dir:w nxt:e1 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:w nxt:e2 standarder
+     base     [0m     
+[37mPos: 15 pts:1 wds:1 dir:w nxt:w2 standarder
+     base     [0m          
+Team 1: 
+[44m[37mPos: 1 pts:18 wds:3 dir:n nxt:w1 Armorer
+     Mailer     [0m[0m     
+[37mPos: 2 pts:8 wds:3 dir:n nxt:e1 Moveer
+     Proposeer     [0m     
+[37mPos: 3 pts:6 wds:1 dir:n nxt:n1 Magic_skiller
+     Deviltryer Causeer     [0m     
+[31mPos: 4 pts:5 wds:0 dir:n nxt:n0 Moveer
+     Flirter     [0m     
+[37mPos: 5 pts:8 wds:3 dir:w nxt:w1 Magic_skiller
+     Sleight Of Hander Handicrafter     [0m     
+[37mPos: 6 pts:3 wds:1 dir:n nxt:w1 melee_damageer
+     meleeer eviler     [0m     
+[37mPos: 7 pts:6 wds:1 dir:n nxt:n0 Armorer
+     Armor Plateer     [0m     
+[37mPos: 8 pts:10 wds:3 dir:n nxt:n0 Magic_rangeer
+     Exorcismer Training Areaer     [0m     
+[37mPos: 9 pts:7 wds:1 dir:n nxt:n0 Magicser
+     Black Arter     [0m     
+[37mPos: 10 pts:7 wds:3 dir:e nxt:e1 Magic_rangeer
+     Illusionismer Roamer     [0m     
+[37mPos: 11 pts:1 wds:1 dir:e nxt:n0 standarder
+     base     [0m     
+[37mPos: 12 pts:1 wds:1 dir:n nxt:w1 standarder
+     base     [0m     
+[37mPos: 13 pts:1 wds:1 dir:n nxt:n0 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:n nxt:w1 standarder
+     base     [0m     
+[44m[37mPos: 15 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m          
+Team 2 Points: 85     
+Team 1 Points: 83     
+[2HCurrent step: 5     
+Team 2: 
+[37mPos: 1 pts:4 wds:1 dir:w nxt:e1 magic_rangeer
+     myalismer traverseer     [0m     
+[37mPos: 2 pts:10 wds:5 dir:w nxt:n1 Magic_rangeer
+     Dweomercrafter Roamer     [0m     
+[37mPos: 3 pts:8 wds:1 dir:w nxt:w2 Ballistic_damageer
+     Ballisticaler Eviler     [0m     
+[37mPos: 4 pts:5 wds:1 dir:s nxt:w0 Ballistic_damageer
+     Frenzieder Eviler     [0m     
+[37mPos: 5 pts:5 wds:1 dir:w nxt:n0 Magicser
+     Black Arter     [0m     
+[37mPos: 6 pts:4 wds:1 dir:e nxt:w1 ballistic_skiller
+     frenzieder judgmenter     [0m     
+[37mPos: 7 pts:4 wds:1 dir:e nxt:n2 ballistic_defense_skiller
+     frenzieder justificationer causeer     [0m     
+[37mPos: 8 pts:5 wds:5 dir:w nxt:n0 Woundser
+     Tearer     [0m     
+[37mPos: 9 pts:8 wds:1 dir:e nxt:n1 Ballistic_defense_skiller
+     Ballisticaler Maintenanceer Knowledgeer     [0m     
+[37mPos: 10 pts:7 wds:1 dir:s nxt:w1 Moveer
+     Manhandleer     [0m     
+[37mPos: 11 pts:5 wds:1 dir:s nxt:e2 Magic_rangeer
+     Black Arter Scopeer     [0m     
+[37mPos: 12 pts:7 wds:3 dir:w nxt:n0 Ballistic_defense_skiller
+     Frenzieder Answerer Knowledgeer     [0m     
+[37mPos: 13 pts:1 wds:1 dir:w nxt:n0 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:w nxt:n2 standarder
+     base     [0m     
+[31mPos: 15 pts:1 wds:-3 dir:e nxt:e0 standarder
+     base     [0m          
+Team 1: 
+[37mPos: 1 pts:8 wds:3 dir:w nxt:e1 Armorer
+     Mailer     [0m     
+[37mPos: 2 pts:8 wds:3 dir:e nxt:w1 Moveer
+     Proposeer     [0m     
+[37mPos: 3 pts:6 wds:1 dir:n nxt:n1 Magic_skiller
+     Deviltryer Causeer     [0m     
+[31mPos: 4 pts:5 wds:0 dir:n nxt:n0 Moveer
+     Flirter     [0m     
+[37mPos: 5 pts:8 wds:3 dir:w nxt:w3 Magic_skiller
+     Sleight Of Hander Handicrafter     [0m     
+[37mPos: 6 pts:3 wds:1 dir:w nxt:w1 melee_damageer
+     meleeer eviler     [0m     
+[37mPos: 7 pts:6 wds:1 dir:n nxt:w1 Armorer
+     Armor Plateer     [0m     
+[37mPos: 8 pts:10 wds:3 dir:n nxt:n0 Magic_rangeer
+     Exorcismer Training Areaer     [0m     
+[37mPos: 9 pts:7 wds:1 dir:n nxt:e1 Magicser
+     Black Arter     [0m     
+[37mPos: 10 pts:7 wds:3 dir:e nxt:n0 Magic_rangeer
+     Illusionismer Roamer     [0m     
+[37mPos: 11 pts:1 wds:1 dir:n nxt:n1 standarder
+     base     [0m     
+[44m[37mPos: 12 pts:11 wds:1 dir:w nxt:e1 standarder
+     base     [0m[0m     
+[37mPos: 13 pts:1 wds:1 dir:n nxt:n1 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:w nxt:e1 standarder
+     base     [0m     
+[44m[37mPos: 15 pts:11 wds:1 dir:n nxt:e1 standarder
+     base     [0m[0m          
+Team 2 Points: 73     
+Team 1 Points: 83     
+[2HCurrent step: 6     
+Team 2: 
+[37mPos: 1 pts:4 wds:1 dir:w nxt:w0 magic_rangeer
+     myalismer traverseer     [0m     
+[37mPos: 2 pts:10 wds:5 dir:s nxt:w0 Magic_rangeer
+     Dweomercrafter Roamer     [0m     
+[37mPos: 3 pts:8 wds:1 dir:e nxt:e1 Ballistic_damageer
+     Ballisticaler Eviler     [0m     
+[37mPos: 4 pts:5 wds:1 dir:e nxt:n2 Ballistic_damageer
+     Frenzieder Eviler     [0m     
+[37mPos: 5 pts:5 wds:1 dir:s nxt:e1 Magicser
+     Black Arter     [0m     
+[37mPos: 6 pts:4 wds:1 dir:e nxt:n2 ballistic_skiller
+     frenzieder judgmenter     [0m     
+[37mPos: 7 pts:4 wds:1 dir:s nxt:w2 ballistic_defense_skiller
+     frenzieder justificationer causeer     [0m     
+[37mPos: 8 pts:5 wds:5 dir:s nxt:n0 Woundser
+     Tearer     [0m     
+[37mPos: 9 pts:8 wds:1 dir:s nxt:e2 Ballistic_defense_skiller
+     Ballisticaler Maintenanceer Knowledgeer     [0m     
+[37mPos: 10 pts:7 wds:1 dir:e nxt:w2 Moveer
+     Manhandleer     [0m     
+[37mPos: 11 pts:5 wds:1 dir:w nxt:e0 Magic_rangeer
+     Black Arter Scopeer     [0m     
+[37mPos: 12 pts:7 wds:3 dir:s nxt:w1 Ballistic_defense_skiller
+     Frenzieder Answerer Knowledgeer     [0m     
+[37mPos: 13 pts:1 wds:1 dir:s nxt:n2 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:s nxt:e1 standarder
+     base     [0m     
+[31mPos: 15 pts:1 wds:-3 dir:e nxt:e0 standarder
+     base     [0m          
+Team 1: 
+[44m[37mPos: 1 pts:18 wds:3 dir:e nxt:w1 Armorer
+     Mailer     [0m[0m     
+[37mPos: 2 pts:8 wds:3 dir:w nxt:e1 Moveer
+     Proposeer     [0m     
+[37mPos: 3 pts:6 wds:1 dir:n nxt:n1 Magic_skiller
+     Deviltryer Causeer     [0m     
+[31mPos: 4 pts:5 wds:0 dir:n nxt:n0 Moveer
+     Flirter     [0m     
+[37mPos: 5 pts:8 wds:3 dir:w nxt:n3 Magic_skiller
+     Sleight Of Hander Handicrafter     [0m     
+[37mPos: 6 pts:3 wds:1 dir:w nxt:n1 melee_damageer
+     meleeer eviler     [0m     
+[37mPos: 7 pts:6 wds:1 dir:w nxt:w1 Armorer
+     Armor Plateer     [0m     
+[37mPos: 8 pts:10 wds:3 dir:n nxt:e1 Magic_rangeer
+     Exorcismer Training Areaer     [0m     
+[37mPos: 9 pts:7 wds:1 dir:e nxt:e1 Magicser
+     Black Arter     [0m     
+[37mPos: 10 pts:7 wds:3 dir:n nxt:e1 Magic_rangeer
+     Illusionismer Roamer     [0m     
+[37mPos: 11 pts:1 wds:1 dir:n nxt:n0 standarder
+     base     [0m     
+[37mPos: 12 pts:1 wds:1 dir:e nxt:w1 standarder
+     base     [0m     
+[37mPos: 13 pts:1 wds:1 dir:n nxt:n1 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:e nxt:w1 standarder
+     base     [0m     
+[37mPos: 15 pts:1 wds:1 dir:e nxt:w1 standarder
+     base     [0m          
+Team 2 Points: 73     
+Team 1 Points: 73     
+[2HCurrent step: 7     
+Team 2: 
+[31mPos: 1 pts:4 wds:-1 dir:e nxt:w1 magic_rangeer
+     myalismer traverseer     [0m     
+[37mPos: 2 pts:10 wds:5 dir:e nxt:w2 Magic_rangeer
+     Dweomercrafter Roamer     [0m     
+[37mPos: 3 pts:8 wds:1 dir:w nxt:w1 Ballistic_damageer
+     Ballisticaler Eviler     [0m     
+[37mPos: 4 pts:5 wds:1 dir:s nxt:w0 Ballistic_damageer
+     Frenzieder Eviler     [0m     
+[37mPos: 5 pts:5 wds:1 dir:w nxt:e1 Magicser
+     Black Arter     [0m     
+[37mPos: 6 pts:4 wds:1 dir:s nxt:w1 ballistic_skiller
+     frenzieder judgmenter     [0m     
+[37mPos: 7 pts:4 wds:1 dir:e nxt:n1 ballistic_defense_skiller
+     frenzieder justificationer causeer     [0m     
+[37mPos: 8 pts:5 wds:5 dir:s nxt:e2 Woundser
+     Tearer     [0m     
+[37mPos: 9 pts:8 wds:1 dir:w nxt:e2 Ballistic_defense_skiller
+     Ballisticaler Maintenanceer Knowledgeer     [0m     
+[37mPos: 10 pts:7 wds:1 dir:e nxt:n2 Moveer
+     Manhandleer     [0m     
+[37mPos: 11 pts:5 wds:1 dir:w nxt:w2 Magic_rangeer
+     Black Arter Scopeer     [0m     
+[37mPos: 12 pts:7 wds:3 dir:e nxt:n2 Ballistic_defense_skiller
+     Frenzieder Answerer Knowledgeer     [0m     
+[37mPos: 13 pts:1 wds:1 dir:s nxt:e2 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:w nxt:w0 standarder
+     base     [0m     
+[31mPos: 15 pts:1 wds:-3 dir:e nxt:e0 standarder
+     base     [0m          
+Team 1: 
+[37mPos: 1 pts:8 wds:3 dir:w nxt:e1 Armorer
+     Mailer     [0m     
+[37mPos: 2 pts:8 wds:3 dir:e nxt:w2 Moveer
+     Proposeer     [0m     
+[37mPos: 3 pts:6 wds:1 dir:n nxt:n1 Magic_skiller
+     Deviltryer Causeer     [0m     
+[31mPos: 4 pts:5 wds:0 dir:n nxt:n0 Moveer
+     Flirter     [0m     
+[37mPos: 5 pts:8 wds:3 dir:n nxt:n0 Magic_skiller
+     Sleight Of Hander Handicrafter     [0m     
+[37mPos: 6 pts:3 wds:1 dir:n nxt:n1 melee_damageer
+     meleeer eviler     [0m     
+[37mPos: 7 pts:6 wds:1 dir:w nxt:w1 Armorer
+     Armor Plateer     [0m     
+[37mPos: 8 pts:10 wds:3 dir:e nxt:e1 Magic_rangeer
+     Exorcismer Training Areaer     [0m     
+[37mPos: 9 pts:7 wds:1 dir:e nxt:e1 Magicser
+     Black Arter     [0m     
+[37mPos: 10 pts:7 wds:3 dir:e nxt:e3 Magic_rangeer
+     Illusionismer Roamer     [0m     
+[37mPos: 11 pts:1 wds:1 dir:n nxt:n1 standarder
+     base     [0m     
+[44m[37mPos: 12 pts:11 wds:1 dir:w nxt:n0 standarder
+     base     [0m[0m     
+[37mPos: 13 pts:1 wds:1 dir:n nxt:n0 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:w nxt:e1 standarder
+     base     [0m     
+[44m[37mPos: 15 pts:11 wds:1 dir:w nxt:w1 standarder
+     base     [0m[0m          
+Team 2 Points: 65     
+Team 1 Points: 83     
+[2HCurrent step: 8     
+Team 2: 
+[31mPos: 1 pts:4 wds:-1 dir:e nxt:w1 magic_rangeer
+     myalismer traverseer     [0m     
+[37mPos: 2 pts:10 wds:5 dir:e nxt:n2 Magic_rangeer
+     Dweomercrafter Roamer     [0m     
+[37mPos: 3 pts:8 wds:1 dir:e nxt:n0 Ballistic_damageer
+     Ballisticaler Eviler     [0m     
+[37mPos: 4 pts:5 wds:1 dir:e nxt:w0 Ballistic_damageer
+     Frenzieder Eviler     [0m     
+[37mPos: 5 pts:5 wds:1 dir:w nxt:w2 Magicser
+     Black Arter     [0m     
+[37mPos: 6 pts:4 wds:1 dir:e nxt:w2 ballistic_skiller
+     frenzieder judgmenter     [0m     
+[37mPos: 7 pts:4 wds:1 dir:s nxt:e1 ballistic_defense_skiller
+     frenzieder justificationer causeer     [0m     
+[37mPos: 8 pts:5 wds:5 dir:w nxt:n0 Woundser
+     Tearer     [0m     
+[37mPos: 9 pts:8 wds:1 dir:w nxt:w1 Ballistic_defense_skiller
+     Ballisticaler Maintenanceer Knowledgeer     [0m     
+[37mPos: 10 pts:7 wds:1 dir:s nxt:e1 Moveer
+     Manhandleer     [0m     
+[37mPos: 11 pts:5 wds:1 dir:e nxt:n0 Magic_rangeer
+     Black Arter Scopeer     [0m     
+[37mPos: 12 pts:7 wds:1 dir:s nxt:w0 Ballistic_defense_skiller
+     Frenzieder Answerer Knowledgeer     [0m     
+[37mPos: 13 pts:1 wds:1 dir:w nxt:e2 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:e nxt:e2 standarder
+     base     [0m     
+[31mPos: 15 pts:1 wds:-3 dir:e nxt:e0 standarder
+     base     [0m          
+Team 1: 
+[44m[37mPos: 1 pts:18 wds:3 dir:e nxt:w1 Armorer
+     Mailer     [0m[0m     
+[37mPos: 2 pts:8 wds:3 dir:w nxt:e2 Moveer
+     Proposeer     [0m     
+[37mPos: 3 pts:6 wds:1 dir:n nxt:n1 Magic_skiller
+     Deviltryer Causeer     [0m     
+[31mPos: 4 pts:5 wds:0 dir:n nxt:n0 Moveer
+     Flirter     [0m     
+[37mPos: 5 pts:8 wds:3 dir:n nxt:n2 Magic_skiller
+     Sleight Of Hander Handicrafter     [0m     
+[37mPos: 6 pts:3 wds:1 dir:n nxt:n1 melee_damageer
+     meleeer eviler     [0m     
+[37mPos: 7 pts:6 wds:1 dir:w nxt:n1 Armorer
+     Armor Plateer     [0m     
+[37mPos: 8 pts:10 wds:3 dir:e nxt:e1 Magic_rangeer
+     Exorcismer Training Areaer     [0m     
+[37mPos: 9 pts:7 wds:1 dir:e nxt:n0 Magicser
+     Black Arter     [0m     
+[37mPos: 10 pts:7 wds:3 dir:e nxt:n3 Magic_rangeer
+     Illusionismer Roamer     [0m     
+[37mPos: 11 pts:1 wds:1 dir:n nxt:n1 standarder
+     base     [0m     
+[44m[37mPos: 12 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m     
+[37mPos: 13 pts:1 wds:1 dir:n nxt:n0 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:e nxt:n1 standarder
+     base     [0m     
+[37mPos: 15 pts:1 wds:1 dir:w nxt:w0 standarder
+     base     [0m          
+Team 2 Points: 65     
+Team 1 Points: 83     
+[2HCurrent step: 9     
+Team 2: 
+[31mPos: 1 pts:4 wds:-1 dir:e nxt:w1 magic_rangeer
+     myalismer traverseer     [0m     
+[37mPos: 2 pts:10 wds:5 dir:s nxt:n0 Magic_rangeer
+     Dweomercrafter Roamer     [0m     
+[37mPos: 3 pts:8 wds:1 dir:s nxt:e1 Ballistic_damageer
+     Ballisticaler Eviler     [0m     
+[37mPos: 4 pts:5 wds:1 dir:e nxt:w2 Ballistic_damageer
+     Frenzieder Eviler     [0m     
+[37mPos: 5 pts:5 wds:1 dir:e nxt:n0 Magicser
+     Black Arter     [0m     
+[37mPos: 6 pts:4 wds:1 dir:e nxt:n0 ballistic_skiller
+     frenzieder judgmenter     [0m     
+[37mPos: 7 pts:4 wds:1 dir:w nxt:n0 ballistic_defense_skiller
+     frenzieder justificationer causeer     [0m     
+[37mPos: 8 pts:5 wds:5 dir:s nxt:w0 Woundser
+     Tearer     [0m     
+[37mPos: 9 pts:8 wds:1 dir:e nxt:w1 Ballistic_defense_skiller
+     Ballisticaler Maintenanceer Knowledgeer     [0m     
+[37mPos: 10 pts:7 wds:1 dir:w nxt:w2 Moveer
+     Manhandleer     [0m     
+[37mPos: 11 pts:5 wds:1 dir:s nxt:n1 Magic_rangeer
+     Black Arter Scopeer     [0m     
+[37mPos: 12 pts:7 wds:1 dir:e nxt:n2 Ballistic_defense_skiller
+     Frenzieder Answerer Knowledgeer     [0m     
+[31mPos: 13 pts:1 wds:-1 dir:w nxt:w1 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:w nxt:w1 standarder
+     base     [0m     
+[31mPos: 15 pts:1 wds:-3 dir:e nxt:e0 standarder
+     base     [0m          
+Team 1: 
+[37mPos: 1 pts:8 wds:3 dir:w nxt:e1 Armorer
+     Mailer     [0m     
+[37mPos: 2 pts:8 wds:3 dir:e nxt:n0 Moveer
+     Proposeer     [0m     
+[37mPos: 3 pts:6 wds:1 dir:n nxt:n0 Magic_skiller
+     Deviltryer Causeer     [0m     
+[31mPos: 4 pts:5 wds:0 dir:n nxt:n0 Moveer
+     Flirter     [0m     
+[37mPos: 5 pts:8 wds:3 dir:n nxt:n0 Magic_skiller
+     Sleight Of Hander Handicrafter     [0m     
+[37mPos: 6 pts:3 wds:1 dir:n nxt:n1 melee_damageer
+     meleeer eviler     [0m     
+[37mPos: 7 pts:6 wds:1 dir:n nxt:n1 Armorer
+     Armor Plateer     [0m     
+[37mPos: 8 pts:10 wds:3 dir:e nxt:n0 Magic_rangeer
+     Exorcismer Training Areaer     [0m     
+[37mPos: 9 pts:7 wds:1 dir:n nxt:e1 Magicser
+     Black Arter     [0m     
+[37mPos: 10 pts:7 wds:3 dir:n nxt:n1 Magic_rangeer
+     Illusionismer Roamer     [0m     
+[37mPos: 11 pts:1 wds:1 dir:n nxt:n1 standarder
+     base     [0m     
+[44m[37mPos: 12 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m     
+[37mPos: 13 pts:1 wds:1 dir:n nxt:n0 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:n nxt:n1 standarder
+     base     [0m     
+[37mPos: 15 pts:1 wds:1 dir:w nxt:e1 standarder
+     base     [0m          
+Team 2 Points: 63     
+Team 1 Points: 73     
+[2HCurrent step: 10     
+Team 2: 
+[31mPos: 1 pts:4 wds:-1 dir:e nxt:w1 magic_rangeer
+     myalismer traverseer     [0m     
+[37mPos: 2 pts:10 wds:5 dir:s nxt:e1 Magic_rangeer
+     Dweomercrafter Roamer     [0m     
+[37mPos: 3 pts:8 wds:1 dir:w nxt:n2 Ballistic_damageer
+     Ballisticaler Eviler     [0m     
+[37mPos: 4 pts:5 wds:1 dir:e nxt:n1 Ballistic_damageer
+     Frenzieder Eviler     [0m     
+[37mPos: 5 pts:5 wds:1 dir:s nxt:n0 Magicser
+     Black Arter     [0m     
+[37mPos: 6 pts:4 wds:1 dir:s nxt:w0 ballistic_skiller
+     frenzieder judgmenter     [0m     
+[37mPos: 7 pts:4 wds:1 dir:s nxt:w2 ballistic_defense_skiller
+     frenzieder justificationer causeer     [0m     
+[37mPos: 8 pts:5 wds:5 dir:e nxt:w1 Woundser
+     Tearer     [0m     
+[37mPos: 9 pts:8 wds:1 dir:e nxt:w2 Ballistic_defense_skiller
+     Ballisticaler Maintenanceer Knowledgeer     [0m     
+[37mPos: 10 pts:7 wds:1 dir:e nxt:n2 Moveer
+     Manhandleer     [0m     
+[37mPos: 11 pts:5 wds:1 dir:s nxt:e1 Magic_rangeer
+     Black Arter Scopeer     [0m     
+[37mPos: 12 pts:7 wds:1 dir:s nxt:n2 Ballistic_defense_skiller
+     Frenzieder Answerer Knowledgeer     [0m     
+[31mPos: 13 pts:1 wds:-1 dir:w nxt:w1 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:e nxt:n1 standarder
+     base     [0m     
+[31mPos: 15 pts:1 wds:-3 dir:e nxt:e0 standarder
+     base     [0m          
+Team 1: 
+[44m[37mPos: 1 pts:18 wds:3 dir:e nxt:n0 Armorer
+     Mailer     [0m[0m     
+[37mPos: 2 pts:8 wds:3 dir:n nxt:n0 Moveer
+     Proposeer     [0m     
+[31mPos: 3 pts:6 wds:0 dir:n nxt:n0 Magic_skiller
+     Deviltryer Causeer     [0m     
+[31mPos: 4 pts:5 wds:0 dir:n nxt:n0 Moveer
+     Flirter     [0m     
+[37mPos: 5 pts:8 wds:3 dir:n nxt:n3 Magic_skiller
+     Sleight Of Hander Handicrafter     [0m     
+[37mPos: 6 pts:3 wds:1 dir:n nxt:n1 melee_damageer
+     meleeer eviler     [0m     
+[37mPos: 7 pts:6 wds:1 dir:n nxt:w2 Armorer
+     Armor Plateer     [0m     
+[37mPos: 8 pts:10 wds:3 dir:n nxt:e1 Magic_rangeer
+     Exorcismer Training Areaer     [0m     
+[37mPos: 9 pts:7 wds:1 dir:e nxt:n1 Magicser
+     Black Arter     [0m     
+[37mPos: 10 pts:7 wds:3 dir:n nxt:w1 Magic_rangeer
+     Illusionismer Roamer     [0m     
+[37mPos: 11 pts:1 wds:1 dir:n nxt:e1 standarder
+     base     [0m     
+[44m[37mPos: 12 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m     
+[37mPos: 13 pts:1 wds:1 dir:n nxt:n0 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:n nxt:n1 standarder
+     base     [0m     
+[44m[37mPos: 15 pts:11 wds:1 dir:e nxt:n0 standarder
+     base     [0m[0m          
+Team 2 Points: 63     
+Team 1 Points: 81     
+[2HCurrent step: 11     
+Team 2: 
+[31mPos: 1 pts:4 wds:-1 dir:e nxt:w1 magic_rangeer
+     myalismer traverseer     [0m     
+[37mPos: 2 pts:10 wds:5 dir:w nxt:w2 Magic_rangeer
+     Dweomercrafter Roamer     [0m     
+[37mPos: 3 pts:8 wds:1 dir:s nxt:n2 Ballistic_damageer
+     Ballisticaler Eviler     [0m     
+[37mPos: 4 pts:5 wds:1 dir:s nxt:w2 Ballistic_damageer
+     Frenzieder Eviler     [0m     
+[37mPos: 5 pts:5 wds:1 dir:s nxt:w2 Magicser
+     Black Arter     [0m     
+[37mPos: 6 pts:4 wds:1 dir:e nxt:e2 ballistic_skiller
+     frenzieder judgmenter     [0m     
+[37mPos: 7 pts:4 wds:1 dir:e nxt:n1 ballistic_defense_skiller
+     frenzieder justificationer causeer     [0m     
+[37mPos: 8 pts:5 wds:5 dir:e nxt:n0 Woundser
+     Tearer     [0m     
+[37mPos: 9 pts:8 wds:1 dir:e nxt:e0 Ballistic_defense_skiller
+     Ballisticaler Maintenanceer Knowledgeer     [0m     
+[37mPos: 10 pts:7 wds:1 dir:s nxt:w0 Moveer
+     Manhandleer     [0m     
+[37mPos: 11 pts:5 wds:1 dir:w nxt:n1 Magic_rangeer
+     Black Arter Scopeer     [0m     
+[37mPos: 12 pts:7 wds:1 dir:s nxt:w1 Ballistic_defense_skiller
+     Frenzieder Answerer Knowledgeer     [0m     
+[31mPos: 13 pts:1 wds:-1 dir:w nxt:w1 standarder
+     base     [0m     
+[31mPos: 14 pts:1 wds:-3 dir:s nxt:e1 standarder
+     base     [0m     
+[31mPos: 15 pts:1 wds:-3 dir:e nxt:e0 standarder
+     base     [0m          
+Team 1: 
+[44m[37mPos: 1 pts:18 wds:3 dir:n nxt:n0 Armorer
+     Mailer     [0m[0m     
+[37mPos: 2 pts:8 wds:1 dir:n nxt:n0 Moveer
+     Proposeer     [0m     
+[31mPos: 3 pts:6 wds:0 dir:n nxt:n0 Magic_skiller
+     Deviltryer Causeer     [0m     
+[31mPos: 4 pts:5 wds:0 dir:n nxt:n0 Moveer
+     Flirter     [0m     
+[37mPos: 5 pts:8 wds:3 dir:n nxt:n0 Magic_skiller
+     Sleight Of Hander Handicrafter     [0m     
+[37mPos: 6 pts:3 wds:1 dir:n nxt:n0 melee_damageer
+     meleeer eviler     [0m     
+[44m[37mPos: 7 pts:16 wds:1 dir:w nxt:n0 Armorer
+     Armor Plateer     [0m[0m     
+[37mPos: 8 pts:10 wds:3 dir:e nxt:n0 Magic_rangeer
+     Exorcismer Training Areaer     [0m     
+[37mPos: 9 pts:7 wds:1 dir:n nxt:n0 Magicser
+     Black Arter     [0m     
+[37mPos: 10 pts:7 wds:3 dir:w nxt:n0 Magic_rangeer
+     Illusionismer Roamer     [0m     
+[37mPos: 11 pts:1 wds:1 dir:e nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 12 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m     
+[31mPos: 13 pts:1 wds:-2 dir:n nxt:n0 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:n nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 15 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m          
+Team 2 Points: 61     
+Team 1 Points: 89     
+[2HCurrent step: 12     
+Team 2: 
+[31mPos: 1 pts:4 wds:-1 dir:e nxt:w1 magic_rangeer
+     myalismer traverseer     [0m     
+[37mPos: 2 pts:10 wds:5 dir:e nxt:n0 Magic_rangeer
+     Dweomercrafter Roamer     [0m     
+[37mPos: 3 pts:8 wds:1 dir:s nxt:n1 Ballistic_damageer
+     Ballisticaler Eviler     [0m     
+[37mPos: 4 pts:5 wds:1 dir:e nxt:n1 Ballistic_damageer
+     Frenzieder Eviler     [0m     
+[37mPos: 5 pts:5 wds:1 dir:e nxt:n1 Magicser
+     Black Arter     [0m     
+[37mPos: 6 pts:4 wds:1 dir:w nxt:e0 ballistic_skiller
+     frenzieder judgmenter     [0m     
+[37mPos: 7 pts:4 wds:1 dir:s nxt:n1 ballistic_defense_skiller
+     frenzieder justificationer causeer     [0m     
+[37mPos: 8 pts:5 wds:5 dir:s nxt:w2 Woundser
+     Tearer     [0m     
+[37mPos: 9 pts:8 wds:1 dir:w nxt:e1 Ballistic_defense_skiller
+     Ballisticaler Maintenanceer Knowledgeer     [0m     
+[37mPos: 10 pts:7 wds:1 dir:e nxt:n1 Moveer
+     Manhandleer     [0m     
+[37mPos: 11 pts:5 wds:1 dir:s nxt:n2 Magic_rangeer
+     Black Arter Scopeer     [0m     
+[44m[37mPos: 12 pts:17 wds:1 dir:e nxt:n1 Ballistic_defense_skiller
+     Frenzieder Answerer Knowledgeer     [0m[0m     
+[31mPos: 13 pts:1 wds:-1 dir:w nxt:w1 standarder
+     base     [0m     
+[31mPos: 14 pts:1 wds:-3 dir:s nxt:e1 standarder
+     base     [0m     
+[31mPos: 15 pts:1 wds:-3 dir:e nxt:e0 standarder
+     base     [0m          
+Team 1: 
+[44m[37mPos: 1 pts:18 wds:3 dir:n nxt:n0 Armorer
+     Mailer     [0m[0m     
+[37mPos: 2 pts:8 wds:1 dir:n nxt:n0 Moveer
+     Proposeer     [0m     
+[31mPos: 3 pts:6 wds:0 dir:n nxt:n0 Magic_skiller
+     Deviltryer Causeer     [0m     
+[31mPos: 4 pts:5 wds:0 dir:n nxt:n0 Moveer
+     Flirter     [0m     
+[37mPos: 5 pts:8 wds:3 dir:n nxt:n0 Magic_skiller
+     Sleight Of Hander Handicrafter     [0m     
+[37mPos: 6 pts:3 wds:1 dir:n nxt:n0 melee_damageer
+     meleeer eviler     [0m     
+[44m[37mPos: 7 pts:16 wds:1 dir:n nxt:n0 Armorer
+     Armor Plateer     [0m[0m     
+[37mPos: 8 pts:10 wds:3 dir:n nxt:n0 Magic_rangeer
+     Exorcismer Training Areaer     [0m     
+[37mPos: 9 pts:7 wds:1 dir:n nxt:n0 Magicser
+     Black Arter     [0m     
+[37mPos: 10 pts:7 wds:3 dir:n nxt:n0 Magic_rangeer
+     Illusionismer Roamer     [0m     
+[37mPos: 11 pts:1 wds:1 dir:n nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 12 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m     
+[31mPos: 13 pts:1 wds:-2 dir:n nxt:n0 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:n nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 15 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m          
+Team 2 Points: 71     
+Team 1 Points: 89     
+[2HCurrent step: 13     
+Team 2: 
+[31mPos: 1 pts:4 wds:-1 dir:e nxt:w1 magic_rangeer
+     myalismer traverseer     [0m     
+[37mPos: 2 pts:10 wds:5 dir:s nxt:w0 Magic_rangeer
+     Dweomercrafter Roamer     [0m     
+[37mPos: 3 pts:8 wds:1 dir:s nxt:n0 Ballistic_damageer
+     Ballisticaler Eviler     [0m     
+[37mPos: 4 pts:5 wds:1 dir:s nxt:n1 Ballistic_damageer
+     Frenzieder Eviler     [0m     
+[37mPos: 5 pts:5 wds:1 dir:s nxt:e2 Magicser
+     Black Arter     [0m     
+[37mPos: 6 pts:4 wds:1 dir:w nxt:w2 ballistic_skiller
+     frenzieder judgmenter     [0m     
+[37mPos: 7 pts:4 wds:1 dir:s nxt:n2 ballistic_defense_skiller
+     frenzieder justificationer causeer     [0m     
+[37mPos: 8 pts:5 wds:5 dir:e nxt:n0 Woundser
+     Tearer     [0m     
+[37mPos: 9 pts:8 wds:1 dir:w nxt:e2 Ballistic_defense_skiller
+     Ballisticaler Maintenanceer Knowledgeer     [0m     
+[37mPos: 10 pts:7 wds:1 dir:s nxt:w0 Moveer
+     Manhandleer     [0m     
+[37mPos: 11 pts:5 wds:1 dir:s nxt:e1 Magic_rangeer
+     Black Arter Scopeer     [0m     
+[44m[37mPos: 12 pts:17 wds:1 dir:s nxt:n1 Ballistic_defense_skiller
+     Frenzieder Answerer Knowledgeer     [0m[0m     
+[31mPos: 13 pts:1 wds:-1 dir:w nxt:w1 standarder
+     base     [0m     
+[31mPos: 14 pts:1 wds:-3 dir:s nxt:e1 standarder
+     base     [0m     
+[31mPos: 15 pts:1 wds:-3 dir:e nxt:e0 standarder
+     base     [0m          
+Team 1: 
+[44m[37mPos: 1 pts:18 wds:3 dir:n nxt:n0 Armorer
+     Mailer     [0m[0m     
+[37mPos: 2 pts:8 wds:1 dir:n nxt:n0 Moveer
+     Proposeer     [0m     
+[31mPos: 3 pts:6 wds:0 dir:n nxt:n0 Magic_skiller
+     Deviltryer Causeer     [0m     
+[31mPos: 4 pts:5 wds:0 dir:n nxt:n0 Moveer
+     Flirter     [0m     
+[37mPos: 5 pts:8 wds:3 dir:n nxt:n0 Magic_skiller
+     Sleight Of Hander Handicrafter     [0m     
+[37mPos: 6 pts:3 wds:1 dir:n nxt:n0 melee_damageer
+     meleeer eviler     [0m     
+[44m[37mPos: 7 pts:16 wds:1 dir:n nxt:n0 Armorer
+     Armor Plateer     [0m[0m     
+[37mPos: 8 pts:10 wds:3 dir:n nxt:n0 Magic_rangeer
+     Exorcismer Training Areaer     [0m     
+[37mPos: 9 pts:7 wds:1 dir:n nxt:n0 Magicser
+     Black Arter     [0m     
+[37mPos: 10 pts:7 wds:3 dir:n nxt:n0 Magic_rangeer
+     Illusionismer Roamer     [0m     
+[31mPos: 11 pts:1 wds:-1 dir:n nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 12 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m     
+[31mPos: 13 pts:1 wds:-2 dir:n nxt:n0 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:n nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 15 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m          
+Team 2 Points: 71     
+Team 1 Points: 87     
+[2HCurrent step: 14     
+Team 2: 
+[31mPos: 1 pts:4 wds:-1 dir:e nxt:w1 magic_rangeer
+     myalismer traverseer     [0m     
+[37mPos: 2 pts:10 wds:5 dir:e nxt:n1 Magic_rangeer
+     Dweomercrafter Roamer     [0m     
+[37mPos: 3 pts:8 wds:1 dir:s nxt:n1 Ballistic_damageer
+     Ballisticaler Eviler     [0m     
+[37mPos: 4 pts:5 wds:1 dir:s nxt:n1 Ballistic_damageer
+     Frenzieder Eviler     [0m     
+[37mPos: 5 pts:5 wds:1 dir:w nxt:e0 Magicser
+     Black Arter     [0m     
+[37mPos: 6 pts:4 wds:1 dir:e nxt:n2 ballistic_skiller
+     frenzieder judgmenter     [0m     
+[37mPos: 7 pts:4 wds:1 dir:s nxt:e0 ballistic_defense_skiller
+     frenzieder justificationer causeer     [0m     
+[37mPos: 8 pts:5 wds:5 dir:s nxt:w0 Woundser
+     Tearer     [0m     
+[37mPos: 9 pts:8 wds:1 dir:w nxt:n0 Ballistic_defense_skiller
+     Ballisticaler Maintenanceer Knowledgeer     [0m     
+[37mPos: 10 pts:7 wds:1 dir:e nxt:e0 Moveer
+     Manhandleer     [0m     
+[37mPos: 11 pts:5 wds:1 dir:w nxt:e1 Magic_rangeer
+     Black Arter Scopeer     [0m     
+[44m[37mPos: 12 pts:17 wds:1 dir:s nxt:w2 Ballistic_defense_skiller
+     Frenzieder Answerer Knowledgeer     [0m[0m     
+[31mPos: 13 pts:1 wds:-1 dir:w nxt:w1 standarder
+     base     [0m     
+[31mPos: 14 pts:1 wds:-3 dir:s nxt:e1 standarder
+     base     [0m     
+[31mPos: 15 pts:1 wds:-3 dir:e nxt:e0 standarder
+     base     [0m          
+Team 1: 
+[44m[37mPos: 1 pts:18 wds:3 dir:n nxt:n0 Armorer
+     Mailer     [0m[0m     
+[37mPos: 2 pts:8 wds:1 dir:n nxt:n0 Moveer
+     Proposeer     [0m     
+[31mPos: 3 pts:6 wds:0 dir:n nxt:n0 Magic_skiller
+     Deviltryer Causeer     [0m     
+[31mPos: 4 pts:5 wds:0 dir:n nxt:n0 Moveer
+     Flirter     [0m     
+[37mPos: 5 pts:8 wds:3 dir:n nxt:n0 Magic_skiller
+     Sleight Of Hander Handicrafter     [0m     
+[37mPos: 6 pts:3 wds:1 dir:n nxt:n0 melee_damageer
+     meleeer eviler     [0m     
+[44m[37mPos: 7 pts:16 wds:1 dir:n nxt:n0 Armorer
+     Armor Plateer     [0m[0m     
+[37mPos: 8 pts:10 wds:3 dir:n nxt:n0 Magic_rangeer
+     Exorcismer Training Areaer     [0m     
+[37mPos: 9 pts:7 wds:1 dir:n nxt:n0 Magicser
+     Black Arter     [0m     
+[37mPos: 10 pts:7 wds:3 dir:n nxt:n0 Magic_rangeer
+     Illusionismer Roamer     [0m     
+[31mPos: 11 pts:1 wds:-1 dir:n nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 12 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m     
+[31mPos: 13 pts:1 wds:-2 dir:n nxt:n0 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:n nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 15 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m          
+Team 2 Points: 71     
+Team 1 Points: 87     
+[2HCurrent step: 15     
+Team 2: 
+[31mPos: 1 pts:4 wds:-1 dir:e nxt:w1 magic_rangeer
+     myalismer traverseer     [0m     
+[37mPos: 2 pts:10 wds:5 dir:s nxt:e2 Magic_rangeer
+     Dweomercrafter Roamer     [0m     
+[37mPos: 3 pts:8 wds:1 dir:s nxt:n2 Ballistic_damageer
+     Ballisticaler Eviler     [0m     
+[37mPos: 4 pts:5 wds:1 dir:s nxt:n1 Ballistic_damageer
+     Frenzieder Eviler     [0m     
+[37mPos: 5 pts:5 wds:1 dir:w nxt:w1 Magicser
+     Black Arter     [0m     
+[37mPos: 6 pts:4 wds:1 dir:s nxt:e1 ballistic_skiller
+     frenzieder judgmenter     [0m     
+[37mPos: 7 pts:4 wds:1 dir:w nxt:e0 ballistic_defense_skiller
+     frenzieder justificationer causeer     [0m     
+[37mPos: 8 pts:5 wds:5 dir:e nxt:e1 Woundser
+     Tearer     [0m     
+[37mPos: 9 pts:8 wds:1 dir:s nxt:e1 Ballistic_defense_skiller
+     Ballisticaler Maintenanceer Knowledgeer     [0m     
+[37mPos: 10 pts:7 wds:1 dir:w nxt:n2 Moveer
+     Manhandleer     [0m     
+[37mPos: 11 pts:5 wds:1 dir:w nxt:w0 Magic_rangeer
+     Black Arter Scopeer     [0m     
+[44m[37mPos: 12 pts:17 wds:1 dir:e nxt:e2 Ballistic_defense_skiller
+     Frenzieder Answerer Knowledgeer     [0m[0m     
+[31mPos: 13 pts:1 wds:-1 dir:w nxt:w1 standarder
+     base     [0m     
+[31mPos: 14 pts:1 wds:-3 dir:s nxt:e1 standarder
+     base     [0m     
+[31mPos: 15 pts:1 wds:-3 dir:e nxt:e0 standarder
+     base     [0m          
+Team 1: 
+[44m[37mPos: 1 pts:18 wds:3 dir:n nxt:n0 Armorer
+     Mailer     [0m[0m     
+[37mPos: 2 pts:8 wds:1 dir:n nxt:n0 Moveer
+     Proposeer     [0m     
+[31mPos: 3 pts:6 wds:0 dir:n nxt:n0 Magic_skiller
+     Deviltryer Causeer     [0m     
+[31mPos: 4 pts:5 wds:0 dir:n nxt:n0 Moveer
+     Flirter     [0m     
+[37mPos: 5 pts:8 wds:3 dir:n nxt:n0 Magic_skiller
+     Sleight Of Hander Handicrafter     [0m     
+[37mPos: 6 pts:3 wds:1 dir:n nxt:n0 melee_damageer
+     meleeer eviler     [0m     
+[44m[37mPos: 7 pts:16 wds:1 dir:n nxt:n0 Armorer
+     Armor Plateer     [0m[0m     
+[37mPos: 8 pts:10 wds:3 dir:n nxt:n0 Magic_rangeer
+     Exorcismer Training Areaer     [0m     
+[37mPos: 9 pts:7 wds:1 dir:n nxt:n0 Magicser
+     Black Arter     [0m     
+[37mPos: 10 pts:7 wds:3 dir:n nxt:n0 Magic_rangeer
+     Illusionismer Roamer     [0m     
+[31mPos: 11 pts:1 wds:-1 dir:n nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 12 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m     
+[31mPos: 13 pts:1 wds:-2 dir:n nxt:n0 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:n nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 15 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m          
+Team 2 Points: 71     
+Team 1 Points: 87     
+[2HCurrent step: 16     
+Team 2: 
+[31mPos: 1 pts:4 wds:-1 dir:e nxt:w1 magic_rangeer
+     myalismer traverseer     [0m     
+[37mPos: 2 pts:10 wds:5 dir:w nxt:n1 Magic_rangeer
+     Dweomercrafter Roamer     [0m     
+[37mPos: 3 pts:8 wds:1 dir:s nxt:w0 Ballistic_damageer
+     Ballisticaler Eviler     [0m     
+[37mPos: 4 pts:5 wds:1 dir:s nxt:w0 Ballistic_damageer
+     Frenzieder Eviler     [0m     
+[37mPos: 5 pts:5 wds:1 dir:e nxt:n0 Magicser
+     Black Arter     [0m     
+[37mPos: 6 pts:4 wds:1 dir:w nxt:e0 ballistic_skiller
+     frenzieder judgmenter     [0m     
+[37mPos: 7 pts:4 wds:1 dir:w nxt:n1 ballistic_defense_skiller
+     frenzieder justificationer causeer     [0m     
+[37mPos: 8 pts:5 wds:5 dir:w nxt:e2 Woundser
+     Tearer     [0m     
+[37mPos: 9 pts:8 wds:1 dir:w nxt:w0 Ballistic_defense_skiller
+     Ballisticaler Maintenanceer Knowledgeer     [0m     
+[37mPos: 10 pts:7 wds:1 dir:s nxt:w0 Moveer
+     Manhandleer     [0m     
+[37mPos: 11 pts:5 wds:1 dir:e nxt:e0 Magic_rangeer
+     Black Arter Scopeer     [0m     
+[37mPos: 12 pts:7 wds:1 dir:w nxt:n1 Ballistic_defense_skiller
+     Frenzieder Answerer Knowledgeer     [0m     
+[31mPos: 13 pts:1 wds:-1 dir:w nxt:w1 standarder
+     base     [0m     
+[31mPos: 14 pts:1 wds:-3 dir:s nxt:e1 standarder
+     base     [0m     
+[31mPos: 15 pts:1 wds:-3 dir:e nxt:e0 standarder
+     base     [0m          
+Team 1: 
+[44m[37mPos: 1 pts:18 wds:3 dir:n nxt:n0 Armorer
+     Mailer     [0m[0m     
+[37mPos: 2 pts:8 wds:1 dir:n nxt:n0 Moveer
+     Proposeer     [0m     
+[31mPos: 3 pts:6 wds:0 dir:n nxt:n0 Magic_skiller
+     Deviltryer Causeer     [0m     
+[31mPos: 4 pts:5 wds:0 dir:n nxt:n0 Moveer
+     Flirter     [0m     
+[37mPos: 5 pts:8 wds:3 dir:n nxt:n0 Magic_skiller
+     Sleight Of Hander Handicrafter     [0m     
+[37mPos: 6 pts:3 wds:1 dir:n nxt:n0 melee_damageer
+     meleeer eviler     [0m     
+[44m[37mPos: 7 pts:16 wds:1 dir:n nxt:n0 Armorer
+     Armor Plateer     [0m[0m     
+[37mPos: 8 pts:10 wds:3 dir:n nxt:n0 Magic_rangeer
+     Exorcismer Training Areaer     [0m     
+[37mPos: 9 pts:7 wds:1 dir:n nxt:n0 Magicser
+     Black Arter     [0m     
+[37mPos: 10 pts:7 wds:3 dir:n nxt:n0 Magic_rangeer
+     Illusionismer Roamer     [0m     
+[31mPos: 11 pts:1 wds:-1 dir:n nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 12 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m     
+[31mPos: 13 pts:1 wds:-2 dir:n nxt:n0 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:n nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 15 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m          
+Team 2 Points: 61     
+Team 1 Points: 87     
+[2HCurrent step: 17     
+Team 2: 
+[31mPos: 1 pts:4 wds:-1 dir:e nxt:w1 magic_rangeer
+     myalismer traverseer     [0m     
+[37mPos: 2 pts:10 wds:5 dir:s nxt:w2 Magic_rangeer
+     Dweomercrafter Roamer     [0m     
+[37mPos: 3 pts:8 wds:1 dir:e nxt:e2 Ballistic_damageer
+     Ballisticaler Eviler     [0m     
+[37mPos: 4 pts:5 wds:1 dir:e nxt:n0 Ballistic_damageer
+     Frenzieder Eviler     [0m     
+[37mPos: 5 pts:5 wds:1 dir:s nxt:w0 Magicser
+     Black Arter     [0m     
+[37mPos: 6 pts:4 wds:1 dir:w nxt:n2 ballistic_skiller
+     frenzieder judgmenter     [0m     
+[37mPos: 7 pts:4 wds:1 dir:s nxt:e0 ballistic_defense_skiller
+     frenzieder justificationer causeer     [0m     
+[37mPos: 8 pts:5 wds:5 dir:w nxt:n0 Woundser
+     Tearer     [0m     
+[37mPos: 9 pts:8 wds:1 dir:e nxt:n1 Ballistic_defense_skiller
+     Ballisticaler Maintenanceer Knowledgeer     [0m     
+[37mPos: 10 pts:7 wds:1 dir:e nxt:n0 Moveer
+     Manhandleer     [0m     
+[37mPos: 11 pts:5 wds:1 dir:w nxt:e1 Magic_rangeer
+     Black Arter Scopeer     [0m     
+[31mPos: 12 pts:7 wds:-1 dir:s nxt:n2 Ballistic_defense_skiller
+     Frenzieder Answerer Knowledgeer     [0m     
+[31mPos: 13 pts:1 wds:-1 dir:w nxt:w1 standarder
+     base     [0m     
+[31mPos: 14 pts:1 wds:-3 dir:s nxt:e1 standarder
+     base     [0m     
+[31mPos: 15 pts:1 wds:-3 dir:e nxt:e0 standarder
+     base     [0m          
+Team 1: 
+[44m[37mPos: 1 pts:18 wds:3 dir:n nxt:n0 Armorer
+     Mailer     [0m[0m     
+[37mPos: 2 pts:8 wds:1 dir:n nxt:n0 Moveer
+     Proposeer     [0m     
+[31mPos: 3 pts:6 wds:0 dir:n nxt:n0 Magic_skiller
+     Deviltryer Causeer     [0m     
+[31mPos: 4 pts:5 wds:0 dir:n nxt:n0 Moveer
+     Flirter     [0m     
+[37mPos: 5 pts:8 wds:3 dir:n nxt:n0 Magic_skiller
+     Sleight Of Hander Handicrafter     [0m     
+[37mPos: 6 pts:3 wds:1 dir:n nxt:n0 melee_damageer
+     meleeer eviler     [0m     
+[44m[37mPos: 7 pts:16 wds:1 dir:n nxt:n0 Armorer
+     Armor Plateer     [0m[0m     
+[37mPos: 8 pts:10 wds:3 dir:n nxt:n0 Magic_rangeer
+     Exorcismer Training Areaer     [0m     
+[37mPos: 9 pts:7 wds:1 dir:n nxt:n0 Magicser
+     Black Arter     [0m     
+[37mPos: 10 pts:7 wds:3 dir:n nxt:n0 Magic_rangeer
+     Illusionismer Roamer     [0m     
+[31mPos: 11 pts:1 wds:-1 dir:n nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 12 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m     
+[31mPos: 13 pts:1 wds:-2 dir:n nxt:n0 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:n nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 15 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m          
+Team 2 Points: 47     
+Team 1 Points: 87     
+[2HCurrent step: 18     
+Team 2: 
+[31mPos: 1 pts:4 wds:-1 dir:e nxt:w1 magic_rangeer
+     myalismer traverseer     [0m     
+[37mPos: 2 pts:10 wds:5 dir:e nxt:w2 Magic_rangeer
+     Dweomercrafter Roamer     [0m     
+[37mPos: 3 pts:8 wds:1 dir:w nxt:n1 Ballistic_damageer
+     Ballisticaler Eviler     [0m     
+[37mPos: 4 pts:5 wds:1 dir:s nxt:e2 Ballistic_damageer
+     Frenzieder Eviler     [0m     
+[37mPos: 5 pts:5 wds:1 dir:e nxt:n1 Magicser
+     Black Arter     [0m     
+[37mPos: 6 pts:4 wds:1 dir:s nxt:n1 ballistic_skiller
+     frenzieder judgmenter     [0m     
+[37mPos: 7 pts:4 wds:1 dir:w nxt:e0 ballistic_defense_skiller
+     frenzieder justificationer causeer     [0m     
+[37mPos: 8 pts:5 wds:5 dir:s nxt:e0 Woundser
+     Tearer     [0m     
+[37mPos: 9 pts:8 wds:1 dir:s nxt:w0 Ballistic_defense_skiller
+     Ballisticaler Maintenanceer Knowledgeer     [0m     
+[37mPos: 10 pts:7 wds:1 dir:s nxt:w1 Moveer
+     Manhandleer     [0m     
+[37mPos: 11 pts:5 wds:1 dir:w nxt:e2 Magic_rangeer
+     Black Arter Scopeer     [0m     
+[31mPos: 12 pts:7 wds:-1 dir:s nxt:n2 Ballistic_defense_skiller
+     Frenzieder Answerer Knowledgeer     [0m     
+[31mPos: 13 pts:1 wds:-1 dir:w nxt:w1 standarder
+     base     [0m     
+[31mPos: 14 pts:1 wds:-3 dir:s nxt:e1 standarder
+     base     [0m     
+[31mPos: 15 pts:1 wds:-3 dir:e nxt:e0 standarder
+     base     [0m          
+Team 1: 
+[44m[37mPos: 1 pts:18 wds:3 dir:n nxt:n0 Armorer
+     Mailer     [0m[0m     
+[37mPos: 2 pts:8 wds:1 dir:n nxt:n0 Moveer
+     Proposeer     [0m     
+[31mPos: 3 pts:6 wds:0 dir:n nxt:n0 Magic_skiller
+     Deviltryer Causeer     [0m     
+[31mPos: 4 pts:5 wds:0 dir:n nxt:n0 Moveer
+     Flirter     [0m     
+[37mPos: 5 pts:8 wds:3 dir:n nxt:n0 Magic_skiller
+     Sleight Of Hander Handicrafter     [0m     
+[37mPos: 6 pts:3 wds:1 dir:n nxt:n0 melee_damageer
+     meleeer eviler     [0m     
+[44m[37mPos: 7 pts:16 wds:1 dir:n nxt:n0 Armorer
+     Armor Plateer     [0m[0m     
+[37mPos: 8 pts:10 wds:3 dir:n nxt:n0 Magic_rangeer
+     Exorcismer Training Areaer     [0m     
+[37mPos: 9 pts:7 wds:1 dir:n nxt:n0 Magicser
+     Black Arter     [0m     
+[37mPos: 10 pts:7 wds:3 dir:n nxt:n0 Magic_rangeer
+     Illusionismer Roamer     [0m     
+[31mPos: 11 pts:1 wds:-1 dir:n nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 12 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m     
+[31mPos: 13 pts:1 wds:-2 dir:n nxt:n0 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:n nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 15 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m          
+Team 2 Points: 47     
+Team 1 Points: 87     
+[2HCurrent step: 19     
+Team 2: 
+[31mPos: 1 pts:4 wds:-1 dir:e nxt:w1 magic_rangeer
+     myalismer traverseer     [0m     
+[37mPos: 2 pts:10 wds:5 dir:e nxt:w0 Magic_rangeer
+     Dweomercrafter Roamer     [0m     
+[37mPos: 3 pts:8 wds:1 dir:s nxt:e1 Ballistic_damageer
+     Ballisticaler Eviler     [0m     
+[37mPos: 4 pts:5 wds:1 dir:w nxt:e1 Ballistic_damageer
+     Frenzieder Eviler     [0m     
+[37mPos: 5 pts:5 wds:1 dir:s nxt:w0 Magicser
+     Black Arter     [0m     
+[37mPos: 6 pts:4 wds:1 dir:s nxt:e0 ballistic_skiller
+     frenzieder judgmenter     [0m     
+[37mPos: 7 pts:4 wds:1 dir:w nxt:w1 ballistic_defense_skiller
+     frenzieder justificationer causeer     [0m     
+[37mPos: 8 pts:5 wds:5 dir:w nxt:e1 Woundser
+     Tearer     [0m     
+[37mPos: 9 pts:8 wds:1 dir:e nxt:n2 Ballistic_defense_skiller
+     Ballisticaler Maintenanceer Knowledgeer     [0m     
+[37mPos: 10 pts:7 wds:1 dir:e nxt:n1 Moveer
+     Manhandleer     [0m     
+[37mPos: 11 pts:5 wds:1 dir:w nxt:n2 Magic_rangeer
+     Black Arter Scopeer     [0m     
+[31mPos: 12 pts:7 wds:-1 dir:s nxt:n2 Ballistic_defense_skiller
+     Frenzieder Answerer Knowledgeer     [0m     
+[31mPos: 13 pts:1 wds:-1 dir:w nxt:w1 standarder
+     base     [0m     
+[31mPos: 14 pts:1 wds:-3 dir:s nxt:e1 standarder
+     base     [0m     
+[31mPos: 15 pts:1 wds:-3 dir:e nxt:e0 standarder
+     base     [0m          
+Team 1: 
+[44m[37mPos: 1 pts:18 wds:3 dir:n nxt:n0 Armorer
+     Mailer     [0m[0m     
+[37mPos: 2 pts:8 wds:1 dir:n nxt:n0 Moveer
+     Proposeer     [0m     
+[31mPos: 3 pts:6 wds:0 dir:n nxt:n0 Magic_skiller
+     Deviltryer Causeer     [0m     
+[31mPos: 4 pts:5 wds:0 dir:n nxt:n0 Moveer
+     Flirter     [0m     
+[37mPos: 5 pts:8 wds:2 dir:n nxt:n0 Magic_skiller
+     Sleight Of Hander Handicrafter     [0m     
+[37mPos: 6 pts:3 wds:1 dir:n nxt:n0 melee_damageer
+     meleeer eviler     [0m     
+[44m[37mPos: 7 pts:16 wds:1 dir:n nxt:n0 Armorer
+     Armor Plateer     [0m[0m     
+[37mPos: 8 pts:10 wds:3 dir:n nxt:n0 Magic_rangeer
+     Exorcismer Training Areaer     [0m     
+[37mPos: 9 pts:7 wds:1 dir:n nxt:n0 Magicser
+     Black Arter     [0m     
+[37mPos: 10 pts:7 wds:3 dir:n nxt:n0 Magic_rangeer
+     Illusionismer Roamer     [0m     
+[31mPos: 11 pts:1 wds:-1 dir:n nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 12 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m     
+[31mPos: 13 pts:1 wds:-2 dir:n nxt:n0 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:n nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 15 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m          
+Team 2 Points: 47     
+Team 1 Points: 87     
+[2HCurrent step: 20     
+Team 2: 
+[31mPos: 1 pts:4 wds:-1 dir:e nxt:w1 magic_rangeer
+     myalismer traverseer     [0m     
+[37mPos: 2 pts:10 wds:5 dir:e nxt:w0 Magic_rangeer
+     Dweomercrafter Roamer     [0m     
+[37mPos: 3 pts:8 wds:1 dir:w nxt:w0 Ballistic_damageer
+     Ballisticaler Eviler     [0m     
+[37mPos: 4 pts:5 wds:1 dir:w nxt:n2 Ballistic_damageer
+     Frenzieder Eviler     [0m     
+[37mPos: 5 pts:5 wds:1 dir:e nxt:n0 Magicser
+     Black Arter     [0m     
+[37mPos: 6 pts:4 wds:1 dir:w nxt:w0 ballistic_skiller
+     frenzieder judgmenter     [0m     
+[37mPos: 7 pts:4 wds:1 dir:e nxt:e1 ballistic_defense_skiller
+     frenzieder justificationer causeer     [0m     
+[37mPos: 8 pts:5 wds:5 dir:w nxt:w0 Woundser
+     Tearer     [0m     
+[37mPos: 9 pts:8 wds:1 dir:s nxt:e0 Ballistic_defense_skiller
+     Ballisticaler Maintenanceer Knowledgeer     [0m     
+[37mPos: 10 pts:7 wds:1 dir:s nxt:w2 Moveer
+     Manhandleer     [0m     
+[37mPos: 11 pts:5 wds:1 dir:s nxt:e1 Magic_rangeer
+     Black Arter Scopeer     [0m     
+[31mPos: 12 pts:7 wds:-1 dir:s nxt:n2 Ballistic_defense_skiller
+     Frenzieder Answerer Knowledgeer     [0m     
+[31mPos: 13 pts:1 wds:-1 dir:w nxt:w1 standarder
+     base     [0m     
+[31mPos: 14 pts:1 wds:-3 dir:s nxt:e1 standarder
+     base     [0m     
+[31mPos: 15 pts:1 wds:-3 dir:e nxt:e0 standarder
+     base     [0m          
+Team 1: 
+[44m[37mPos: 1 pts:18 wds:3 dir:n nxt:n0 Armorer
+     Mailer     [0m[0m     
+[37mPos: 2 pts:8 wds:1 dir:n nxt:n0 Moveer
+     Proposeer     [0m     
+[31mPos: 3 pts:6 wds:0 dir:n nxt:n0 Magic_skiller
+     Deviltryer Causeer     [0m     
+[31mPos: 4 pts:5 wds:0 dir:n nxt:n0 Moveer
+     Flirter     [0m     
+[31mPos: 5 pts:8 wds:0 dir:n nxt:n0 Magic_skiller
+     Sleight Of Hander Handicrafter     [0m     
+[37mPos: 6 pts:3 wds:1 dir:n nxt:n0 melee_damageer
+     meleeer eviler     [0m     
+[44m[37mPos: 7 pts:16 wds:1 dir:n nxt:n0 Armorer
+     Armor Plateer     [0m[0m     
+[37mPos: 8 pts:10 wds:3 dir:n nxt:n0 Magic_rangeer
+     Exorcismer Training Areaer     [0m     
+[37mPos: 9 pts:7 wds:1 dir:n nxt:n0 Magicser
+     Black Arter     [0m     
+[37mPos: 10 pts:7 wds:3 dir:n nxt:n0 Magic_rangeer
+     Illusionismer Roamer     [0m     
+[31mPos: 11 pts:1 wds:-1 dir:n nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 12 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m     
+[31mPos: 13 pts:1 wds:-2 dir:n nxt:n0 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:n nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 15 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m          
+Team 2 Points: 47     
+Team 1 Points: 71     
+[2HCurrent step: 21     
+Team 2: 
+[31mPos: 1 pts:4 wds:-1 dir:e nxt:w1 magic_rangeer
+     myalismer traverseer     [0m     
+[37mPos: 2 pts:10 wds:5 dir:e nxt:w2 Magic_rangeer
+     Dweomercrafter Roamer     [0m     
+[37mPos: 3 pts:8 wds:1 dir:e nxt:e0 Ballistic_damageer
+     Ballisticaler Eviler     [0m     
+[37mPos: 4 pts:5 wds:1 dir:s nxt:w0 Ballistic_damageer
+     Frenzieder Eviler     [0m     
+[37mPos: 5 pts:5 wds:1 dir:s nxt:n1 Magicser
+     Black Arter     [0m     
+[37mPos: 6 pts:4 wds:1 dir:e nxt:n2 ballistic_skiller
+     frenzieder judgmenter     [0m     
+[37mPos: 7 pts:4 wds:1 dir:w nxt:n1 ballistic_defense_skiller
+     frenzieder justificationer causeer     [0m     
+[37mPos: 8 pts:5 wds:5 dir:e nxt:w0 Woundser
+     Tearer     [0m     
+[37mPos: 9 pts:8 wds:1 dir:w nxt:w2 Ballistic_defense_skiller
+     Ballisticaler Maintenanceer Knowledgeer     [0m     
+[37mPos: 10 pts:7 wds:1 dir:e nxt:e2 Moveer
+     Manhandleer     [0m     
+[37mPos: 11 pts:5 wds:1 dir:w nxt:e0 Magic_rangeer
+     Black Arter Scopeer     [0m     
+[31mPos: 12 pts:7 wds:-1 dir:s nxt:n2 Ballistic_defense_skiller
+     Frenzieder Answerer Knowledgeer     [0m     
+[31mPos: 13 pts:1 wds:-1 dir:w nxt:w1 standarder
+     base     [0m     
+[31mPos: 14 pts:1 wds:-3 dir:s nxt:e1 standarder
+     base     [0m     
+[31mPos: 15 pts:1 wds:-3 dir:e nxt:e0 standarder
+     base     [0m          
+Team 1: 
+[44m[37mPos: 1 pts:18 wds:3 dir:n nxt:n0 Armorer
+     Mailer     [0m[0m     
+[37mPos: 2 pts:8 wds:1 dir:n nxt:n0 Moveer
+     Proposeer     [0m     
+[31mPos: 3 pts:6 wds:0 dir:n nxt:n0 Magic_skiller
+     Deviltryer Causeer     [0m     
+[31mPos: 4 pts:5 wds:0 dir:n nxt:n0 Moveer
+     Flirter     [0m     
+[31mPos: 5 pts:8 wds:0 dir:n nxt:n0 Magic_skiller
+     Sleight Of Hander Handicrafter     [0m     
+[37mPos: 6 pts:3 wds:1 dir:n nxt:n0 melee_damageer
+     meleeer eviler     [0m     
+[44m[37mPos: 7 pts:16 wds:1 dir:n nxt:n0 Armorer
+     Armor Plateer     [0m[0m     
+[37mPos: 8 pts:10 wds:3 dir:n nxt:n0 Magic_rangeer
+     Exorcismer Training Areaer     [0m     
+[37mPos: 9 pts:7 wds:1 dir:n nxt:n0 Magicser
+     Black Arter     [0m     
+[37mPos: 10 pts:7 wds:3 dir:n nxt:n0 Magic_rangeer
+     Illusionismer Roamer     [0m     
+[31mPos: 11 pts:1 wds:-1 dir:n nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 12 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m     
+[31mPos: 13 pts:1 wds:-2 dir:n nxt:n0 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:n nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 15 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m          
+Team 2 Points: 47     
+Team 1 Points: 71     
+[2HCurrent step: 22     
+Team 2: 
+[31mPos: 1 pts:4 wds:-1 dir:e nxt:w1 magic_rangeer
+     myalismer traverseer     [0m     
+[37mPos: 2 pts:10 wds:5 dir:e nxt:n2 Magic_rangeer
+     Dweomercrafter Roamer     [0m     
+[37mPos: 3 pts:8 wds:1 dir:w nxt:n2 Ballistic_damageer
+     Ballisticaler Eviler     [0m     
+[37mPos: 4 pts:5 wds:1 dir:e nxt:e1 Ballistic_damageer
+     Frenzieder Eviler     [0m     
+[37mPos: 5 pts:5 wds:1 dir:s nxt:w0 Magicser
+     Black Arter     [0m     
+[37mPos: 6 pts:4 wds:1 dir:s nxt:w0 ballistic_skiller
+     frenzieder judgmenter     [0m     
+[37mPos: 7 pts:4 wds:1 dir:s nxt:w0 ballistic_defense_skiller
+     frenzieder justificationer causeer     [0m     
+[37mPos: 8 pts:5 wds:5 dir:e nxt:e2 Woundser
+     Tearer     [0m     
+[37mPos: 9 pts:8 wds:1 dir:e nxt:n1 Ballistic_defense_skiller
+     Ballisticaler Maintenanceer Knowledgeer     [0m     
+[37mPos: 10 pts:7 wds:1 dir:w nxt:e2 Moveer
+     Manhandleer     [0m     
+[37mPos: 11 pts:5 wds:1 dir:w nxt:n1 Magic_rangeer
+     Black Arter Scopeer     [0m     
+[31mPos: 12 pts:7 wds:-1 dir:s nxt:n2 Ballistic_defense_skiller
+     Frenzieder Answerer Knowledgeer     [0m     
+[31mPos: 13 pts:1 wds:-1 dir:w nxt:w1 standarder
+     base     [0m     
+[31mPos: 14 pts:1 wds:-3 dir:s nxt:e1 standarder
+     base     [0m     
+[31mPos: 15 pts:1 wds:-3 dir:e nxt:e0 standarder
+     base     [0m          
+Team 1: 
+[44m[37mPos: 1 pts:18 wds:3 dir:n nxt:n0 Armorer
+     Mailer     [0m[0m     
+[37mPos: 2 pts:8 wds:1 dir:n nxt:n0 Moveer
+     Proposeer     [0m     
+[31mPos: 3 pts:6 wds:0 dir:n nxt:n0 Magic_skiller
+     Deviltryer Causeer     [0m     
+[31mPos: 4 pts:5 wds:0 dir:n nxt:n0 Moveer
+     Flirter     [0m     
+[31mPos: 5 pts:8 wds:0 dir:n nxt:n0 Magic_skiller
+     Sleight Of Hander Handicrafter     [0m     
+[37mPos: 6 pts:3 wds:1 dir:n nxt:n0 melee_damageer
+     meleeer eviler     [0m     
+[44m[37mPos: 7 pts:16 wds:1 dir:n nxt:n0 Armorer
+     Armor Plateer     [0m[0m     
+[37mPos: 8 pts:10 wds:3 dir:n nxt:n0 Magic_rangeer
+     Exorcismer Training Areaer     [0m     
+[37mPos: 9 pts:7 wds:1 dir:n nxt:n0 Magicser
+     Black Arter     [0m     
+[37mPos: 10 pts:7 wds:3 dir:n nxt:n0 Magic_rangeer
+     Illusionismer Roamer     [0m     
+[31mPos: 11 pts:1 wds:-1 dir:n nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 12 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m     
+[31mPos: 13 pts:1 wds:-2 dir:n nxt:n0 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:n nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 15 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m          
+Team 2 Points: 47     
+Team 1 Points: 71     
+[2HCurrent step: 23     
+Team 2: 
+[31mPos: 1 pts:4 wds:-1 dir:e nxt:w1 magic_rangeer
+     myalismer traverseer     [0m     
+[37mPos: 2 pts:10 wds:5 dir:s nxt:e2 Magic_rangeer
+     Dweomercrafter Roamer     [0m     
+[37mPos: 3 pts:8 wds:1 dir:s nxt:w0 Ballistic_damageer
+     Ballisticaler Eviler     [0m     
+[37mPos: 4 pts:5 wds:1 dir:w nxt:e1 Ballistic_damageer
+     Frenzieder Eviler     [0m     
+[37mPos: 5 pts:5 wds:1 dir:e nxt:e1 Magicser
+     Black Arter     [0m     
+[37mPos: 6 pts:4 wds:1 dir:e nxt:w0 ballistic_skiller
+     frenzieder judgmenter     [0m     
+[37mPos: 7 pts:4 wds:1 dir:e nxt:e0 ballistic_defense_skiller
+     frenzieder justificationer causeer     [0m     
+[37mPos: 8 pts:5 wds:5 dir:w nxt:n2 Woundser
+     Tearer     [0m     
+[37mPos: 9 pts:8 wds:1 dir:s nxt:n1 Ballistic_defense_skiller
+     Ballisticaler Maintenanceer Knowledgeer     [0m     
+[37mPos: 10 pts:7 wds:1 dir:w nxt:w1 Moveer
+     Manhandleer     [0m     
+[37mPos: 11 pts:5 wds:1 dir:s nxt:n1 Magic_rangeer
+     Black Arter Scopeer     [0m     
+[31mPos: 12 pts:7 wds:-1 dir:s nxt:n2 Ballistic_defense_skiller
+     Frenzieder Answerer Knowledgeer     [0m     
+[31mPos: 13 pts:1 wds:-1 dir:w nxt:w1 standarder
+     base     [0m     
+[31mPos: 14 pts:1 wds:-3 dir:s nxt:e1 standarder
+     base     [0m     
+[31mPos: 15 pts:1 wds:-3 dir:e nxt:e0 standarder
+     base     [0m          
+Team 1: 
+[44m[37mPos: 1 pts:18 wds:3 dir:n nxt:n0 Armorer
+     Mailer     [0m[0m     
+[37mPos: 2 pts:8 wds:1 dir:n nxt:n0 Moveer
+     Proposeer     [0m     
+[31mPos: 3 pts:6 wds:0 dir:n nxt:n0 Magic_skiller
+     Deviltryer Causeer     [0m     
+[31mPos: 4 pts:5 wds:0 dir:n nxt:n0 Moveer
+     Flirter     [0m     
+[31mPos: 5 pts:8 wds:0 dir:n nxt:n0 Magic_skiller
+     Sleight Of Hander Handicrafter     [0m     
+[37mPos: 6 pts:3 wds:1 dir:n nxt:n0 melee_damageer
+     meleeer eviler     [0m     
+[44m[37mPos: 7 pts:16 wds:1 dir:n nxt:n0 Armorer
+     Armor Plateer     [0m[0m     
+[37mPos: 8 pts:10 wds:3 dir:n nxt:n0 Magic_rangeer
+     Exorcismer Training Areaer     [0m     
+[37mPos: 9 pts:7 wds:1 dir:n nxt:n0 Magicser
+     Black Arter     [0m     
+[37mPos: 10 pts:7 wds:3 dir:n nxt:n0 Magic_rangeer
+     Illusionismer Roamer     [0m     
+[31mPos: 11 pts:1 wds:-1 dir:n nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 12 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m     
+[31mPos: 13 pts:1 wds:-2 dir:n nxt:n0 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:n nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 15 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m          
+Team 2 Points: 47     
+Team 1 Points: 71     
+[2HCurrent step: 24     
+Team 2: 
+[31mPos: 1 pts:4 wds:-1 dir:e nxt:w1 magic_rangeer
+     myalismer traverseer     [0m     
+[37mPos: 2 pts:10 wds:5 dir:w nxt:e2 Magic_rangeer
+     Dweomercrafter Roamer     [0m     
+[37mPos: 3 pts:8 wds:1 dir:e nxt:n2 Ballistic_damageer
+     Ballisticaler Eviler     [0m     
+[37mPos: 4 pts:5 wds:1 dir:w nxt:w0 Ballistic_damageer
+     Frenzieder Eviler     [0m     
+[37mPos: 5 pts:5 wds:1 dir:w nxt:n2 Magicser
+     Black Arter     [0m     
+[37mPos: 6 pts:4 wds:1 dir:e nxt:n1 ballistic_skiller
+     frenzieder judgmenter     [0m     
+[37mPos: 7 pts:4 wds:1 dir:w nxt:n2 ballistic_defense_skiller
+     frenzieder justificationer causeer     [0m     
+[37mPos: 8 pts:5 wds:5 dir:s nxt:n2 Woundser
+     Tearer     [0m     
+[37mPos: 9 pts:8 wds:1 dir:s nxt:n0 Ballistic_defense_skiller
+     Ballisticaler Maintenanceer Knowledgeer     [0m     
+[37mPos: 10 pts:7 wds:1 dir:e nxt:n1 Moveer
+     Manhandleer     [0m     
+[37mPos: 11 pts:5 wds:1 dir:s nxt:n0 Magic_rangeer
+     Black Arter Scopeer     [0m     
+[31mPos: 12 pts:7 wds:-1 dir:s nxt:n2 Ballistic_defense_skiller
+     Frenzieder Answerer Knowledgeer     [0m     
+[31mPos: 13 pts:1 wds:-1 dir:w nxt:w1 standarder
+     base     [0m     
+[31mPos: 14 pts:1 wds:-3 dir:s nxt:e1 standarder
+     base     [0m     
+[31mPos: 15 pts:1 wds:-3 dir:e nxt:e0 standarder
+     base     [0m          
+Team 1: 
+[44m[37mPos: 1 pts:18 wds:3 dir:n nxt:n0 Armorer
+     Mailer     [0m[0m     
+[37mPos: 2 pts:8 wds:1 dir:n nxt:n0 Moveer
+     Proposeer     [0m     
+[31mPos: 3 pts:6 wds:0 dir:n nxt:n0 Magic_skiller
+     Deviltryer Causeer     [0m     
+[31mPos: 4 pts:5 wds:0 dir:n nxt:n0 Moveer
+     Flirter     [0m     
+[31mPos: 5 pts:8 wds:0 dir:n nxt:n0 Magic_skiller
+     Sleight Of Hander Handicrafter     [0m     
+[37mPos: 6 pts:3 wds:1 dir:n nxt:n0 melee_damageer
+     meleeer eviler     [0m     
+[44m[37mPos: 7 pts:16 wds:1 dir:n nxt:n0 Armorer
+     Armor Plateer     [0m[0m     
+[37mPos: 8 pts:10 wds:3 dir:n nxt:n0 Magic_rangeer
+     Exorcismer Training Areaer     [0m     
+[37mPos: 9 pts:7 wds:1 dir:n nxt:n0 Magicser
+     Black Arter     [0m     
+[37mPos: 10 pts:7 wds:1 dir:n nxt:n0 Magic_rangeer
+     Illusionismer Roamer     [0m     
+[31mPos: 11 pts:1 wds:-1 dir:n nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 12 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m     
+[31mPos: 13 pts:1 wds:-2 dir:n nxt:n0 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:n nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 15 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m          
+Team 2 Points: 47     
+Team 1 Points: 71     
+[2HCurrent step: 25     
+Team 2: 
+[31mPos: 1 pts:4 wds:-1 dir:e nxt:w1 magic_rangeer
+     myalismer traverseer     [0m     
+[37mPos: 2 pts:10 wds:5 dir:w nxt:w1 Magic_rangeer
+     Dweomercrafter Roamer     [0m     
+[37mPos: 3 pts:8 wds:1 dir:s nxt:e1 Ballistic_damageer
+     Ballisticaler Eviler     [0m     
+[37mPos: 4 pts:5 wds:1 dir:e nxt:e2 Ballistic_damageer
+     Frenzieder Eviler     [0m     
+[37mPos: 5 pts:5 wds:1 dir:s nxt:w1 Magicser
+     Black Arter     [0m     
+[37mPos: 6 pts:4 wds:1 dir:s nxt:e2 ballistic_skiller
+     frenzieder judgmenter     [0m     
+[37mPos: 7 pts:4 wds:1 dir:s nxt:e1 ballistic_defense_skiller
+     frenzieder justificationer causeer     [0m     
+[37mPos: 8 pts:5 wds:5 dir:s nxt:e1 Woundser
+     Tearer     [0m     
+[37mPos: 9 pts:8 wds:1 dir:s nxt:w0 Ballistic_defense_skiller
+     Ballisticaler Maintenanceer Knowledgeer     [0m     
+[37mPos: 10 pts:7 wds:1 dir:s nxt:n2 Moveer
+     Manhandleer     [0m     
+[37mPos: 11 pts:5 wds:1 dir:s nxt:e0 Magic_rangeer
+     Black Arter Scopeer     [0m     
+[31mPos: 12 pts:7 wds:-1 dir:s nxt:n2 Ballistic_defense_skiller
+     Frenzieder Answerer Knowledgeer     [0m     
+[31mPos: 13 pts:1 wds:-1 dir:w nxt:w1 standarder
+     base     [0m     
+[31mPos: 14 pts:1 wds:-3 dir:s nxt:e1 standarder
+     base     [0m     
+[31mPos: 15 pts:1 wds:-3 dir:e nxt:e0 standarder
+     base     [0m          
+Team 1: 
+[44m[37mPos: 1 pts:18 wds:3 dir:n nxt:n0 Armorer
+     Mailer     [0m[0m     
+[37mPos: 2 pts:8 wds:1 dir:n nxt:n1 Moveer
+     Proposeer     [0m     
+[31mPos: 3 pts:6 wds:0 dir:n nxt:n0 Magic_skiller
+     Deviltryer Causeer     [0m     
+[31mPos: 4 pts:5 wds:0 dir:n nxt:n0 Moveer
+     Flirter     [0m     
+[31mPos: 5 pts:8 wds:0 dir:n nxt:n0 Magic_skiller
+     Sleight Of Hander Handicrafter     [0m     
+[37mPos: 6 pts:3 wds:1 dir:n nxt:n1 melee_damageer
+     meleeer eviler     [0m     
+[44m[37mPos: 7 pts:16 wds:1 dir:n nxt:n0 Armorer
+     Armor Plateer     [0m[0m     
+[37mPos: 8 pts:10 wds:3 dir:n nxt:e1 Magic_rangeer
+     Exorcismer Training Areaer     [0m     
+[37mPos: 9 pts:7 wds:1 dir:n nxt:n1 Magicser
+     Black Arter     [0m     
+[37mPos: 10 pts:7 wds:1 dir:n nxt:n0 Magic_rangeer
+     Illusionismer Roamer     [0m     
+[31mPos: 11 pts:1 wds:-1 dir:n nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 12 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m     
+[31mPos: 13 pts:1 wds:-2 dir:n nxt:n0 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:n nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 15 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m          
+Team 2 Points: 47     
+Team 1 Points: 71     
+[2HCurrent step: 26     
+Team 2: 
+[31mPos: 1 pts:4 wds:-1 dir:e nxt:w1 magic_rangeer
+     myalismer traverseer     [0m     
+[37mPos: 2 pts:10 wds:5 dir:e nxt:n2 Magic_rangeer
+     Dweomercrafter Roamer     [0m     
+[37mPos: 3 pts:8 wds:1 dir:w nxt:w1 Ballistic_damageer
+     Ballisticaler Eviler     [0m     
+[37mPos: 4 pts:5 wds:1 dir:w nxt:e2 Ballistic_damageer
+     Frenzieder Eviler     [0m     
+[37mPos: 5 pts:5 wds:1 dir:e nxt:e1 Magicser
+     Black Arter     [0m     
+[37mPos: 6 pts:4 wds:1 dir:w nxt:e2 ballistic_skiller
+     frenzieder judgmenter     [0m     
+[37mPos: 7 pts:4 wds:1 dir:w nxt:n1 ballistic_defense_skiller
+     frenzieder justificationer causeer     [0m     
+[37mPos: 8 pts:5 wds:5 dir:w nxt:e1 Woundser
+     Tearer     [0m     
+[37mPos: 9 pts:8 wds:1 dir:e nxt:n1 Ballistic_defense_skiller
+     Ballisticaler Maintenanceer Knowledgeer     [0m     
+[37mPos: 10 pts:7 wds:1 dir:s nxt:w1 Moveer
+     Manhandleer     [0m     
+[37mPos: 11 pts:5 wds:1 dir:w nxt:w2 Magic_rangeer
+     Black Arter Scopeer     [0m     
+[31mPos: 12 pts:7 wds:-1 dir:s nxt:n2 Ballistic_defense_skiller
+     Frenzieder Answerer Knowledgeer     [0m     
+[31mPos: 13 pts:1 wds:-1 dir:w nxt:w1 standarder
+     base     [0m     
+[31mPos: 14 pts:1 wds:-3 dir:s nxt:e1 standarder
+     base     [0m     
+[31mPos: 15 pts:1 wds:-3 dir:e nxt:e0 standarder
+     base     [0m          
+Team 1: 
+[44m[37mPos: 1 pts:18 wds:3 dir:n nxt:n0 Armorer
+     Mailer     [0m[0m     
+[37mPos: 2 pts:8 wds:1 dir:n nxt:e4 Moveer
+     Proposeer     [0m     
+[31mPos: 3 pts:6 wds:0 dir:n nxt:n0 Magic_skiller
+     Deviltryer Causeer     [0m     
+[31mPos: 4 pts:5 wds:0 dir:n nxt:n0 Moveer
+     Flirter     [0m     
+[31mPos: 5 pts:8 wds:0 dir:n nxt:n0 Magic_skiller
+     Sleight Of Hander Handicrafter     [0m     
+[31mPos: 6 pts:3 wds:0 dir:n nxt:n1 melee_damageer
+     meleeer eviler     [0m     
+[44m[37mPos: 7 pts:16 wds:1 dir:n nxt:n0 Armorer
+     Armor Plateer     [0m[0m     
+[37mPos: 8 pts:10 wds:3 dir:e nxt:n1 Magic_rangeer
+     Exorcismer Training Areaer     [0m     
+[37mPos: 9 pts:7 wds:1 dir:n nxt:w1 Magicser
+     Black Arter     [0m     
+[31mPos: 10 pts:7 wds:-2 dir:n nxt:n0 Magic_rangeer
+     Illusionismer Roamer     [0m     
+[31mPos: 11 pts:1 wds:-1 dir:n nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 12 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m     
+[31mPos: 13 pts:1 wds:-2 dir:n nxt:n0 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:n nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 15 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m          
+Team 2 Points: 47     
+Team 1 Points: 51     
+[2HCurrent step: 27     
+Team 2: 
+[31mPos: 1 pts:4 wds:-1 dir:e nxt:w1 magic_rangeer
+     myalismer traverseer     [0m     
+[37mPos: 2 pts:10 wds:5 dir:s nxt:e1 Magic_rangeer
+     Dweomercrafter Roamer     [0m     
+[37mPos: 3 pts:8 wds:1 dir:e nxt:w0 Ballistic_damageer
+     Ballisticaler Eviler     [0m     
+[37mPos: 4 pts:5 wds:1 dir:w nxt:n2 Ballistic_damageer
+     Frenzieder Eviler     [0m     
+[37mPos: 5 pts:5 wds:1 dir:w nxt:e2 Magicser
+     Black Arter     [0m     
+[37mPos: 6 pts:4 wds:1 dir:w nxt:w1 ballistic_skiller
+     frenzieder judgmenter     [0m     
+[37mPos: 7 pts:4 wds:1 dir:s nxt:n2 ballistic_defense_skiller
+     frenzieder justificationer causeer     [0m     
+[37mPos: 8 pts:5 wds:5 dir:w nxt:e2 Woundser
+     Tearer     [0m     
+[37mPos: 9 pts:8 wds:1 dir:s nxt:w1 Ballistic_defense_skiller
+     Ballisticaler Maintenanceer Knowledgeer     [0m     
+[37mPos: 10 pts:7 wds:1 dir:e nxt:w1 Moveer
+     Manhandleer     [0m     
+[37mPos: 11 pts:5 wds:1 dir:e nxt:e1 Magic_rangeer
+     Black Arter Scopeer     [0m     
+[31mPos: 12 pts:7 wds:-1 dir:s nxt:n2 Ballistic_defense_skiller
+     Frenzieder Answerer Knowledgeer     [0m     
+[31mPos: 13 pts:1 wds:-1 dir:w nxt:w1 standarder
+     base     [0m     
+[31mPos: 14 pts:1 wds:-3 dir:s nxt:e1 standarder
+     base     [0m     
+[31mPos: 15 pts:1 wds:-3 dir:e nxt:e0 standarder
+     base     [0m          
+Team 1: 
+[44m[37mPos: 1 pts:18 wds:3 dir:n nxt:n0 Armorer
+     Mailer     [0m[0m     
+[44m[37mPos: 2 pts:18 wds:1 dir:e nxt:n0 Moveer
+     Proposeer     [0m[0m     
+[31mPos: 3 pts:6 wds:0 dir:n nxt:n0 Magic_skiller
+     Deviltryer Causeer     [0m     
+[31mPos: 4 pts:5 wds:0 dir:n nxt:n0 Moveer
+     Flirter     [0m     
+[31mPos: 5 pts:8 wds:0 dir:n nxt:n0 Magic_skiller
+     Sleight Of Hander Handicrafter     [0m     
+[31mPos: 6 pts:3 wds:0 dir:n nxt:n1 melee_damageer
+     meleeer eviler     [0m     
+[44m[37mPos: 7 pts:16 wds:1 dir:n nxt:n0 Armorer
+     Armor Plateer     [0m[0m     
+[37mPos: 8 pts:10 wds:3 dir:n nxt:n0 Magic_rangeer
+     Exorcismer Training Areaer     [0m     
+[37mPos: 9 pts:7 wds:1 dir:w nxt:n0 Magicser
+     Black Arter     [0m     
+[31mPos: 10 pts:7 wds:-2 dir:n nxt:n0 Magic_rangeer
+     Illusionismer Roamer     [0m     
+[31mPos: 11 pts:1 wds:-1 dir:n nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 12 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m     
+[31mPos: 13 pts:1 wds:-2 dir:n nxt:n0 standarder
+     base     [0m     
+[37mPos: 14 pts:1 wds:1 dir:n nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 15 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m          
+Team 2 Points: 47     
+Team 1 Points: 61     
+[2HCurrent step: 28     
+Team 2: 
+[31mPos: 1 pts:4 wds:-1 dir:e nxt:w1 magic_rangeer
+     myalismer traverseer     [0m     
+[37mPos: 2 pts:10 wds:5 dir:w nxt:e2 Magic_rangeer
+     Dweomercrafter Roamer     [0m     
+[37mPos: 3 pts:8 wds:1 dir:e nxt:e0 Ballistic_damageer
+     Ballisticaler Eviler     [0m     
+[37mPos: 4 pts:5 wds:1 dir:s nxt:e1 Ballistic_damageer
+     Frenzieder Eviler     [0m     
+[37mPos: 5 pts:5 wds:1 dir:w nxt:e0 Magicser
+     Black Arter     [0m     
+[37mPos: 6 pts:4 wds:1 dir:e nxt:n2 ballistic_skiller
+     frenzieder judgmenter     [0m     
+[37mPos: 7 pts:4 wds:1 dir:s nxt:e1 ballistic_defense_skiller
+     frenzieder justificationer causeer     [0m     
+[37mPos: 8 pts:5 wds:5 dir:w nxt:w1 Woundser
+     Tearer     [0m     
+[37mPos: 9 pts:8 wds:1 dir:e nxt:e2 Ballistic_defense_skiller
+     Ballisticaler Maintenanceer Knowledgeer     [0m     
+[37mPos: 10 pts:7 wds:1 dir:e nxt:e1 Moveer
+     Manhandleer     [0m     
+[37mPos: 11 pts:5 wds:1 dir:w nxt:w1 Magic_rangeer
+     Black Arter Scopeer     [0m     
+[31mPos: 12 pts:7 wds:-1 dir:s nxt:n2 Ballistic_defense_skiller
+     Frenzieder Answerer Knowledgeer     [0m     
+[31mPos: 13 pts:1 wds:-1 dir:w nxt:w1 standarder
+     base     [0m     
+[31mPos: 14 pts:1 wds:-3 dir:s nxt:e1 standarder
+     base     [0m     
+[31mPos: 15 pts:1 wds:-3 dir:e nxt:e0 standarder
+     base     [0m          
+Team 1: 
+[44m[37mPos: 1 pts:18 wds:3 dir:n nxt:n0 Armorer
+     Mailer     [0m[0m     
+[31mPos: 2 pts:18 wds:-1 dir:n nxt:n0 Moveer
+     Proposeer     [0m     
+[31mPos: 3 pts:6 wds:0 dir:n nxt:n0 Magic_skiller
+     Deviltryer Causeer     [0m     
+[31mPos: 4 pts:5 wds:0 dir:n nxt:n0 Moveer
+     Flirter     [0m     
+[31mPos: 5 pts:8 wds:0 dir:n nxt:n0 Magic_skiller
+     Sleight Of Hander Handicrafter     [0m     
+[31mPos: 6 pts:3 wds:0 dir:n nxt:n1 melee_damageer
+     meleeer eviler     [0m     
+[44m[37mPos: 7 pts:16 wds:1 dir:n nxt:n0 Armorer
+     Armor Plateer     [0m[0m     
+[37mPos: 8 pts:10 wds:3 dir:n nxt:n0 Magic_rangeer
+     Exorcismer Training Areaer     [0m     
+[37mPos: 9 pts:7 wds:1 dir:n nxt:n0 Magicser
+     Black Arter     [0m     
+[31mPos: 10 pts:7 wds:-2 dir:n nxt:n0 Magic_rangeer
+     Illusionismer Roamer     [0m     
+[31mPos: 11 pts:1 wds:-1 dir:n nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 12 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m     
+[31mPos: 13 pts:1 wds:-2 dir:n nxt:n0 standarder
+     base     [0m     
+[31mPos: 14 pts:1 wds:-2 dir:n nxt:n0 standarder
+     base     [0m     
+[31mPos: 15 pts:11 wds:-2 dir:n nxt:n0 standarder
+     base     [0m          
+Team 2 Points: 47     
+Team 1 Points: 21     
+[2HCurrent step: 29     
+Team 2: 
+[31mPos: 1 pts:4 wds:-1 dir:e nxt:w1 magic_rangeer
+     myalismer traverseer     [0m     
+[44m[37mPos: 2 pts:20 wds:5 dir:w nxt:w0 Magic_rangeer
+     Dweomercrafter Roamer     [0m[0m     
+[37mPos: 3 pts:8 wds:1 dir:w nxt:n2 Ballistic_damageer
+     Ballisticaler Eviler     [0m     
+[37mPos: 4 pts:5 wds:1 dir:w nxt:w0 Ballistic_damageer
+     Frenzieder Eviler     [0m     
+[37mPos: 5 pts:5 wds:1 dir:w nxt:e2 Magicser
+     Black Arter     [0m     
+[37mPos: 6 pts:4 wds:1 dir:s nxt:n0 ballistic_skiller
+     frenzieder judgmenter     [0m     
+[37mPos: 7 pts:4 wds:1 dir:w nxt:e2 ballistic_defense_skiller
+     frenzieder justificationer causeer     [0m     
+[37mPos: 8 pts:5 wds:5 dir:e nxt:w0 Woundser
+     Tearer     [0m     
+[37mPos: 9 pts:8 wds:1 dir:w nxt:w1 Ballistic_defense_skiller
+     Ballisticaler Maintenanceer Knowledgeer     [0m     
+[37mPos: 10 pts:7 wds:1 dir:w nxt:e2 Moveer
+     Manhandleer     [0m     
+[37mPos: 11 pts:5 wds:1 dir:e nxt:n0 Magic_rangeer
+     Black Arter Scopeer     [0m     
+[31mPos: 12 pts:7 wds:-1 dir:s nxt:n2 Ballistic_defense_skiller
+     Frenzieder Answerer Knowledgeer     [0m     
+[31mPos: 13 pts:1 wds:-1 dir:w nxt:w1 standarder
+     base     [0m     
+[31mPos: 14 pts:1 wds:-3 dir:s nxt:e1 standarder
+     base     [0m     
+[31mPos: 15 pts:1 wds:-3 dir:e nxt:e0 standarder
+     base     [0m          
+Team 1: 
+[44m[37mPos: 1 pts:18 wds:3 dir:n nxt:n0 Armorer
+     Mailer     [0m[0m     
+[31mPos: 2 pts:18 wds:-1 dir:n nxt:n0 Moveer
+     Proposeer     [0m     
+[31mPos: 3 pts:6 wds:0 dir:n nxt:n0 Magic_skiller
+     Deviltryer Causeer     [0m     
+[31mPos: 4 pts:5 wds:0 dir:n nxt:n0 Moveer
+     Flirter     [0m     
+[31mPos: 5 pts:8 wds:0 dir:n nxt:n0 Magic_skiller
+     Sleight Of Hander Handicrafter     [0m     
+[31mPos: 6 pts:3 wds:0 dir:n nxt:n1 melee_damageer
+     meleeer eviler     [0m     
+[44m[37mPos: 7 pts:16 wds:1 dir:n nxt:n0 Armorer
+     Armor Plateer     [0m[0m     
+[37mPos: 8 pts:10 wds:3 dir:n nxt:n0 Magic_rangeer
+     Exorcismer Training Areaer     [0m     
+[37mPos: 9 pts:7 wds:1 dir:n nxt:n0 Magicser
+     Black Arter     [0m     
+[31mPos: 10 pts:7 wds:-2 dir:n nxt:n0 Magic_rangeer
+     Illusionismer Roamer     [0m     
+[31mPos: 11 pts:1 wds:-1 dir:n nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 12 pts:11 wds:1 dir:n nxt:n0 standarder
+     base     [0m[0m     
+[31mPos: 13 pts:1 wds:-2 dir:n nxt:n0 standarder
+     base     [0m     
+[31mPos: 14 pts:1 wds:-2 dir:n nxt:n0 standarder
+     base     [0m     
+[31mPos: 15 pts:11 wds:-2 dir:n nxt:n0 standarder
+     base     [0m          
+Team 2 Points: 57     
+Team 1 Points: 21     
+[2HCurrent step: 30     
+Team 2: 
+[31mPos: 1 pts:4 wds:-1 dir:e nxt:w1 magic_rangeer
+     myalismer traverseer     [0m     
+[44m[37mPos: 2 pts:20 wds:5 dir:e nxt:n0 Magic_rangeer
+     Dweomercrafter Roamer     [0m[0m     
+[37mPos: 3 pts:8 wds:1 dir:s nxt:e0 Ballistic_damageer
+     Ballisticaler Eviler     [0m     
+[37mPos: 4 pts:5 wds:1 dir:e nxt:n0 Ballistic_damageer
+     Frenzieder Eviler     [0m     
+[37mPos: 5 pts:5 wds:1 dir:w nxt:e1 Magicser
+     Black Arter     [0m     
+[37mPos: 6 pts:4 wds:1 dir:s nxt:n0 ballistic_skiller
+     frenzieder judgmenter     [0m     
+[37mPos: 7 pts:4 wds:1 dir:w nxt:w2 ballistic_defense_skiller
+     frenzieder justificationer causeer     [0m     
+[37mPos: 8 pts:5 wds:5 dir:e nxt:n1 Woundser
+     Tearer     [0m     
+[37mPos: 9 pts:8 wds:1 dir:e nxt:e1 Ballistic_defense_skiller
+     Ballisticaler Maintenanceer Knowledgeer     [0m     
+[37mPos: 10 pts:7 wds:1 dir:w nxt:e0 Moveer
+     Manhandleer     [0m     
+[37mPos: 11 pts:5 wds:1 dir:s nxt:n2 Magic_rangeer
+     Black Arter Scopeer     [0m     
+[31mPos: 12 pts:7 wds:-1 dir:s nxt:n2 Ballistic_defense_skiller
+     Frenzieder Answerer Knowledgeer     [0m     
+[31mPos: 13 pts:1 wds:-1 dir:w nxt:w1 standarder
+     base     [0m     
+[31mPos: 14 pts:1 wds:-3 dir:s nxt:e1 standarder
+     base     [0m     
+[31mPos: 15 pts:1 wds:-3 dir:e nxt:e0 standarder
+     base     [0m          
+Team 1: 
+[44m[37mPos: 1 pts:18 wds:3 dir:n nxt:n3 Armorer
+     Mailer     [0m[0m     
+[31mPos: 2 pts:18 wds:-1 dir:n nxt:n0 Moveer
+     Proposeer     [0m     
+[31mPos: 3 pts:6 wds:0 dir:n nxt:n0 Magic_skiller
+     Deviltryer Causeer     [0m     
+[31mPos: 4 pts:5 wds:0 dir:n nxt:n0 Moveer
+     Flirter     [0m     
+[31mPos: 5 pts:8 wds:0 dir:n nxt:n0 Magic_skiller
+     Sleight Of Hander Handicrafter     [0m     
+[31mPos: 6 pts:3 wds:0 dir:n nxt:n1 melee_damageer
+     meleeer eviler     [0m     
+[44m[37mPos: 7 pts:16 wds:1 dir:n nxt:n3 Armorer
+     Armor Plateer     [0m[0m     
+[37mPos: 8 pts:10 wds:3 dir:n nxt:n3 Magic_rangeer
+     Exorcismer Training Areaer     [0m     
+[37mPos: 9 pts:7 wds:1 dir:n nxt:n1 Magicser
+     Black Arter     [0m     
+[31mPos: 10 pts:7 wds:-2 dir:n nxt:n0 Magic_rangeer
+     Illusionismer Roamer     [0m     
+[31mPos: 11 pts:1 wds:-1 dir:n nxt:n0 standarder
+     base     [0m     
+[44m[37mPos: 12 pts:11 wds:1 dir:n nxt:n1 standarder
+     base     [0m[0m     
+[31mPos: 13 pts:1 wds:-2 dir:n nxt:n0 standarder
+     base     [0m     
+[31mPos: 14 pts:1 wds:-2 dir:n nxt:n0 standarder
+     base     [0m     
+[31mPos: 15 pts:11 wds:-2 dir:n nxt:n0 standarder
+     base     [0m          
+Team 2 Points: 57     
+Team 1 Points: 21     
