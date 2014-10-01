@@ -1,19 +1,18 @@
-name Sleight Of Hander Handicrafter
-move 2
+name meleeer judgmenter 
+move 1
 ballistic_skill 1
 ballistic_range 1
-ballistic_damage 2
+ballistic_damage 1
 melee_skill 2
 melee_damage 1
 armor 1
-wounds 2
+wounds 1
 magic_range 1
-magic_skill 3
-points 8
+magic_skill 1
+points 2
 program n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 
 team 1
 objective_points 0
 marked false
-specialty Magic_skill
-mutation melee_skill wounds magic_skill ballistic_damage magics  +magic_skill1 magic_skill move
-magics  +magic_skill1
+specialty melee_skill
+mutation melee_skill

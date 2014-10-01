@@ -1,19 +1,20 @@
-name Deviltryer Causeer
+name frenzieder protectioner causeer 
 move 1
 ballistic_skill 1
-ballistic_range 2
+ballistic_range 1
 ballistic_damage 1
-melee_skill 2
+melee_skill 1
 melee_damage 1
 armor 1
 wounds 1
 magic_range 1
-magic_skill 3
-points 6
+magic_skill 1
+points 4
 program n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 
 team 1
 objective_points 0
 marked false
-specialty Magic_skill
-mutation melee_skill magic_skill magic_skill magics  +move2 ballistic_range
-magics  +move2
+specialty ballistic_defense_skill
+mutation ballistic_defense_skill magics  -magic_range2 ballistic_defense_skill
+magics  -magic_range2
+ballistic_defense_skill 2

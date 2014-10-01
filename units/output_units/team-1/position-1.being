@@ -1,18 +1,19 @@
-name Mailer
-move 2
+name Meleeer Adeptnesser
+move 1
 ballistic_skill 2
-ballistic_range 1
-ballistic_damage 2
-melee_skill 1
-melee_damage 2
-armor 3
+ballistic_range 2
+ballistic_damage 1
+melee_skill 3
+melee_damage 1
+armor 2
 wounds 2
 magic_range 1
-magic_skill 1
-points 8
+magic_skill 2
+points 9
 program n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 
 team 1
 objective_points 0
 marked false
-specialty Armor
-mutation ballistic_damage wounds ballistic_skill move melee_damage armor armor
+specialty Melee_skill
+mutation melee_skill ballistic_skill melee_skill ballistic_range magic_skill armor wounds magics  +magic_range1
+magics  +magic_range1

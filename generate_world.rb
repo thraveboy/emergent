@@ -9,8 +9,9 @@ $y_paths = []
 
 $map_hash = Hash.new
 
-$blocks = ',\'o0\\/'
-$objectives = '&?'
+$landscape = '.'
+$blocks = ',\\\\/#@(){}+<>!:~=|'
+$objectives = '&?$'
 
 $new_map = File.new("worlds/generated_world.world", "w")
 $randomizer = Random.new
@@ -52,7 +53,7 @@ $width_minus_1 = $world_width  - 1
         value = $blocks_distribution[$randomizer.rand($blocks_distribution.size)]
        end
       else
-        value = '.'
+        value = $landscape[$randomizer.rand($landscape.size)]
       end
     end
     $map_hash[current_hash_position] = value

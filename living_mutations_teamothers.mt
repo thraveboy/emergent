@@ -100,3 +100,12 @@ magic_skill melee_damage armor magics  +ballistic_range1 armor
 wounds ballistic_damage melee_skill ballistic_damage ballistic_skill ballistic_damage magic_skill wounds
 armor ballistic_skill ballistic_defense_skill
 magics  -melee_skill1 magic_skill ballistic_defense_skill magic_skill melee_damage ballistic_skill ballistic_defense_skill wounds ballistic_skill
+ballistic_damage wounds ballistic_skill move melee_damage armor armor
+melee_skill magic_skill magic_skill magics  +move2 ballistic_range
+move ballistic_defense_skill melee_damage magics  -magic_skill2
+melee_skill wounds magic_skill ballistic_damage magics  +magic_skill1 magic_skill move
+melee_damage magic_range
+armor armor move ballistic_range magic_range
+magic_range armor move melee_skill wounds ballistic_skill magic_range ballistic_range magic_skill
+magics  +ballistic_defense_skill5 armor
+magic_skill magic_range ballistic_skill magic_range wounds move

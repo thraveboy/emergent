@@ -1,19 +1,18 @@
-name Ballisticaler Eviler
-move 1
+name Frenzieder Losser
+move 2
 ballistic_skill 1
 ballistic_range 1
-ballistic_damage 2
+ballistic_damage 3
 melee_skill 2
-melee_damage 2
-armor 2
-wounds 1
+melee_damage 1
+armor 1
+wounds 2
 magic_range 1
-magic_skill 1
-points 8
+magic_skill 2
+points 7
 program n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 
 team 2
 objective_points 0
 marked false
 specialty Ballistic_damage
-mutation ballistic_damage melee_damage melee_skill armor magics  +armor3
-magics  +armor3
+mutation magic_skill ballistic_damage melee_skill ballistic_damage wounds move
