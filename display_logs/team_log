@@ -1,6 +1,6 @@
 [2J[2HCurrent step: 0     
 Team 2: 
-[37mPos: 1 pts:5 wds:3 dir: nxt:n0 Ballistic_damageer
+[37mPos: 1 pts:5 wds:3 dir: nxt:e0 Ballistic_damageer
      Ballisticaler Injureer     [0m     
 [37mPos: 2 pts:6 wds:1 dir: nxt:n0 Ballistic_defense_skiller
      Frenzieder Protectioner Knowledgeer     [0m     
@@ -8,17 +8,17 @@ Team 2:
      Frenzieder Losser     [0m     
 [37mPos: 4 pts:3 wds:1 dir: nxt:e2 moveer
      flutterer     [0m     
-[37mPos: 5 pts:6 wds:5 dir: nxt:w2 Woundser
+[37mPos: 5 pts:6 wds:5 dir: nxt:w0 Woundser
      Slighter     [0m     
 [37mPos: 6 pts:3 wds:1 dir: nxt:e2 melee_skiller
      meleeer causeer     [0m     
 [37mPos: 7 pts:2 wds:1 dir: nxt:w2 armorer
      armor plateer     [0m     
-[37mPos: 8 pts:5 wds:1 dir: nxt:n2 Ballistic_rangeer
+[37mPos: 8 pts:5 wds:1 dir: nxt:w2 Ballistic_rangeer
      Frenzieder Roamer     [0m     
 [37mPos: 9 pts:3 wds:1 dir: nxt:n0 melee_damageer
      meleeer hurter     [0m     
-[37mPos: 10 pts:5 wds:3 dir: nxt:n0 Woundser
+[37mPos: 10 pts:5 wds:3 dir: nxt:w0 Woundser
      Crepanceer     [0m     
 [37mPos: 11 pts:3 wds:3 dir: nxt:e0 woundser
      calker     [0m     
@@ -26,36 +26,36 @@ Team 2:
      crepanceer     [0m     
 [37mPos: 13 pts:8 wds:1 dir: nxt:e0 Ballistic_damageer
      Ballisticaler Injuryer     [0m     
-[37mPos: 14 pts:3 wds:3 dir: nxt:n0 ballistic_rangeer
+[37mPos: 14 pts:3 wds:3 dir: nxt:e2 ballistic_rangeer
      frenzieder rambleer     [0m     
 [37mPos: 15 pts:8 wds:1 dir: nxt:n0 Armorer
      Plateer     [0m          
 Team 1: 
 [37mPos: 1 pts:9 wds:3 dir: nxt:n0 Melee_skiller
      Meleeer Adeptnesser     [0m     
-[37mPos: 2 pts:5 wds:1 dir: nxt:n0 Magicser
+[37mPos: 2 pts:5 wds:1 dir: nxt:n2 Magicser
      Maleficeer     [0m     
-[37mPos: 3 pts:4 wds:1 dir: nxt:n0 ballistic_defense_skiller
+[37mPos: 3 pts:4 wds:1 dir: nxt:e2 ballistic_defense_skiller
      frenzieder protectioner causeer     [0m     
-[37mPos: 4 pts:2 wds:1 dir: nxt:n1 armorer
+[37mPos: 4 pts:2 wds:1 dir: nxt:n0 armorer
      panoplyer     [0m     
 [37mPos: 5 pts:2 wds:1 dir: nxt:n0 melee_skiller
      meleeer judgmenter     [0m     
 [37mPos: 6 pts:7 wds:3 dir: nxt:w2 Ballistic_skiller
      Ballisticaler Handicrafter     [0m     
-[37mPos: 7 pts:10 wds:1 dir: nxt:w2 Armorer
+[37mPos: 7 pts:10 wds:1 dir: nxt:n2 Armorer
      Armor Plateer     [0m     
-[37mPos: 8 pts:9 wds:1 dir: nxt:e1 Magic_skiller
+[37mPos: 8 pts:9 wds:1 dir: nxt:w0 Magic_skiller
      Exorcismer Techniqueer     [0m     
 [37mPos: 9 pts:8 wds:3 dir: nxt:n0 Magicser
      Deviltryer     [0m     
 [37mPos: 10 pts:7 wds:1 dir: nxt:w0 Moveer
      Driveer     [0m     
-[37mPos: 11 pts:5 wds:1 dir: nxt:n1 Ballistic_defense_skiller
+[37mPos: 11 pts:5 wds:1 dir: nxt:w0 Ballistic_defense_skiller
      Ballisticaler Advocacyer Adeptnesser     [0m     
-[37mPos: 12 pts:2 wds:1 dir: nxt:w2 magic_rangeer
+[37mPos: 12 pts:2 wds:1 dir: nxt:e2 magic_rangeer
      illusionismer training areaer     [0m     
-[37mPos: 13 pts:1 wds:1 dir: nxt:e0 standarder
+[37mPos: 13 pts:1 wds:1 dir: nxt:n0 standarder
      base     [0m     
 [37mPos: 14 pts:1 wds:1 dir: nxt:n0 standarder
      base     [0m     
@@ -65,7 +65,7 @@ Team 2 Points: 70
 Team 1 Points: 73     
 [2HCurrent step: 1     
 Team 2: 
-[37mPos: 1 pts:5 wds:3 dir:s nxt:n0 Ballistic_damageer
+[37mPos: 1 pts:5 wds:3 dir:w nxt:n0 Ballistic_damageer
      Ballisticaler Injureer     [0m     
 [37mPos: 2 pts:6 wds:1 dir:s nxt:n0 Ballistic_defense_skiller
      Frenzieder Protectioner Knowledgeer     [0m     
@@ -79,50 +79,50 @@ Team 2:
      meleeer causeer     [0m     
 [37mPos: 7 pts:2 wds:1 dir:e nxt:n0 armorer
      armor plateer     [0m     
-[37mPos: 8 pts:5 wds:1 dir:s nxt:e0 Ballistic_rangeer
+[37mPos: 8 pts:5 wds:1 dir:e nxt:e0 Ballistic_rangeer
      Frenzieder Roamer     [0m     
 [37mPos: 9 pts:3 wds:1 dir:s nxt:w0 melee_damageer
      meleeer hurter     [0m     
-[37mPos: 10 pts:5 wds:3 dir:s nxt:n0 Woundser
+[37mPos: 10 pts:5 wds:3 dir:e nxt:n0 Woundser
      Crepanceer     [0m     
 [37mPos: 11 pts:3 wds:3 dir:w nxt:n0 woundser
      calker     [0m     
 [37mPos: 12 pts:3 wds:3 dir:s nxt:n0 woundser
      crepanceer     [0m     
-[37mPos: 13 pts:8 wds:1 dir:w nxt:e0 Ballistic_damageer
+[37mPos: 13 pts:8 wds:1 dir:w nxt:w1 Ballistic_damageer
      Ballisticaler Injuryer     [0m     
-[37mPos: 14 pts:3 wds:3 dir:s nxt:n0 ballistic_rangeer
+[37mPos: 14 pts:3 wds:3 dir:w nxt:n0 ballistic_rangeer
      frenzieder rambleer     [0m     
 [37mPos: 15 pts:8 wds:1 dir:s nxt:w2 Armorer
      Plateer     [0m          
 Team 1: 
-[37mPos: 1 pts:9 wds:3 dir:n nxt:w0 Melee_skiller
+[37mPos: 1 pts:9 wds:3 dir:n nxt:e1 Melee_skiller
      Meleeer Adeptnesser     [0m     
-[37mPos: 2 pts:5 wds:1 dir:n nxt:n0 Magicser
+[37mPos: 2 pts:5 wds:1 dir:n nxt:e1 Magicser
      Maleficeer     [0m     
-[37mPos: 3 pts:4 wds:1 dir:n nxt:n0 ballistic_defense_skiller
+[37mPos: 3 pts:4 wds:1 dir:e nxt:w0 ballistic_defense_skiller
      frenzieder protectioner causeer     [0m     
-[37mPos: 4 pts:2 wds:1 dir:n nxt:e0 armorer
+[37mPos: 4 pts:2 wds:1 dir:n nxt:n1 armorer
      panoplyer     [0m     
 [37mPos: 5 pts:2 wds:1 dir:n nxt:w2 melee_skiller
      meleeer judgmenter     [0m     
-[37mPos: 6 pts:7 wds:3 dir:w nxt:n0 Ballistic_skiller
+[37mPos: 6 pts:7 wds:3 dir:w nxt:e1 Ballistic_skiller
      Ballisticaler Handicrafter     [0m     
-[37mPos: 7 pts:10 wds:1 dir:w nxt:n0 Armorer
+[37mPos: 7 pts:10 wds:1 dir:n nxt:n1 Armorer
      Armor Plateer     [0m     
-[37mPos: 8 pts:9 wds:1 dir:e nxt:n0 Magic_skiller
+[37mPos: 8 pts:9 wds:1 dir:w nxt:w2 Magic_skiller
      Exorcismer Techniqueer     [0m     
-[37mPos: 9 pts:8 wds:3 dir:n nxt:n0 Magicser
+[37mPos: 9 pts:8 wds:3 dir:n nxt:n2 Magicser
      Deviltryer     [0m     
 [37mPos: 10 pts:7 wds:1 dir:w nxt:n0 Moveer
      Driveer     [0m     
-[37mPos: 11 pts:5 wds:1 dir:n nxt:n0 Ballistic_defense_skiller
+[37mPos: 11 pts:5 wds:1 dir:w nxt:w1 Ballistic_defense_skiller
      Ballisticaler Advocacyer Adeptnesser     [0m     
-[37mPos: 12 pts:2 wds:1 dir:w nxt:n1 magic_rangeer
+[37mPos: 12 pts:2 wds:1 dir:e nxt:n1 magic_rangeer
      illusionismer training areaer     [0m     
-[37mPos: 13 pts:1 wds:1 dir:e nxt:e1 standarder
+[37mPos: 13 pts:1 wds:1 dir:n nxt:e1 standarder
      base     [0m     
-[37mPos: 14 pts:1 wds:1 dir:n nxt:n0 standarder
+[37mPos: 14 pts:1 wds:1 dir:n nxt:w1 standarder
      base     [0m     
 [37mPos: 15 pts:1 wds:1 dir:n nxt:n0 standarder
      base     [0m          
@@ -136,17 +136,17 @@ Team 2:
      Frenzieder Protectioner Knowledgeer     [0m     
 [37mPos: 3 pts:7 wds:3 dir:s nxt:n0 Ballistic_damageer
      Frenzieder Losser     [0m     
-[37mPos: 4 pts:3 wds:1 dir:s nxt:n0 moveer
+[37mPos: 4 pts:3 wds:1 dir:s nxt:n1 moveer
      flutterer     [0m     
-[37mPos: 5 pts:6 wds:5 dir:s nxt:n0 Woundser
+[37mPos: 5 pts:6 wds:5 dir:s nxt:e1 Woundser
      Slighter     [0m     
 [37mPos: 6 pts:3 wds:1 dir:e nxt:n0 melee_skiller
      meleeer causeer     [0m     
 [37mPos: 7 pts:2 wds:1 dir:s nxt:n0 armorer
      armor plateer     [0m     
-[37mPos: 8 pts:5 wds:1 dir:w nxt:w0 Ballistic_rangeer
+[37mPos: 8 pts:5 wds:1 dir:w nxt:e1 Ballistic_rangeer
      Frenzieder Roamer     [0m     
-[37mPos: 9 pts:3 wds:1 dir:e nxt:e0 melee_damageer
+[37mPos: 9 pts:3 wds:1 dir:e nxt:w0 melee_damageer
      meleeer hurter     [0m     
 [37mPos: 10 pts:5 wds:3 dir:s nxt:n0 Woundser
      Crepanceer     [0m     
@@ -154,40 +154,40 @@ Team 2:
      calker     [0m     
 [37mPos: 12 pts:3 wds:3 dir:s nxt:n0 woundser
      crepanceer     [0m     
-[37mPos: 13 pts:8 wds:1 dir:w nxt:n0 Ballistic_damageer
+[37mPos: 13 pts:8 wds:1 dir:e nxt:n0 Ballistic_damageer
      Ballisticaler Injuryer     [0m     
 [37mPos: 14 pts:3 wds:3 dir:s nxt:n0 ballistic_rangeer
      frenzieder rambleer     [0m     
 [37mPos: 15 pts:8 wds:1 dir:e nxt:n2 Armorer
      Plateer     [0m          
 Team 1: 
-[37mPos: 1 pts:9 wds:3 dir:w nxt:w0 Melee_skiller
+[37mPos: 1 pts:9 wds:3 dir:e nxt:w2 Melee_skiller
      Meleeer Adeptnesser     [0m     
-[37mPos: 2 pts:5 wds:1 dir:n nxt:n0 Magicser
+[37mPos: 2 pts:5 wds:1 dir:e nxt:n0 Magicser
      Maleficeer     [0m     
-[37mPos: 3 pts:4 wds:1 dir:n nxt:w0 ballistic_defense_skiller
+[37mPos: 3 pts:4 wds:1 dir:w nxt:e1 ballistic_defense_skiller
      frenzieder protectioner causeer     [0m     
-[37mPos: 4 pts:2 wds:1 dir:e nxt:e2 armorer
+[37mPos: 4 pts:2 wds:1 dir:n nxt:n1 armorer
      panoplyer     [0m     
-[37mPos: 5 pts:2 wds:1 dir:w nxt:n1 melee_skiller
+[37mPos: 5 pts:2 wds:1 dir:w nxt:e2 melee_skiller
      meleeer judgmenter     [0m     
-[37mPos: 6 pts:7 wds:3 dir:n nxt:n0 Ballistic_skiller
+[37mPos: 6 pts:7 wds:3 dir:e nxt:n0 Ballistic_skiller
      Ballisticaler Handicrafter     [0m     
 [37mPos: 7 pts:10 wds:1 dir:n nxt:n1 Armorer
      Armor Plateer     [0m     
-[37mPos: 8 pts:9 wds:1 dir:n nxt:n0 Magic_skiller
+[37mPos: 8 pts:9 wds:1 dir:w nxt:w1 Magic_skiller
      Exorcismer Techniqueer     [0m     
-[37mPos: 9 pts:8 wds:3 dir:n nxt:n2 Magicser
+[37mPos: 9 pts:8 wds:3 dir:n nxt:w1 Magicser
      Deviltryer     [0m     
 [37mPos: 10 pts:7 wds:1 dir:n nxt:n0 Moveer
      Driveer     [0m     
-[37mPos: 11 pts:5 wds:1 dir:n nxt:e2 Ballistic_defense_skiller
+[37mPos: 11 pts:5 wds:1 dir:w nxt:w1 Ballistic_defense_skiller
      Ballisticaler Advocacyer Adeptnesser     [0m     
-[37mPos: 12 pts:2 wds:1 dir:n nxt:n1 magic_rangeer
+[37mPos: 12 pts:2 wds:1 dir:n nxt:n0 magic_rangeer
      illusionismer training areaer     [0m     
-[37mPos: 13 pts:1 wds:1 dir:e nxt:n0 standarder
+[37mPos: 13 pts:1 wds:1 dir:e nxt:n2 standarder
      base     [0m     
-[37mPos: 14 pts:1 wds:1 dir:n nxt:n0 standarder
+[37mPos: 14 pts:1 wds:1 dir:w nxt:w2 standarder
      base     [0m     
 [37mPos: 15 pts:1 wds:1 dir:n nxt:n0 standarder
      base     [0m          
@@ -195,7 +195,7 @@ Team 2 Points: 70
 Team 1 Points: 73     
 [2HCurrent step: 3     
 Team 2: 
-[37mPos: 1 pts:5 wds:3 dir:s nxt:n0 Ballistic_damageer
+[37mPos: 1 pts:5 wds:3 dir:s nxt:n2 Ballistic_damageer
      Ballisticaler Injureer     [0m     
 [37mPos: 2 pts:6 wds:1 dir:s nxt:n0 Ballistic_defense_skiller
      Frenzieder Protectioner Knowledgeer     [0m     
@@ -203,15 +203,15 @@ Team 2:
      Frenzieder Losser     [0m     
 [37mPos: 4 pts:3 wds:1 dir:s nxt:e1 moveer
      flutterer     [0m     
-[37mPos: 5 pts:6 wds:5 dir:s nxt:n0 Woundser
+[37mPos: 5 pts:6 wds:5 dir:w nxt:n0 Woundser
      Slighter     [0m     
 [37mPos: 6 pts:3 wds:1 dir:s nxt:w1 melee_skiller
      meleeer causeer     [0m     
 [37mPos: 7 pts:2 wds:1 dir:s nxt:e2 armorer
      armor plateer     [0m     
-[37mPos: 8 pts:5 wds:1 dir:e nxt:n0 Ballistic_rangeer
+[37mPos: 8 pts:5 wds:1 dir:w nxt:n0 Ballistic_rangeer
      Frenzieder Roamer     [0m     
-[37mPos: 9 pts:3 wds:1 dir:w nxt:n0 melee_damageer
+[37mPos: 9 pts:3 wds:1 dir:e nxt:n0 melee_damageer
      meleeer hurter     [0m     
 [37mPos: 10 pts:5 wds:3 dir:s nxt:e0 Woundser
      Crepanceer     [0m     
@@ -223,36 +223,36 @@ Team 2:
      Ballisticaler Injuryer     [0m     
 [37mPos: 14 pts:3 wds:3 dir:s nxt:n0 ballistic_rangeer
      frenzieder rambleer     [0m     
-[37mPos: 15 pts:8 wds:1 dir:s nxt:n0 Armorer
+[37mPos: 15 pts:8 wds:1 dir:s nxt:w1 Armorer
      Plateer     [0m          
 Team 1: 
-[37mPos: 1 pts:9 wds:3 dir:w nxt:n0 Melee_skiller
+[37mPos: 1 pts:9 wds:3 dir:w nxt:w0 Melee_skiller
      Meleeer Adeptnesser     [0m     
-[37mPos: 2 pts:5 wds:1 dir:n nxt:n0 Magicser
+[37mPos: 2 pts:5 wds:1 dir:n nxt:w2 Magicser
      Maleficeer     [0m     
-[37mPos: 3 pts:4 wds:1 dir:w nxt:n0 ballistic_defense_skiller
+[37mPos: 3 pts:4 wds:1 dir:e nxt:e0 ballistic_defense_skiller
      frenzieder protectioner causeer     [0m     
-[37mPos: 4 pts:2 wds:1 dir:e nxt:n0 armorer
+[37mPos: 4 pts:2 wds:1 dir:n nxt:n1 armorer
      panoplyer     [0m     
-[37mPos: 5 pts:2 wds:1 dir:n nxt:n0 melee_skiller
+[37mPos: 5 pts:2 wds:1 dir:e nxt:w2 melee_skiller
      meleeer judgmenter     [0m     
-[37mPos: 6 pts:7 wds:3 dir:n nxt:n0 Ballistic_skiller
+[37mPos: 6 pts:7 wds:3 dir:n nxt:e2 Ballistic_skiller
      Ballisticaler Handicrafter     [0m     
 [37mPos: 7 pts:10 wds:1 dir:n nxt:e0 Armorer
      Armor Plateer     [0m     
-[37mPos: 8 pts:9 wds:1 dir:n nxt:e1 Magic_skiller
+[37mPos: 8 pts:9 wds:1 dir:w nxt:e1 Magic_skiller
      Exorcismer Techniqueer     [0m     
-[37mPos: 9 pts:8 wds:3 dir:n nxt:n0 Magicser
+[37mPos: 9 pts:8 wds:3 dir:w nxt:e1 Magicser
      Deviltryer     [0m     
-[37mPos: 10 pts:7 wds:1 dir:n nxt:w0 Moveer
+[37mPos: 10 pts:7 wds:1 dir:n nxt:e2 Moveer
      Driveer     [0m     
-[37mPos: 11 pts:5 wds:1 dir:e nxt:n0 Ballistic_defense_skiller
+[37mPos: 11 pts:5 wds:1 dir:w nxt:e1 Ballistic_defense_skiller
      Ballisticaler Advocacyer Adeptnesser     [0m     
 [37mPos: 12 pts:2 wds:1 dir:n nxt:n0 magic_rangeer
      illusionismer training areaer     [0m     
 [37mPos: 13 pts:1 wds:1 dir:n nxt:n0 standarder
      base     [0m     
-[37mPos: 14 pts:1 wds:1 dir:n nxt:n0 standarder
+[37mPos: 14 pts:1 wds:1 dir:w nxt:n1 standarder
      base     [0m     
 [37mPos: 15 pts:1 wds:1 dir:n nxt:n0 standarder
      base     [0m          
@@ -260,17 +260,17 @@ Team 2 Points: 70
 Team 1 Points: 73     
 [2HCurrent step: 4     
 Team 2: 
-[37mPos: 1 pts:5 wds:3 dir:s nxt:e0 Ballistic_damageer
+[37mPos: 1 pts:5 wds:3 dir:s nxt:e2 Ballistic_damageer
      Ballisticaler Injureer     [0m     
 [37mPos: 2 pts:6 wds:1 dir:s nxt:n0 Ballistic_defense_skiller
      Frenzieder Protectioner Knowledgeer     [0m     
-[37mPos: 3 pts:7 wds:3 dir:e nxt:n0 Ballistic_damageer
+[37mPos: 3 pts:7 wds:3 dir:e nxt:n2 Ballistic_damageer
      Frenzieder Losser     [0m     
 [37mPos: 4 pts:3 wds:1 dir:w nxt:n0 moveer
      flutterer     [0m     
 [37mPos: 5 pts:6 wds:5 dir:s nxt:n0 Woundser
      Slighter     [0m     
-[37mPos: 6 pts:3 wds:1 dir:e nxt:w2 melee_skiller
+[37mPos: 6 pts:3 wds:1 dir:e nxt:w1 melee_skiller
      meleeer causeer     [0m     
 [37mPos: 7 pts:2 wds:1 dir:w nxt:n0 armorer
      armor plateer     [0m     
@@ -284,42 +284,42 @@ Team 2:
      calker     [0m     
 [37mPos: 12 pts:3 wds:3 dir:e nxt:n0 woundser
      crepanceer     [0m     
-[37mPos: 13 pts:8 wds:1 dir:e nxt:n0 Ballistic_damageer
+[37mPos: 13 pts:8 wds:1 dir:e nxt:n1 Ballistic_damageer
      Ballisticaler Injuryer     [0m     
 [37mPos: 14 pts:3 wds:3 dir:s nxt:e1 ballistic_rangeer
      frenzieder rambleer     [0m     
-[37mPos: 15 pts:8 wds:1 dir:s nxt:n0 Armorer
+[37mPos: 15 pts:8 wds:1 dir:e nxt:n0 Armorer
      Plateer     [0m          
 Team 1: 
-[37mPos: 1 pts:9 wds:3 dir:n nxt:n0 Melee_skiller
+[37mPos: 1 pts:9 wds:3 dir:w nxt:n0 Melee_skiller
      Meleeer Adeptnesser     [0m     
-[37mPos: 2 pts:5 wds:1 dir:n nxt:n0 Magicser
+[37mPos: 2 pts:5 wds:1 dir:w nxt:n1 Magicser
      Maleficeer     [0m     
-[37mPos: 3 pts:4 wds:1 dir:n nxt:w2 ballistic_defense_skiller
+[37mPos: 3 pts:4 wds:1 dir:e nxt:w2 ballistic_defense_skiller
      frenzieder protectioner causeer     [0m     
-[37mPos: 4 pts:2 wds:1 dir:n nxt:n0 armorer
+[37mPos: 4 pts:2 wds:1 dir:n nxt:e2 armorer
      panoplyer     [0m     
-[37mPos: 5 pts:2 wds:1 dir:n nxt:n1 melee_skiller
+[37mPos: 5 pts:2 wds:1 dir:w nxt:e2 melee_skiller
      meleeer judgmenter     [0m     
-[37mPos: 6 pts:7 wds:3 dir:n nxt:n0 Ballistic_skiller
+[37mPos: 6 pts:7 wds:3 dir:e nxt:n0 Ballistic_skiller
      Ballisticaler Handicrafter     [0m     
-[37mPos: 7 pts:10 wds:1 dir:e nxt:n2 Armorer
+[37mPos: 7 pts:10 wds:1 dir:e nxt:e2 Armorer
      Armor Plateer     [0m     
 [37mPos: 8 pts:9 wds:1 dir:e nxt:n0 Magic_skiller
      Exorcismer Techniqueer     [0m     
-[37mPos: 9 pts:8 wds:3 dir:n nxt:n0 Magicser
+[37mPos: 9 pts:8 wds:3 dir:e nxt:w2 Magicser
      Deviltryer     [0m     
-[37mPos: 10 pts:7 wds:1 dir:w nxt:n0 Moveer
+[37mPos: 10 pts:7 wds:1 dir:e nxt:w2 Moveer
      Driveer     [0m     
-[37mPos: 11 pts:5 wds:1 dir:n nxt:n0 Ballistic_defense_skiller
+[37mPos: 11 pts:5 wds:1 dir:e nxt:n0 Ballistic_defense_skiller
      Ballisticaler Advocacyer Adeptnesser     [0m     
-[37mPos: 12 pts:2 wds:1 dir:n nxt:e1 magic_rangeer
+[37mPos: 12 pts:2 wds:1 dir:n nxt:n0 magic_rangeer
      illusionismer training areaer     [0m     
 [37mPos: 13 pts:1 wds:1 dir:n nxt:e1 standarder
      base     [0m     
-[37mPos: 14 pts:1 wds:1 dir:n nxt:n0 standarder
+[37mPos: 14 pts:1 wds:1 dir:n nxt:e0 standarder
      base     [0m     
-[37mPos: 15 pts:1 wds:1 dir:n nxt:n0 standarder
+[37mPos: 15 pts:1 wds:1 dir:n nxt:e0 standarder
      base     [0m          
 Team 2 Points: 70     
 Team 1 Points: 73     
@@ -327,7 +327,7 @@ Team 1 Points: 73
 Team 2: 
 [37mPos: 1 pts:5 wds:3 dir:w nxt:n0 Ballistic_damageer
      Ballisticaler Injureer     [0m     
-[37mPos: 2 pts:6 wds:1 dir:s nxt:w0 Ballistic_defense_skiller
+[37mPos: 2 pts:6 wds:1 dir:s nxt:e0 Ballistic_defense_skiller
      Frenzieder Protectioner Knowledgeer     [0m     
 [37mPos: 3 pts:7 wds:3 dir:s nxt:n0 Ballistic_damageer
      Frenzieder Losser     [0m     
@@ -339,15 +339,15 @@ Team 2:
      meleeer causeer     [0m     
 [37mPos: 7 pts:2 wds:1 dir:s nxt:n0 armorer
      armor plateer     [0m     
-[37mPos: 8 pts:5 wds:1 dir:e nxt:n0 Ballistic_rangeer
+[37mPos: 8 pts:5 wds:1 dir:e nxt:w0 Ballistic_rangeer
      Frenzieder Roamer     [0m     
-[37mPos: 9 pts:3 wds:1 dir:s nxt:e1 melee_damageer
+[37mPos: 9 pts:3 wds:1 dir:s nxt:w1 melee_damageer
      meleeer hurter     [0m     
 [37mPos: 10 pts:5 wds:3 dir:s nxt:w1 Woundser
      Crepanceer     [0m     
 [37mPos: 11 pts:3 wds:3 dir:s nxt:n0 woundser
      calker     [0m     
-[37mPos: 12 pts:3 wds:3 dir:s nxt:n0 woundser
+[37mPos: 12 pts:3 wds:3 dir:s nxt:e0 woundser
      crepanceer     [0m     
 [37mPos: 13 pts:8 wds:1 dir:s nxt:n0 Ballistic_damageer
      Ballisticaler Injuryer     [0m     
@@ -360,31 +360,31 @@ Team 1:
      Meleeer Adeptnesser     [0m     
 [37mPos: 2 pts:5 wds:1 dir:n nxt:w2 Magicser
      Maleficeer     [0m     
-[37mPos: 3 pts:4 wds:1 dir:w nxt:n0 ballistic_defense_skiller
+[37mPos: 3 pts:4 wds:1 dir:w nxt:w0 ballistic_defense_skiller
      frenzieder protectioner causeer     [0m     
-[37mPos: 4 pts:2 wds:1 dir:n nxt:n0 armorer
+[37mPos: 4 pts:2 wds:1 dir:e nxt:n0 armorer
      panoplyer     [0m     
-[37mPos: 5 pts:2 wds:1 dir:n nxt:n0 melee_skiller
+[37mPos: 5 pts:2 wds:1 dir:e nxt:n2 melee_skiller
      meleeer judgmenter     [0m     
-[37mPos: 6 pts:7 wds:3 dir:n nxt:n0 Ballistic_skiller
+[37mPos: 6 pts:7 wds:3 dir:n nxt:e1 Ballistic_skiller
      Ballisticaler Handicrafter     [0m     
-[37mPos: 7 pts:10 wds:1 dir:n nxt:e1 Armorer
+[37mPos: 7 pts:10 wds:1 dir:e nxt:e1 Armorer
      Armor Plateer     [0m     
-[37mPos: 8 pts:9 wds:1 dir:n nxt:w1 Magic_skiller
+[37mPos: 8 pts:9 wds:1 dir:n nxt:w0 Magic_skiller
      Exorcismer Techniqueer     [0m     
-[37mPos: 9 pts:8 wds:3 dir:n nxt:e2 Magicser
+[37mPos: 9 pts:8 wds:3 dir:w nxt:e2 Magicser
      Deviltryer     [0m     
-[37mPos: 10 pts:7 wds:1 dir:n nxt:n0 Moveer
+[37mPos: 10 pts:7 wds:1 dir:w nxt:n0 Moveer
      Driveer     [0m     
-[37mPos: 11 pts:5 wds:1 dir:n nxt:n0 Ballistic_defense_skiller
+[37mPos: 11 pts:5 wds:1 dir:n nxt:e0 Ballistic_defense_skiller
      Ballisticaler Advocacyer Adeptnesser     [0m     
-[37mPos: 12 pts:2 wds:1 dir:e nxt:n0 magic_rangeer
+[37mPos: 12 pts:2 wds:1 dir:n nxt:n0 magic_rangeer
      illusionismer training areaer     [0m     
 [37mPos: 13 pts:1 wds:1 dir:e nxt:n0 standarder
      base     [0m     
-[37mPos: 14 pts:1 wds:1 dir:n nxt:w0 standarder
+[37mPos: 14 pts:1 wds:1 dir:e nxt:w2 standarder
      base     [0m     
-[37mPos: 15 pts:1 wds:1 dir:n nxt:n0 standarder
+[37mPos: 15 pts:1 wds:1 dir:e nxt:e2 standarder
      base     [0m          
 Team 2 Points: 70     
 Team 1 Points: 73     
@@ -392,7 +392,7 @@ Team 1 Points: 73
 Team 2: 
 [37mPos: 1 pts:5 wds:3 dir:s nxt:n0 Ballistic_damageer
      Ballisticaler Injureer     [0m     
-[37mPos: 2 pts:6 wds:1 dir:e nxt:e1 Ballistic_defense_skiller
+[37mPos: 2 pts:6 wds:1 dir:w nxt:n1 Ballistic_defense_skiller
      Frenzieder Protectioner Knowledgeer     [0m     
 [37mPos: 3 pts:7 wds:3 dir:s nxt:n0 Ballistic_damageer
      Frenzieder Losser     [0m     
@@ -400,19 +400,19 @@ Team 2:
      flutterer     [0m     
 [37mPos: 5 pts:6 wds:5 dir:w nxt:n0 Woundser
      Slighter     [0m     
-[37mPos: 6 pts:3 wds:1 dir:s nxt:n0 melee_skiller
+[37mPos: 6 pts:3 wds:1 dir:s nxt:w2 melee_skiller
      meleeer causeer     [0m     
-[37mPos: 7 pts:2 wds:1 dir:s nxt:w2 armorer
+[37mPos: 7 pts:2 wds:1 dir:s nxt:e2 armorer
      armor plateer     [0m     
-[37mPos: 8 pts:5 wds:1 dir:s nxt:w1 Ballistic_rangeer
+[37mPos: 8 pts:5 wds:1 dir:e nxt:w1 Ballistic_rangeer
      Frenzieder Roamer     [0m     
-[37mPos: 9 pts:3 wds:1 dir:w nxt:n1 melee_damageer
+[37mPos: 9 pts:3 wds:1 dir:e nxt:n1 melee_damageer
      meleeer hurter     [0m     
-[37mPos: 10 pts:5 wds:3 dir:e nxt:n0 Woundser
+[37mPos: 10 pts:5 wds:3 dir:e nxt:w0 Woundser
      Crepanceer     [0m     
-[37mPos: 11 pts:3 wds:3 dir:s nxt:e2 woundser
+[37mPos: 11 pts:3 wds:3 dir:s nxt:n1 woundser
      calker     [0m     
-[37mPos: 12 pts:3 wds:3 dir:s nxt:n0 woundser
+[37mPos: 12 pts:3 wds:3 dir:w nxt:n0 woundser
      crepanceer     [0m     
 [37mPos: 13 pts:8 wds:1 dir:s nxt:n0 Ballistic_damageer
      Ballisticaler Injuryer     [0m     
@@ -421,43 +421,43 @@ Team 2:
 [37mPos: 15 pts:8 wds:1 dir:s nxt:n0 Armorer
      Plateer     [0m          
 Team 1: 
-[37mPos: 1 pts:9 wds:3 dir:n nxt:w2 Melee_skiller
+[37mPos: 1 pts:9 wds:3 dir:n nxt:n1 Melee_skiller
      Meleeer Adeptnesser     [0m     
-[37mPos: 2 pts:5 wds:1 dir:w nxt:e0 Magicser
+[37mPos: 2 pts:5 wds:1 dir:w nxt:n1 Magicser
      Maleficeer     [0m     
-[37mPos: 3 pts:4 wds:1 dir:n nxt:n2 ballistic_defense_skiller
+[37mPos: 3 pts:4 wds:1 dir:w nxt:n2 ballistic_defense_skiller
      frenzieder protectioner causeer     [0m     
 [37mPos: 4 pts:2 wds:1 dir:n nxt:n0 armorer
      panoplyer     [0m     
 [37mPos: 5 pts:2 wds:1 dir:n nxt:n0 melee_skiller
      meleeer judgmenter     [0m     
-[37mPos: 6 pts:7 wds:3 dir:n nxt:w1 Ballistic_skiller
+[37mPos: 6 pts:7 wds:3 dir:e nxt:e2 Ballistic_skiller
      Ballisticaler Handicrafter     [0m     
-[37mPos: 7 pts:10 wds:1 dir:e nxt:n0 Armorer
+[37mPos: 7 pts:10 wds:1 dir:e nxt:w2 Armorer
      Armor Plateer     [0m     
-[37mPos: 8 pts:9 wds:1 dir:w nxt:w2 Magic_skiller
+[37mPos: 8 pts:9 wds:1 dir:w nxt:w0 Magic_skiller
      Exorcismer Techniqueer     [0m     
-[37mPos: 9 pts:8 wds:3 dir:e nxt:n0 Magicser
+[37mPos: 9 pts:8 wds:3 dir:e nxt:w1 Magicser
      Deviltryer     [0m     
-[37mPos: 10 pts:7 wds:1 dir:n nxt:n0 Moveer
+[37mPos: 10 pts:7 wds:1 dir:n nxt:e1 Moveer
      Driveer     [0m     
-[37mPos: 11 pts:5 wds:1 dir:n nxt:n0 Ballistic_defense_skiller
+[37mPos: 11 pts:5 wds:1 dir:e nxt:e2 Ballistic_defense_skiller
      Ballisticaler Advocacyer Adeptnesser     [0m     
 [37mPos: 12 pts:2 wds:1 dir:n nxt:n2 magic_rangeer
      illusionismer training areaer     [0m     
-[37mPos: 13 pts:1 wds:1 dir:n nxt:n0 standarder
+[37mPos: 13 pts:1 wds:1 dir:n nxt:n1 standarder
      base     [0m     
-[37mPos: 14 pts:1 wds:1 dir:w nxt:n0 standarder
+[37mPos: 14 pts:1 wds:1 dir:w nxt:w2 standarder
      base     [0m     
-[37mPos: 15 pts:1 wds:1 dir:n nxt:w0 standarder
+[37mPos: 15 pts:1 wds:1 dir:e nxt:e1 standarder
      base     [0m          
 Team 2 Points: 70     
 Team 1 Points: 73     
 [2HCurrent step: 7     
 Team 2: 
-[37mPos: 1 pts:5 wds:3 dir:s nxt:n2 Ballistic_damageer
+[37mPos: 1 pts:5 wds:3 dir:s nxt:e2 Ballistic_damageer
      Ballisticaler Injureer     [0m     
-[37mPos: 2 pts:6 wds:1 dir:w nxt:n0 Ballistic_defense_skiller
+[37mPos: 2 pts:6 wds:1 dir:s nxt:n0 Ballistic_defense_skiller
      Frenzieder Protectioner Knowledgeer     [0m     
 [37mPos: 3 pts:7 wds:3 dir:s nxt:e1 Ballistic_damageer
      Frenzieder Losser     [0m     
@@ -465,82 +465,82 @@ Team 2:
      flutterer     [0m     
 [37mPos: 5 pts:6 wds:5 dir:s nxt:n0 Woundser
      Slighter     [0m     
-[37mPos: 6 pts:3 wds:1 dir:s nxt:n0 melee_skiller
+[37mPos: 6 pts:3 wds:1 dir:e nxt:n0 melee_skiller
      meleeer causeer     [0m     
-[37mPos: 7 pts:2 wds:1 dir:e nxt:n0 armorer
+[37mPos: 7 pts:2 wds:1 dir:w nxt:n0 armorer
      armor plateer     [0m     
 [37mPos: 8 pts:5 wds:1 dir:e nxt:w0 Ballistic_rangeer
      Frenzieder Roamer     [0m     
-[37mPos: 9 pts:3 wds:1 dir:s nxt:n0 melee_damageer
+[37mPos: 9 pts:3 wds:1 dir:s nxt:n1 melee_damageer
      meleeer hurter     [0m     
-[37mPos: 10 pts:5 wds:3 dir:s nxt:n0 Woundser
+[37mPos: 10 pts:5 wds:3 dir:e nxt:n0 Woundser
      Crepanceer     [0m     
-[37mPos: 11 pts:3 wds:3 dir:w nxt:w2 woundser
+[37mPos: 11 pts:3 wds:3 dir:s nxt:w2 woundser
      calker     [0m     
 [37mPos: 12 pts:3 wds:3 dir:s nxt:n1 woundser
      crepanceer     [0m     
-[37mPos: 13 pts:8 wds:1 dir:s nxt:n0 Ballistic_damageer
+[37mPos: 13 pts:8 wds:1 dir:s nxt:n1 Ballistic_damageer
      Ballisticaler Injuryer     [0m     
 [37mPos: 14 pts:3 wds:3 dir:e nxt:n0 ballistic_rangeer
      frenzieder rambleer     [0m     
 [37mPos: 15 pts:8 wds:1 dir:s nxt:n0 Armorer
      Plateer     [0m          
 Team 1: 
-[37mPos: 1 pts:9 wds:3 dir:w nxt:n0 Melee_skiller
+[37mPos: 1 pts:9 wds:3 dir:n nxt:n0 Melee_skiller
      Meleeer Adeptnesser     [0m     
-[37mPos: 2 pts:5 wds:1 dir:e nxt:e2 Magicser
+[37mPos: 2 pts:5 wds:1 dir:n nxt:e0 Magicser
      Maleficeer     [0m     
 [37mPos: 3 pts:4 wds:1 dir:n nxt:e2 ballistic_defense_skiller
      frenzieder protectioner causeer     [0m     
-[37mPos: 4 pts:2 wds:1 dir:n nxt:e0 armorer
+[37mPos: 4 pts:2 wds:1 dir:n nxt:n2 armorer
      panoplyer     [0m     
-[37mPos: 5 pts:2 wds:1 dir:n nxt:n2 melee_skiller
+[37mPos: 5 pts:2 wds:1 dir:n nxt:w2 melee_skiller
      meleeer judgmenter     [0m     
-[37mPos: 6 pts:7 wds:3 dir:w nxt:n0 Ballistic_skiller
+[37mPos: 6 pts:7 wds:3 dir:e nxt:n0 Ballistic_skiller
      Ballisticaler Handicrafter     [0m     
-[37mPos: 7 pts:10 wds:1 dir:n nxt:n0 Armorer
+[37mPos: 7 pts:10 wds:1 dir:w nxt:w1 Armorer
      Armor Plateer     [0m     
 [37mPos: 8 pts:9 wds:1 dir:w nxt:w2 Magic_skiller
      Exorcismer Techniqueer     [0m     
-[37mPos: 9 pts:8 wds:3 dir:n nxt:e0 Magicser
+[37mPos: 9 pts:8 wds:3 dir:w nxt:e0 Magicser
      Deviltryer     [0m     
-[37mPos: 10 pts:7 wds:1 dir:n nxt:n0 Moveer
+[37mPos: 10 pts:7 wds:1 dir:e nxt:e1 Moveer
      Driveer     [0m     
-[37mPos: 11 pts:5 wds:1 dir:n nxt:w1 Ballistic_defense_skiller
+[37mPos: 11 pts:5 wds:1 dir:e nxt:w2 Ballistic_defense_skiller
      Ballisticaler Advocacyer Adeptnesser     [0m     
-[37mPos: 12 pts:2 wds:1 dir:n nxt:n1 magic_rangeer
+[37mPos: 12 pts:2 wds:1 dir:n nxt:n0 magic_rangeer
      illusionismer training areaer     [0m     
-[37mPos: 13 pts:1 wds:1 dir:n nxt:e0 standarder
+[37mPos: 13 pts:1 wds:1 dir:n nxt:w2 standarder
      base     [0m     
-[37mPos: 14 pts:1 wds:1 dir:n nxt:n0 standarder
+[37mPos: 14 pts:1 wds:1 dir:w nxt:w1 standarder
      base     [0m     
-[37mPos: 15 pts:1 wds:1 dir:w nxt:w0 standarder
+[37mPos: 15 pts:1 wds:1 dir:e nxt:w2 standarder
      base     [0m          
 Team 2 Points: 70     
 Team 1 Points: 73     
 [2HCurrent step: 8     
 Team 2: 
-[37mPos: 1 pts:5 wds:3 dir:s nxt:n0 Ballistic_damageer
+[37mPos: 1 pts:5 wds:3 dir:w nxt:n0 Ballistic_damageer
      Ballisticaler Injureer     [0m     
 [37mPos: 2 pts:6 wds:1 dir:s nxt:w1 Ballistic_defense_skiller
      Frenzieder Protectioner Knowledgeer     [0m     
-[37mPos: 3 pts:7 wds:3 dir:w nxt:w2 Ballistic_damageer
+[37mPos: 3 pts:7 wds:3 dir:w nxt:w0 Ballistic_damageer
      Frenzieder Losser     [0m     
 [37mPos: 4 pts:3 wds:1 dir:s nxt:n0 moveer
      flutterer     [0m     
-[37mPos: 5 pts:6 wds:5 dir:s nxt:n0 Woundser
+[37mPos: 5 pts:6 wds:5 dir:s nxt:n2 Woundser
      Slighter     [0m     
-[37mPos: 6 pts:3 wds:1 dir:s nxt:n0 melee_skiller
+[37mPos: 6 pts:3 wds:1 dir:s nxt:w0 melee_skiller
      meleeer causeer     [0m     
 [37mPos: 7 pts:2 wds:1 dir:s nxt:n0 armorer
      armor plateer     [0m     
 [37mPos: 8 pts:5 wds:1 dir:e nxt:n2 Ballistic_rangeer
      Frenzieder Roamer     [0m     
-[37mPos: 9 pts:3 wds:1 dir:s nxt:e2 melee_damageer
+[37mPos: 9 pts:3 wds:1 dir:s nxt:w2 melee_damageer
      meleeer hurter     [0m     
-[37mPos: 10 pts:5 wds:3 dir:s nxt:n0 Woundser
+[37mPos: 10 pts:5 wds:3 dir:s nxt:w2 Woundser
      Crepanceer     [0m     
-[37mPos: 11 pts:3 wds:3 dir:e nxt:n0 woundser
+[37mPos: 11 pts:3 wds:3 dir:e nxt:e0 woundser
      calker     [0m     
 [37mPos: 12 pts:3 wds:3 dir:s nxt:n0 woundser
      crepanceer     [0m     
@@ -553,63 +553,63 @@ Team 2:
 Team 1: 
 [37mPos: 1 pts:9 wds:3 dir:n nxt:n0 Melee_skiller
      Meleeer Adeptnesser     [0m     
-[37mPos: 2 pts:5 wds:1 dir:e nxt:n0 Magicser
+[37mPos: 2 pts:5 wds:1 dir:e nxt:w1 Magicser
      Maleficeer     [0m     
-[37mPos: 3 pts:4 wds:1 dir:e nxt:e1 ballistic_defense_skiller
+[37mPos: 3 pts:4 wds:1 dir:e nxt:e0 ballistic_defense_skiller
      frenzieder protectioner causeer     [0m     
-[37mPos: 4 pts:2 wds:1 dir:e nxt:e0 armorer
+[37mPos: 4 pts:2 wds:1 dir:n nxt:e0 armorer
      panoplyer     [0m     
-[37mPos: 5 pts:2 wds:1 dir:n nxt:w0 melee_skiller
+[37mPos: 5 pts:2 wds:1 dir:w nxt:n2 melee_skiller
      meleeer judgmenter     [0m     
-[37mPos: 6 pts:7 wds:3 dir:n nxt:w1 Ballistic_skiller
+[37mPos: 6 pts:7 wds:3 dir:n nxt:e0 Ballistic_skiller
      Ballisticaler Handicrafter     [0m     
-[37mPos: 7 pts:10 wds:1 dir:n nxt:w2 Armorer
+[37mPos: 7 pts:10 wds:1 dir:w nxt:w2 Armorer
      Armor Plateer     [0m     
-[37mPos: 8 pts:9 wds:1 dir:w nxt:e0 Magic_skiller
+[37mPos: 8 pts:9 wds:1 dir:w nxt:w2 Magic_skiller
      Exorcismer Techniqueer     [0m     
-[37mPos: 9 pts:8 wds:3 dir:e nxt:n2 Magicser
+[37mPos: 9 pts:8 wds:3 dir:e nxt:e2 Magicser
      Deviltryer     [0m     
-[37mPos: 10 pts:7 wds:1 dir:n nxt:w2 Moveer
+[37mPos: 10 pts:7 wds:1 dir:e nxt:e1 Moveer
      Driveer     [0m     
-[37mPos: 11 pts:5 wds:1 dir:w nxt:n0 Ballistic_defense_skiller
+[37mPos: 11 pts:5 wds:1 dir:w nxt:e2 Ballistic_defense_skiller
      Ballisticaler Advocacyer Adeptnesser     [0m     
 [37mPos: 12 pts:2 wds:1 dir:n nxt:n0 magic_rangeer
      illusionismer training areaer     [0m     
-[37mPos: 13 pts:1 wds:1 dir:e nxt:n0 standarder
+[37mPos: 13 pts:1 wds:1 dir:w nxt:w1 standarder
      base     [0m     
-[37mPos: 14 pts:1 wds:1 dir:n nxt:n0 standarder
+[37mPos: 14 pts:1 wds:1 dir:w nxt:e0 standarder
      base     [0m     
-[37mPos: 15 pts:1 wds:1 dir:w nxt:n0 standarder
+[37mPos: 15 pts:1 wds:1 dir:w nxt:e2 standarder
      base     [0m          
 Team 2 Points: 70     
 Team 1 Points: 73     
 [2HCurrent step: 9     
 Team 2: 
-[37mPos: 1 pts:5 wds:3 dir:s nxt:n0 Ballistic_damageer
+[37mPos: 1 pts:5 wds:3 dir:s nxt:e0 Ballistic_damageer
      Ballisticaler Injureer     [0m     
 [37mPos: 2 pts:6 wds:1 dir:e nxt:n0 Ballistic_defense_skiller
      Frenzieder Protectioner Knowledgeer     [0m     
 [37mPos: 3 pts:7 wds:3 dir:e nxt:n2 Ballistic_damageer
      Frenzieder Losser     [0m     
-[37mPos: 4 pts:3 wds:1 dir:s nxt:n0 moveer
+[37mPos: 4 pts:3 wds:1 dir:s nxt:n1 moveer
      flutterer     [0m     
 [37mPos: 5 pts:6 wds:5 dir:s nxt:n0 Woundser
      Slighter     [0m     
-[37mPos: 6 pts:3 wds:1 dir:s nxt:n0 melee_skiller
+[37mPos: 6 pts:3 wds:1 dir:e nxt:n0 melee_skiller
      meleeer causeer     [0m     
 [37mPos: 7 pts:2 wds:1 dir:s nxt:n0 armorer
      armor plateer     [0m     
 [37mPos: 8 pts:5 wds:1 dir:s nxt:n0 Ballistic_rangeer
      Frenzieder Roamer     [0m     
-[37mPos: 9 pts:3 wds:1 dir:w nxt:e2 melee_damageer
+[37mPos: 9 pts:3 wds:1 dir:e nxt:e2 melee_damageer
      meleeer hurter     [0m     
-[37mPos: 10 pts:5 wds:3 dir:s nxt:n0 Woundser
+[37mPos: 10 pts:5 wds:3 dir:e nxt:n0 Woundser
      Crepanceer     [0m     
-[37mPos: 11 pts:3 wds:3 dir:s nxt:e0 woundser
+[37mPos: 11 pts:3 wds:3 dir:w nxt:n2 woundser
      calker     [0m     
 [37mPos: 12 pts:3 wds:3 dir:s nxt:e2 woundser
      crepanceer     [0m     
-[37mPos: 13 pts:8 wds:1 dir:w nxt:e0 Ballistic_damageer
+[37mPos: 13 pts:8 wds:1 dir:w nxt:n0 Ballistic_damageer
      Ballisticaler Injuryer     [0m     
 [37mPos: 14 pts:3 wds:3 dir:s nxt:n0 ballistic_rangeer
      frenzieder rambleer     [0m     
@@ -618,1463 +618,33 @@ Team 2:
 Team 1: 
 [37mPos: 1 pts:9 wds:3 dir:n nxt:n2 Melee_skiller
      Meleeer Adeptnesser     [0m     
-[37mPos: 2 pts:5 wds:1 dir:n nxt:e1 Magicser
+[37mPos: 2 pts:5 wds:1 dir:w nxt:e0 Magicser
      Maleficeer     [0m     
-[37mPos: 3 pts:4 wds:1 dir:e nxt:n0 ballistic_defense_skiller
+[37mPos: 3 pts:4 wds:1 dir:e nxt:e0 ballistic_defense_skiller
      frenzieder protectioner causeer     [0m     
-[37mPos: 4 pts:2 wds:1 dir:e nxt:w1 armorer
+[37mPos: 4 pts:2 wds:1 dir:e nxt:e0 armorer
      panoplyer     [0m     
-[37mPos: 5 pts:2 wds:1 dir:w nxt:e0 melee_skiller
-     meleeer judgmenter     [0m     
-[37mPos: 6 pts:7 wds:3 dir:w nxt:w0 Ballistic_skiller
-     Ballisticaler Handicrafter     [0m     
-[37mPos: 7 pts:10 wds:1 dir:w nxt:n0 Armorer
-     Armor Plateer     [0m     
-[37mPos: 8 pts:9 wds:1 dir:e nxt:n0 Magic_skiller
-     Exorcismer Techniqueer     [0m     
-[37mPos: 9 pts:8 wds:3 dir:n nxt:w0 Magicser
-     Deviltryer     [0m     
-[37mPos: 10 pts:7 wds:1 dir:w nxt:n0 Moveer
-     Driveer     [0m     
-[37mPos: 11 pts:5 wds:1 dir:n nxt:n0 Ballistic_defense_skiller
-     Ballisticaler Advocacyer Adeptnesser     [0m     
-[37mPos: 12 pts:2 wds:1 dir:n nxt:n1 magic_rangeer
-     illusionismer training areaer     [0m     
-[37mPos: 13 pts:1 wds:1 dir:n nxt:w2 standarder
-     base     [0m     
-[37mPos: 14 pts:1 wds:1 dir:n nxt:n1 standarder
-     base     [0m     
-[37mPos: 15 pts:1 wds:1 dir:n nxt:e2 standarder
-     base     [0m          
-Team 2 Points: 70     
-Team 1 Points: 73     
-[2HCurrent step: 10     
-Team 2: 
-[37mPos: 1 pts:5 wds:3 dir:s nxt:n0 Ballistic_damageer
-     Ballisticaler Injureer     [0m     
-[37mPos: 2 pts:6 wds:1 dir:s nxt:n0 Ballistic_defense_skiller
-     Frenzieder Protectioner Knowledgeer     [0m     
-[37mPos: 3 pts:7 wds:3 dir:s nxt:e2 Ballistic_damageer
-     Frenzieder Losser     [0m     
-[37mPos: 4 pts:3 wds:1 dir:s nxt:w0 moveer
-     flutterer     [0m     
-[37mPos: 5 pts:6 wds:5 dir:s nxt:w2 Woundser
-     Slighter     [0m     
-[37mPos: 6 pts:3 wds:1 dir:s nxt:e2 melee_skiller
-     meleeer causeer     [0m     
-[37mPos: 7 pts:2 wds:1 dir:s nxt:n0 armorer
-     armor plateer     [0m     
-[37mPos: 8 pts:5 wds:1 dir:s nxt:n2 Ballistic_rangeer
-     Frenzieder Roamer     [0m     
-[37mPos: 9 pts:3 wds:1 dir:w nxt:n0 melee_damageer
-     meleeer hurter     [0m     
-[37mPos: 10 pts:5 wds:3 dir:s nxt:n0 Woundser
-     Crepanceer     [0m     
-[37mPos: 11 pts:3 wds:3 dir:w nxt:n0 woundser
-     calker     [0m     
-[37mPos: 12 pts:3 wds:3 dir:w nxt:e1 woundser
-     crepanceer     [0m     
-[37mPos: 13 pts:8 wds:1 dir:w nxt:e1 Ballistic_damageer
-     Ballisticaler Injuryer     [0m     
-[37mPos: 14 pts:3 wds:3 dir:s nxt:n0 ballistic_rangeer
-     frenzieder rambleer     [0m     
-[37mPos: 15 pts:8 wds:1 dir:s nxt:w2 Armorer
-     Plateer     [0m          
-Team 1: 
-[37mPos: 1 pts:9 wds:3 dir:n nxt:n0 Melee_skiller
-     Meleeer Adeptnesser     [0m     
-[37mPos: 2 pts:5 wds:1 dir:e nxt:n0 Magicser
-     Maleficeer     [0m     
-[37mPos: 3 pts:4 wds:1 dir:n nxt:e0 ballistic_defense_skiller
-     frenzieder protectioner causeer     [0m     
-[37mPos: 4 pts:2 wds:1 dir:w nxt:n0 armorer
-     panoplyer     [0m     
-[37mPos: 5 pts:2 wds:1 dir:e nxt:n0 melee_skiller
-     meleeer judgmenter     [0m     
-[37mPos: 6 pts:7 wds:3 dir:w nxt:n0 Ballistic_skiller
-     Ballisticaler Handicrafter     [0m     
-[37mPos: 7 pts:10 wds:1 dir:n nxt:n0 Armorer
-     Armor Plateer     [0m     
-[37mPos: 8 pts:9 wds:1 dir:n nxt:e1 Magic_skiller
-     Exorcismer Techniqueer     [0m     
-[37mPos: 9 pts:8 wds:3 dir:w nxt:n1 Magicser
-     Deviltryer     [0m     
-[37mPos: 10 pts:7 wds:1 dir:n nxt:n1 Moveer
-     Driveer     [0m     
-[37mPos: 11 pts:5 wds:1 dir:n nxt:e0 Ballistic_defense_skiller
-     Ballisticaler Advocacyer Adeptnesser     [0m     
-[37mPos: 12 pts:2 wds:1 dir:n nxt:n0 magic_rangeer
-     illusionismer training areaer     [0m     
-[37mPos: 13 pts:1 wds:1 dir:w nxt:n0 standarder
-     base     [0m     
-[37mPos: 14 pts:1 wds:1 dir:n nxt:n1 standarder
-     base     [0m     
-[37mPos: 15 pts:1 wds:1 dir:e nxt:w0 standarder
-     base     [0m          
-Team 2 Points: 70     
-Team 1 Points: 73     
-[2HCurrent step: 11     
-Team 2: 
-[37mPos: 1 pts:5 wds:3 dir:s nxt:n0 Ballistic_damageer
-     Ballisticaler Injureer     [0m     
-[37mPos: 2 pts:6 wds:1 dir:s nxt:e0 Ballistic_defense_skiller
-     Frenzieder Protectioner Knowledgeer     [0m     
-[37mPos: 3 pts:7 wds:3 dir:w nxt:n0 Ballistic_damageer
-     Frenzieder Losser     [0m     
-[37mPos: 4 pts:3 wds:1 dir:e nxt:e0 moveer
-     flutterer     [0m     
-[37mPos: 5 pts:6 wds:5 dir:e nxt:n0 Woundser
-     Slighter     [0m     
-[37mPos: 6 pts:3 wds:1 dir:w nxt:n0 melee_skiller
-     meleeer causeer     [0m     
-[37mPos: 7 pts:2 wds:1 dir:s nxt:e2 armorer
-     armor plateer     [0m     
-[37mPos: 8 pts:5 wds:1 dir:s nxt:n0 Ballistic_rangeer
-     Frenzieder Roamer     [0m     
-[37mPos: 9 pts:3 wds:1 dir:s nxt:n0 melee_damageer
-     meleeer hurter     [0m     
-[37mPos: 10 pts:5 wds:3 dir:s nxt:e0 Woundser
-     Crepanceer     [0m     
-[37mPos: 11 pts:3 wds:3 dir:s nxt:n0 woundser
-     calker     [0m     
-[37mPos: 12 pts:3 wds:3 dir:w nxt:n0 woundser
-     crepanceer     [0m     
-[37mPos: 13 pts:8 wds:1 dir:w nxt:n0 Ballistic_damageer
-     Ballisticaler Injuryer     [0m     
-[37mPos: 14 pts:3 wds:3 dir:s nxt:n0 ballistic_rangeer
-     frenzieder rambleer     [0m     
-[37mPos: 15 pts:8 wds:1 dir:e nxt:n2 Armorer
-     Plateer     [0m          
-Team 1: 
-[37mPos: 1 pts:9 wds:3 dir:n nxt:n0 Melee_skiller
-     Meleeer Adeptnesser     [0m     
-[37mPos: 2 pts:5 wds:1 dir:n nxt:n0 Magicser
-     Maleficeer     [0m     
-[37mPos: 3 pts:4 wds:1 dir:e nxt:n0 ballistic_defense_skiller
-     frenzieder protectioner causeer     [0m     
-[37mPos: 4 pts:2 wds:1 dir:n nxt:n0 armorer
-     panoplyer     [0m     
-[37mPos: 5 pts:2 wds:1 dir:n nxt:n0 melee_skiller
-     meleeer judgmenter     [0m     
-[37mPos: 6 pts:7 wds:3 dir:n nxt:n0 Ballistic_skiller
-     Ballisticaler Handicrafter     [0m     
-[37mPos: 7 pts:10 wds:1 dir:n nxt:n0 Armorer
-     Armor Plateer     [0m     
-[37mPos: 8 pts:9 wds:1 dir:e nxt:n0 Magic_skiller
-     Exorcismer Techniqueer     [0m     
-[37mPos: 9 pts:8 wds:3 dir:n nxt:n2 Magicser
-     Deviltryer     [0m     
-[37mPos: 10 pts:7 wds:1 dir:n nxt:n0 Moveer
-     Driveer     [0m     
-[37mPos: 11 pts:5 wds:1 dir:e nxt:n0 Ballistic_defense_skiller
-     Ballisticaler Advocacyer Adeptnesser     [0m     
-[37mPos: 12 pts:2 wds:1 dir:n nxt:n0 magic_rangeer
-     illusionismer training areaer     [0m     
-[37mPos: 13 pts:1 wds:1 dir:n nxt:n0 standarder
-     base     [0m     
-[37mPos: 14 pts:1 wds:1 dir:n nxt:w2 standarder
-     base     [0m     
-[37mPos: 15 pts:1 wds:1 dir:w nxt:w0 standarder
-     base     [0m          
-Team 2 Points: 70     
-Team 1 Points: 73     
-[2HCurrent step: 12     
-Team 2: 
-[37mPos: 1 pts:5 wds:3 dir:s nxt:n0 Ballistic_damageer
-     Ballisticaler Injureer     [0m     
-[37mPos: 2 pts:6 wds:1 dir:w nxt:n0 Ballistic_defense_skiller
-     Frenzieder Protectioner Knowledgeer     [0m     
-[37mPos: 3 pts:7 wds:3 dir:s nxt:e0 Ballistic_damageer
-     Frenzieder Losser     [0m     
-[37mPos: 4 pts:3 wds:1 dir:w nxt:n0 moveer
-     flutterer     [0m     
-[37mPos: 5 pts:6 wds:5 dir:s nxt:w2 Woundser
-     Slighter     [0m     
-[37mPos: 6 pts:3 wds:1 dir:s nxt:e0 melee_skiller
-     meleeer causeer     [0m     
-[37mPos: 7 pts:2 wds:1 dir:w nxt:w0 armorer
-     armor plateer     [0m     
-[37mPos: 8 pts:5 wds:1 dir:s nxt:n0 Ballistic_rangeer
-     Frenzieder Roamer     [0m     
-[37mPos: 9 pts:3 wds:1 dir:s nxt:n0 melee_damageer
-     meleeer hurter     [0m     
-[37mPos: 10 pts:5 wds:3 dir:w nxt:e1 Woundser
-     Crepanceer     [0m     
-[37mPos: 11 pts:3 wds:3 dir:s nxt:n0 woundser
-     calker     [0m     
-[37mPos: 12 pts:3 wds:3 dir:s nxt:n0 woundser
-     crepanceer     [0m     
-[37mPos: 13 pts:8 wds:1 dir:s nxt:n0 Ballistic_damageer
-     Ballisticaler Injuryer     [0m     
-[37mPos: 14 pts:3 wds:3 dir:s nxt:e1 ballistic_rangeer
-     frenzieder rambleer     [0m     
-[37mPos: 15 pts:8 wds:1 dir:s nxt:n1 Armorer
-     Plateer     [0m          
-Team 1: 
-[37mPos: 1 pts:9 wds:3 dir:n nxt:n0 Melee_skiller
-     Meleeer Adeptnesser     [0m     
-[37mPos: 2 pts:5 wds:1 dir:n nxt:n0 Magicser
-     Maleficeer     [0m     
-[37mPos: 3 pts:4 wds:1 dir:n nxt:n0 ballistic_defense_skiller
-     frenzieder protectioner causeer     [0m     
-[37mPos: 4 pts:2 wds:1 dir:n nxt:e2 armorer
-     panoplyer     [0m     
-[37mPos: 5 pts:2 wds:1 dir:n nxt:n0 melee_skiller
-     meleeer judgmenter     [0m     
-[37mPos: 6 pts:7 wds:3 dir:n nxt:e2 Ballistic_skiller
-     Ballisticaler Handicrafter     [0m     
-[37mPos: 7 pts:10 wds:1 dir:n nxt:n0 Armorer
-     Armor Plateer     [0m     
-[37mPos: 8 pts:9 wds:1 dir:n nxt:w2 Magic_skiller
-     Exorcismer Techniqueer     [0m     
-[37mPos: 9 pts:8 wds:3 dir:n nxt:n0 Magicser
-     Deviltryer     [0m     
-[37mPos: 10 pts:7 wds:1 dir:n nxt:e1 Moveer
-     Driveer     [0m     
-[37mPos: 11 pts:5 wds:1 dir:n nxt:n0 Ballistic_defense_skiller
-     Ballisticaler Advocacyer Adeptnesser     [0m     
-[37mPos: 12 pts:2 wds:1 dir:n nxt:n0 magic_rangeer
-     illusionismer training areaer     [0m     
-[37mPos: 13 pts:1 wds:1 dir:n nxt:e0 standarder
-     base     [0m     
-[37mPos: 14 pts:1 wds:1 dir:w nxt:e1 standarder
-     base     [0m     
-[37mPos: 15 pts:1 wds:1 dir:w nxt:n2 standarder
-     base     [0m          
-Team 2 Points: 70     
-Team 1 Points: 73     
-[2HCurrent step: 13     
-Team 2: 
-[37mPos: 1 pts:5 wds:3 dir:s nxt:n0 Ballistic_damageer
-     Ballisticaler Injureer     [0m     
-[37mPos: 2 pts:6 wds:1 dir:s nxt:w0 Ballistic_defense_skiller
-     Frenzieder Protectioner Knowledgeer     [0m     
-[37mPos: 3 pts:7 wds:3 dir:w nxt:n0 Ballistic_damageer
-     Frenzieder Losser     [0m     
-[37mPos: 4 pts:3 wds:1 dir:s nxt:n0 moveer
-     flutterer     [0m     
-[37mPos: 5 pts:6 wds:5 dir:e nxt:n0 Woundser
-     Slighter     [0m     
-[37mPos: 6 pts:3 wds:1 dir:w nxt:n2 melee_skiller
-     meleeer causeer     [0m     
-[37mPos: 7 pts:2 wds:1 dir:e nxt:n0 armorer
-     armor plateer     [0m     
-[37mPos: 8 pts:5 wds:1 dir:s nxt:n0 Ballistic_rangeer
-     Frenzieder Roamer     [0m     
-[37mPos: 9 pts:3 wds:1 dir:s nxt:e1 melee_damageer
-     meleeer hurter     [0m     
-[37mPos: 10 pts:5 wds:3 dir:w nxt:n0 Woundser
-     Crepanceer     [0m     
-[37mPos: 11 pts:3 wds:3 dir:s nxt:n0 woundser
-     calker     [0m     
-[37mPos: 12 pts:3 wds:3 dir:s nxt:n1 woundser
-     crepanceer     [0m     
-[37mPos: 13 pts:8 wds:1 dir:s nxt:e2 Ballistic_damageer
-     Ballisticaler Injuryer     [0m     
-[37mPos: 14 pts:3 wds:3 dir:w nxt:n0 ballistic_rangeer
-     frenzieder rambleer     [0m     
-[37mPos: 15 pts:8 wds:1 dir:s nxt:n0 Armorer
-     Plateer     [0m          
-Team 1: 
-[37mPos: 1 pts:9 wds:3 dir:n nxt:e0 Melee_skiller
-     Meleeer Adeptnesser     [0m     
-[37mPos: 2 pts:5 wds:1 dir:n nxt:n0 Magicser
-     Maleficeer     [0m     
-[37mPos: 3 pts:4 wds:1 dir:n nxt:n0 ballistic_defense_skiller
-     frenzieder protectioner causeer     [0m     
-[37mPos: 4 pts:2 wds:1 dir:e nxt:e1 armorer
-     panoplyer     [0m     
-[37mPos: 5 pts:2 wds:1 dir:n nxt:n1 melee_skiller
-     meleeer judgmenter     [0m     
-[37mPos: 6 pts:7 wds:3 dir:e nxt:n0 Ballistic_skiller
-     Ballisticaler Handicrafter     [0m     
-[37mPos: 7 pts:10 wds:1 dir:n nxt:n0 Armorer
-     Armor Plateer     [0m     
-[37mPos: 8 pts:9 wds:1 dir:w nxt:n0 Magic_skiller
-     Exorcismer Techniqueer     [0m     
-[37mPos: 9 pts:8 wds:3 dir:n nxt:n0 Magicser
-     Deviltryer     [0m     
-[37mPos: 10 pts:7 wds:1 dir:e nxt:n0 Moveer
-     Driveer     [0m     
-[37mPos: 11 pts:5 wds:1 dir:n nxt:n0 Ballistic_defense_skiller
-     Ballisticaler Advocacyer Adeptnesser     [0m     
-[37mPos: 12 pts:2 wds:1 dir:n nxt:n0 magic_rangeer
-     illusionismer training areaer     [0m     
-[37mPos: 13 pts:1 wds:1 dir:e nxt:e2 standarder
-     base     [0m     
-[37mPos: 14 pts:1 wds:1 dir:e nxt:n1 standarder
-     base     [0m     
-[37mPos: 15 pts:1 wds:1 dir:n nxt:n0 standarder
-     base     [0m          
-Team 2 Points: 70     
-Team 1 Points: 73     
-[2HCurrent step: 14     
-Team 2: 
-[37mPos: 1 pts:5 wds:3 dir:s nxt:w0 Ballistic_damageer
-     Ballisticaler Injureer     [0m     
-[37mPos: 2 pts:6 wds:1 dir:e nxt:n0 Ballistic_defense_skiller
-     Frenzieder Protectioner Knowledgeer     [0m     
-[37mPos: 3 pts:7 wds:3 dir:s nxt:e2 Ballistic_damageer
-     Frenzieder Losser     [0m     
-[37mPos: 4 pts:3 wds:1 dir:s nxt:n0 moveer
-     flutterer     [0m     
-[37mPos: 5 pts:6 wds:5 dir:s nxt:e0 Woundser
-     Slighter     [0m     
-[37mPos: 6 pts:3 wds:1 dir:s nxt:e0 melee_skiller
-     meleeer causeer     [0m     
-[37mPos: 7 pts:2 wds:1 dir:s nxt:n2 armorer
-     armor plateer     [0m     
-[37mPos: 8 pts:5 wds:1 dir:s nxt:w0 Ballistic_rangeer
-     Frenzieder Roamer     [0m     
-[37mPos: 9 pts:3 wds:1 dir:w nxt:n0 melee_damageer
-     meleeer hurter     [0m     
-[37mPos: 10 pts:5 wds:3 dir:s nxt:n0 Woundser
-     Crepanceer     [0m     
-[37mPos: 11 pts:3 wds:3 dir:s nxt:n0 woundser
-     calker     [0m     
-[37mPos: 12 pts:3 wds:3 dir:s nxt:n0 woundser
-     crepanceer     [0m     
-[37mPos: 13 pts:8 wds:1 dir:w nxt:n1 Ballistic_damageer
-     Ballisticaler Injuryer     [0m     
-[37mPos: 14 pts:3 wds:3 dir:s nxt:n0 ballistic_rangeer
-     frenzieder rambleer     [0m     
-[37mPos: 15 pts:8 wds:1 dir:s nxt:w1 Armorer
-     Plateer     [0m          
-Team 1: 
-[37mPos: 1 pts:9 wds:3 dir:e nxt:n0 Melee_skiller
-     Meleeer Adeptnesser     [0m     
-[37mPos: 2 pts:5 wds:1 dir:n nxt:w0 Magicser
-     Maleficeer     [0m     
-[37mPos: 3 pts:4 wds:1 dir:n nxt:n1 ballistic_defense_skiller
-     frenzieder protectioner causeer     [0m     
-[37mPos: 4 pts:2 wds:1 dir:e nxt:n0 armorer
-     panoplyer     [0m     
-[37mPos: 5 pts:2 wds:1 dir:n nxt:e1 melee_skiller
-     meleeer judgmenter     [0m     
-[37mPos: 6 pts:7 wds:3 dir:n nxt:w0 Ballistic_skiller
-     Ballisticaler Handicrafter     [0m     
-[37mPos: 7 pts:10 wds:1 dir:n nxt:n0 Armorer
-     Armor Plateer     [0m     
-[37mPos: 8 pts:9 wds:1 dir:n nxt:n0 Magic_skiller
-     Exorcismer Techniqueer     [0m     
-[37mPos: 9 pts:8 wds:3 dir:n nxt:n0 Magicser
-     Deviltryer     [0m     
-[37mPos: 10 pts:7 wds:1 dir:n nxt:n0 Moveer
-     Driveer     [0m     
-[37mPos: 11 pts:5 wds:1 dir:n nxt:w2 Ballistic_defense_skiller
-     Ballisticaler Advocacyer Adeptnesser     [0m     
-[37mPos: 12 pts:2 wds:1 dir:n nxt:n0 magic_rangeer
-     illusionismer training areaer     [0m     
-[37mPos: 13 pts:1 wds:1 dir:e nxt:n0 standarder
-     base     [0m     
-[37mPos: 14 pts:1 wds:1 dir:n nxt:n0 standarder
-     base     [0m     
-[37mPos: 15 pts:1 wds:1 dir:n nxt:n0 standarder
-     base     [0m          
-Team 2 Points: 70     
-Team 1 Points: 73     
-[2HCurrent step: 15     
-Team 2: 
-[37mPos: 1 pts:5 wds:3 dir:e nxt:w2 Ballistic_damageer
-     Ballisticaler Injureer     [0m     
-[37mPos: 2 pts:6 wds:1 dir:s nxt:n0 Ballistic_defense_skiller
-     Frenzieder Protectioner Knowledgeer     [0m     
-[37mPos: 3 pts:7 wds:3 dir:w nxt:w0 Ballistic_damageer
-     Frenzieder Losser     [0m     
-[37mPos: 4 pts:3 wds:1 dir:s nxt:e1 moveer
-     flutterer     [0m     
-[37mPos: 5 pts:6 wds:5 dir:w nxt:n0 Woundser
-     Slighter     [0m     
-[37mPos: 6 pts:3 wds:1 dir:w nxt:n0 melee_skiller
-     meleeer causeer     [0m     
-[37mPos: 7 pts:2 wds:1 dir:s nxt:n0 armorer
-     armor plateer     [0m     
-[37mPos: 8 pts:5 wds:1 dir:e nxt:n0 Ballistic_rangeer
-     Frenzieder Roamer     [0m     
-[37mPos: 9 pts:3 wds:1 dir:s nxt:w1 melee_damageer
-     meleeer hurter     [0m     
-[37mPos: 10 pts:5 wds:3 dir:s nxt:n0 Woundser
-     Crepanceer     [0m     
-[37mPos: 11 pts:3 wds:3 dir:s nxt:n1 woundser
-     calker     [0m     
-[37mPos: 12 pts:3 wds:3 dir:s nxt:n0 woundser
-     crepanceer     [0m     
-[37mPos: 13 pts:8 wds:1 dir:s nxt:n0 Ballistic_damageer
-     Ballisticaler Injuryer     [0m     
-[37mPos: 14 pts:3 wds:3 dir:s nxt:w0 ballistic_rangeer
-     frenzieder rambleer     [0m     
-[37mPos: 15 pts:8 wds:1 dir:e nxt:n0 Armorer
-     Plateer     [0m          
-Team 1: 
-[37mPos: 1 pts:9 wds:3 dir:n nxt:w1 Melee_skiller
-     Meleeer Adeptnesser     [0m     
-[37mPos: 2 pts:5 wds:1 dir:w nxt:n2 Magicser
-     Maleficeer     [0m     
-[37mPos: 3 pts:4 wds:1 dir:n nxt:n0 ballistic_defense_skiller
-     frenzieder protectioner causeer     [0m     
-[37mPos: 4 pts:2 wds:1 dir:n nxt:n0 armorer
-     panoplyer     [0m     
-[37mPos: 5 pts:2 wds:1 dir:e nxt:n0 melee_skiller
-     meleeer judgmenter     [0m     
-[37mPos: 6 pts:7 wds:3 dir:w nxt:e0 Ballistic_skiller
-     Ballisticaler Handicrafter     [0m     
-[37mPos: 7 pts:10 wds:1 dir:n nxt:n0 Armorer
-     Armor Plateer     [0m     
-[37mPos: 8 pts:9 wds:1 dir:n nxt:w0 Magic_skiller
-     Exorcismer Techniqueer     [0m     
-[37mPos: 9 pts:8 wds:3 dir:n nxt:n0 Magicser
-     Deviltryer     [0m     
-[37mPos: 10 pts:7 wds:1 dir:n nxt:n0 Moveer
-     Driveer     [0m     
-[37mPos: 11 pts:5 wds:1 dir:w nxt:n0 Ballistic_defense_skiller
-     Ballisticaler Advocacyer Adeptnesser     [0m     
-[37mPos: 12 pts:2 wds:1 dir:n nxt:n0 magic_rangeer
-     illusionismer training areaer     [0m     
-[37mPos: 13 pts:1 wds:1 dir:n nxt:e2 standarder
-     base     [0m     
-[37mPos: 14 pts:1 wds:1 dir:n nxt:n0 standarder
-     base     [0m     
-[37mPos: 15 pts:1 wds:1 dir:n nxt:n0 standarder
-     base     [0m          
-Team 2 Points: 70     
-Team 1 Points: 73     
-[2HCurrent step: 16     
-Team 2: 
-[37mPos: 1 pts:5 wds:3 dir:e nxt:n0 Ballistic_damageer
-     Ballisticaler Injureer     [0m     
-[37mPos: 2 pts:6 wds:1 dir:s nxt:w2 Ballistic_defense_skiller
-     Frenzieder Protectioner Knowledgeer     [0m     
-[37mPos: 3 pts:7 wds:3 dir:e nxt:e0 Ballistic_damageer
-     Frenzieder Losser     [0m     
-[37mPos: 4 pts:3 wds:1 dir:w nxt:e1 moveer
-     flutterer     [0m     
-[37mPos: 5 pts:6 wds:5 dir:s nxt:n0 Woundser
-     Slighter     [0m     
-[37mPos: 6 pts:3 wds:1 dir:s nxt:n0 melee_skiller
-     meleeer causeer     [0m     
-[37mPos: 7 pts:2 wds:1 dir:s nxt:n0 armorer
-     armor plateer     [0m     
-[37mPos: 8 pts:5 wds:1 dir:s nxt:w1 Ballistic_rangeer
-     Frenzieder Roamer     [0m     
-[37mPos: 9 pts:3 wds:1 dir:e nxt:n0 melee_damageer
-     meleeer hurter     [0m     
-[37mPos: 10 pts:5 wds:3 dir:s nxt:w1 Woundser
-     Crepanceer     [0m     
-[37mPos: 11 pts:3 wds:3 dir:s nxt:n0 woundser
-     calker     [0m     
-[37mPos: 12 pts:3 wds:3 dir:s nxt:w0 woundser
-     crepanceer     [0m     
-[37mPos: 13 pts:8 wds:1 dir:s nxt:n2 Ballistic_damageer
-     Ballisticaler Injuryer     [0m     
-[37mPos: 14 pts:3 wds:3 dir:e nxt:n2 ballistic_rangeer
-     frenzieder rambleer     [0m     
-[37mPos: 15 pts:8 wds:1 dir:s nxt:n0 Armorer
-     Plateer     [0m          
-Team 1: 
-[37mPos: 1 pts:9 wds:3 dir:w nxt:n2 Melee_skiller
-     Meleeer Adeptnesser     [0m     
-[37mPos: 2 pts:5 wds:1 dir:n nxt:n0 Magicser
-     Maleficeer     [0m     
-[37mPos: 3 pts:4 wds:1 dir:n nxt:n2 ballistic_defense_skiller
-     frenzieder protectioner causeer     [0m     
-[37mPos: 4 pts:2 wds:1 dir:n nxt:n2 armorer
-     panoplyer     [0m     
-[37mPos: 5 pts:2 wds:1 dir:n nxt:n0 melee_skiller
-     meleeer judgmenter     [0m     
-[37mPos: 6 pts:7 wds:3 dir:e nxt:w0 Ballistic_skiller
-     Ballisticaler Handicrafter     [0m     
-[37mPos: 7 pts:10 wds:1 dir:n nxt:n0 Armorer
-     Armor Plateer     [0m     
-[37mPos: 8 pts:9 wds:1 dir:w nxt:n0 Magic_skiller
-     Exorcismer Techniqueer     [0m     
-[37mPos: 9 pts:8 wds:3 dir:n nxt:n0 Magicser
-     Deviltryer     [0m     
-[37mPos: 10 pts:7 wds:1 dir:n nxt:n0 Moveer
-     Driveer     [0m     
-[37mPos: 11 pts:5 wds:1 dir:n nxt:n0 Ballistic_defense_skiller
-     Ballisticaler Advocacyer Adeptnesser     [0m     
-[37mPos: 12 pts:2 wds:1 dir:n nxt:n1 magic_rangeer
-     illusionismer training areaer     [0m     
-[37mPos: 13 pts:1 wds:1 dir:e nxt:n0 standarder
-     base     [0m     
-[37mPos: 14 pts:1 wds:1 dir:n nxt:n0 standarder
-     base     [0m     
-[37mPos: 15 pts:1 wds:1 dir:n nxt:n0 standarder
-     base     [0m          
-Team 2 Points: 70     
-Team 1 Points: 73     
-[2HCurrent step: 17     
-Team 2: 
-[37mPos: 1 pts:5 wds:3 dir:s nxt:e0 Ballistic_damageer
-     Ballisticaler Injureer     [0m     
-[37mPos: 2 pts:6 wds:1 dir:e nxt:n0 Ballistic_defense_skiller
-     Frenzieder Protectioner Knowledgeer     [0m     
-[37mPos: 3 pts:7 wds:3 dir:w nxt:n0 Ballistic_damageer
-     Frenzieder Losser     [0m     
-[37mPos: 4 pts:3 wds:1 dir:w nxt:n0 moveer
-     flutterer     [0m     
-[37mPos: 5 pts:6 wds:5 dir:s nxt:e2 Woundser
-     Slighter     [0m     
-[37mPos: 6 pts:3 wds:1 dir:s nxt:n0 melee_skiller
-     meleeer causeer     [0m     
-[37mPos: 7 pts:2 wds:1 dir:s nxt:e2 armorer
-     armor plateer     [0m     
-[37mPos: 8 pts:5 wds:1 dir:e nxt:n0 Ballistic_rangeer
-     Frenzieder Roamer     [0m     
-[37mPos: 9 pts:3 wds:1 dir:s nxt:e1 melee_damageer
-     meleeer hurter     [0m     
-[37mPos: 10 pts:5 wds:3 dir:e nxt:n0 Woundser
-     Crepanceer     [0m     
-[37mPos: 11 pts:3 wds:3 dir:s nxt:n0 woundser
-     calker     [0m     
-[37mPos: 12 pts:3 wds:3 dir:e nxt:e0 woundser
-     crepanceer     [0m     
-[37mPos: 13 pts:8 wds:1 dir:s nxt:n1 Ballistic_damageer
-     Ballisticaler Injuryer     [0m     
-[37mPos: 14 pts:3 wds:3 dir:s nxt:n2 ballistic_rangeer
-     frenzieder rambleer     [0m     
-[37mPos: 15 pts:8 wds:1 dir:s nxt:n0 Armorer
-     Plateer     [0m          
-Team 1: 
-[37mPos: 1 pts:9 wds:3 dir:n nxt:n0 Melee_skiller
-     Meleeer Adeptnesser     [0m     
-[37mPos: 2 pts:5 wds:1 dir:n nxt:w1 Magicser
-     Maleficeer     [0m     
-[37mPos: 3 pts:4 wds:1 dir:n nxt:n2 ballistic_defense_skiller
-     frenzieder protectioner causeer     [0m     
-[37mPos: 4 pts:2 wds:1 dir:n nxt:n0 armorer
-     panoplyer     [0m     
-[31mPos: 5 pts:2 wds:-1 dir:n nxt:n0 melee_skiller
-     meleeer judgmenter     [0m     
-[37mPos: 6 pts:7 wds:3 dir:w nxt:n0 Ballistic_skiller
-     Ballisticaler Handicrafter     [0m     
-[37mPos: 7 pts:10 wds:1 dir:n nxt:w2 Armorer
-     Armor Plateer     [0m     
-[37mPos: 8 pts:9 wds:1 dir:n nxt:n0 Magic_skiller
-     Exorcismer Techniqueer     [0m     
-[37mPos: 9 pts:8 wds:3 dir:n nxt:n2 Magicser
-     Deviltryer     [0m     
-[37mPos: 10 pts:7 wds:1 dir:n nxt:n0 Moveer
-     Driveer     [0m     
-[37mPos: 11 pts:5 wds:1 dir:n nxt:n0 Ballistic_defense_skiller
-     Ballisticaler Advocacyer Adeptnesser     [0m     
-[37mPos: 12 pts:2 wds:1 dir:n nxt:n0 magic_rangeer
-     illusionismer training areaer     [0m     
-[37mPos: 13 pts:1 wds:1 dir:n nxt:w0 standarder
-     base     [0m     
-[37mPos: 14 pts:1 wds:1 dir:n nxt:w1 standarder
-     base     [0m     
-[37mPos: 15 pts:1 wds:1 dir:n nxt:n0 standarder
-     base     [0m          
-Team 2 Points: 70     
-Team 1 Points: 69     
-[2HCurrent step: 18     
-Team 2: 
-[37mPos: 1 pts:5 wds:3 dir:w nxt:e1 Ballistic_damageer
-     Ballisticaler Injureer     [0m     
-[37mPos: 2 pts:6 wds:1 dir:s nxt:n0 Ballistic_defense_skiller
-     Frenzieder Protectioner Knowledgeer     [0m     
-[37mPos: 3 pts:7 wds:3 dir:s nxt:n0 Ballistic_damageer
-     Frenzieder Losser     [0m     
-[37mPos: 4 pts:3 wds:1 dir:s nxt:w0 moveer
-     flutterer     [0m     
-[37mPos: 5 pts:6 wds:5 dir:w nxt:n0 Woundser
-     Slighter     [0m     
-[37mPos: 6 pts:3 wds:1 dir:s nxt:n0 melee_skiller
-     meleeer causeer     [0m     
-[37mPos: 7 pts:2 wds:1 dir:w nxt:n2 armorer
-     armor plateer     [0m     
-[37mPos: 8 pts:5 wds:1 dir:s nxt:n0 Ballistic_rangeer
-     Frenzieder Roamer     [0m     
-[37mPos: 9 pts:3 wds:1 dir:w nxt:w1 melee_damageer
-     meleeer hurter     [0m     
-[37mPos: 10 pts:5 wds:3 dir:s nxt:e2 Woundser
-     Crepanceer     [0m     
-[37mPos: 11 pts:3 wds:3 dir:s nxt:n0 woundser
-     calker     [0m     
-[37mPos: 12 pts:3 wds:3 dir:w nxt:e2 woundser
-     crepanceer     [0m     
-[37mPos: 13 pts:8 wds:1 dir:s nxt:n0 Ballistic_damageer
-     Ballisticaler Injuryer     [0m     
-[37mPos: 14 pts:3 wds:3 dir:s nxt:e2 ballistic_rangeer
-     frenzieder rambleer     [0m     
-[37mPos: 15 pts:8 wds:1 dir:s nxt:n0 Armorer
-     Plateer     [0m          
-Team 1: 
-[37mPos: 1 pts:9 wds:3 dir:n nxt:e2 Melee_skiller
-     Meleeer Adeptnesser     [0m     
-[37mPos: 2 pts:5 wds:1 dir:w nxt:n0 Magicser
-     Maleficeer     [0m     
-[37mPos: 3 pts:4 wds:1 dir:n nxt:n0 ballistic_defense_skiller
-     frenzieder protectioner causeer     [0m     
-[37mPos: 4 pts:2 wds:1 dir:n nxt:n0 armorer
-     panoplyer     [0m     
-[31mPos: 5 pts:2 wds:-1 dir:n nxt:n0 melee_skiller
-     meleeer judgmenter     [0m     
-[37mPos: 6 pts:7 wds:3 dir:n nxt:n0 Ballistic_skiller
-     Ballisticaler Handicrafter     [0m     
-[37mPos: 7 pts:10 wds:1 dir:w nxt:n2 Armorer
-     Armor Plateer     [0m     
-[37mPos: 8 pts:9 wds:1 dir:n nxt:n0 Magic_skiller
-     Exorcismer Techniqueer     [0m     
-[37mPos: 9 pts:8 wds:3 dir:n nxt:n0 Magicser
-     Deviltryer     [0m     
-[37mPos: 10 pts:7 wds:1 dir:n nxt:n0 Moveer
-     Driveer     [0m     
-[37mPos: 11 pts:5 wds:1 dir:n nxt:e0 Ballistic_defense_skiller
-     Ballisticaler Advocacyer Adeptnesser     [0m     
-[37mPos: 12 pts:2 wds:1 dir:n nxt:e1 magic_rangeer
-     illusionismer training areaer     [0m     
-[37mPos: 13 pts:1 wds:1 dir:w nxt:n0 standarder
-     base     [0m     
-[37mPos: 14 pts:1 wds:1 dir:w nxt:w1 standarder
-     base     [0m     
-[37mPos: 15 pts:1 wds:1 dir:n nxt:n2 standarder
-     base     [0m          
-Team 2 Points: 70     
-Team 1 Points: 69     
-[2HCurrent step: 19     
-Team 2: 
-[37mPos: 1 pts:5 wds:3 dir:w nxt:n0 Ballistic_damageer
-     Ballisticaler Injureer     [0m     
-[37mPos: 2 pts:6 wds:1 dir:s nxt:n0 Ballistic_defense_skiller
-     Frenzieder Protectioner Knowledgeer     [0m     
-[37mPos: 3 pts:7 wds:3 dir:s nxt:n0 Ballistic_damageer
-     Frenzieder Losser     [0m     
-[37mPos: 4 pts:3 wds:1 dir:e nxt:n0 moveer
-     flutterer     [0m     
-[37mPos: 5 pts:6 wds:5 dir:s nxt:n0 Woundser
-     Slighter     [0m     
-[37mPos: 6 pts:3 wds:1 dir:s nxt:n2 melee_skiller
-     meleeer causeer     [0m     
-[44m[37mPos: 7 pts:12 wds:1 dir:s nxt:e2 armorer
-     armor plateer     [0m[0m     
-[37mPos: 8 pts:5 wds:1 dir:s nxt:n0 Ballistic_rangeer
-     Frenzieder Roamer     [0m     
-[37mPos: 9 pts:3 wds:1 dir:e nxt:n0 melee_damageer
-     meleeer hurter     [0m     
-[37mPos: 10 pts:5 wds:3 dir:w nxt:e0 Woundser
-     Crepanceer     [0m     
-[37mPos: 11 pts:3 wds:3 dir:s nxt:n0 woundser
-     calker     [0m     
-[37mPos: 12 pts:3 wds:3 dir:w nxt:n0 woundser
-     crepanceer     [0m     
-[31mPos: 13 pts:8 wds:-2 dir:s nxt:n0 Ballistic_damageer
-     Ballisticaler Injuryer     [0m     
-[37mPos: 14 pts:3 wds:3 dir:w nxt:n0 ballistic_rangeer
-     frenzieder rambleer     [0m     
-[37mPos: 15 pts:8 wds:1 dir:s nxt:n0 Armorer
-     Plateer     [0m          
-Team 1: 
-[37mPos: 1 pts:9 wds:3 dir:e nxt:n2 Melee_skiller
-     Meleeer Adeptnesser     [0m     
-[37mPos: 2 pts:5 wds:1 dir:n nxt:n0 Magicser
-     Maleficeer     [0m     
-[37mPos: 3 pts:4 wds:1 dir:n nxt:n0 ballistic_defense_skiller
-     frenzieder protectioner causeer     [0m     
-[37mPos: 4 pts:2 wds:1 dir:n nxt:w1 armorer
-     panoplyer     [0m     
-[31mPos: 5 pts:2 wds:-1 dir:n nxt:n0 melee_skiller
-     meleeer judgmenter     [0m     
-[37mPos: 6 pts:7 wds:3 dir:n nxt:n0 Ballistic_skiller
-     Ballisticaler Handicrafter     [0m     
-[37mPos: 7 pts:10 wds:1 dir:n nxt:n0 Armorer
-     Armor Plateer     [0m     
-[37mPos: 8 pts:9 wds:1 dir:n nxt:n0 Magic_skiller
-     Exorcismer Techniqueer     [0m     
-[37mPos: 9 pts:8 wds:3 dir:n nxt:n0 Magicser
-     Deviltryer     [0m     
-[37mPos: 10 pts:7 wds:1 dir:n nxt:e0 Moveer
-     Driveer     [0m     
-[37mPos: 11 pts:5 wds:1 dir:e nxt:n0 Ballistic_defense_skiller
-     Ballisticaler Advocacyer Adeptnesser     [0m     
-[37mPos: 12 pts:2 wds:1 dir:e nxt:n0 magic_rangeer
-     illusionismer training areaer     [0m     
-[37mPos: 13 pts:1 wds:1 dir:n nxt:n0 standarder
-     base     [0m     
-[37mPos: 14 pts:1 wds:1 dir:w nxt:n2 standarder
-     base     [0m     
-[37mPos: 15 pts:1 wds:1 dir:n nxt:n0 standarder
-     base     [0m          
-Team 2 Points: 64     
-Team 1 Points: 69     
-[2HCurrent step: 20     
-Team 2: 
-[37mPos: 1 pts:5 wds:3 dir:s nxt:w0 Ballistic_damageer
-     Ballisticaler Injureer     [0m     
-[37mPos: 2 pts:6 wds:1 dir:s nxt:n2 Ballistic_defense_skiller
-     Frenzieder Protectioner Knowledgeer     [0m     
-[37mPos: 3 pts:7 wds:3 dir:s nxt:n1 Ballistic_damageer
-     Frenzieder Losser     [0m     
-[37mPos: 4 pts:3 wds:1 dir:s nxt:n0 moveer
-     flutterer     [0m     
-[37mPos: 5 pts:6 wds:5 dir:s nxt:n0 Woundser
-     Slighter     [0m     
-[37mPos: 6 pts:3 wds:1 dir:s nxt:e0 melee_skiller
-     meleeer causeer     [0m     
-[37mPos: 7 pts:2 wds:1 dir:w nxt:n0 armorer
-     armor plateer     [0m     
-[37mPos: 8 pts:5 wds:1 dir:s nxt:n0 Ballistic_rangeer
-     Frenzieder Roamer     [0m     
-[37mPos: 9 pts:3 wds:1 dir:s nxt:e0 melee_damageer
-     meleeer hurter     [0m     
-[37mPos: 10 pts:5 wds:3 dir:w nxt:n0 Woundser
-     Crepanceer     [0m     
-[37mPos: 11 pts:3 wds:3 dir:s nxt:e0 woundser
-     calker     [0m     
-[37mPos: 12 pts:3 wds:3 dir:s nxt:n0 woundser
-     crepanceer     [0m     
-[31mPos: 13 pts:8 wds:-2 dir:s nxt:n0 Ballistic_damageer
-     Ballisticaler Injuryer     [0m     
-[37mPos: 14 pts:3 wds:3 dir:s nxt:w1 ballistic_rangeer
-     frenzieder rambleer     [0m     
-[37mPos: 15 pts:8 wds:1 dir:s nxt:n0 Armorer
-     Plateer     [0m          
-Team 1: 
-[37mPos: 1 pts:9 wds:3 dir:n nxt:w2 Melee_skiller
-     Meleeer Adeptnesser     [0m     
-[37mPos: 2 pts:5 wds:1 dir:n nxt:n0 Magicser
-     Maleficeer     [0m     
-[37mPos: 3 pts:4 wds:1 dir:n nxt:e0 ballistic_defense_skiller
-     frenzieder protectioner causeer     [0m     
-[37mPos: 4 pts:2 wds:1 dir:w nxt:n0 armorer
-     panoplyer     [0m     
-[31mPos: 5 pts:2 wds:-1 dir:n nxt:n0 melee_skiller
-     meleeer judgmenter     [0m     
-[37mPos: 6 pts:7 wds:3 dir:n nxt:e2 Ballistic_skiller
-     Ballisticaler Handicrafter     [0m     
-[37mPos: 7 pts:10 wds:1 dir:n nxt:n0 Armorer
-     Armor Plateer     [0m     
-[37mPos: 8 pts:9 wds:1 dir:n nxt:w0 Magic_skiller
-     Exorcismer Techniqueer     [0m     
-[37mPos: 9 pts:8 wds:3 dir:n nxt:e2 Magicser
-     Deviltryer     [0m     
-[37mPos: 10 pts:7 wds:1 dir:e nxt:e0 Moveer
-     Driveer     [0m     
-[37mPos: 11 pts:5 wds:1 dir:n nxt:e2 Ballistic_defense_skiller
-     Ballisticaler Advocacyer Adeptnesser     [0m     
-[37mPos: 12 pts:2 wds:1 dir:n nxt:n0 magic_rangeer
-     illusionismer training areaer     [0m     
-[37mPos: 13 pts:1 wds:1 dir:n nxt:n1 standarder
-     base     [0m     
-[37mPos: 14 pts:1 wds:1 dir:n nxt:n0 standarder
-     base     [0m     
-[37mPos: 15 pts:1 wds:1 dir:n nxt:n0 standarder
-     base     [0m          
-Team 2 Points: 54     
-Team 1 Points: 69     
-[2HCurrent step: 21     
-Team 2: 
-[37mPos: 1 pts:5 wds:3 dir:e nxt:e0 Ballistic_damageer
-     Ballisticaler Injureer     [0m     
-[37mPos: 2 pts:6 wds:1 dir:s nxt:n2 Ballistic_defense_skiller
-     Frenzieder Protectioner Knowledgeer     [0m     
-[37mPos: 3 pts:7 wds:3 dir:s nxt:n0 Ballistic_damageer
-     Frenzieder Losser     [0m     
-[37mPos: 4 pts:3 wds:1 dir:s nxt:n0 moveer
-     flutterer     [0m     
-[37mPos: 5 pts:6 wds:5 dir:s nxt:w0 Woundser
-     Slighter     [0m     
-[37mPos: 6 pts:3 wds:1 dir:w nxt:n1 melee_skiller
-     meleeer causeer     [0m     
-[37mPos: 7 pts:2 wds:1 dir:s nxt:w0 armorer
-     armor plateer     [0m     
-[37mPos: 8 pts:5 wds:1 dir:s nxt:w2 Ballistic_rangeer
-     Frenzieder Roamer     [0m     
-[37mPos: 9 pts:3 wds:1 dir:w nxt:e1 melee_damageer
-     meleeer hurter     [0m     
-[37mPos: 10 pts:5 wds:3 dir:s nxt:n0 Woundser
-     Crepanceer     [0m     
-[37mPos: 11 pts:3 wds:3 dir:w nxt:n0 woundser
-     calker     [0m     
-[37mPos: 12 pts:3 wds:3 dir:s nxt:n0 woundser
-     crepanceer     [0m     
-[31mPos: 13 pts:8 wds:-2 dir:s nxt:n0 Ballistic_damageer
-     Ballisticaler Injuryer     [0m     
-[37mPos: 14 pts:3 wds:3 dir:e nxt:n2 ballistic_rangeer
-     frenzieder rambleer     [0m     
-[37mPos: 15 pts:8 wds:1 dir:s nxt:n0 Armorer
-     Plateer     [0m          
-Team 1: 
-[37mPos: 1 pts:9 wds:3 dir:w nxt:n0 Melee_skiller
-     Meleeer Adeptnesser     [0m     
-[37mPos: 2 pts:5 wds:1 dir:n nxt:e1 Magicser
-     Maleficeer     [0m     
-[37mPos: 3 pts:4 wds:1 dir:e nxt:n0 ballistic_defense_skiller
-     frenzieder protectioner causeer     [0m     
-[37mPos: 4 pts:2 wds:1 dir:n nxt:e0 armorer
-     panoplyer     [0m     
-[31mPos: 5 pts:2 wds:-1 dir:n nxt:n0 melee_skiller
-     meleeer judgmenter     [0m     
-[37mPos: 6 pts:7 wds:3 dir:e nxt:n0 Ballistic_skiller
-     Ballisticaler Handicrafter     [0m     
-[37mPos: 7 pts:10 wds:1 dir:n nxt:n1 Armorer
-     Armor Plateer     [0m     
-[37mPos: 8 pts:9 wds:1 dir:w nxt:w1 Magic_skiller
-     Exorcismer Techniqueer     [0m     
-[37mPos: 9 pts:8 wds:3 dir:e nxt:n0 Magicser
-     Deviltryer     [0m     
-[37mPos: 10 pts:7 wds:1 dir:e nxt:n0 Moveer
-     Driveer     [0m     
-[37mPos: 11 pts:5 wds:1 dir:e nxt:n2 Ballistic_defense_skiller
-     Ballisticaler Advocacyer Adeptnesser     [0m     
-[37mPos: 12 pts:2 wds:1 dir:n nxt:e2 magic_rangeer
-     illusionismer training areaer     [0m     
-[37mPos: 13 pts:1 wds:1 dir:n nxt:n0 standarder
-     base     [0m     
-[37mPos: 14 pts:1 wds:1 dir:n nxt:e0 standarder
-     base     [0m     
-[37mPos: 15 pts:1 wds:1 dir:n nxt:e2 standarder
-     base     [0m          
-Team 2 Points: 54     
-Team 1 Points: 69     
-[2HCurrent step: 22     
-Team 2: 
-[37mPos: 1 pts:5 wds:3 dir:w nxt:n0 Ballistic_damageer
-     Ballisticaler Injureer     [0m     
-[37mPos: 2 pts:6 wds:1 dir:s nxt:n1 Ballistic_defense_skiller
-     Frenzieder Protectioner Knowledgeer     [0m     
-[37mPos: 3 pts:7 wds:3 dir:s nxt:n0 Ballistic_damageer
-     Frenzieder Losser     [0m     
-[37mPos: 4 pts:3 wds:1 dir:s nxt:e2 moveer
-     flutterer     [0m     
-[37mPos: 5 pts:6 wds:5 dir:e nxt:w1 Woundser
-     Slighter     [0m     
-[37mPos: 6 pts:3 wds:1 dir:s nxt:n0 melee_skiller
-     meleeer causeer     [0m     
-[37mPos: 7 pts:2 wds:1 dir:e nxt:w2 armorer
-     armor plateer     [0m     
-[37mPos: 8 pts:5 wds:1 dir:e nxt:w2 Ballistic_rangeer
-     Frenzieder Roamer     [0m     
-[37mPos: 9 pts:3 wds:1 dir:w nxt:n0 melee_damageer
-     meleeer hurter     [0m     
-[37mPos: 10 pts:5 wds:3 dir:s nxt:w0 Woundser
-     Crepanceer     [0m     
-[37mPos: 11 pts:3 wds:3 dir:s nxt:e0 woundser
-     calker     [0m     
-[37mPos: 12 pts:3 wds:3 dir:s nxt:n0 woundser
-     crepanceer     [0m     
-[31mPos: 13 pts:8 wds:-2 dir:s nxt:n0 Ballistic_damageer
-     Ballisticaler Injuryer     [0m     
-[37mPos: 14 pts:3 wds:1 dir:s nxt:n0 ballistic_rangeer
-     frenzieder rambleer     [0m     
-[37mPos: 15 pts:8 wds:1 dir:s nxt:n1 Armorer
-     Plateer     [0m          
-Team 1: 
-[37mPos: 1 pts:9 wds:3 dir:n nxt:n0 Melee_skiller
-     Meleeer Adeptnesser     [0m     
-[37mPos: 2 pts:5 wds:1 dir:e nxt:e1 Magicser
-     Maleficeer     [0m     
-[37mPos: 3 pts:4 wds:1 dir:n nxt:e0 ballistic_defense_skiller
-     frenzieder protectioner causeer     [0m     
-[37mPos: 4 pts:2 wds:1 dir:e nxt:n0 armorer
-     panoplyer     [0m     
-[31mPos: 5 pts:2 wds:-1 dir:n nxt:n0 melee_skiller
-     meleeer judgmenter     [0m     
-[37mPos: 6 pts:7 wds:3 dir:n nxt:n2 Ballistic_skiller
-     Ballisticaler Handicrafter     [0m     
-[37mPos: 7 pts:10 wds:1 dir:n nxt:n2 Armorer
-     Armor Plateer     [0m     
-[37mPos: 8 pts:9 wds:1 dir:w nxt:e1 Magic_skiller
-     Exorcismer Techniqueer     [0m     
-[37mPos: 9 pts:8 wds:3 dir:n nxt:n0 Magicser
-     Deviltryer     [0m     
-[37mPos: 10 pts:7 wds:1 dir:n nxt:w1 Moveer
-     Driveer     [0m     
-[37mPos: 11 pts:5 wds:1 dir:n nxt:w1 Ballistic_defense_skiller
-     Ballisticaler Advocacyer Adeptnesser     [0m     
-[37mPos: 12 pts:2 wds:1 dir:e nxt:e2 magic_rangeer
-     illusionismer training areaer     [0m     
-[37mPos: 13 pts:1 wds:1 dir:n nxt:n0 standarder
-     base     [0m     
-[37mPos: 14 pts:1 wds:1 dir:e nxt:n0 standarder
-     base     [0m     
-[37mPos: 15 pts:1 wds:1 dir:e nxt:e2 standarder
-     base     [0m          
-Team 2 Points: 54     
-Team 1 Points: 69     
-[2HCurrent step: 23     
-Team 2: 
-[37mPos: 1 pts:5 wds:3 dir:s nxt:n0 Ballistic_damageer
-     Ballisticaler Injureer     [0m     
-[37mPos: 2 pts:6 wds:1 dir:s nxt:n0 Ballistic_defense_skiller
-     Frenzieder Protectioner Knowledgeer     [0m     
-[37mPos: 3 pts:7 wds:3 dir:s nxt:w2 Ballistic_damageer
-     Frenzieder Losser     [0m     
-[37mPos: 4 pts:3 wds:1 dir:w nxt:n0 moveer
-     flutterer     [0m     
-[37mPos: 5 pts:6 wds:5 dir:e nxt:w1 Woundser
-     Slighter     [0m     
-[37mPos: 6 pts:3 wds:1 dir:s nxt:n0 melee_skiller
-     meleeer causeer     [0m     
-[44m[37mPos: 7 pts:12 wds:1 dir:e nxt:n0 armorer
-     armor plateer     [0m[0m     
-[37mPos: 8 pts:5 wds:1 dir:e nxt:e0 Ballistic_rangeer
-     Frenzieder Roamer     [0m     
-[37mPos: 9 pts:3 wds:1 dir:s nxt:w2 melee_damageer
-     meleeer hurter     [0m     
-[37mPos: 10 pts:5 wds:3 dir:e nxt:n0 Woundser
-     Crepanceer     [0m     
-[37mPos: 11 pts:3 wds:3 dir:w nxt:n1 woundser
-     calker     [0m     
-[37mPos: 12 pts:3 wds:2 dir:s nxt:n0 woundser
-     crepanceer     [0m     
-[31mPos: 13 pts:8 wds:-2 dir:s nxt:n0 Ballistic_damageer
-     Ballisticaler Injuryer     [0m     
-[37mPos: 14 pts:3 wds:1 dir:s nxt:n0 ballistic_rangeer
-     frenzieder rambleer     [0m     
-[37mPos: 15 pts:8 wds:1 dir:s nxt:n0 Armorer
-     Plateer     [0m          
-Team 1: 
-[37mPos: 1 pts:9 wds:3 dir:n nxt:w1 Melee_skiller
-     Meleeer Adeptnesser     [0m     
-[37mPos: 2 pts:5 wds:1 dir:e nxt:n0 Magicser
-     Maleficeer     [0m     
-[37mPos: 3 pts:4 wds:1 dir:e nxt:e1 ballistic_defense_skiller
-     frenzieder protectioner causeer     [0m     
-[37mPos: 4 pts:2 wds:1 dir:n nxt:e0 armorer
-     panoplyer     [0m     
-[31mPos: 5 pts:2 wds:-1 dir:n nxt:n0 melee_skiller
-     meleeer judgmenter     [0m     
-[37mPos: 6 pts:7 wds:3 dir:n nxt:n0 Ballistic_skiller
-     Ballisticaler Handicrafter     [0m     
-[37mPos: 7 pts:10 wds:1 dir:n nxt:n0 Armorer
-     Armor Plateer     [0m     
-[37mPos: 8 pts:9 wds:1 dir:e nxt:n0 Magic_skiller
-     Exorcismer Techniqueer     [0m     
-[37mPos: 9 pts:8 wds:3 dir:n nxt:n0 Magicser
-     Deviltryer     [0m     
-[37mPos: 10 pts:7 wds:1 dir:w nxt:e1 Moveer
-     Driveer     [0m     
-[37mPos: 11 pts:5 wds:1 dir:w nxt:n0 Ballistic_defense_skiller
-     Ballisticaler Advocacyer Adeptnesser     [0m     
-[37mPos: 12 pts:2 wds:1 dir:e nxt:n0 magic_rangeer
-     illusionismer training areaer     [0m     
-[37mPos: 13 pts:1 wds:1 dir:n nxt:n0 standarder
-     base     [0m     
-[37mPos: 14 pts:1 wds:1 dir:n nxt:w0 standarder
-     base     [0m     
-[37mPos: 15 pts:1 wds:1 dir:e nxt:n0 standarder
-     base     [0m          
-Team 2 Points: 64     
-Team 1 Points: 69     
-[2HCurrent step: 24     
-Team 2: 
-[37mPos: 1 pts:5 wds:3 dir:s nxt:n0 Ballistic_damageer
-     Ballisticaler Injureer     [0m     
-[37mPos: 2 pts:6 wds:1 dir:s nxt:n0 Ballistic_defense_skiller
-     Frenzieder Protectioner Knowledgeer     [0m     
-[37mPos: 3 pts:7 wds:3 dir:e nxt:n2 Ballistic_damageer
-     Frenzieder Losser     [0m     
-[37mPos: 4 pts:3 wds:1 dir:s nxt:w2 moveer
-     flutterer     [0m     
-[37mPos: 5 pts:6 wds:5 dir:e nxt:n0 Woundser
-     Slighter     [0m     
-[37mPos: 6 pts:3 wds:1 dir:s nxt:n0 melee_skiller
-     meleeer causeer     [0m     
-[44m[37mPos: 7 pts:12 wds:1 dir:s nxt:n0 armorer
-     armor plateer     [0m[0m     
-[37mPos: 8 pts:5 wds:1 dir:w nxt:e0 Ballistic_rangeer
-     Frenzieder Roamer     [0m     
-[37mPos: 9 pts:3 wds:1 dir:e nxt:n0 melee_damageer
-     meleeer hurter     [0m     
-[37mPos: 10 pts:5 wds:3 dir:s nxt:n0 Woundser
-     Crepanceer     [0m     
-[37mPos: 11 pts:3 wds:3 dir:s nxt:w0 woundser
-     calker     [0m     
-[37mPos: 12 pts:3 wds:2 dir:s nxt:n0 woundser
-     crepanceer     [0m     
-[31mPos: 13 pts:8 wds:-2 dir:s nxt:n0 Ballistic_damageer
-     Ballisticaler Injuryer     [0m     
-[37mPos: 14 pts:3 wds:1 dir:s nxt:w1 ballistic_rangeer
-     frenzieder rambleer     [0m     
-[37mPos: 15 pts:8 wds:1 dir:s nxt:w1 Armorer
-     Plateer     [0m          
-Team 1: 
-[37mPos: 1 pts:9 wds:3 dir:w nxt:n0 Melee_skiller
-     Meleeer Adeptnesser     [0m     
-[37mPos: 2 pts:5 wds:1 dir:n nxt:n0 Magicser
-     Maleficeer     [0m     
-[37mPos: 3 pts:4 wds:1 dir:e nxt:n0 ballistic_defense_skiller
-     frenzieder protectioner causeer     [0m     
-[37mPos: 4 pts:2 wds:1 dir:e nxt:n0 armorer
-     panoplyer     [0m     
-[31mPos: 5 pts:2 wds:-1 dir:n nxt:n0 melee_skiller
-     meleeer judgmenter     [0m     
-[37mPos: 6 pts:7 wds:3 dir:n nxt:n1 Ballistic_skiller
-     Ballisticaler Handicrafter     [0m     
-[37mPos: 7 pts:10 wds:1 dir:n nxt:n0 Armorer
-     Armor Plateer     [0m     
-[37mPos: 8 pts:9 wds:1 dir:n nxt:n0 Magic_skiller
-     Exorcismer Techniqueer     [0m     
-[37mPos: 9 pts:8 wds:3 dir:n nxt:e0 Magicser
-     Deviltryer     [0m     
-[37mPos: 10 pts:7 wds:1 dir:e nxt:n0 Moveer
-     Driveer     [0m     
-[37mPos: 11 pts:5 wds:1 dir:n nxt:e0 Ballistic_defense_skiller
-     Ballisticaler Advocacyer Adeptnesser     [0m     
-[37mPos: 12 pts:2 wds:1 dir:n nxt:n1 magic_rangeer
-     illusionismer training areaer     [0m     
-[37mPos: 13 pts:1 wds:1 dir:n nxt:n0 standarder
-     base     [0m     
-[37mPos: 14 pts:1 wds:1 dir:w nxt:e2 standarder
-     base     [0m     
-[37mPos: 15 pts:1 wds:1 dir:n nxt:e1 standarder
-     base     [0m          
-Team 2 Points: 64     
-Team 1 Points: 69     
-[2HCurrent step: 25     
-Team 2: 
-[37mPos: 1 pts:5 wds:3 dir:s nxt:w0 Ballistic_damageer
-     Ballisticaler Injureer     [0m     
-[37mPos: 2 pts:6 wds:1 dir:s nxt:n0 Ballistic_defense_skiller
-     Frenzieder Protectioner Knowledgeer     [0m     
-[37mPos: 3 pts:7 wds:3 dir:s nxt:e2 Ballistic_damageer
-     Frenzieder Losser     [0m     
-[37mPos: 4 pts:3 wds:1 dir:e nxt:n0 moveer
-     flutterer     [0m     
-[37mPos: 5 pts:6 wds:5 dir:s nxt:w1 Woundser
-     Slighter     [0m     
-[37mPos: 6 pts:3 wds:1 dir:s nxt:n0 melee_skiller
-     meleeer causeer     [0m     
-[44m[37mPos: 7 pts:12 wds:1 dir:s nxt:w1 armorer
-     armor plateer     [0m[0m     
-[37mPos: 8 pts:5 wds:1 dir:w nxt:n0 Ballistic_rangeer
-     Frenzieder Roamer     [0m     
-[37mPos: 9 pts:3 wds:1 dir:s nxt:n0 melee_damageer
-     meleeer hurter     [0m     
-[37mPos: 10 pts:5 wds:3 dir:s nxt:n0 Woundser
-     Crepanceer     [0m     
-[37mPos: 11 pts:3 wds:3 dir:e nxt:n0 woundser
-     calker     [0m     
-[37mPos: 12 pts:3 wds:2 dir:s nxt:n0 woundser
-     crepanceer     [0m     
-[31mPos: 13 pts:8 wds:-2 dir:s nxt:n0 Ballistic_damageer
-     Ballisticaler Injuryer     [0m     
-[37mPos: 14 pts:3 wds:1 dir:e nxt:n0 ballistic_rangeer
-     frenzieder rambleer     [0m     
-[37mPos: 15 pts:8 wds:1 dir:e nxt:n0 Armorer
-     Plateer     [0m          
-Team 1: 
-[37mPos: 1 pts:9 wds:3 dir:n nxt:e0 Melee_skiller
-     Meleeer Adeptnesser     [0m     
-[37mPos: 2 pts:5 wds:1 dir:n nxt:e2 Magicser
-     Maleficeer     [0m     
-[37mPos: 3 pts:4 wds:1 dir:n nxt:w1 ballistic_defense_skiller
-     frenzieder protectioner causeer     [0m     
-[37mPos: 4 pts:2 wds:1 dir:n nxt:n0 armorer
-     panoplyer     [0m     
-[31mPos: 5 pts:2 wds:-1 dir:n nxt:n0 melee_skiller
-     meleeer judgmenter     [0m     
-[37mPos: 6 pts:7 wds:3 dir:n nxt:e2 Ballistic_skiller
-     Ballisticaler Handicrafter     [0m     
-[37mPos: 7 pts:10 wds:1 dir:n nxt:w2 Armorer
-     Armor Plateer     [0m     
-[37mPos: 8 pts:9 wds:1 dir:n nxt:e0 Magic_skiller
-     Exorcismer Techniqueer     [0m     
-[37mPos: 9 pts:8 wds:3 dir:e nxt:n1 Magicser
-     Deviltryer     [0m     
-[37mPos: 10 pts:7 wds:1 dir:n nxt:n0 Moveer
-     Driveer     [0m     
-[37mPos: 11 pts:5 wds:1 dir:e nxt:n0 Ballistic_defense_skiller
-     Ballisticaler Advocacyer Adeptnesser     [0m     
-[37mPos: 12 pts:2 wds:1 dir:n nxt:n1 magic_rangeer
-     illusionismer training areaer     [0m     
-[37mPos: 13 pts:1 wds:1 dir:n nxt:n0 standarder
-     base     [0m     
-[37mPos: 14 pts:1 wds:1 dir:e nxt:n0 standarder
-     base     [0m     
-[37mPos: 15 pts:1 wds:1 dir:e nxt:w0 standarder
-     base     [0m          
-Team 2 Points: 64     
-Team 1 Points: 69     
-[2HCurrent step: 26     
-Team 2: 
-[37mPos: 1 pts:5 wds:3 dir:e nxt:n0 Ballistic_damageer
-     Ballisticaler Injureer     [0m     
-[37mPos: 2 pts:6 wds:1 dir:s nxt:n1 Ballistic_defense_skiller
-     Frenzieder Protectioner Knowledgeer     [0m     
-[37mPos: 3 pts:7 wds:3 dir:w nxt:n0 Ballistic_damageer
-     Frenzieder Losser     [0m     
-[37mPos: 4 pts:3 wds:1 dir:s nxt:n0 moveer
-     flutterer     [0m     
-[37mPos: 5 pts:6 wds:5 dir:e nxt:w0 Woundser
-     Slighter     [0m     
-[37mPos: 6 pts:3 wds:1 dir:s nxt:w1 melee_skiller
-     meleeer causeer     [0m     
-[37mPos: 7 pts:2 wds:1 dir:e nxt:n0 armorer
-     armor plateer     [0m     
-[37mPos: 8 pts:5 wds:1 dir:s nxt:n0 Ballistic_rangeer
-     Frenzieder Roamer     [0m     
-[37mPos: 9 pts:3 wds:1 dir:s nxt:n0 melee_damageer
-     meleeer hurter     [0m     
-[37mPos: 10 pts:5 wds:3 dir:s nxt:n0 Woundser
-     Crepanceer     [0m     
-[37mPos: 11 pts:3 wds:3 dir:s nxt:n0 woundser
-     calker     [0m     
-[37mPos: 12 pts:3 wds:2 dir:s nxt:w2 woundser
-     crepanceer     [0m     
-[31mPos: 13 pts:8 wds:-2 dir:s nxt:n0 Ballistic_damageer
-     Ballisticaler Injuryer     [0m     
-[37mPos: 14 pts:3 wds:1 dir:s nxt:n0 ballistic_rangeer
-     frenzieder rambleer     [0m     
-[37mPos: 15 pts:8 wds:1 dir:s nxt:w0 Armorer
-     Plateer     [0m          
-Team 1: 
-[37mPos: 1 pts:9 wds:3 dir:e nxt:n0 Melee_skiller
-     Meleeer Adeptnesser     [0m     
-[37mPos: 2 pts:5 wds:1 dir:e nxt:e2 Magicser
-     Maleficeer     [0m     
-[37mPos: 3 pts:4 wds:1 dir:w nxt:n0 ballistic_defense_skiller
-     frenzieder protectioner causeer     [0m     
-[37mPos: 4 pts:2 wds:1 dir:n nxt:n0 armorer
-     panoplyer     [0m     
-[31mPos: 5 pts:2 wds:-1 dir:n nxt:n0 melee_skiller
+[37mPos: 5 pts:2 wds:1 dir:n nxt:e0 melee_skiller
      meleeer judgmenter     [0m     
 [37mPos: 6 pts:7 wds:3 dir:e nxt:e0 Ballistic_skiller
      Ballisticaler Handicrafter     [0m     
 [37mPos: 7 pts:10 wds:1 dir:w nxt:n2 Armorer
      Armor Plateer     [0m     
-[37mPos: 8 pts:9 wds:1 dir:e nxt:n0 Magic_skiller
+[37mPos: 8 pts:9 wds:1 dir:w nxt:n0 Magic_skiller
      Exorcismer Techniqueer     [0m     
-[37mPos: 9 pts:8 wds:3 dir:n nxt:w2 Magicser
-     Deviltryer     [0m     
-[37mPos: 10 pts:7 wds:1 dir:n nxt:w0 Moveer
-     Driveer     [0m     
-[37mPos: 11 pts:5 wds:1 dir:n nxt:n0 Ballistic_defense_skiller
-     Ballisticaler Advocacyer Adeptnesser     [0m     
-[37mPos: 12 pts:2 wds:1 dir:n nxt:w1 magic_rangeer
-     illusionismer training areaer     [0m     
-[37mPos: 13 pts:1 wds:1 dir:n nxt:w1 standarder
-     base     [0m     
-[37mPos: 14 pts:1 wds:1 dir:n nxt:n0 standarder
-     base     [0m     
-[37mPos: 15 pts:1 wds:1 dir:w nxt:e2 standarder
-     base     [0m          
-Team 2 Points: 54     
-Team 1 Points: 69     
-[2HCurrent step: 27     
-Team 2: 
-[37mPos: 1 pts:5 wds:3 dir:s nxt:n1 Ballistic_damageer
-     Ballisticaler Injureer     [0m     
-[37mPos: 2 pts:6 wds:1 dir:s nxt:w1 Ballistic_defense_skiller
-     Frenzieder Protectioner Knowledgeer     [0m     
-[37mPos: 3 pts:7 wds:3 dir:s nxt:n0 Ballistic_damageer
-     Frenzieder Losser     [0m     
-[37mPos: 4 pts:3 wds:1 dir:s nxt:n0 moveer
-     flutterer     [0m     
-[37mPos: 5 pts:6 wds:5 dir:e nxt:n0 Woundser
-     Slighter     [0m     
-[37mPos: 6 pts:3 wds:1 dir:e nxt:n0 melee_skiller
-     meleeer causeer     [0m     
-[37mPos: 7 pts:2 wds:1 dir:s nxt:w2 armorer
-     armor plateer     [0m     
-[37mPos: 8 pts:5 wds:1 dir:s nxt:w2 Ballistic_rangeer
-     Frenzieder Roamer     [0m     
-[37mPos: 9 pts:3 wds:1 dir:s nxt:w0 melee_damageer
-     meleeer hurter     [0m     
-[37mPos: 10 pts:5 wds:3 dir:s nxt:w2 Woundser
-     Crepanceer     [0m     
-[37mPos: 11 pts:3 wds:3 dir:s nxt:n0 woundser
-     calker     [0m     
-[37mPos: 12 pts:3 wds:2 dir:e nxt:n0 woundser
-     crepanceer     [0m     
-[31mPos: 13 pts:8 wds:-2 dir:s nxt:n0 Ballistic_damageer
-     Ballisticaler Injuryer     [0m     
-[37mPos: 14 pts:3 wds:1 dir:s nxt:n0 ballistic_rangeer
-     frenzieder rambleer     [0m     
-[37mPos: 15 pts:8 wds:1 dir:e nxt:n0 Armorer
-     Plateer     [0m          
-Team 1: 
-[37mPos: 1 pts:9 wds:3 dir:n nxt:e1 Melee_skiller
-     Meleeer Adeptnesser     [0m     
-[37mPos: 2 pts:5 wds:1 dir:e nxt:n0 Magicser
-     Maleficeer     [0m     
-[37mPos: 3 pts:4 wds:1 dir:n nxt:n0 ballistic_defense_skiller
-     frenzieder protectioner causeer     [0m     
-[37mPos: 4 pts:2 wds:1 dir:n nxt:w1 armorer
-     panoplyer     [0m     
-[31mPos: 5 pts:2 wds:-1 dir:n nxt:n0 melee_skiller
-     meleeer judgmenter     [0m     
-[37mPos: 6 pts:7 wds:3 dir:e nxt:n0 Ballistic_skiller
-     Ballisticaler Handicrafter     [0m     
-[37mPos: 7 pts:10 wds:1 dir:n nxt:n0 Armorer
-     Armor Plateer     [0m     
-[37mPos: 8 pts:9 wds:1 dir:n nxt:n0 Magic_skiller
-     Exorcismer Techniqueer     [0m     
-[37mPos: 9 pts:8 wds:3 dir:w nxt:w1 Magicser
-     Deviltryer     [0m     
-[37mPos: 10 pts:7 wds:1 dir:w nxt:e2 Moveer
-     Driveer     [0m     
-[37mPos: 11 pts:5 wds:1 dir:n nxt:n0 Ballistic_defense_skiller
-     Ballisticaler Advocacyer Adeptnesser     [0m     
-[37mPos: 12 pts:2 wds:1 dir:w nxt:w0 magic_rangeer
-     illusionismer training areaer     [0m     
-[37mPos: 13 pts:1 wds:1 dir:w nxt:n0 standarder
-     base     [0m     
-[31mPos: 14 pts:1 wds:0 dir:n nxt:n0 standarder
-     base     [0m     
-[37mPos: 15 pts:1 wds:1 dir:e nxt:n0 standarder
-     base     [0m          
-Team 2 Points: 54     
-Team 1 Points: 67     
-[2HCurrent step: 28     
-Team 2: 
-[37mPos: 1 pts:5 wds:3 dir:s nxt:n0 Ballistic_damageer
-     Ballisticaler Injureer     [0m     
-[37mPos: 2 pts:6 wds:1 dir:e nxt:w2 Ballistic_defense_skiller
-     Frenzieder Protectioner Knowledgeer     [0m     
-[37mPos: 3 pts:7 wds:3 dir:s nxt:n0 Ballistic_damageer
-     Frenzieder Losser     [0m     
-[37mPos: 4 pts:3 wds:1 dir:s nxt:n0 moveer
-     flutterer     [0m     
-[37mPos: 5 pts:6 wds:5 dir:s nxt:n0 Woundser
-     Slighter     [0m     
-[37mPos: 6 pts:3 wds:1 dir:s nxt:w0 melee_skiller
-     meleeer causeer     [0m     
-[37mPos: 7 pts:2 wds:1 dir:e nxt:n0 armorer
-     armor plateer     [0m     
-[37mPos: 8 pts:5 wds:1 dir:e nxt:n0 Ballistic_rangeer
-     Frenzieder Roamer     [0m     
-[37mPos: 9 pts:3 wds:1 dir:e nxt:n0 melee_damageer
-     meleeer hurter     [0m     
-[37mPos: 10 pts:5 wds:3 dir:e nxt:n2 Woundser
-     Crepanceer     [0m     
-[37mPos: 11 pts:3 wds:3 dir:s nxt:e2 woundser
-     calker     [0m     
-[37mPos: 12 pts:3 wds:2 dir:s nxt:e0 woundser
-     crepanceer     [0m     
-[31mPos: 13 pts:8 wds:-2 dir:s nxt:n0 Ballistic_damageer
-     Ballisticaler Injuryer     [0m     
-[37mPos: 14 pts:3 wds:1 dir:s nxt:w2 ballistic_rangeer
-     frenzieder rambleer     [0m     
-[37mPos: 15 pts:8 wds:1 dir:s nxt:n0 Armorer
-     Plateer     [0m          
-Team 1: 
-[37mPos: 1 pts:9 wds:3 dir:e nxt:n2 Melee_skiller
-     Meleeer Adeptnesser     [0m     
-[37mPos: 2 pts:5 wds:1 dir:n nxt:n0 Magicser
-     Maleficeer     [0m     
-[31mPos: 3 pts:4 wds:0 dir:n nxt:n0 ballistic_defense_skiller
-     frenzieder protectioner causeer     [0m     
-[37mPos: 4 pts:2 wds:1 dir:w nxt:n0 armorer
-     panoplyer     [0m     
-[31mPos: 5 pts:2 wds:-1 dir:n nxt:n0 melee_skiller
-     meleeer judgmenter     [0m     
-[37mPos: 6 pts:7 wds:3 dir:n nxt:w1 Ballistic_skiller
-     Ballisticaler Handicrafter     [0m     
-[37mPos: 7 pts:10 wds:1 dir:n nxt:n0 Armorer
-     Armor Plateer     [0m     
-[37mPos: 8 pts:9 wds:1 dir:n nxt:n0 Magic_skiller
-     Exorcismer Techniqueer     [0m     
-[37mPos: 9 pts:8 wds:3 dir:w nxt:n0 Magicser
+[37mPos: 9 pts:8 wds:3 dir:e nxt:e0 Magicser
      Deviltryer     [0m     
 [37mPos: 10 pts:7 wds:1 dir:e nxt:e0 Moveer
      Driveer     [0m     
-[37mPos: 11 pts:5 wds:1 dir:n nxt:n0 Ballistic_defense_skiller
+[37mPos: 11 pts:5 wds:1 dir:e nxt:e2 Ballistic_defense_skiller
      Ballisticaler Advocacyer Adeptnesser     [0m     
-[37mPos: 12 pts:2 wds:1 dir:w nxt:w2 magic_rangeer
+[37mPos: 12 pts:2 wds:1 dir:n nxt:e1 magic_rangeer
      illusionismer training areaer     [0m     
-[37mPos: 13 pts:1 wds:1 dir:n nxt:n0 standarder
+[37mPos: 13 pts:1 wds:1 dir:w nxt:e1 standarder
      base     [0m     
-[31mPos: 14 pts:1 wds:0 dir:n nxt:n0 standarder
+[37mPos: 14 pts:1 wds:1 dir:e nxt:n1 standarder
      base     [0m     
-[37mPos: 15 pts:1 wds:1 dir:n nxt:n0 standarder
+[37mPos: 15 pts:1 wds:1 dir:e nxt:e2 standarder
      base     [0m          
-Team 2 Points: 54     
-Team 1 Points: 59     
-[2HCurrent step: 29     
-Team 2: 
-[37mPos: 1 pts:5 wds:3 dir:s nxt:e2 Ballistic_damageer
-     Ballisticaler Injureer     [0m     
-[37mPos: 2 pts:6 wds:1 dir:e nxt:n0 Ballistic_defense_skiller
-     Frenzieder Protectioner Knowledgeer     [0m     
-[37mPos: 3 pts:7 wds:3 dir:s nxt:e2 Ballistic_damageer
-     Frenzieder Losser     [0m     
-[37mPos: 4 pts:3 wds:1 dir:s nxt:n0 moveer
-     flutterer     [0m     
-[37mPos: 5 pts:6 wds:5 dir:s nxt:w2 Woundser
-     Slighter     [0m     
-[37mPos: 6 pts:3 wds:1 dir:e nxt:w0 melee_skiller
-     meleeer causeer     [0m     
-[37mPos: 7 pts:2 wds:1 dir:s nxt:n2 armorer
-     armor plateer     [0m     
-[37mPos: 8 pts:5 wds:1 dir:s nxt:e1 Ballistic_rangeer
-     Frenzieder Roamer     [0m     
-[37mPos: 9 pts:3 wds:1 dir:s nxt:n0 melee_damageer
-     meleeer hurter     [0m     
-[37mPos: 10 pts:5 wds:3 dir:s nxt:n2 Woundser
-     Crepanceer     [0m     
-[37mPos: 11 pts:3 wds:3 dir:w nxt:e1 woundser
-     calker     [0m     
-[37mPos: 12 pts:3 wds:2 dir:w nxt:n0 woundser
-     crepanceer     [0m     
-[31mPos: 13 pts:8 wds:-2 dir:s nxt:n0 Ballistic_damageer
-     Ballisticaler Injuryer     [0m     
-[37mPos: 14 pts:3 wds:1 dir:e nxt:w1 ballistic_rangeer
-     frenzieder rambleer     [0m     
-[37mPos: 15 pts:8 wds:1 dir:s nxt:e2 Armorer
-     Plateer     [0m          
-Team 1: 
-[37mPos: 1 pts:9 wds:3 dir:n nxt:n0 Melee_skiller
-     Meleeer Adeptnesser     [0m     
-[37mPos: 2 pts:5 wds:1 dir:n nxt:n0 Magicser
-     Maleficeer     [0m     
-[31mPos: 3 pts:4 wds:0 dir:n nxt:n0 ballistic_defense_skiller
-     frenzieder protectioner causeer     [0m     
-[37mPos: 4 pts:2 wds:1 dir:n nxt:n0 armorer
-     panoplyer     [0m     
-[31mPos: 5 pts:2 wds:-1 dir:n nxt:n0 melee_skiller
-     meleeer judgmenter     [0m     
-[37mPos: 6 pts:7 wds:3 dir:w nxt:w2 Ballistic_skiller
-     Ballisticaler Handicrafter     [0m     
-[37mPos: 7 pts:10 wds:1 dir:n nxt:n0 Armorer
-     Armor Plateer     [0m     
-[37mPos: 8 pts:9 wds:1 dir:n nxt:n0 Magic_skiller
-     Exorcismer Techniqueer     [0m     
-[37mPos: 9 pts:8 wds:3 dir:n nxt:n0 Magicser
-     Deviltryer     [0m     
-[37mPos: 10 pts:7 wds:1 dir:e nxt:n2 Moveer
-     Driveer     [0m     
-[37mPos: 11 pts:5 wds:1 dir:n nxt:n0 Ballistic_defense_skiller
-     Ballisticaler Advocacyer Adeptnesser     [0m     
-[37mPos: 12 pts:2 wds:1 dir:w nxt:n0 magic_rangeer
-     illusionismer training areaer     [0m     
-[37mPos: 13 pts:1 wds:1 dir:n nxt:n1 standarder
-     base     [0m     
-[31mPos: 14 pts:1 wds:0 dir:n nxt:n0 standarder
-     base     [0m     
-[37mPos: 15 pts:1 wds:1 dir:n nxt:n0 standarder
-     base     [0m          
-Team 2 Points: 54     
-Team 1 Points: 59     
-[2HCurrent step: 30     
-Team 2: 
-[37mPos: 1 pts:5 wds:3 dir:w nxt:n0 Ballistic_damageer
-     Ballisticaler Injureer     [0m     
-[37mPos: 2 pts:6 wds:1 dir:s nxt:n0 Ballistic_defense_skiller
-     Frenzieder Protectioner Knowledgeer     [0m     
-[37mPos: 3 pts:7 wds:1 dir:w nxt:n0 Ballistic_damageer
-     Frenzieder Losser     [0m     
-[37mPos: 4 pts:3 wds:1 dir:s nxt:e2 moveer
-     flutterer     [0m     
-[37mPos: 5 pts:6 wds:5 dir:e nxt:w2 Woundser
-     Slighter     [0m     
-[37mPos: 6 pts:3 wds:1 dir:e nxt:e2 melee_skiller
-     meleeer causeer     [0m     
-[37mPos: 7 pts:2 wds:1 dir:s nxt:w2 armorer
-     armor plateer     [0m     
-[37mPos: 8 pts:5 wds:1 dir:w nxt:n2 Ballistic_rangeer
-     Frenzieder Roamer     [0m     
-[37mPos: 9 pts:3 wds:1 dir:s nxt:n0 melee_damageer
-     meleeer hurter     [0m     
-[37mPos: 10 pts:5 wds:3 dir:s nxt:n0 Woundser
-     Crepanceer     [0m     
-[37mPos: 11 pts:3 wds:3 dir:w nxt:e0 woundser
-     calker     [0m     
-[37mPos: 12 pts:3 wds:2 dir:s nxt:n0 woundser
-     crepanceer     [0m     
-[31mPos: 13 pts:8 wds:-2 dir:s nxt:n0 Ballistic_damageer
-     Ballisticaler Injuryer     [0m     
-[37mPos: 14 pts:3 wds:1 dir:e nxt:n0 ballistic_rangeer
-     frenzieder rambleer     [0m     
-[37mPos: 15 pts:8 wds:1 dir:w nxt:n0 Armorer
-     Plateer     [0m          
-Team 1: 
-[37mPos: 1 pts:9 wds:3 dir:n nxt:n0 Melee_skiller
-     Meleeer Adeptnesser     [0m     
-[37mPos: 2 pts:5 wds:1 dir:n nxt:n0 Magicser
-     Maleficeer     [0m     
-[31mPos: 3 pts:4 wds:0 dir:n nxt:n0 ballistic_defense_skiller
-     frenzieder protectioner causeer     [0m     
-[37mPos: 4 pts:2 wds:1 dir:n nxt:n1 armorer
-     panoplyer     [0m     
-[31mPos: 5 pts:2 wds:-1 dir:n nxt:n0 melee_skiller
-     meleeer judgmenter     [0m     
-[37mPos: 6 pts:7 wds:3 dir:w nxt:w2 Ballistic_skiller
-     Ballisticaler Handicrafter     [0m     
-[37mPos: 7 pts:10 wds:1 dir:n nxt:n0 Armorer
-     Armor Plateer     [0m     
-[37mPos: 8 pts:9 wds:1 dir:n nxt:e1 Magic_skiller
-     Exorcismer Techniqueer     [0m     
-[37mPos: 9 pts:8 wds:3 dir:n nxt:n0 Magicser
-     Deviltryer     [0m     
-[37mPos: 10 pts:7 wds:1 dir:n nxt:w0 Moveer
-     Driveer     [0m     
-[37mPos: 11 pts:5 wds:1 dir:n nxt:n1 Ballistic_defense_skiller
-     Ballisticaler Advocacyer Adeptnesser     [0m     
-[37mPos: 12 pts:2 wds:1 dir:n nxt:w2 magic_rangeer
-     illusionismer training areaer     [0m     
-[37mPos: 13 pts:1 wds:1 dir:n nxt:e0 standarder
-     base     [0m     
-[31mPos: 14 pts:1 wds:0 dir:n nxt:n0 standarder
-     base     [0m     
-[37mPos: 15 pts:1 wds:1 dir:n nxt:n0 standarder
-     base     [0m          
-Team 2 Points: 54     
-Team 1 Points: 59     
-[2HCurrent step: 30     
-Team 2: 
-[37mPos: 1 pts:5 wds:3 dir:w nxt:n0 Ballistic_damageer
-     Ballisticaler Injureer     [0m     
-[37mPos: 2 pts:6 wds:1 dir:s nxt:n0 Ballistic_defense_skiller
-     Frenzieder Protectioner Knowledgeer     [0m     
-[37mPos: 3 pts:7 wds:1 dir:w nxt:n0 Ballistic_damageer
-     Frenzieder Losser     [0m     
-[37mPos: 4 pts:3 wds:1 dir:s nxt:e2 moveer
-     flutterer     [0m     
-[37mPos: 5 pts:6 wds:5 dir:e nxt:w2 Woundser
-     Slighter     [0m     
-[37mPos: 6 pts:3 wds:1 dir:e nxt:e2 melee_skiller
-     meleeer causeer     [0m     
-[37mPos: 7 pts:2 wds:1 dir:s nxt:w2 armorer
-     armor plateer     [0m     
-[37mPos: 8 pts:5 wds:1 dir:w nxt:n2 Ballistic_rangeer
-     Frenzieder Roamer     [0m     
-[37mPos: 9 pts:3 wds:1 dir:s nxt:n0 melee_damageer
-     meleeer hurter     [0m     
-[37mPos: 10 pts:5 wds:3 dir:s nxt:n0 Woundser
-     Crepanceer     [0m     
-[37mPos: 11 pts:3 wds:3 dir:w nxt:e0 woundser
-     calker     [0m     
-[37mPos: 12 pts:3 wds:2 dir:s nxt:n0 woundser
-     crepanceer     [0m     
-[31mPos: 13 pts:8 wds:-2 dir:s nxt:n0 Ballistic_damageer
-     Ballisticaler Injuryer     [0m     
-[37mPos: 14 pts:3 wds:1 dir:e nxt:n0 ballistic_rangeer
-     frenzieder rambleer     [0m     
-[37mPos: 15 pts:8 wds:1 dir:w nxt:n0 Armorer
-     Plateer     [0m          
-Team 1: 
-[37mPos: 1 pts:9 wds:3 dir:n nxt:n0 Melee_skiller
-     Meleeer Adeptnesser     [0m     
-[37mPos: 2 pts:5 wds:1 dir:n nxt:n0 Magicser
-     Maleficeer     [0m     
-[31mPos: 3 pts:4 wds:0 dir:n nxt:n0 ballistic_defense_skiller
-     frenzieder protectioner causeer     [0m     
-[37mPos: 4 pts:2 wds:1 dir:n nxt:n1 armorer
-     panoplyer     [0m     
-[31mPos: 5 pts:2 wds:-1 dir:n nxt:n0 melee_skiller
-     meleeer judgmenter     [0m     
-[37mPos: 6 pts:7 wds:3 dir:w nxt:w2 Ballistic_skiller
-     Ballisticaler Handicrafter     [0m     
-[37mPos: 7 pts:10 wds:1 dir:n nxt:n0 Armorer
-     Armor Plateer     [0m     
-[37mPos: 8 pts:9 wds:1 dir:n nxt:e1 Magic_skiller
-     Exorcismer Techniqueer     [0m     
-[37mPos: 9 pts:8 wds:3 dir:n nxt:n0 Magicser
-     Deviltryer     [0m     
-[37mPos: 10 pts:7 wds:1 dir:n nxt:w0 Moveer
-     Driveer     [0m     
-[37mPos: 11 pts:5 wds:1 dir:n nxt:n1 Ballistic_defense_skiller
-     Ballisticaler Advocacyer Adeptnesser     [0m     
-[37mPos: 12 pts:2 wds:1 dir:n nxt:w2 magic_rangeer
-     illusionismer training areaer     [0m     
-[37mPos: 13 pts:1 wds:1 dir:n nxt:e0 standarder
-     base     [0m     
-[31mPos: 14 pts:1 wds:0 dir:n nxt:n0 standarder
-     base     [0m     
-[37mPos: 15 pts:1 wds:1 dir:n nxt:n0 standarder
-     base     [0m          
-Team 2 Points: 54     
-Team 1 Points: 59     
+Team 2 Points: 70     
+Team 1 Points: 73     

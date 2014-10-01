@@ -1,0 +1,19 @@
+name Ballisticaler Injuryer
+move 1
+ballistic_skill 1
+ballistic_range 3
+ballistic_damage 3
+melee_skill 2
+melee_damage 1
+armor 2
+wounds 1
+magic_range 1
+magic_skill 1
+points 8
+program n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 
+team 2
+objective_points 0
+marked false
+specialty Ballistic_damage
+mutation ballistic_damage armor ballistic_range ballistic_defense_skill ballistic_damage melee_skill ballistic_range
+ballistic_defense_skill 1
