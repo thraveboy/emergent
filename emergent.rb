@@ -14,6 +14,7 @@ PAUSE_LENGTH = 0
 
 CLEAR_SCREEN = FALSE
 CLEAR_SCREEN_MAP_LOG = TRUE
+CLEAR_SCREEN_TEAM_LOG = TRUE
 
 SEED = 0
 TOTAL_MUTATIONS = 60
@@ -159,13 +160,18 @@ def clear_screen(log = "", full_wipe = false)
   if $dump_logs
     if (log == "map")
       if full_wipe
-        $team_log.print("\e[2J")
+        $map_log.print("\e[2J")
       else
         # go to top left corner instead of clear
         $map_log.print("\e[2H")
       end
     elsif (log == "team")
-      $team_log.print("\e[2H")
+      if full_wipe
+        $team_log.print("\e[2J")
+      else
+        # go to top left corner instead of clear
+        $team_log.print("\e[2H")
+      end
     else
       print "\e[2J"
     end
@@ -322,7 +328,7 @@ class Being < Thing
     if self.marked
       program_display = blue_bg(program_display)
     end
-    return_string = "pts:#{current_points} wds:#{self.wounds} dir:#{self.facing} nxt:#{program_display} #{self.specialty}er\n     #{self.name}     "
+    return_string = "#{self.name}\n   pt:#{current_points} (#{self.specialty}) \n   w:#{self.wounds} a:#{self.armor} md: #{self.melee_damage} ms:#{self.melee_skill} bd:#{self.ballistic_damage} br:#{self.ballistic_range} bs:#{self.ballistic_skill} bds:#{self.ballistic_defense_skill}\n   mr:#{self.magic_range} ms:#{self.magic_skill} mv:#{self.move} d:#{self.facing} n:#{program_display}\n   m:#{self.magics}"
   end
 
   def apply_mutation(mutate_name = false)
@@ -799,7 +805,7 @@ class TeamStats_BeingOperator < Thing
             output_being_file.close
           end
           current_being_team_stats =
-              current_being.get_brief_stats.prepend("Pos: #{position_number} ")
+              current_being.get_brief_stats.prepend("P:#{position_number} ")
           current_wounds = current_being.wounds
           if !current_wounds.nil?
             if current_wounds.to_i > 0
@@ -1388,6 +1394,9 @@ rescue NameError
 end
 
 def output_team_stats(beings, world, output_to_file=false, output_beings=false)
+  if CLEAR_SCREEN_TEAM_LOG
+    clear_screen("team", true)
+  end
   if !$dump_logs && !output_to_file && !output_beings
     return
   end
@@ -1585,10 +1594,6 @@ class LineOfCommand
     if worlds != nil && worlds[-1] != nil
       worlds[-1].print_map(displays)
     end
-  end
-
-  if CLEAR_SCREEN_MAP_LOG
-    clear_screen("map", true)
   end
 
   ARGV.each do|a|

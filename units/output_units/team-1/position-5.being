@@ -1,18 +1,19 @@
-name meleeer judgmenter 
+name sleight of hander judgmenter 
 move 1
 ballistic_skill 1
 ballistic_range 1
 ballistic_damage 1
-melee_skill 2
-melee_damage 1
+melee_skill 1
+melee_damage 2
 armor 1
 wounds 1
 magic_range 1
-magic_skill 1
-points 2
+magic_skill 2
+points 4
 program n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 
 team 1
 objective_points 0
 marked false
-specialty melee_skill
-mutation melee_skill
+specialty magic_skill
+mutation magic_skill melee_damage magics  -ballistic_defense_skill1
+magics  -ballistic_defense_skill1

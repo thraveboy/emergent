@@ -1,2 +1,5 @@
 magic_range armor ballistic_skill ballistic_range
 ballistic_defense_skill ballistic_defense_skill magic_range wounds melee_damage melee_skill
+ballistic_range wounds ballistic_defense_skill
+move ballistic_defense_skill magic_skill ballistic_skill wounds wounds
+wounds melee_skill magic_skill move move move ballistic_damage

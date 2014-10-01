@@ -1,59 +1,59 @@
-...Thing Meleeer Adeptnesser created and initialized
+...Thing Flower created and initialized
  ..
 ...Thing position-1 created and initialized
  ..
 Assigning program to being...
-...Thing Maleficeer created and initialized
+...Thing Frenzieder Eviler created and initialized
  ..
 ...Thing position-2 created and initialized
  ..
 Assigning program to being...
-...Thing frenzieder protectioner causeer created and initialized
+...Thing Helmer created and initialized
  ..
 ...Thing position-3 created and initialized
  ..
 Assigning program to being...
-...Thing panoplyer created and initialized
+...Thing Panoplyer created and initialized
  ..
 ...Thing position-4 created and initialized
  ..
 Assigning program to being...
-...Thing meleeer judgmenter created and initialized
+...Thing sleight of hander judgmenter created and initialized
  ..
 ...Thing position-5 created and initialized
  ..
 Assigning program to being...
-...Thing Ballisticaler Handicrafter created and initialized
+...Thing Ballisticaler Pleader Reasoner created and initialized
  ..
 ...Thing position-6 created and initialized
  ..
 Assigning program to being...
-...Thing Armor Plateer created and initialized
+...Thing Meleeer Adeptnesser created and initialized
  ..
 ...Thing position-7 created and initialized
  ..
 Assigning program to being...
-...Thing Exorcismer Techniqueer created and initialized
+...Thing Frenzieder Advocacyer Techniqueer created and initialized
  ..
 ...Thing position-8 created and initialized
  ..
 Assigning program to being...
-...Thing Deviltryer created and initialized
+...Thing calker created and initialized
  ..
 ...Thing position-9 created and initialized
  ..
 Assigning program to being...
-...Thing Driveer created and initialized
+...Thing Meleeer Mischiefer created and initialized
  ..
 ...Thing position-10 created and initialized
  ..
 Assigning program to being...
-...Thing Ballisticaler Advocacyer Adeptnesser created and initialized
+...Thing maleficeer judgmenter created and initialized
  ..
 ...Thing position-11 created and initialized
  ..
 Assigning program to being...
-...Thing illusionismer training areaer created and initialized
+...Thing frenzieder reasoner created and initialized
  ..
 ...Thing position-12 created and initialized
  ..
@@ -74,312 +74,661 @@ Assigning program to being...
  ..
 Assigning program to being...
 incrementing team number. new beings will now be on team 2.
-...Thing Ballisticaler Injureer created and initialized
+...Thing Calker created and initialized
  ..
 ...Thing position-1 created and initialized
  ..
 Assigning program to being...
-...Thing Frenzieder Protectioner Knowledgeer created and initialized
+...Thing dweomercrafter strayer created and initialized
  ..
 ...Thing position-2 created and initialized
  ..
 Assigning program to being...
-...Thing Frenzieder Losser created and initialized
+...Thing frenzieder wanderer created and initialized
  ..
 ...Thing position-3 created and initialized
  ..
 Assigning program to being...
-...Thing flutterer created and initialized
+...Thing ballisticaler injuryer created and initialized
  ..
 ...Thing position-4 created and initialized
  ..
 Assigning program to being...
-...Thing Slighter created and initialized
+...Thing Ballisticaler Training Areaer created and initialized
  ..
 ...Thing position-5 created and initialized
  ..
 Assigning program to being...
-...Thing meleeer causeer created and initialized
+...Thing Plateer created and initialized
  ..
 ...Thing position-6 created and initialized
  ..
 Assigning program to being...
-...Thing armor plateer created and initialized
+...Thing Tearer created and initialized
  ..
 ...Thing position-7 created and initialized
  ..
 Assigning program to being...
-...Thing Frenzieder Roamer created and initialized
+...Thing Frenzieder Training Areaer created and initialized
  ..
 ...Thing position-8 created and initialized
  ..
 Assigning program to being...
-...Thing meleeer hurter created and initialized
+...Thing Horner created and initialized
  ..
 ...Thing position-9 created and initialized
  ..
 Assigning program to being...
-...Thing Crepanceer created and initialized
+...Thing Flirter created and initialized
  ..
 ...Thing position-10 created and initialized
  ..
 Assigning program to being...
-...Thing calker created and initialized
+...Thing frenzieder masterhooder created and initialized
  ..
 ...Thing position-11 created and initialized
  ..
 Assigning program to being...
-...Thing crepanceer created and initialized
+...Thing Ballisticaler Eviler created and initialized
  ..
 ...Thing position-12 created and initialized
  ..
 Assigning program to being...
-...Thing Ballisticaler Injuryer created and initialized
+...Thing base created and initialized
  ..
 ...Thing position-13 created and initialized
  ..
 Assigning program to being...
-...Thing frenzieder rambleer created and initialized
+...Thing base created and initialized
  ..
 ...Thing position-14 created and initialized
  ..
 Assigning program to being...
-...Thing Plateer created and initialized
+...Thing base created and initialized
  ..
 ...Thing position-15 created and initialized
  ..
 Assigning program to being...
-...Thing generated-20-10-5-70 created and initialized
+...Thing generated-20-10-5-50 created and initialized
  ..
 ...Thing Display for Men and Elves created and initialized
  ..
 .....Adding beings to world....
 111111111111111222222222222222 done populating....
-[37mmeleeer causeer(12,0) attempts to buff armor plateer(11,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff meleeer causeer(12,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff Slighter(13,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff armor plateer(11,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff meleeer causeer(12,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff Slighter(13,0) ballistic_damage by 1 : Sucessful![0m
-[37m[1mArmor Plateer[0m(8,7) attempts to buff [1mArmor Plateer[0m(8,7) melee_skill by 1 : Sucessful![0m
-[37m[1mArmor Plateer[0m(8,7) attempts to buff [1mArmor Plateer[0m(8,7) melee_skill by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(2,9) attempts to buff [1mMeleeer Adeptnesser[0m(2,9) magic_range by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(2,9) attempts to buff [1mMaleficeer[0m(3,8) magic_range by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(2,9) attempts to buff [1mMeleeer Adeptnesser[0m(2,9) magic_range by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(2,9) attempts to buff [1mMaleficeer[0m(3,8) magic_range by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(7,9) attempts to buff [1mmeleeer judgmenter[0m(6,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(7,9) attempts to buff [1mBallisticaler Handicrafter[0m(7,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(7,9) attempts to buff [1mmeleeer judgmenter[0m(6,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(7,9) attempts to buff [1mBallisticaler Handicrafter[0m(7,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1mDriveer[0m(11,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1mBallisticaler Advocacyer Adeptnesser[0m(12,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1millusionismer training areaer[0m(13,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1mDriveer[0m(11,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1mBallisticaler Advocacyer Adeptnesser[0m(12,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1millusionismer training areaer[0m(13,9) ballistic_damage by 2 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff armor plateer(11,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff meleeer causeer(12,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff Slighter(13,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff armor plateer(11,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff meleeer causeer(12,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff Slighter(13,0) ballistic_damage by 1 : Sucessful![0m
-[37m[1mArmor Plateer[0m(8,6) attempts to buff [1mArmor Plateer[0m(8,6) melee_skill by 1 : Sucessful![0m
-[37m[1mArmor Plateer[0m(8,6) attempts to buff [1mArmor Plateer[0m(8,6) melee_skill by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(3,9) attempts to buff [1mMeleeer Adeptnesser[0m(3,9) magic_range by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(3,9) attempts to buff [1mMaleficeer[0m(4,8) magic_range by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(3,9) attempts to buff [1mfrenzieder protectioner causeer[0m(4,9) magic_range by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(3,9) attempts to buff [1mpanoplyer[0m(5,8) magic_range by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(3,9) attempts to buff [1mMeleeer Adeptnesser[0m(3,9) magic_range by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(3,9) attempts to buff [1mMaleficeer[0m(4,8) magic_range by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(3,9) attempts to buff [1mfrenzieder protectioner causeer[0m(4,9) magic_range by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(3,9) attempts to buff [1mpanoplyer[0m(5,8) magic_range by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mBallisticaler Handicrafter[0m(8,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mExorcismer Techniqueer[0m(9,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mBallisticaler Handicrafter[0m(8,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mExorcismer Techniqueer[0m(9,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1mDriveer[0m(11,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1mBallisticaler Advocacyer Adeptnesser[0m(12,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1millusionismer training areaer[0m(13,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1mDriveer[0m(11,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1mBallisticaler Advocacyer Adeptnesser[0m(12,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1millusionismer training areaer[0m(13,9) ballistic_damage by 2 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff armor plateer(11,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff meleeer causeer(12,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff Slighter(13,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff armor plateer(11,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff meleeer causeer(12,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff Slighter(13,0) ballistic_damage by 1 : Sucessful![0m
-[37m[1mArmor Plateer[0m(8,5) attempts to buff [1mArmor Plateer[0m(8,5) melee_skill by 1 : Sucessful![0m
-[37m[1mArmor Plateer[0m(8,5) attempts to buff [1mArmor Plateer[0m(8,5) melee_skill by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(2,9) attempts to buff [1mMeleeer Adeptnesser[0m(2,9) magic_range by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(2,9) attempts to buff [1mMaleficeer[0m(4,8) magic_range by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(2,9) attempts to buff [1mMeleeer Adeptnesser[0m(2,9) magic_range by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(2,9) attempts to buff [1mMaleficeer[0m(4,8) magic_range by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mmeleeer judgmenter[0m(7,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mBallisticaler Handicrafter[0m(8,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mExorcismer Techniqueer[0m(9,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mmeleeer judgmenter[0m(7,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mBallisticaler Handicrafter[0m(8,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mExorcismer Techniqueer[0m(9,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1mDriveer[0m(11,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1mBallisticaler Advocacyer Adeptnesser[0m(12,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1millusionismer training areaer[0m(13,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1mDriveer[0m(11,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1mBallisticaler Advocacyer Adeptnesser[0m(12,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1millusionismer training areaer[0m(13,9) ballistic_damage by 2 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff armor plateer(11,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff meleeer causeer(12,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff Slighter(13,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff flutterer(13,1) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff armor plateer(11,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff meleeer causeer(12,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff Slighter(13,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff flutterer(13,1) ballistic_damage by 1 : Sucessful![0m
-[37m[1mArmor Plateer[0m(8,5) attempts to buff [1mArmor Plateer[0m(8,5) melee_skill by 1 : Sucessful![0m
-[37m[1mArmor Plateer[0m(8,5) attempts to buff [1mArmor Plateer[0m(8,5) melee_skill by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(2,9) attempts to buff [1mMeleeer Adeptnesser[0m(2,9) magic_range by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(2,9) attempts to buff [1mMaleficeer[0m(3,8) magic_range by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(2,9) attempts to buff [1mMeleeer Adeptnesser[0m(2,9) magic_range by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(2,9) attempts to buff [1mMaleficeer[0m(3,8) magic_range by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mBallisticaler Handicrafter[0m(8,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mExorcismer Techniqueer[0m(9,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mBallisticaler Handicrafter[0m(8,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mExorcismer Techniqueer[0m(9,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1mDriveer[0m(11,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1mBallisticaler Advocacyer Adeptnesser[0m(12,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1millusionismer training areaer[0m(13,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1mDriveer[0m(11,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1mBallisticaler Advocacyer Adeptnesser[0m(12,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1millusionismer training areaer[0m(13,9) ballistic_damage by 2 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff armor plateer(11,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff meleeer causeer(12,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff Slighter(13,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff flutterer(13,1) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff armor plateer(11,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff meleeer causeer(12,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff Slighter(13,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff flutterer(13,1) ballistic_damage by 1 : Sucessful![0m
-[37m[1mArmor Plateer[0m(9,5) attempts to buff [1mArmor Plateer[0m(9,5) melee_skill by 1 : Sucessful![0m
-[37m[1mArmor Plateer[0m(9,5) attempts to buff [1mArmor Plateer[0m(9,5) melee_skill by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(2,9) attempts to buff [1mMeleeer Adeptnesser[0m(2,9) magic_range by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(2,9) attempts to buff [1mMaleficeer[0m(3,7) magic_range by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(2,9) attempts to buff [1mfrenzieder protectioner causeer[0m(4,9) magic_range by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(2,9) attempts to buff [1mMeleeer Adeptnesser[0m(2,9) magic_range by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(2,9) attempts to buff [1mMaleficeer[0m(3,7) magic_range by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(2,9) attempts to buff [1mfrenzieder protectioner causeer[0m(4,9) magic_range by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mmeleeer judgmenter[0m(7,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mBallisticaler Handicrafter[0m(8,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mExorcismer Techniqueer[0m(9,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mmeleeer judgmenter[0m(7,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mBallisticaler Handicrafter[0m(8,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mExorcismer Techniqueer[0m(9,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1mDriveer[0m(11,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1mBallisticaler Advocacyer Adeptnesser[0m(12,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1millusionismer training areaer[0m(13,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1mDriveer[0m(11,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1mBallisticaler Advocacyer Adeptnesser[0m(12,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1millusionismer training areaer[0m(13,9) ballistic_damage by 2 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff armor plateer(11,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff meleeer causeer(12,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff Slighter(13,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff flutterer(13,1) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff armor plateer(11,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff meleeer causeer(12,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff Slighter(13,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff flutterer(13,1) ballistic_damage by 1 : Sucessful![0m
-[37m[1mArmor Plateer[0m(9,5) attempts to buff [1mArmor Plateer[0m(9,5) melee_skill by 1 : Sucessful![0m
-[37m[1mArmor Plateer[0m(9,5) attempts to buff [1mArmor Plateer[0m(9,5) melee_skill by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(2,9) attempts to buff [1mMeleeer Adeptnesser[0m(2,9) magic_range by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(2,9) attempts to buff [1mMaleficeer[0m(3,7) magic_range by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(2,9) attempts to buff [1mfrenzieder protectioner causeer[0m(4,9) magic_range by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(2,9) attempts to buff [1mMeleeer Adeptnesser[0m(2,9) magic_range by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(2,9) attempts to buff [1mMaleficeer[0m(3,7) magic_range by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(2,9) attempts to buff [1mfrenzieder protectioner causeer[0m(4,9) magic_range by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mmeleeer judgmenter[0m(7,8) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mBallisticaler Handicrafter[0m(8,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mExorcismer Techniqueer[0m(9,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mmeleeer judgmenter[0m(7,8) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mBallisticaler Handicrafter[0m(8,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mExorcismer Techniqueer[0m(9,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1mDriveer[0m(11,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1mBallisticaler Advocacyer Adeptnesser[0m(12,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1millusionismer training areaer[0m(13,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1mDriveer[0m(11,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1mBallisticaler Advocacyer Adeptnesser[0m(12,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1millusionismer training areaer[0m(13,9) ballistic_damage by 2 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff armor plateer(11,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff meleeer causeer(12,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff Slighter(13,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff flutterer(13,1) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff armor plateer(11,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff meleeer causeer(12,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff Slighter(13,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff flutterer(13,1) ballistic_damage by 1 : Sucessful![0m
-[37m[1mArmor Plateer[0m(7,5) attempts to buff [1mpanoplyer[0m(6,6) melee_skill by 1 : Sucessful![0m
-[37m[1mArmor Plateer[0m(7,5) attempts to buff [1mArmor Plateer[0m(7,5) melee_skill by 1 : Sucessful![0m
-[37m[1mArmor Plateer[0m(7,5) attempts to buff [1mpanoplyer[0m(6,6) melee_skill by 1 : Sucessful![0m
-[37m[1mArmor Plateer[0m(7,5) attempts to buff [1mArmor Plateer[0m(7,5) melee_skill by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(2,9) attempts to buff [1mMeleeer Adeptnesser[0m(2,9) magic_range by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(2,9) attempts to buff [1mfrenzieder protectioner causeer[0m(4,8) magic_range by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(2,9) attempts to buff [1mMeleeer Adeptnesser[0m(2,9) magic_range by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(2,9) attempts to buff [1mfrenzieder protectioner causeer[0m(4,8) magic_range by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mmeleeer judgmenter[0m(7,8) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mBallisticaler Handicrafter[0m(8,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mExorcismer Techniqueer[0m(9,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mmeleeer judgmenter[0m(7,8) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mBallisticaler Handicrafter[0m(8,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mExorcismer Techniqueer[0m(9,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1mDriveer[0m(11,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1mBallisticaler Advocacyer Adeptnesser[0m(12,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1millusionismer training areaer[0m(13,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1mDriveer[0m(11,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1mBallisticaler Advocacyer Adeptnesser[0m(12,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1millusionismer training areaer[0m(13,9) ballistic_damage by 2 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff armor plateer(11,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff meleeer causeer(12,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff Slighter(13,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff flutterer(13,1) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff armor plateer(11,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff meleeer causeer(12,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff Slighter(13,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff flutterer(13,1) ballistic_damage by 1 : Sucessful![0m
-[37m[1mArmor Plateer[0m(6,5) attempts to buff [1mArmor Plateer[0m(6,5) melee_skill by 1 : Sucessful![0m
-[37m[1mArmor Plateer[0m(6,5) attempts to buff [1mpanoplyer[0m(6,6) melee_skill by 1 : Sucessful![0m
-[37m[1mArmor Plateer[0m(6,5) attempts to buff [1mArmor Plateer[0m(6,5) melee_skill by 1 : Sucessful![0m
-[37m[1mArmor Plateer[0m(6,5) attempts to buff [1mpanoplyer[0m(6,6) melee_skill by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(2,9) attempts to buff [1mMeleeer Adeptnesser[0m(2,9) magic_range by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(2,9) attempts to buff [1mMeleeer Adeptnesser[0m(2,9) magic_range by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mBallisticaler Handicrafter[0m(8,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mExorcismer Techniqueer[0m(9,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mBallisticaler Handicrafter[0m(8,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mExorcismer Techniqueer[0m(9,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1mDriveer[0m(11,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1mBallisticaler Advocacyer Adeptnesser[0m(12,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1millusionismer training areaer[0m(13,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1mDriveer[0m(11,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1mBallisticaler Advocacyer Adeptnesser[0m(12,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1millusionismer training areaer[0m(13,9) ballistic_damage by 2 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff armor plateer(11,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff meleeer causeer(12,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff Slighter(13,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff flutterer(13,1) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff armor plateer(11,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff meleeer causeer(12,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff Slighter(13,0) ballistic_damage by 1 : Sucessful![0m
-[37mmeleeer causeer(12,0) attempts to buff flutterer(13,1) ballistic_damage by 1 : Sucessful![0m
-[37m[1mArmor Plateer[0m(4,5) attempts to buff [1mMaleficeer[0m(3,6) melee_skill by 1 : Sucessful![0m
-[37m[1mArmor Plateer[0m(4,5) attempts to buff [1mArmor Plateer[0m(4,5) melee_skill by 1 : Sucessful![0m
-[37m[1mArmor Plateer[0m(4,5) attempts to buff [1mMaleficeer[0m(3,6) melee_skill by 1 : Sucessful![0m
-[37m[1mArmor Plateer[0m(4,5) attempts to buff [1mArmor Plateer[0m(4,5) melee_skill by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(2,9) attempts to buff [1mMeleeer Adeptnesser[0m(2,9) magic_range by 1 : Sucessful![0m
-[37m[1mMeleeer Adeptnesser[0m(2,9) attempts to buff [1mMeleeer Adeptnesser[0m(2,9) magic_range by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mBallisticaler Handicrafter[0m(8,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mExorcismer Techniqueer[0m(9,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mBallisticaler Handicrafter[0m(8,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Handicrafter[0m(8,9) attempts to buff [1mExorcismer Techniqueer[0m(9,9) melee_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1mDriveer[0m(11,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1mBallisticaler Advocacyer Adeptnesser[0m(12,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1millusionismer training areaer[0m(13,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1mDriveer[0m(11,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1mBallisticaler Advocacyer Adeptnesser[0m(12,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBallisticaler Advocacyer Adeptnesser[0m(12,9) attempts to buff [1millusionismer training areaer[0m(13,9) ballistic_damage by 2 : Sucessful![0m
+[37mFrenzieder Training Areaer(10,0) attempts to buff Frenzieder Training Areaer(10,0) move by 2 : Sucessful![0m
+[37mFrenzieder Training Areaer(10,0) attempts to buff Tearer(11,0) move by 2 : Sucessful![0m
+[37mFrenzieder Training Areaer(10,0) attempts to buff Frenzieder Training Areaer(10,0) move by 2 : Sucessful![0m
+[37mFrenzieder Training Areaer(10,0) attempts to buff Tearer(11,0) move by 2 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mFlower[0m(2,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mHelmer[0m(4,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mPanoplyer[0m(5,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mFlower[0m(2,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mHelmer[0m(4,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mPanoplyer[0m(5,9) armor by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(7,9) attempts to buff [1msleight of hander judgmenter[0m(6,8) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(7,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(7,9) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(7,9) attempts to buff [1mMeleeer Adeptnesser[0m(8,8) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(7,9) attempts to buff [1msleight of hander judgmenter[0m(6,8) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(7,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(7,9) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(7,9) attempts to buff [1mMeleeer Adeptnesser[0m(8,8) ballistic_damage by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(9,9) attempts to buff [1msleight of hander judgmenter[0m(6,8) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(9,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(7,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(9,9) attempts to buff [1mMeleeer Adeptnesser[0m(8,8) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(9,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(9,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(9,9) attempts to buff [1mcalker[0m(10,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(9,9) attempts to buff [1mMeleeer Mischiefer[0m(11,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(9,9) attempts to buff [1mmaleficeer judgmenter[0m(12,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(9,9) attempts to buff [1msleight of hander judgmenter[0m(6,8) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(9,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(7,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(9,9) attempts to buff [1mMeleeer Adeptnesser[0m(8,8) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(9,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(9,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(9,9) attempts to buff [1mcalker[0m(10,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(9,9) attempts to buff [1mMeleeer Mischiefer[0m(11,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(9,9) attempts to buff [1mmaleficeer judgmenter[0m(12,9) move by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(11,9) attempts to buff [1mcalker[0m(10,9) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(11,9) attempts to buff [1mMeleeer Mischiefer[0m(11,9) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(11,9) attempts to buff [1mmaleficeer judgmenter[0m(12,9) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(11,9) attempts to buff [1mcalker[0m(10,9) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(11,9) attempts to buff [1mMeleeer Mischiefer[0m(11,9) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(11,9) attempts to buff [1mmaleficeer judgmenter[0m(12,9) magic_skill by 1 : Sucessful![0m
+[37mFrenzieder Training Areaer(9,0) attempts to buff Frenzieder Training Areaer(9,0) move by 2 : Sucessful![0m
+[37mFrenzieder Training Areaer(9,0) attempts to buff Frenzieder Training Areaer(9,0) move by 2 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(11,7) attempts to buff [1mMeleeer Mischiefer[0m(11,7) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(11,7) attempts to buff [1mMeleeer Mischiefer[0m(11,7) magic_skill by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFlower[0m(3,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mHelmer[0m(4,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mPanoplyer[0m(5,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1msleight of hander judgmenter[0m(6,8) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFlower[0m(3,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mHelmer[0m(4,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mPanoplyer[0m(5,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1msleight of hander judgmenter[0m(6,8) armor by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(7,9) attempts to buff [1msleight of hander judgmenter[0m(6,8) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(7,9) attempts to buff [1mMeleeer Adeptnesser[0m(7,8) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(7,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(7,9) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(7,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(8,9) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(7,9) attempts to buff [1msleight of hander judgmenter[0m(6,8) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(7,9) attempts to buff [1mMeleeer Adeptnesser[0m(7,8) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(7,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(7,9) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(7,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(8,9) ballistic_damage by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1mPanoplyer[0m(5,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1msleight of hander judgmenter[0m(6,8) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1mMeleeer Adeptnesser[0m(7,8) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(7,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(8,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1mcalker[0m(10,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1mMeleeer Mischiefer[0m(11,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1mPanoplyer[0m(5,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1msleight of hander judgmenter[0m(6,8) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1mMeleeer Adeptnesser[0m(7,8) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(7,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(8,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1mcalker[0m(10,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1mMeleeer Mischiefer[0m(11,7) move by 1 : Sucessful![0m
+[37mFrenzieder Training Areaer(9,1) attempts to buff Frenzieder Training Areaer(9,1) move by 2 : Sucessful![0m
+[37mFrenzieder Training Areaer(9,1) attempts to buff Horner(9,2) move by 2 : Sucessful![0m
+[37mFrenzieder Training Areaer(9,1) attempts to buff Frenzieder Training Areaer(9,1) move by 2 : Sucessful![0m
+[37mFrenzieder Training Areaer(9,1) attempts to buff Horner(9,2) move by 2 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,7) attempts to buff [1mMeleeer Mischiefer[0m(10,7) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,7) attempts to buff [1mMeleeer Mischiefer[0m(10,7) magic_skill by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mFlower[0m(2,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mHelmer[0m(4,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mPanoplyer[0m(5,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mFlower[0m(2,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mHelmer[0m(4,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mPanoplyer[0m(5,7) armor by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(7,9) attempts to buff [1msleight of hander judgmenter[0m(6,8) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(7,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(7,9) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(7,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(8,9) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(7,9) attempts to buff [1msleight of hander judgmenter[0m(6,8) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(7,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(7,9) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(7,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(8,9) ballistic_damage by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1mPanoplyer[0m(5,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1msleight of hander judgmenter[0m(6,8) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1mMeleeer Adeptnesser[0m(7,6) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(7,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(8,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1mMeleeer Mischiefer[0m(10,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1mcalker[0m(10,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1mPanoplyer[0m(5,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1msleight of hander judgmenter[0m(6,8) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1mMeleeer Adeptnesser[0m(7,6) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(7,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(8,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1mMeleeer Mischiefer[0m(10,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1mcalker[0m(10,9) move by 1 : Sucessful![0m
+[37mFrenzieder Training Areaer(9,1) attempts to buff frenzieder masterhooder(8,1) move by 2 : Sucessful![0m
+[37mFrenzieder Training Areaer(9,1) attempts to buff Frenzieder Training Areaer(9,1) move by 2 : Sucessful![0m
+[37mFrenzieder Training Areaer(9,1) attempts to buff frenzieder masterhooder(8,1) move by 2 : Sucessful![0m
+[37mFrenzieder Training Areaer(9,1) attempts to buff Frenzieder Training Areaer(9,1) move by 2 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(11,7) attempts to buff [1mMeleeer Mischiefer[0m(11,7) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(11,7) attempts to buff [1mMeleeer Mischiefer[0m(11,7) magic_skill by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFlower[0m(3,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mHelmer[0m(4,8) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1msleight of hander judgmenter[0m(6,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFlower[0m(3,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mHelmer[0m(4,8) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1msleight of hander judgmenter[0m(6,7) armor by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(7,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(7,9) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(7,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(7,9) ballistic_damage by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(9,9) attempts to buff [1msleight of hander judgmenter[0m(6,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(9,9) attempts to buff [1mMeleeer Adeptnesser[0m(7,6) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(9,9) attempts to buff [1mPanoplyer[0m(7,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(9,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(7,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(9,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(9,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(9,9) attempts to buff [1mMeleeer Mischiefer[0m(11,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(9,9) attempts to buff [1mcalker[0m(11,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(9,9) attempts to buff [1mmaleficeer judgmenter[0m(12,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(9,9) attempts to buff [1msleight of hander judgmenter[0m(6,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(9,9) attempts to buff [1mMeleeer Adeptnesser[0m(7,6) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(9,9) attempts to buff [1mPanoplyer[0m(7,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(9,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(7,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(9,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(9,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(9,9) attempts to buff [1mMeleeer Mischiefer[0m(11,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(9,9) attempts to buff [1mcalker[0m(11,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(9,9) attempts to buff [1mmaleficeer judgmenter[0m(12,9) move by 1 : Sucessful![0m
+[37mFrenzieder Training Areaer(9,1) attempts to buff Frenzieder Training Areaer(9,1) move by 2 : Sucessful![0m
+[37mFrenzieder Training Areaer(9,1) attempts to buff Frenzieder Training Areaer(9,1) move by 2 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(11,7) attempts to buff [1mMeleeer Mischiefer[0m(11,7) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(11,7) attempts to buff [1mMeleeer Mischiefer[0m(11,7) magic_skill by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFlower[0m(3,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mHelmer[0m(4,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(6,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFlower[0m(3,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mHelmer[0m(4,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(6,9) armor by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(6,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(6,9) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(6,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(6,9) ballistic_damage by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(6,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1mMeleeer Adeptnesser[0m(7,6) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(8,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1mPanoplyer[0m(9,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1mMeleeer Mischiefer[0m(11,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1mcalker[0m(11,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(6,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1mMeleeer Adeptnesser[0m(7,6) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(8,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1mPanoplyer[0m(9,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1mMeleeer Mischiefer[0m(11,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(8,9) attempts to buff [1mcalker[0m(11,9) move by 1 : Sucessful![0m
+[37mFrenzieder Training Areaer(8,1) attempts to buff Ballisticaler Eviler(7,0) move by 2 : Sucessful![0m
+[37mFrenzieder Training Areaer(8,1) attempts to buff frenzieder masterhooder(7,2) move by 2 : Sucessful![0m
+[37mFrenzieder Training Areaer(8,1) attempts to buff Frenzieder Training Areaer(8,1) move by 2 : Sucessful![0m
+[37mFrenzieder Training Areaer(8,1) attempts to buff Ballisticaler Eviler(7,0) move by 2 : Sucessful![0m
+[37mFrenzieder Training Areaer(8,1) attempts to buff frenzieder masterhooder(7,2) move by 2 : Sucessful![0m
+[37mFrenzieder Training Areaer(8,1) attempts to buff Frenzieder Training Areaer(8,1) move by 2 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(11,6) attempts to buff [1mMeleeer Mischiefer[0m(11,6) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(11,6) attempts to buff [1mMeleeer Mischiefer[0m(11,6) magic_skill by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(6,8) attempts to buff [1mBallisticaler Pleader Reasoner[0m(6,8) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(6,8) attempts to buff [1mPanoplyer[0m(7,7) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(6,8) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(7,9) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(6,8) attempts to buff [1mBallisticaler Pleader Reasoner[0m(6,8) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(6,8) attempts to buff [1mPanoplyer[0m(7,7) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(6,8) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(7,9) ballistic_damage by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFlower[0m(3,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mHelmer[0m(4,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(6,8) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFlower[0m(3,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mHelmer[0m(4,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(6,8) armor by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(7,9) attempts to buff [1mHelmer[0m(4,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(7,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(6,8) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(7,9) attempts to buff [1mMeleeer Adeptnesser[0m(7,6) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(7,9) attempts to buff [1mPanoplyer[0m(7,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(7,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(7,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(7,9) attempts to buff [1mHelmer[0m(4,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(7,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(6,8) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(7,9) attempts to buff [1mMeleeer Adeptnesser[0m(7,6) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(7,9) attempts to buff [1mPanoplyer[0m(7,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(7,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(7,9) move by 1 : Sucessful![0m
+[37mFrenzieder Training Areaer(8,1) attempts to buff Ballisticaler Eviler(7,1) move by 2 : Sucessful![0m
+[37mFrenzieder Training Areaer(8,1) attempts to buff Frenzieder Training Areaer(8,1) move by 2 : Sucessful![0m
+[37mFrenzieder Training Areaer(8,1) attempts to buff Ballisticaler Eviler(7,1) move by 2 : Sucessful![0m
+[37mFrenzieder Training Areaer(8,1) attempts to buff Frenzieder Training Areaer(8,1) move by 2 : Sucessful![0m
+[35m[1msleight of hander judgmenter[0m(6,4) attempts to buff frenzieder masterhooder(7,3) ballistic_defense_skill by -1 : Succeeds.[0m
+[36m[1msleight of hander judgmenter[0m(6,4) attempts to buff frenzieder masterhooder(7,3) ballistic_defense_skill by -1 : Fails.[0m
+[37m[1mMeleeer Mischiefer[0m(11,6) attempts to buff [1mMeleeer Mischiefer[0m(11,6) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(11,6) attempts to buff [1mMeleeer Mischiefer[0m(11,6) magic_skill by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(6,7) attempts to buff [1mMeleeer Adeptnesser[0m(6,6) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(6,7) attempts to buff [1mBallisticaler Pleader Reasoner[0m(6,7) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(6,7) attempts to buff [1mPanoplyer[0m(7,7) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(6,7) attempts to buff [1mMeleeer Adeptnesser[0m(6,6) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(6,7) attempts to buff [1mBallisticaler Pleader Reasoner[0m(6,7) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(6,7) attempts to buff [1mPanoplyer[0m(7,7) ballistic_damage by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFlower[0m(3,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mHelmer[0m(4,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(5,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mMeleeer Adeptnesser[0m(6,6) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(6,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFlower[0m(3,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mHelmer[0m(4,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(5,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mMeleeer Adeptnesser[0m(6,6) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(6,7) armor by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(5,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(5,9) attempts to buff [1mFlower[0m(3,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(5,9) attempts to buff [1mHelmer[0m(4,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(5,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(5,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(5,9) attempts to buff [1mMeleeer Adeptnesser[0m(6,6) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(5,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(6,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(5,9) attempts to buff [1mPanoplyer[0m(7,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(5,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(5,9) attempts to buff [1mFlower[0m(3,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(5,9) attempts to buff [1mHelmer[0m(4,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(5,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(5,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(5,9) attempts to buff [1mMeleeer Adeptnesser[0m(6,6) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(5,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(6,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(5,9) attempts to buff [1mPanoplyer[0m(7,7) move by 1 : Sucessful![0m
+[1msleight of hander judgmenter[0m(6,4) hit frenzieder masterhooder(7,3) with a melee attack. [33m[1msleight of hander judgmenter[0m damages frenzieder masterhooder for 1 wounds..[0m
+[31mfrenzieder masterhooder[0m(7,3)[31m is killed![0m
+[37mFrenzieder Training Areaer(8,1) attempts to buff Frenzieder Training Areaer(8,1) move by 2 : Sucessful![0m
+[37mFrenzieder Training Areaer(8,1) attempts to buff Frenzieder Training Areaer(8,1) move by 2 : Sucessful![0m
+[35mBallisticaler Eviler(7,3) attempts to buff [1msleight of hander judgmenter[0m(7,4) ballistic_range by -5 : Succeeds.[0m
+[36mBallisticaler Eviler(7,3) attempts to buff [1msleight of hander judgmenter[0m(7,4) ballistic_range by -5 : Fails.[0m
+[35m[1msleight of hander judgmenter[0m(7,4) attempts to buff Ballisticaler Eviler(7,3) ballistic_defense_skill by -1 : Succeeds.[0m
+[35m[1msleight of hander judgmenter[0m(7,4) attempts to buff Ballisticaler Eviler(7,3) ballistic_defense_skill by -1 : Succeeds.[0m
+[37m[1mMeleeer Mischiefer[0m(11,6) attempts to buff [1mMeleeer Mischiefer[0m(11,6) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(11,6) attempts to buff [1mMeleeer Mischiefer[0m(11,6) magic_skill by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(6,7) attempts to buff [1mBallisticaler Pleader Reasoner[0m(6,7) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(6,7) attempts to buff [1mBallisticaler Pleader Reasoner[0m(6,7) ballistic_damage by 1 : Sucessful![0m
+[37m[1mFlower[0m(1,9) attempts to buff [1mFlower[0m(1,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(1,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(1,9) attempts to buff [1mHelmer[0m(4,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(1,9) attempts to buff [1mFlower[0m(1,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(1,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(1,9) attempts to buff [1mHelmer[0m(4,7) armor by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(5,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(5,9) attempts to buff [1mHelmer[0m(4,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(5,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(5,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(5,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(6,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(5,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(5,9) attempts to buff [1mHelmer[0m(4,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(5,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(5,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(5,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(6,7) move by 1 : Sucessful![0m
+Ballisticaler Eviler(7,3) hit [1msleight of hander judgmenter[0m(7,4) with a ranged attack. [33mBallisticaler Eviler damages [1msleight of hander judgmenter[0m for 1 wounds..[0m
+[31m[1msleight of hander judgmenter[0m[0m(7,4)[31m is killed![0m
+[1mPanoplyer[0m(7,5) hit Ballisticaler Eviler(7,3) with a ranged attack. [33m[1mPanoplyer[0m damages Ballisticaler Eviler for 3 wounds..[0m
+[31mBallisticaler Eviler[0m(7,3)[31m is killed![0m
+[37mFrenzieder Training Areaer(8,1) attempts to buff Frenzieder Training Areaer(8,1) move by 2 : Sucessful![0m
+[37mFrenzieder Training Areaer(8,1) attempts to buff Frenzieder Training Areaer(8,1) move by 2 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mMeleeer Mischiefer[0m(10,6) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mmaleficeer judgmenter[0m(11,7) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mMeleeer Mischiefer[0m(10,6) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mmaleficeer judgmenter[0m(11,7) magic_skill by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(6,7) attempts to buff [1mBallisticaler Pleader Reasoner[0m(6,7) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(6,7) attempts to buff [1mBallisticaler Pleader Reasoner[0m(6,7) ballistic_damage by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mFlower[0m(2,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mHelmer[0m(4,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mFlower[0m(2,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mHelmer[0m(4,7) armor by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(6,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(6,9) attempts to buff [1mHelmer[0m(4,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(6,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(6,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(6,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(6,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(6,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(6,9) attempts to buff [1mHelmer[0m(4,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(6,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(6,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(6,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(6,9) move by 1 : Sucessful![0m
+Flirter(6,3) hit [1mPanoplyer[0m(7,4) with a melee attack. 
+[37mThe Flirter melee attack bounces off [1mPanoplyer[0m(7,4)..[0m
+[1mPanoplyer[0m(7,4) hit Flirter(6,3) with a melee attack. [33m[1mPanoplyer[0m damages Flirter for 1 wounds..[0m
+[37mFrenzieder Training Areaer(8,3) attempts to buff Frenzieder Training Areaer(8,3) move by 2 : Sucessful![0m
+[37mFrenzieder Training Areaer(8,3) attempts to buff Frenzieder Training Areaer(8,3) move by 2 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mMeleeer Mischiefer[0m(10,6) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mmaleficeer judgmenter[0m(11,7) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mMeleeer Mischiefer[0m(10,6) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mmaleficeer judgmenter[0m(11,7) magic_skill by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(7,7) attempts to buff [1mBallisticaler Pleader Reasoner[0m(7,7) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(7,7) attempts to buff [1mBallisticaler Pleader Reasoner[0m(7,7) ballistic_damage by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mFlower[0m(2,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mHelmer[0m(4,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(4,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mFlower[0m(2,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mHelmer[0m(4,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(4,9) armor by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFlower[0m(2,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mHelmer[0m(4,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(4,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(7,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFlower[0m(2,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mHelmer[0m(4,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(4,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(7,7) move by 1 : Sucessful![0m
+[1mPanoplyer[0m(7,4) hit Flirter(6,3) with a melee attack. [33m[1mPanoplyer[0m damages Flirter for 2 wounds..[0m
+[31mFlirter[0m(6,3)[31m is killed![0m
+[1mPanoplyer[0m(7,4) hit Frenzieder Training Areaer(8,3) with a melee attack. 
+[37mThe [1mPanoplyer[0m melee attack bounces off Frenzieder Training Areaer(8,3)..[0m
+[37mFrenzieder Training Areaer(8,3) attempts to buff Frenzieder Training Areaer(8,3) move by 2 : Sucessful![0m
+[37mFrenzieder Training Areaer(8,3) attempts to buff Frenzieder Training Areaer(8,3) move by 2 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(11,6) attempts to buff [1mmaleficeer judgmenter[0m(10,7) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(11,6) attempts to buff [1mMeleeer Mischiefer[0m(11,6) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(11,6) attempts to buff [1mfrenzieder reasoner[0m(12,7) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(11,6) attempts to buff [1mmaleficeer judgmenter[0m(10,7) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(11,6) attempts to buff [1mMeleeer Mischiefer[0m(11,6) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(11,6) attempts to buff [1mfrenzieder reasoner[0m(12,7) magic_skill by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(7,7) attempts to buff [1mBallisticaler Pleader Reasoner[0m(7,7) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(7,7) attempts to buff [1mBallisticaler Pleader Reasoner[0m(7,7) ballistic_damage by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mFlower[0m(2,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mHelmer[0m(4,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(4,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mFlower[0m(2,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mHelmer[0m(4,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(4,9) armor by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFlower[0m(2,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mHelmer[0m(4,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(4,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(7,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFlower[0m(2,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mHelmer[0m(4,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(4,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(7,7) move by 1 : Sucessful![0m
+Frenzieder Training Areaer(8,3) hit [1mPanoplyer[0m(7,4) with a melee attack. 
+[37mThe Frenzieder Training Areaer melee attack bounces off [1mPanoplyer[0m(7,4)..[0m
+[1mPanoplyer[0m(7,4) hit Frenzieder Training Areaer(8,3) with a melee attack. 
+[37mThe [1mPanoplyer[0m melee attack bounces off Frenzieder Training Areaer(8,3)..[0m
+Tearer(13,6) hit [1mfrenzieder reasoner[0m(12,7) with a melee attack. 
+[37mThe Tearer melee attack bounces off [1mfrenzieder reasoner[0m(12,7)..[0m
+[37mFrenzieder Training Areaer(8,5) attempts to buff Frenzieder Training Areaer(8,5) move by 2 : Sucessful![0m
+[37mFrenzieder Training Areaer(8,5) attempts to buff Frenzieder Training Areaer(8,5) move by 2 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mMeleeer Mischiefer[0m(10,6) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mmaleficeer judgmenter[0m(11,7) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mMeleeer Mischiefer[0m(10,6) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mmaleficeer judgmenter[0m(11,7) magic_skill by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(7,7) attempts to buff [1mBallisticaler Pleader Reasoner[0m(7,7) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(7,7) attempts to buff [1mBallisticaler Pleader Reasoner[0m(7,7) ballistic_damage by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mFlower[0m(2,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mHelmer[0m(4,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(4,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mFlower[0m(2,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mHelmer[0m(4,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(2,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(4,9) armor by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFlower[0m(2,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mHelmer[0m(4,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(4,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(7,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFlower[0m(2,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mHelmer[0m(4,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(4,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mBallisticaler Pleader Reasoner[0m(7,7) move by 1 : Sucessful![0m
+Tearer(13,8) hit [1mcalker[0m(13,9) with a ranged attack. [33mTearer damages [1mcalker[0m for 2 wounds..[0m
+[1mcalker[0m(13,9) hit Tearer(13,8) with a ranged attack. 
+[37mThe [1mcalker[0m ranged attack bounces off Tearer(13,8)..[0m
+[1mMeleeer Adeptnesser[0m(7,5) hit Frenzieder Training Areaer(8,5) with a melee attack. [33m[1mMeleeer Adeptnesser[0m damages Frenzieder Training Areaer for 2 wounds..[0m
+[31mFrenzieder Training Areaer[0m(8,5)[31m is killed![0m
+Frenzieder Training Areaer(8,5) hit [1mPanoplyer[0m(7,4) with a melee attack. 
+[37mThe Frenzieder Training Areaer melee attack bounces off [1mPanoplyer[0m(7,4)..[0m
+Horner(11,5) hit [1mMeleeer Mischiefer[0m(10,6) with a melee attack. 
+[37mThe Horner melee attack bounces off [1mMeleeer Mischiefer[0m(10,6)..[0m
+[1mbase[0m(12,8) hit Tearer(13,8) with a melee attack. 
+[37mThe [1mbase[0m melee attack bounces off Tearer(13,8)..[0m
+Tearer(13,8) hit [1mcalker[0m(13,9) with a melee attack. 
+[37mThe Tearer melee attack bounces off [1mcalker[0m(13,9)..[0m
+[1mcalker[0m(13,9) hit Tearer(13,8) with a melee attack. [33m[1mcalker[0m damages Tearer for 1 wounds..[0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mBallisticaler Pleader Reasoner[0m(9,7) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mMeleeer Mischiefer[0m(10,6) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mmaleficeer judgmenter[0m(10,7) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mBallisticaler Pleader Reasoner[0m(9,7) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mMeleeer Mischiefer[0m(10,6) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mmaleficeer judgmenter[0m(10,7) magic_skill by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(9,7) attempts to buff [1mBallisticaler Pleader Reasoner[0m(9,7) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(9,7) attempts to buff [1mMeleeer Mischiefer[0m(10,6) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(9,7) attempts to buff [1mmaleficeer judgmenter[0m(10,7) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(9,7) attempts to buff [1mBallisticaler Pleader Reasoner[0m(9,7) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(9,7) attempts to buff [1mMeleeer Mischiefer[0m(10,6) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(9,7) attempts to buff [1mmaleficeer judgmenter[0m(10,7) ballistic_damage by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFlower[0m(3,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(4,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mHelmer[0m(5,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFlower[0m(3,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(4,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mHelmer[0m(5,7) armor by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFlower[0m(3,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(4,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mHelmer[0m(5,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFlower[0m(3,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(4,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mHelmer[0m(5,7) move by 1 : Sucessful![0m
+Horner(10,5) hit [1mMeleeer Mischiefer[0m(10,6) with a melee attack. 
+[37mThe Horner melee attack bounces off [1mMeleeer Mischiefer[0m(10,6)..[0m
+[1mMeleeer Mischiefer[0m(10,6) hit Horner(10,5) with a melee attack. [33m[1mMeleeer Mischiefer[0m damages Horner for 3 wounds..[0m
+[31mHorner[0m(10,5)[31m is killed![0m
+Tearer(15,8) hit [1mbase[0m(15,9) with a melee attack. [33mTearer damages [1mbase[0m for 1 wounds..[0m
+[31m[1mbase[0m[0m(15,9)[31m is killed![0m
+[1mbase[0m(15,9) hit Tearer(15,8) with a melee attack. 
+[37mThe [1mbase[0m melee attack bounces off Tearer(15,8)..[0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mBallisticaler Pleader Reasoner[0m(9,7) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mMeleeer Mischiefer[0m(10,6) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mmaleficeer judgmenter[0m(10,7) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mBallisticaler Pleader Reasoner[0m(9,7) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mMeleeer Mischiefer[0m(10,6) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mmaleficeer judgmenter[0m(10,7) magic_skill by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(9,7) attempts to buff [1mBallisticaler Pleader Reasoner[0m(9,7) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(9,7) attempts to buff [1mMeleeer Mischiefer[0m(10,6) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(9,7) attempts to buff [1mmaleficeer judgmenter[0m(10,7) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(9,7) attempts to buff [1mBallisticaler Pleader Reasoner[0m(9,7) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(9,7) attempts to buff [1mMeleeer Mischiefer[0m(10,6) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(9,7) attempts to buff [1mmaleficeer judgmenter[0m(10,7) ballistic_damage by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFlower[0m(3,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(4,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mHelmer[0m(5,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFlower[0m(3,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(4,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mHelmer[0m(5,7) armor by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFlower[0m(3,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(4,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mHelmer[0m(5,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFlower[0m(3,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(4,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mHelmer[0m(5,7) move by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(9,6) attempts to buff [1mBallisticaler Pleader Reasoner[0m(9,6) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(9,6) attempts to buff [1mMeleeer Mischiefer[0m(10,6) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(9,6) attempts to buff [1mmaleficeer judgmenter[0m(10,7) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(9,6) attempts to buff [1mBallisticaler Pleader Reasoner[0m(9,6) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(9,6) attempts to buff [1mMeleeer Mischiefer[0m(10,6) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(9,6) attempts to buff [1mmaleficeer judgmenter[0m(10,7) ballistic_damage by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mBallisticaler Pleader Reasoner[0m(9,6) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mMeleeer Mischiefer[0m(10,6) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mmaleficeer judgmenter[0m(10,7) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mfrenzieder reasoner[0m(11,7) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mBallisticaler Pleader Reasoner[0m(9,6) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mMeleeer Mischiefer[0m(10,6) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mmaleficeer judgmenter[0m(10,7) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mfrenzieder reasoner[0m(11,7) magic_skill by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFlower[0m(3,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mHelmer[0m(4,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(4,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFlower[0m(3,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mHelmer[0m(4,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(4,9) armor by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFlower[0m(3,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mHelmer[0m(4,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(4,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFlower[0m(3,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mHelmer[0m(4,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(4,9) move by 1 : Sucessful![0m
+Plateer(10,3) hit [1mMeleeer Mischiefer[0m(10,6) with a ranged attack. 
+[37mThe Plateer ranged attack bounces off [1mMeleeer Mischiefer[0m(10,6)..[0m
+[37m[1mBallisticaler Pleader Reasoner[0m(9,5) attempts to buff [1mBallisticaler Pleader Reasoner[0m(9,5) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(9,5) attempts to buff [1mMeleeer Mischiefer[0m(10,6) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(9,5) attempts to buff [1mBallisticaler Pleader Reasoner[0m(9,5) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(9,5) attempts to buff [1mMeleeer Mischiefer[0m(10,6) ballistic_damage by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mBallisticaler Pleader Reasoner[0m(9,5) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mmaleficeer judgmenter[0m(9,7) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mMeleeer Mischiefer[0m(10,6) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mfrenzieder reasoner[0m(11,6) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mBallisticaler Pleader Reasoner[0m(9,5) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mmaleficeer judgmenter[0m(9,7) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mMeleeer Mischiefer[0m(10,6) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mfrenzieder reasoner[0m(11,6) magic_skill by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,8) attempts to buff [1mFrenzieder Eviler[0m(3,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,8) attempts to buff [1mFlower[0m(3,8) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,8) attempts to buff [1mHelmer[0m(4,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,8) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(4,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,8) attempts to buff [1mFrenzieder Eviler[0m(3,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,8) attempts to buff [1mFlower[0m(3,8) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,8) attempts to buff [1mHelmer[0m(4,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,8) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(4,9) armor by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFlower[0m(3,8) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mHelmer[0m(4,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(4,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFlower[0m(3,8) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mHelmer[0m(4,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(4,9) move by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(10,5) attempts to buff [1mBallisticaler Pleader Reasoner[0m(10,5) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(10,5) attempts to buff [1mMeleeer Mischiefer[0m(10,6) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(10,5) attempts to buff [1mBallisticaler Pleader Reasoner[0m(10,5) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(10,5) attempts to buff [1mMeleeer Mischiefer[0m(10,6) ballistic_damage by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mmaleficeer judgmenter[0m(9,7) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mBallisticaler Pleader Reasoner[0m(10,5) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mMeleeer Mischiefer[0m(10,6) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mbase[0m(11,7) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mmaleficeer judgmenter[0m(9,7) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mBallisticaler Pleader Reasoner[0m(10,5) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mMeleeer Mischiefer[0m(10,6) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mbase[0m(11,7) magic_skill by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,8) attempts to buff [1mFrenzieder Eviler[0m(3,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,8) attempts to buff [1mFlower[0m(3,8) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,8) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(3,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,8) attempts to buff [1mHelmer[0m(4,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,8) attempts to buff [1mFrenzieder Eviler[0m(3,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,8) attempts to buff [1mFlower[0m(3,8) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,8) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(3,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,8) attempts to buff [1mHelmer[0m(4,7) armor by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(3,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(3,9) attempts to buff [1mFlower[0m(3,8) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(3,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(3,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(3,9) attempts to buff [1mHelmer[0m(4,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(3,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(3,9) attempts to buff [1mFlower[0m(3,8) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(3,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(3,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(3,9) attempts to buff [1mHelmer[0m(4,7) move by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(10,5) attempts to buff [1mBallisticaler Pleader Reasoner[0m(10,5) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(10,5) attempts to buff [1mMeleeer Mischiefer[0m(10,6) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(10,5) attempts to buff [1mBallisticaler Pleader Reasoner[0m(10,5) ballistic_damage by 1 : Sucessful![0m
+[37m[1mBallisticaler Pleader Reasoner[0m(10,5) attempts to buff [1mMeleeer Mischiefer[0m(10,6) ballistic_damage by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mmaleficeer judgmenter[0m(9,7) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mBallisticaler Pleader Reasoner[0m(10,5) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mMeleeer Mischiefer[0m(10,6) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mmaleficeer judgmenter[0m(9,7) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mBallisticaler Pleader Reasoner[0m(10,5) magic_skill by 1 : Sucessful![0m
+[37m[1mMeleeer Mischiefer[0m(10,6) attempts to buff [1mMeleeer Mischiefer[0m(10,6) magic_skill by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,8) attempts to buff [1mFrenzieder Eviler[0m(3,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,8) attempts to buff [1mFlower[0m(3,8) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,8) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(4,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,8) attempts to buff [1mHelmer[0m(6,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,8) attempts to buff [1mFrenzieder Eviler[0m(3,7) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,8) attempts to buff [1mFlower[0m(3,8) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,8) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(4,9) armor by 1 : Sucessful![0m
+[37m[1mFlower[0m(3,8) attempts to buff [1mHelmer[0m(6,7) armor by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFlower[0m(3,8) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(4,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mHelmer[0m(6,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFrenzieder Eviler[0m(3,7) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFlower[0m(3,8) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mFrenzieder Advocacyer Techniqueer[0m(4,9) move by 1 : Sucessful![0m
+[37m[1mFrenzieder Advocacyer Techniqueer[0m(4,9) attempts to buff [1mHelmer[0m(6,7) move by 1 : Sucessful![0m
+Plateer(10,4) hit [1mBallisticaler Pleader Reasoner[0m(10,5) with a melee attack. 
+[37mThe Plateer melee attack bounces off [1mBallisticaler Pleader Reasoner[0m(10,5)..[0m
