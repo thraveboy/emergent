@@ -1,3 +1,3 @@
-xterm -bg black -ah -fg green -cr white -ms black -fa reidsfont -fs 10 -uc +cm +dc -geometry 21x12+1100+0 -title "Map" -e "tput civis; tail -f display_logs/map_log" &
-xterm -bg black -fg green -cr purple +cm +dc -fa "courier new bold" -fs 7 -geometry 60x80+780+0 -title "Team" -e tail -f display_logs/team_log  &
-xterm -bg black -fg green -cr purple +cm +dc -fa "courier new bold" -fs 7 -geometry 60x50+1100+220 -title "Battle Report" -e tail -f display_logs/battle_log  &
+xterm -bg black -ah -fg green -cr white -ms black -fa reidsfont -fs 16 -uc +cm +dc -geometry 21x12+650+0 -title "Map" -e "tput civis; tail -f display_logs/map_log" &
+xterm -bg black -fg green -cr purple +cm +dc -fa "menlo bold" -fs 7 -geometry 60x80+1140+0 -title "Team" -e tail -f display_logs/team_log  &
+xterm -bg black -fg green -cr purple +cm +dc -fa "courier new bold" -fs 7 -geometry 78x46+740+320 -title "Battle Report" -e tail -f display_logs/battle_log  &

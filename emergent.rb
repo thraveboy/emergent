@@ -328,7 +328,7 @@ class Being < Thing
     if self.marked
       program_display = blue_bg(program_display)
     end
-    return_string = "#{self.name}\n   pt:#{current_points} (#{self.specialty}) \n   w:#{self.wounds} a:#{self.armor} md: #{self.melee_damage} ms:#{self.melee_skill} bd:#{self.ballistic_damage} br:#{self.ballistic_range} bs:#{self.ballistic_skill} bds:#{self.ballistic_defense_skill}\n   mr:#{self.magic_range} ms:#{self.magic_skill} mv:#{self.move} d:#{self.facing} n:#{program_display}\n   m:#{self.magics}"
+    return_string = "#{self.name}\n   pt:#{current_points} (#{self.specialty})\n   w:#{self.wounds} a:#{self.armor} md:#{self.melee_damage} ms:#{self.melee_skill} bd:#{self.ballistic_damage} br:#{self.ballistic_range} bs:#{self.ballistic_skill} bds:#{self.ballistic_defense_skill}\n   mr:#{self.magic_range} ms:#{self.magic_skill} mv:#{self.move} d:#{self.facing} n:#{program_display}\n   m:#{self.magics}"
   end
 
   def apply_mutation(mutate_name = false)
@@ -419,7 +419,6 @@ class Being < Thing
       end
     end
     self.instance_variable_set("@mutation", current_mutation.join(" "))
-    self.apply_mutation(true)
   end
 end
 

@@ -1,19 +1,18 @@
-name Meleeer Mischiefer
+name base
 move 1
 ballistic_skill 1
 ballistic_range 1
-ballistic_damage 2
+ballistic_damage 1
 melee_skill 1
-melee_damage 4
-armor 3
+melee_damage 1
+armor 1
 wounds 1
 magic_range 1
-magic_skill 2
-points 9
+magic_skill 1
+points 1
 program n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 
 team 1
 objective_points 0
 marked false
-specialty Melee_damage
-mutation armor armor magic_skill ballistic_damage melee_damage magics  +magic_skill1 melee_damage melee_damage
-magics  +magic_skill1
+specialty standard
+mutation wounds ballistic_defense_skill magic_range ballistic_skill ballistic_skill magic_range
