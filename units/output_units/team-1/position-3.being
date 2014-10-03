@@ -11,8 +11,8 @@ magic_range 1
 magic_skill 1
 points 1
 program n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 n0 
-team 2
+team 1
 objective_points 0
 marked false
 specialty standard
-mutation armor magic_range ballistic_skill
+mutation move magics  -magic_skill2 ballistic_skill melee_skill ballistic_damage

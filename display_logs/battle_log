@@ -3,7 +3,7 @@
 ...Thing position-1 created and initialized
  ..
 Assigning program to being...
-...Thing base created and initialized
+...Thing Base created and initialized
  ..
 ...Thing position-2 created and initialized
  ..
@@ -38,7 +38,7 @@ Assigning program to being...
 ...Thing position-8 created and initialized
  ..
 Assigning program to being...
-...Thing Base created and initialized
+...Thing base created and initialized
  ..
 ...Thing position-9 created and initialized
  ..
@@ -53,7 +53,7 @@ Assigning program to being...
 ...Thing position-11 created and initialized
  ..
 Assigning program to being...
-...Thing Base created and initialized
+...Thing base created and initialized
  ..
 ...Thing position-12 created and initialized
  ..
@@ -74,7 +74,7 @@ Assigning program to being...
  ..
 Assigning program to being...
 incrementing team number. new beings will now be on team 2.
-...Thing base created and initialized
+...Thing Base created and initialized
  ..
 ...Thing position-1 created and initialized
  ..
@@ -84,7 +84,7 @@ Assigning program to being...
 ...Thing position-2 created and initialized
  ..
 Assigning program to being...
-...Thing base created and initialized
+...Thing Base created and initialized
  ..
 ...Thing position-3 created and initialized
  ..
@@ -109,27 +109,27 @@ Assigning program to being...
 ...Thing position-7 created and initialized
  ..
 Assigning program to being...
-...Thing base created and initialized
+...Thing Base created and initialized
  ..
 ...Thing position-8 created and initialized
  ..
 Assigning program to being...
-...Thing base created and initialized
+...Thing Base created and initialized
  ..
 ...Thing position-9 created and initialized
  ..
 Assigning program to being...
-...Thing Base created and initialized
+...Thing base created and initialized
  ..
 ...Thing position-10 created and initialized
  ..
 Assigning program to being...
-...Thing Base created and initialized
+...Thing base created and initialized
  ..
 ...Thing position-11 created and initialized
  ..
 Assigning program to being...
-...Thing Base created and initialized
+...Thing base created and initialized
  ..
 ...Thing position-12 created and initialized
  ..
@@ -144,408 +144,305 @@ Assigning program to being...
 ...Thing position-14 created and initialized
  ..
 Assigning program to being...
-...Thing Base created and initialized
+...Thing base created and initialized
  ..
 ...Thing position-15 created and initialized
  ..
 Assigning program to being...
-...Thing generated-20-10-5-50 created and initialized
+...Thing generated-20-10-5-80 created and initialized
  ..
 ...Thing Display for Men and Elves created and initialized
  ..
 .....Adding beings to world....
 111111111111111222222222222222 done populating....
-[37mbase(5,0) attempts to buff base(4,0) melee_damage by 1 : Sucessful![0m
-[37mbase(5,0) attempts to buff base(5,0) melee_damage by 1 : Sucessful![0m
-[37mbase(5,0) attempts to buff Base(6,0) melee_damage by 1 : Sucessful![0m
-[37mBase(6,0) attempts to buff base(5,0) magic_range by 4 : Sucessful![0m
-[37mBase(6,0) attempts to buff Base(6,0) magic_range by 4 : Sucessful![0m
-[37mBase(6,0) attempts to buff Base(7,0) magic_range by 4 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mbase[0m(7,9) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mbase[0m(8,9) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mBase[0m(9,9) move by 1 : Sucessful![0m
-[37m[1mBase[0m(10,9) attempts to buff [1mBase[0m(9,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,9) attempts to buff [1mBase[0m(10,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,9) attempts to buff [1mBase[0m(11,9) ballistic_damage by 2 : Sucessful![0m
-[37mbase(5,0) attempts to buff base(4,0) melee_damage by 1 : Sucessful![0m
-[37mbase(5,0) attempts to buff base(5,0) melee_damage by 1 : Sucessful![0m
-[37mbase(5,0) attempts to buff Base(6,0) melee_damage by 1 : Sucessful![0m
-[37mBase(6,0) attempts to buff base(5,0) magic_range by 4 : Sucessful![0m
-[37mBase(6,0) attempts to buff Base(6,0) magic_range by 4 : Sucessful![0m
-[37mBase(6,0) attempts to buff Base(7,0) magic_range by 4 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mbase[0m(7,9) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mbase[0m(8,9) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mBase[0m(9,9) move by 1 : Sucessful![0m
-[37m[1mBase[0m(10,9) attempts to buff [1mBase[0m(9,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,9) attempts to buff [1mBase[0m(10,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,9) attempts to buff [1mBase[0m(11,9) ballistic_damage by 2 : Sucessful![0m
-[37mbase(5,0) attempts to buff base(4,0) melee_damage by 1 : Sucessful![0m
-[37mbase(5,0) attempts to buff base(5,0) melee_damage by 1 : Sucessful![0m
-[37mbase(5,0) attempts to buff Base(6,0) melee_damage by 1 : Sucessful![0m
-[37mBase(6,0) attempts to buff base(5,0) magic_range by 4 : Sucessful![0m
-[37mBase(6,0) attempts to buff Base(6,0) magic_range by 4 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mbase[0m(7,9) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mbase[0m(8,9) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mBase[0m(9,9) move by 1 : Sucessful![0m
-[37m[1mBase[0m(10,9) attempts to buff [1mBase[0m(9,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,9) attempts to buff [1mBase[0m(10,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,9) attempts to buff [1mBase[0m(11,9) ballistic_damage by 2 : Sucessful![0m
-[37mbase(5,0) attempts to buff base(4,0) melee_damage by 1 : Sucessful![0m
-[37mbase(5,0) attempts to buff base(5,0) melee_damage by 1 : Sucessful![0m
-[37mbase(5,0) attempts to buff Base(6,1) melee_damage by 1 : Sucessful![0m
-[37mBase(6,1) attempts to buff base(5,0) magic_range by 4 : Sucessful![0m
-[37mBase(6,1) attempts to buff Base(6,1) magic_range by 4 : Sucessful![0m
-[37mBase(6,1) attempts to buff Base(7,1) magic_range by 4 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mbase[0m(7,9) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mbase[0m(8,9) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mBase[0m(9,9) move by 1 : Sucessful![0m
-[37m[1mBase[0m(10,9) attempts to buff [1mBase[0m(9,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,9) attempts to buff [1mBase[0m(10,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,9) attempts to buff [1mBase[0m(11,9) ballistic_damage by 2 : Sucessful![0m
-[37mbase(5,0) attempts to buff base(4,0) melee_damage by 1 : Sucessful![0m
-[37mbase(5,0) attempts to buff base(5,0) melee_damage by 1 : Sucessful![0m
-[37mbase(5,0) attempts to buff Base(6,1) melee_damage by 1 : Sucessful![0m
-[37mBase(6,1) attempts to buff base(5,0) magic_range by 4 : Sucessful![0m
-[37mBase(6,1) attempts to buff Base(6,1) magic_range by 4 : Sucessful![0m
-[37mBase(6,1) attempts to buff Base(7,1) magic_range by 4 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mbase[0m(7,8) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mbase[0m(8,9) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mBase[0m(9,9) move by 1 : Sucessful![0m
-[37m[1mBase[0m(10,9) attempts to buff [1mBase[0m(9,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,9) attempts to buff [1mBase[0m(10,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,9) attempts to buff [1mBase[0m(11,9) ballistic_damage by 2 : Sucessful![0m
-[37mbase(5,0) attempts to buff base(4,0) melee_damage by 1 : Sucessful![0m
-[37mbase(5,0) attempts to buff base(5,0) melee_damage by 1 : Sucessful![0m
-[37mbase(5,0) attempts to buff Base(6,1) melee_damage by 1 : Sucessful![0m
-[37mBase(6,1) attempts to buff base(5,0) magic_range by 4 : Sucessful![0m
-[37mBase(6,1) attempts to buff Base(6,1) magic_range by 4 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mbase[0m(7,8) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mbase[0m(8,9) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mBase[0m(9,9) move by 1 : Sucessful![0m
-[37m[1mBase[0m(10,9) attempts to buff [1mBase[0m(9,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,9) attempts to buff [1mBase[0m(10,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,9) attempts to buff [1mBase[0m(11,8) ballistic_damage by 2 : Sucessful![0m
-[37mbase(5,0) attempts to buff base(4,0) melee_damage by 1 : Sucessful![0m
-[37mbase(5,0) attempts to buff base(5,0) melee_damage by 1 : Sucessful![0m
-[37mBase(7,1) attempts to buff Base(7,1) magic_range by 4 : Sucessful![0m
-[37mBase(7,1) attempts to buff Base(8,1) magic_range by 4 : Sucessful![0m
-[37mBase(7,1) attempts to buff Base(8,2) magic_range by 4 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mbase[0m(7,8) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mbase[0m(8,9) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mBase[0m(9,9) move by 1 : Sucessful![0m
-[37m[1mBase[0m(10,9) attempts to buff [1mBase[0m(9,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,9) attempts to buff [1mBase[0m(10,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,9) attempts to buff [1mBase[0m(11,8) ballistic_damage by 2 : Sucessful![0m
-[37mbase(5,0) attempts to buff base(4,0) melee_damage by 1 : Sucessful![0m
-[37mbase(5,0) attempts to buff base(5,0) melee_damage by 1 : Sucessful![0m
-[37mBase(7,2) attempts to buff Base(7,2) magic_range by 4 : Sucessful![0m
-[37mBase(7,2) attempts to buff Base(8,1) magic_range by 4 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mbase[0m(7,8) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mbase[0m(8,9) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mBase[0m(9,9) move by 1 : Sucessful![0m
-[37m[1mBase[0m(10,9) attempts to buff [1mBase[0m(9,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,9) attempts to buff [1mBase[0m(10,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,9) attempts to buff [1mBase[0m(11,8) ballistic_damage by 2 : Sucessful![0m
-[37mbase(6,0) attempts to buff base(6,0) melee_damage by 1 : Sucessful![0m
-[37mbase(6,0) attempts to buff Base(7,1) melee_damage by 1 : Sucessful![0m
-[37mBase(6,2) attempts to buff Base(6,2) magic_range by 4 : Sucessful![0m
-[37mBase(6,2) attempts to buff Base(7,1) magic_range by 4 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mbase[0m(7,8) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mbase[0m(8,9) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mBase[0m(9,9) move by 1 : Sucessful![0m
-[37m[1mBase[0m(10,9) attempts to buff [1mBase[0m(9,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,9) attempts to buff [1mBase[0m(10,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,9) attempts to buff [1mBase[0m(11,8) ballistic_damage by 2 : Sucessful![0m
-[37mbase(7,0) attempts to buff base(7,0) melee_damage by 1 : Sucessful![0m
-[37mbase(7,0) attempts to buff Base(7,1) melee_damage by 1 : Sucessful![0m
-[37mBase(6,2) attempts to buff Base(6,2) magic_range by 4 : Sucessful![0m
-[37mBase(6,2) attempts to buff Base(7,1) magic_range by 4 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mbase[0m(7,8) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mbase[0m(8,9) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mBase[0m(9,9) move by 1 : Sucessful![0m
-[37m[1mBase[0m(10,9) attempts to buff [1mBase[0m(9,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,9) attempts to buff [1mBase[0m(10,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,9) attempts to buff [1mBase[0m(11,8) ballistic_damage by 2 : Sucessful![0m
-[37mbase(7,0) attempts to buff base(7,0) melee_damage by 1 : Sucessful![0m
-[37mbase(7,0) attempts to buff Base(7,1) melee_damage by 1 : Sucessful![0m
-[37mBase(6,2) attempts to buff Base(6,2) magic_range by 4 : Sucessful![0m
-[37mBase(6,2) attempts to buff Base(7,1) magic_range by 4 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mbase[0m(8,8) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mbase[0m(8,9) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mBase[0m(9,9) move by 1 : Sucessful![0m
-[37m[1mBase[0m(10,9) attempts to buff [1mBase[0m(9,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,9) attempts to buff [1mBase[0m(10,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,9) attempts to buff [1mBase[0m(11,8) ballistic_damage by 2 : Sucessful![0m
-[37mbase(7,0) attempts to buff base(7,0) melee_damage by 1 : Sucessful![0m
-[37mbase(7,0) attempts to buff Base(8,1) melee_damage by 1 : Sucessful![0m
-[37mBase(6,2) attempts to buff Base(6,2) magic_range by 4 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mbase[0m(8,8) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mbase[0m(8,9) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mBase[0m(9,9) move by 1 : Sucessful![0m
-[37m[1mBase[0m(11,9) attempts to buff [1mBase[0m(11,8) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(11,9) attempts to buff [1mBase[0m(11,9) ballistic_damage by 2 : Sucessful![0m
-[37mbase(7,1) attempts to buff Base(6,2) melee_damage by 1 : Sucessful![0m
-[37mbase(7,1) attempts to buff base(7,1) melee_damage by 1 : Sucessful![0m
-[37mBase(6,2) attempts to buff Base(6,2) magic_range by 4 : Sucessful![0m
-[37mBase(6,2) attempts to buff base(7,1) magic_range by 4 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mbase[0m(8,8) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mbase[0m(8,9) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mBase[0m(9,9) move by 1 : Sucessful![0m
-[37m[1mBase[0m(10,9) attempts to buff [1mBase[0m(9,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,9) attempts to buff [1mBase[0m(10,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,9) attempts to buff [1mBase[0m(11,8) ballistic_damage by 2 : Sucessful![0m
-[37mbase(6,1) attempts to buff base(6,1) melee_damage by 1 : Sucessful![0m
-[37mbase(6,1) attempts to buff Base(7,2) melee_damage by 1 : Sucessful![0m
-[37mBase(7,2) attempts to buff base(6,1) magic_range by 4 : Sucessful![0m
-[37mBase(7,2) attempts to buff Base(7,2) magic_range by 4 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(9,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(10,8) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(11,8) ballistic_damage by 2 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mbase[0m(8,8) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mbase[0m(8,9) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mBase[0m(9,9) move by 1 : Sucessful![0m
-[37mbase(7,1) attempts to buff base(7,1) melee_damage by 1 : Sucessful![0m
-[37mbase(7,1) attempts to buff Base(7,2) melee_damage by 1 : Sucessful![0m
-[37mBase(7,2) attempts to buff base(7,1) magic_range by 4 : Sucessful![0m
-[37mBase(7,2) attempts to buff Base(7,2) magic_range by 4 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(9,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(10,8) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(11,8) ballistic_damage by 2 : Sucessful![0m
-[35m[1mBase[0m(11,8) attempts to buff base(12,5) melee_skill by -1 : Succeeds.[0m
-[37m[1mbase[0m(8,9) attempts to buff [1mbase[0m(8,8) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mbase[0m(8,9) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mBase[0m(9,9) move by 1 : Sucessful![0m
-[1mBase[0m(11,6) hit base(12,5) with a melee attack. [33m[1mBase[0m damages base for 1 wounds..[0m
-[31mbase[0m(12,5)[31m is killed![0m
-[37mbase(7,1) attempts to buff Base(6,2) melee_damage by 1 : Sucessful![0m
-[37mbase(7,1) attempts to buff base(7,1) melee_damage by 1 : Sucessful![0m
-[37mBase(6,2) attempts to buff Base(6,2) magic_range by 4 : Sucessful![0m
-[37mBase(6,2) attempts to buff base(7,1) magic_range by 4 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(9,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(10,8) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(11,8) ballistic_damage by 2 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mbase[0m(8,9) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mBase[0m(9,9) move by 1 : Sucessful![0m
-[37mBase(6,2) attempts to buff Base(6,2) magic_range by 4 : Sucessful![0m
-[37mBase(6,2) attempts to buff base(7,2) magic_range by 4 : Sucessful![0m
-[37mbase(7,2) attempts to buff Base(6,2) melee_damage by 1 : Sucessful![0m
-[37mbase(7,2) attempts to buff base(7,2) melee_damage by 1 : Sucessful![0m
-[37mbase(7,2) attempts to buff base(8,2) melee_damage by 1 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(9,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(10,8) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(11,8) ballistic_damage by 2 : Sucessful![0m
-[36m[1mBase[0m(11,8) attempts to buff Base(8,5) melee_skill by -1 : Fails.[0m
-[37m[1mbase[0m(8,9) attempts to buff [1mbase[0m(8,9) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mBase[0m(9,9) move by 1 : Sucessful![0m
-[37mBase(6,2) attempts to buff Base(6,2) magic_range by 4 : Sucessful![0m
-[37mBase(6,2) attempts to buff base(7,2) magic_range by 4 : Sucessful![0m
-[37mbase(7,2) attempts to buff Base(6,2) melee_damage by 1 : Sucessful![0m
-[37mbase(7,2) attempts to buff base(7,2) melee_damage by 1 : Sucessful![0m
-[37mbase(7,2) attempts to buff base(8,2) melee_damage by 1 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(9,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(10,8) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(11,8) ballistic_damage by 2 : Sucessful![0m
-[35m[1mBase[0m(11,8) attempts to buff Base(10,5) melee_skill by -1 : Succeeds.[0m
-[37m[1mbase[0m(8,9) attempts to buff [1mbase[0m(8,9) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mBase[0m(9,9) move by 1 : Sucessful![0m
-Base(10,5) hit [1mBase[0m(10,6) with a melee attack. 
-[37mThe Base melee attack bounces off [1mBase[0m(10,6)..[0m
-[37mBase(6,2) attempts to buff Base(6,2) magic_range by 4 : Sucessful![0m
-[37mBase(6,2) attempts to buff base(7,2) magic_range by 4 : Sucessful![0m
-[37mbase(7,2) attempts to buff Base(6,2) melee_damage by 1 : Sucessful![0m
-[37mbase(7,2) attempts to buff base(7,2) melee_damage by 1 : Sucessful![0m
-[37mbase(7,2) attempts to buff base(8,2) melee_damage by 1 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(9,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(10,8) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(11,8) ballistic_damage by 2 : Sucessful![0m
-[36m[1mBase[0m(11,8) attempts to buff Base(10,5) melee_skill by -1 : Fails.[0m
-[37m[1mbase[0m(8,9) attempts to buff [1mbase[0m(8,9) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mBase[0m(9,9) move by 1 : Sucessful![0m
-Base(10,5) hit [1mBase[0m(10,6) with a melee attack. 
-[37mThe Base melee attack bounces off [1mBase[0m(10,6)..[0m
-[1mBase[0m(10,6) hit Base(10,5) with a melee attack. [33m[1mBase[0m damages Base for 1 wounds..[0m
-[31mBase[0m(10,5)[31m is killed![0m
-[37mBase(6,2) attempts to buff Base(6,2) magic_range by 4 : Sucessful![0m
-[37mBase(6,2) attempts to buff base(7,2) magic_range by 4 : Sucessful![0m
-[37mbase(7,2) attempts to buff Base(6,2) melee_damage by 1 : Sucessful![0m
-[37mbase(7,2) attempts to buff base(7,2) melee_damage by 1 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(9,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(10,8) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(11,8) ballistic_damage by 2 : Sucessful![0m
-[36m[1mBase[0m(11,8) attempts to buff Base(10,5) melee_skill by -1 : Fails.[0m
-[37m[1mbase[0m(8,9) attempts to buff [1mbase[0m(8,9) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mBase[0m(9,9) move by 1 : Sucessful![0m
-Base(10,5) hit [1mBase[0m(10,6) with a ranged attack. 
-[37mThe Base ranged attack bounces off [1mBase[0m(10,6)..[0m
-Base(10,5) hit [1mBase[0m(10,6) with a melee attack. 
-[37mThe Base melee attack bounces off [1mBase[0m(10,6)..[0m
-[1mBase[0m(10,6) hit Base(10,5) with a melee attack. [33m[1mBase[0m damages Base for 1 wounds..[0m
-[37mBase(6,2) attempts to buff Base(6,2) magic_range by 4 : Sucessful![0m
-[37mBase(6,2) attempts to buff base(7,2) magic_range by 4 : Sucessful![0m
-[37mbase(7,2) attempts to buff Base(6,2) melee_damage by 1 : Sucessful![0m
-[37mbase(7,2) attempts to buff base(7,2) melee_damage by 1 : Sucessful![0m
-[36m[1mBase[0m(11,7) attempts to buff Base(10,5) melee_skill by -1 : Fails.[0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(9,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(10,8) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(11,7) ballistic_damage by 2 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mbase[0m(8,9) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,9) attempts to buff [1mBase[0m(9,9) move by 1 : Sucessful![0m
-Base(10,5) hit [1mBase[0m(10,6) with a ranged attack. 
-[37mThe Base ranged attack bounces off [1mBase[0m(10,6)..[0m
-Base(10,5) hit [1mBase[0m(10,6) with a melee attack. 
-[37mThe Base melee attack bounces off [1mBase[0m(10,6)..[0m
-Base(0,6) hit [1mbase[0m(1,7) with a melee attack. [33mBase damages [1mbase[0m for 2 wounds..[0m
-[31m[1mbase[0m[0m(1,7)[31m is killed![0m
-[37mBase(6,2) attempts to buff Base(6,2) magic_range by 4 : Sucessful![0m
-[37mBase(6,2) attempts to buff base(7,2) magic_range by 4 : Sucessful![0m
-[37mbase(7,2) attempts to buff Base(6,2) melee_damage by 1 : Sucessful![0m
-[37mbase(7,2) attempts to buff base(7,2) melee_damage by 1 : Sucessful![0m
-[37mbase(7,2) attempts to buff base(8,2) melee_damage by 1 : Sucessful![0m
-[35m[1mBase[0m(11,7) attempts to buff Base(9,5) melee_skill by -1 : Succeeds.[0m
-[37m[1mbase[0m(8,8) attempts to buff [1mbase[0m(8,7) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,8) attempts to buff [1mbase[0m(8,8) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,8) attempts to buff [1mBase[0m(9,9) move by 1 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(9,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(10,8) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(11,7) ballistic_damage by 2 : Sucessful![0m
-[1mBase[0m(10,6) hit Base(9,5) with a melee attack. 
-[37mThe [1mBase[0m melee attack bounces off Base(9,5)..[0m
-[37mBase(6,2) attempts to buff Base(6,2) magic_range by 4 : Sucessful![0m
-[37mBase(6,2) attempts to buff base(7,3) magic_range by 4 : Sucessful![0m
-[37mbase(7,3) attempts to buff Base(6,2) melee_damage by 1 : Sucessful![0m
-[37mbase(7,3) attempts to buff base(7,3) melee_damage by 1 : Sucessful![0m
-[36m[1mBase[0m(11,7) attempts to buff Base(8,5) melee_skill by -1 : Fails.[0m
-[35m[1mBase[0m(11,7) attempts to buff Base(12,4) melee_skill by -1 : Succeeds.[0m
-[37m[1mbase[0m(8,8) attempts to buff [1mBase[0m(7,8) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,8) attempts to buff [1mbase[0m(8,7) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,8) attempts to buff [1mbase[0m(8,8) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,8) attempts to buff [1mBase[0m(9,9) move by 1 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(9,9) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(10,8) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(11,7) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(11,8) ballistic_damage by 2 : Sucessful![0m
-[37mBase(6,2) attempts to buff Base(6,2) magic_range by 4 : Sucessful![0m
-[37mBase(6,2) attempts to buff base(7,3) magic_range by 4 : Sucessful![0m
-[37mbase(7,3) attempts to buff Base(6,2) melee_damage by 1 : Sucessful![0m
-[37mbase(7,3) attempts to buff base(7,3) melee_damage by 1 : Sucessful![0m
-[36m[1mBase[0m(11,7) attempts to buff Base(9,5) melee_skill by -1 : Fails.[0m
-[36m[1mBase[0m(11,7) attempts to buff Base(11,4) melee_skill by -1 : Fails.[0m
-[37m[1mbase[0m(8,8) attempts to buff [1mBase[0m(7,8) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,8) attempts to buff [1mBase[0m(7,9) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,8) attempts to buff [1mbase[0m(8,7) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,8) attempts to buff [1mbase[0m(8,8) move by 1 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(10,8) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(11,7) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(11,8) ballistic_damage by 2 : Sucessful![0m
-[1mBase[0m(11,7) hit Base(11,4) with a ranged attack. [33m[1mBase[0m damages Base for 3 wounds..[0m
-[31mBase[0m(11,4)[31m is killed![0m
-Base(9,5) hit [1mBase[0m(10,6) with a melee attack. 
-[37mThe Base melee attack bounces off [1mBase[0m(10,6)..[0m
-[37mBase(6,2) attempts to buff Base(6,2) magic_range by 4 : Sucessful![0m
-[37mBase(6,2) attempts to buff base(7,3) magic_range by 4 : Sucessful![0m
-[37mbase(7,3) attempts to buff Base(6,2) melee_damage by 1 : Sucessful![0m
-[37mbase(7,3) attempts to buff base(7,3) melee_damage by 1 : Sucessful![0m
-[36m[1mBase[0m(11,7) attempts to buff Base(9,6) melee_skill by -1 : Fails.[0m
-[37m[1mbase[0m(8,8) attempts to buff [1mBase[0m(7,8) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,8) attempts to buff [1mbase[0m(8,7) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,8) attempts to buff [1mbase[0m(8,8) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,8) attempts to buff [1mBase[0m(8,9) move by 1 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(10,8) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(11,7) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(11,8) ballistic_damage by 2 : Sucessful![0m
-base(18,8) hit [1mbase[0m(18,9) with a ranged attack. 
-[37mThe base ranged attack bounces off [1mbase[0m(18,9)..[0m
-Base(9,6) hit [1mbase[0m(8,7) with a melee attack. 
-[37mThe Base melee attack bounces off [1mbase[0m(8,7)..[0m
-Base(9,6) hit [1mBase[0m(10,6) with a melee attack. 
-[37mThe Base melee attack bounces off [1mBase[0m(10,6)..[0m
-[1mbase[0m(8,7) hit Base(9,6) with a melee attack. 
-[37mThe [1mbase[0m melee attack bounces off Base(9,6)..[0m
-base(18,8) hit [1mbase[0m(18,9) with a melee attack. [33mbase damages [1mbase[0m for 1 wounds..[0m
-[31m[1mbase[0m[0m(18,9)[31m is killed![0m
-[1mbase[0m(18,9) hit base(18,8) with a melee attack. 
-[37mThe [1mbase[0m melee attack bounces off base(18,8)..[0m
-[37mBase(6,2) attempts to buff Base(6,2) magic_range by 4 : Sucessful![0m
-[37mBase(6,2) attempts to buff base(7,3) magic_range by 4 : Sucessful![0m
-[37mbase(7,3) attempts to buff Base(6,2) melee_damage by 1 : Sucessful![0m
-[37mbase(7,3) attempts to buff base(7,3) melee_damage by 1 : Sucessful![0m
-[35m[1mBase[0m(11,7) attempts to buff Base(9,7) melee_skill by -1 : Succeeds.[0m
-[37m[1mbase[0m(8,8) attempts to buff [1mBase[0m(7,8) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,8) attempts to buff [1mbase[0m(8,7) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,8) attempts to buff [1mbase[0m(8,8) move by 1 : Sucessful![0m
-[37m[1mbase[0m(8,8) attempts to buff [1mBase[0m(8,9) move by 1 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(10,8) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(11,7) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(11,8) ballistic_damage by 2 : Sucessful![0m
-Base(9,7) hit [1mbase[0m(8,8) with a melee attack. 
-[37mThe Base melee attack bounces off [1mbase[0m(8,8)..[0m
-Base(9,7) hit [1mBase[0m(10,6) with a melee attack. 
-[37mThe Base melee attack bounces off [1mBase[0m(10,6)..[0m
-[1mBase[0m(10,8) hit Base(9,7) with a melee attack. 
-[37mThe [1mBase[0m melee attack bounces off Base(9,7)..[0m
-[37mBase(6,2) attempts to buff Base(6,2) magic_range by 4 : Sucessful![0m
-[37mbase(8,3) attempts to buff base(8,3) melee_damage by 1 : Sucessful![0m
-[35m[1mBase[0m(11,7) attempts to buff Base(9,7) melee_skill by -1 : Succeeds.[0m
-[37m[1mbase[0m(9,8) attempts to buff [1mbase[0m(8,7) move by 1 : Sucessful![0m
-[37m[1mbase[0m(9,8) attempts to buff [1mBase[0m(8,9) move by 1 : Sucessful![0m
-[37m[1mbase[0m(9,8) attempts to buff [1mbase[0m(9,8) move by 1 : Sucessful![0m
-[37m[1mbase[0m(9,8) attempts to buff [1mBase[0m(10,8) move by 1 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mbase[0m(9,8) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(10,8) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(11,7) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(11,8) ballistic_damage by 2 : Sucessful![0m
-Base(9,7) hit [1mbase[0m(8,7) with a ranged attack. 
-[37mThe Base ranged attack bounces off [1mbase[0m(8,7)..[0m
-[1mBase[0m(10,6) hit Base(9,7) with a melee attack. 
-[37mThe [1mBase[0m melee attack bounces off Base(9,7)..[0m
-[1mbase[0m(8,7) hit Base(9,7) with a melee attack. 
-[37mThe [1mbase[0m melee attack bounces off Base(9,7)..[0m
-Base(9,7) hit [1mbase[0m(9,8) with a melee attack. 
-[37mThe Base melee attack bounces off [1mbase[0m(9,8)..[0m
-[1mbase[0m(9,8) hit Base(9,7) with a melee attack. 
-[37mThe [1mbase[0m melee attack bounces off Base(9,7)..[0m
-[1mBase[0m(10,8) hit Base(9,7) with a melee attack. 
-[37mThe [1mBase[0m melee attack bounces off Base(9,7)..[0m
-[37mBase(6,2) attempts to buff Base(6,2) magic_range by 4 : Sucessful![0m
-[37mbase(8,3) attempts to buff base(8,3) melee_damage by 1 : Sucessful![0m
-[35m[1mBase[0m(11,7) attempts to buff Base(9,7) melee_skill by -1 : Succeeds.[0m
-[37m[1mbase[0m(9,8) attempts to buff [1mbase[0m(8,7) move by 1 : Sucessful![0m
-[37m[1mbase[0m(9,8) attempts to buff [1mBase[0m(8,9) move by 1 : Sucessful![0m
-[37m[1mbase[0m(9,8) attempts to buff [1mbase[0m(9,8) move by 1 : Sucessful![0m
-[37m[1mbase[0m(9,8) attempts to buff [1mBase[0m(10,8) move by 1 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mbase[0m(9,8) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(10,8) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(11,7) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(11,8) ballistic_damage by 2 : Sucessful![0m
-Base(9,7) hit [1mbase[0m(9,8) with a melee attack. 
-[37mThe Base melee attack bounces off [1mbase[0m(9,8)..[0m
-Base(9,7) hit [1mBase[0m(10,8) with a melee attack. 
-[37mThe Base melee attack bounces off [1mBase[0m(10,8)..[0m
-[37mBase(7,2) attempts to buff Base(7,2) magic_range by 4 : Sucessful![0m
-[37mBase(7,2) attempts to buff base(8,3) magic_range by 4 : Sucessful![0m
-[37mbase(8,3) attempts to buff Base(7,2) melee_damage by 1 : Sucessful![0m
-[37mbase(8,3) attempts to buff base(8,3) melee_damage by 1 : Sucessful![0m
-[36m[1mBase[0m(11,7) attempts to buff Base(9,7) melee_skill by -1 : Fails.[0m
-[37m[1mbase[0m(9,8) attempts to buff [1mbase[0m(8,7) move by 1 : Sucessful![0m
-[37m[1mbase[0m(9,8) attempts to buff [1mBase[0m(8,9) move by 1 : Sucessful![0m
-[37m[1mbase[0m(9,8) attempts to buff [1mbase[0m(9,8) move by 1 : Sucessful![0m
-[37m[1mbase[0m(9,8) attempts to buff [1mBase[0m(10,8) move by 1 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mbase[0m(9,8) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(10,8) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(11,7) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(11,8) ballistic_damage by 2 : Sucessful![0m
-Base(9,7) hit [1mbase[0m(9,8) with a ranged attack. 
-[37mThe Base ranged attack bounces off [1mbase[0m(9,8)..[0m
-[1mbase[0m(9,8) hit Base(9,7) with a ranged attack. [33m[1mbase[0m damages Base for 1 wounds..[0m
-[31mBase[0m(9,7)[31m is killed![0m
-[37mBase(6,2) attempts to buff Base(6,2) magic_range by 4 : Sucessful![0m
-[37mBase(6,2) attempts to buff base(7,3) magic_range by 4 : Sucessful![0m
-[37mbase(7,3) attempts to buff Base(6,2) melee_damage by 1 : Sucessful![0m
-[37mbase(7,3) attempts to buff base(7,3) melee_damage by 1 : Sucessful![0m
-[37m[1mbase[0m(9,7) attempts to buff [1mbase[0m(8,6) move by 1 : Sucessful![0m
-[37m[1mbase[0m(9,7) attempts to buff [1mbase[0m(9,7) move by 1 : Sucessful![0m
-[37m[1mbase[0m(9,7) attempts to buff [1mBase[0m(10,6) move by 1 : Sucessful![0m
-[37m[1mbase[0m(9,7) attempts to buff [1mBase[0m(10,8) move by 1 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mbase[0m(9,7) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(10,8) ballistic_damage by 2 : Sucessful![0m
-[37m[1mBase[0m(10,8) attempts to buff [1mBase[0m(11,7) ballistic_damage by 2 : Sucessful![0m
+[37mBase(11,0) attempts to buff Base(10,0) magic_range by 4 : Sucessful![0m
+[37mBase(11,0) attempts to buff Base(11,0) magic_range by 4 : Sucessful![0m
+[37mBase(11,0) attempts to buff Base(12,0) magic_range by 4 : Sucessful![0m
+[37m[1mbase[0m(2,9) attempts to buff [1mbase[0m(2,9) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(2,9) attempts to buff [1mBase[0m(3,9) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(2,9) attempts to buff [1mBase[0m(4,9) melee_skill by 2 : Sucessful![0m
+[37m[1mBase[0m(11,9) attempts to buff [1mBase[0m(9,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,9) attempts to buff [1mbase[0m(10,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,9) attempts to buff [1mBase[0m(11,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,9) attempts to buff [1mBase[0m(12,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,9) attempts to buff [1mbase[0m(13,9) ballistic_range by 3 : Sucessful![0m
+[37mBase(11,0) attempts to buff Base(10,0) magic_range by 4 : Sucessful![0m
+[37mBase(11,0) attempts to buff Base(11,0) magic_range by 4 : Sucessful![0m
+[37mBase(11,0) attempts to buff Base(12,0) magic_range by 4 : Sucessful![0m
+[37m[1mbase[0m(2,9) attempts to buff [1mbase[0m(2,9) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(2,9) attempts to buff [1mBase[0m(3,9) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(2,9) attempts to buff [1mBase[0m(4,9) melee_skill by 2 : Sucessful![0m
+[37m[1mBase[0m(11,9) attempts to buff [1mBase[0m(9,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,9) attempts to buff [1mbase[0m(10,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,9) attempts to buff [1mBase[0m(11,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,9) attempts to buff [1mBase[0m(12,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,9) attempts to buff [1mbase[0m(13,9) ballistic_range by 3 : Sucessful![0m
+[37mBase(11,1) attempts to buff Base(10,0) magic_range by 4 : Sucessful![0m
+[37mBase(11,1) attempts to buff Base(11,1) magic_range by 4 : Sucessful![0m
+[37mBase(11,1) attempts to buff Base(12,0) magic_range by 4 : Sucessful![0m
+[37m[1mbase[0m(2,8) attempts to buff [1mbase[0m(2,8) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(2,8) attempts to buff [1mBase[0m(3,9) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(2,8) attempts to buff [1mBase[0m(4,9) melee_skill by 2 : Sucessful![0m
+[37m[1mBase[0m(11,9) attempts to buff [1mBase[0m(9,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,9) attempts to buff [1mbase[0m(10,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,9) attempts to buff [1mBase[0m(11,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,9) attempts to buff [1mBase[0m(12,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,9) attempts to buff [1mbase[0m(13,9) ballistic_range by 3 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(11,2) magic_range by 4 : Sucessful![0m
+[37m[1mbase[0m(2,8) attempts to buff [1mbase[0m(2,8) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(2,8) attempts to buff [1mBase[0m(2,9) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(2,8) attempts to buff [1mBase[0m(4,9) melee_skill by 2 : Sucessful![0m
+[37m[1mBase[0m(11,9) attempts to buff [1mBase[0m(9,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,9) attempts to buff [1mbase[0m(10,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,9) attempts to buff [1mBase[0m(11,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,9) attempts to buff [1mBase[0m(12,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,9) attempts to buff [1mbase[0m(13,9) ballistic_range by 3 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(11,2) magic_range by 4 : Sucessful![0m
+[37m[1mbase[0m(2,8) attempts to buff [1mbase[0m(2,8) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(2,8) attempts to buff [1mBase[0m(2,9) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(2,8) attempts to buff [1mBase[0m(4,9) melee_skill by 2 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(9,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mbase[0m(10,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(11,8) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(12,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mbase[0m(13,9) ballistic_range by 3 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(11,2) magic_range by 4 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(12,1) magic_range by 4 : Sucessful![0m
+[37m[1mbase[0m(2,8) attempts to buff [1mbase[0m(2,8) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(2,8) attempts to buff [1mBase[0m(2,9) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(2,8) attempts to buff [1mBase[0m(4,9) melee_skill by 2 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(9,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mbase[0m(10,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(11,8) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(11,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mbase[0m(13,9) ballistic_range by 3 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(11,2) magic_range by 4 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(12,1) magic_range by 4 : Sucessful![0m
+[37m[1mbase[0m(2,8) attempts to buff [1mbase[0m(2,8) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(2,8) attempts to buff [1mBase[0m(2,9) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(2,8) attempts to buff [1mBase[0m(3,9) melee_skill by 2 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(9,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mbase[0m(10,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(11,8) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(11,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mbase[0m(13,9) ballistic_range by 3 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(11,2) magic_range by 4 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(12,1) magic_range by 4 : Sucessful![0m
+[37m[1mbase[0m(2,8) attempts to buff [1mbase[0m(2,8) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(2,8) attempts to buff [1mBase[0m(2,9) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(2,8) attempts to buff [1mBase[0m(3,9) melee_skill by 2 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(9,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mbase[0m(10,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(11,8) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(11,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mbase[0m(13,9) ballistic_range by 3 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(11,2) magic_range by 4 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(12,1) magic_range by 4 : Sucessful![0m
+[37m[1mbase[0m(2,8) attempts to buff [1mbase[0m(2,8) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(2,8) attempts to buff [1mBase[0m(2,9) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(2,8) attempts to buff [1mBase[0m(3,8) melee_skill by 2 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mbase[0m(10,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(11,8) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(11,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mbase[0m(13,9) ballistic_range by 3 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(11,2) magic_range by 4 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(12,1) magic_range by 4 : Sucessful![0m
+[37m[1mbase[0m(2,8) attempts to buff [1mbase[0m(2,8) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(2,8) attempts to buff [1mBase[0m(2,9) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(2,8) attempts to buff [1mBase[0m(3,8) melee_skill by 2 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mbase[0m(10,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(11,8) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(11,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mbase[0m(13,9) ballistic_range by 3 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(11,2) magic_range by 4 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(12,1) magic_range by 4 : Sucessful![0m
+[37m[1mbase[0m(2,8) attempts to buff [1mBase[0m(1,9) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(2,8) attempts to buff [1mbase[0m(2,8) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(2,8) attempts to buff [1mBase[0m(3,7) melee_skill by 2 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mbase[0m(9,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(11,8) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(12,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mbase[0m(13,9) ballistic_range by 3 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(11,2) magic_range by 4 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(12,1) magic_range by 4 : Sucessful![0m
+[37m[1mbase[0m(3,8) attempts to buff [1mBase[0m(1,9) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,8) attempts to buff [1mBase[0m(3,7) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,8) attempts to buff [1mbase[0m(3,8) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,8) attempts to buff [1mBase[0m(5,8) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,8) attempts to buff [1mBase[0m(5,9) melee_skill by 2 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mbase[0m(9,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(11,8) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(12,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mbase[0m(13,9) ballistic_range by 3 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(11,2) magic_range by 4 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(12,1) magic_range by 4 : Sucessful![0m
+[37m[1mbase[0m(3,8) attempts to buff [1mBase[0m(1,9) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,8) attempts to buff [1mBase[0m(2,7) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,8) attempts to buff [1mbase[0m(3,8) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,8) attempts to buff [1mBase[0m(5,8) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,8) attempts to buff [1mBase[0m(5,9) melee_skill by 2 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mbase[0m(9,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(11,8) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(12,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mbase[0m(13,9) ballistic_range by 3 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(11,2) magic_range by 4 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(12,1) magic_range by 4 : Sucessful![0m
+[37m[1mbase[0m(3,8) attempts to buff [1mBase[0m(1,9) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,8) attempts to buff [1mBase[0m(2,7) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,8) attempts to buff [1mbase[0m(3,8) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,8) attempts to buff [1mBase[0m(5,8) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,8) attempts to buff [1mBase[0m(5,9) melee_skill by 2 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mbase[0m(9,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(11,8) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(12,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mbase[0m(13,9) ballistic_range by 3 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(11,2) magic_range by 4 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(12,1) magic_range by 4 : Sucessful![0m
+[37m[1mbase[0m(3,8) attempts to buff [1mBase[0m(1,9) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,8) attempts to buff [1mBase[0m(2,7) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,8) attempts to buff [1mbase[0m(3,8) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,8) attempts to buff [1mBase[0m(4,9) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,8) attempts to buff [1mBase[0m(5,8) melee_skill by 2 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mbase[0m(9,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(11,8) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(12,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mbase[0m(13,9) ballistic_range by 3 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(11,2) magic_range by 4 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(12,1) magic_range by 4 : Sucessful![0m
+[37m[1mbase[0m(3,8) attempts to buff [1mBase[0m(1,9) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,8) attempts to buff [1mBase[0m(2,7) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,8) attempts to buff [1mbase[0m(3,8) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,8) attempts to buff [1mBase[0m(4,8) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,8) attempts to buff [1mBase[0m(5,8) melee_skill by 2 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mbase[0m(9,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(11,8) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(12,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mbase[0m(13,9) ballistic_range by 3 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(11,2) magic_range by 4 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(12,1) magic_range by 4 : Sucessful![0m
+[37m[1mbase[0m(3,7) attempts to buff [1mBase[0m(1,9) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,7) attempts to buff [1mBase[0m(2,7) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,7) attempts to buff [1mbase[0m(3,7) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,7) attempts to buff [1mBase[0m(4,8) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,7) attempts to buff [1mBase[0m(5,8) melee_skill by 2 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mbase[0m(9,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(11,8) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(12,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mbase[0m(13,9) ballistic_range by 3 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(11,2) magic_range by 4 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(12,1) magic_range by 4 : Sucessful![0m
+[37m[1mbase[0m(3,7) attempts to buff [1mBase[0m(1,9) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,7) attempts to buff [1mBase[0m(2,7) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,7) attempts to buff [1mbase[0m(3,7) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,7) attempts to buff [1mBase[0m(4,8) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,7) attempts to buff [1mBase[0m(5,8) melee_skill by 2 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mbase[0m(9,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(11,8) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(12,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mbase[0m(13,9) ballistic_range by 3 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(11,2) magic_range by 4 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(12,1) magic_range by 4 : Sucessful![0m
+[37m[1mbase[0m(3,7) attempts to buff [1mBase[0m(1,9) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,7) attempts to buff [1mBase[0m(2,7) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,7) attempts to buff [1mbase[0m(3,7) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,7) attempts to buff [1mBase[0m(4,8) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,7) attempts to buff [1mBase[0m(5,8) melee_skill by 2 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mbase[0m(9,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(11,8) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(12,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mbase[0m(13,9) ballistic_range by 3 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(11,1) magic_range by 4 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(11,2) magic_range by 4 : Sucessful![0m
+[37m[1mbase[0m(3,6) attempts to buff [1mBase[0m(2,7) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,6) attempts to buff [1mbase[0m(3,6) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,6) attempts to buff [1mBase[0m(4,8) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,6) attempts to buff [1mBase[0m(5,8) melee_skill by 2 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mbase[0m(9,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(11,8) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(12,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mbase[0m(13,9) ballistic_range by 3 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(11,1) magic_range by 4 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(11,2) magic_range by 4 : Sucessful![0m
+[37m[1mbase[0m(3,6) attempts to buff [1mBase[0m(2,7) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,6) attempts to buff [1mbase[0m(3,6) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,6) attempts to buff [1mBase[0m(4,8) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(3,6) attempts to buff [1mBase[0m(5,8) melee_skill by 2 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mbase[0m(9,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(11,8) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mBase[0m(12,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,8) attempts to buff [1mbase[0m(13,9) ballistic_range by 3 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(11,1) magic_range by 4 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(11,2) magic_range by 4 : Sucessful![0m
+[37m[1mbase[0m(4,6) attempts to buff [1mBase[0m(2,6) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(4,6) attempts to buff [1mbase[0m(4,6) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(4,6) attempts to buff [1mBase[0m(4,8) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(4,6) attempts to buff [1mBase[0m(5,8) melee_skill by 2 : Sucessful![0m
+[37m[1mBase[0m(11,7) attempts to buff [1mbase[0m(9,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,7) attempts to buff [1mBase[0m(11,7) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,7) attempts to buff [1mBase[0m(12,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,7) attempts to buff [1mbase[0m(13,9) ballistic_range by 3 : Sucessful![0m
+[1mbase[0m(15,8) hit Base(14,7) with a melee attack. 
+[37mThe [1mbase[0m melee attack bounces off Base(14,7)..[0m
+[37mBase(11,2) attempts to buff Base(11,1) magic_range by 4 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(11,2) magic_range by 4 : Sucessful![0m
+[37m[1mbase[0m(4,6) attempts to buff [1mBase[0m(2,6) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(4,6) attempts to buff [1mbase[0m(4,6) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(4,6) attempts to buff [1mBase[0m(4,8) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(4,6) attempts to buff [1mBase[0m(5,8) melee_skill by 2 : Sucessful![0m
+[37m[1mBase[0m(11,7) attempts to buff [1mbase[0m(9,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,7) attempts to buff [1mBase[0m(11,7) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,7) attempts to buff [1mBase[0m(11,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,7) attempts to buff [1mbase[0m(13,9) ballistic_range by 3 : Sucessful![0m
+Base(14,7) hit [1mbase[0m(15,8) with a melee attack. [33mBase damages [1mbase[0m for 4 wounds..[0m
+[31m[1mbase[0m[0m(15,8)[31m is killed![0m
+[1mbase[0m(15,8) hit Base(14,7) with a melee attack. 
+[37mThe [1mbase[0m melee attack bounces off Base(14,7)..[0m
+[37mBase(11,2) attempts to buff Base(11,1) magic_range by 4 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(11,2) magic_range by 4 : Sucessful![0m
+[37m[1mbase[0m(4,6) attempts to buff [1mbase[0m(4,6) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(4,6) attempts to buff [1mBase[0m(4,8) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(4,6) attempts to buff [1mBase[0m(5,8) melee_skill by 2 : Sucessful![0m
+[37m[1mBase[0m(11,7) attempts to buff [1mbase[0m(9,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,7) attempts to buff [1mBase[0m(11,7) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,7) attempts to buff [1mBase[0m(11,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,7) attempts to buff [1mbase[0m(13,9) ballistic_range by 3 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(11,2) magic_range by 4 : Sucessful![0m
+[37mBase(11,2) attempts to buff Base(12,1) magic_range by 4 : Sucessful![0m
+[37m[1mbase[0m(4,6) attempts to buff [1mbase[0m(4,6) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(4,6) attempts to buff [1mBase[0m(4,8) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(4,6) attempts to buff [1mBase[0m(5,8) melee_skill by 2 : Sucessful![0m
+[37m[1mBase[0m(11,7) attempts to buff [1mbase[0m(9,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,7) attempts to buff [1mBase[0m(11,7) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,7) attempts to buff [1mBase[0m(11,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,7) attempts to buff [1mbase[0m(13,9) ballistic_range by 3 : Sucessful![0m
+[37mBase(11,4) attempts to buff Base(11,4) magic_range by 4 : Sucessful![0m
+[37m[1mbase[0m(4,6) attempts to buff [1mbase[0m(4,6) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(4,6) attempts to buff [1mBase[0m(4,8) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(4,6) attempts to buff [1mBase[0m(5,8) melee_skill by 2 : Sucessful![0m
+[37m[1mBase[0m(11,7) attempts to buff [1mbase[0m(9,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,7) attempts to buff [1mBase[0m(11,7) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,7) attempts to buff [1mBase[0m(11,8) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,7) attempts to buff [1mbase[0m(13,9) ballistic_range by 3 : Sucessful![0m
+[1mBase[0m(11,8) hit Base(11,4) with a ranged attack. 
+[37mThe [1mBase[0m ranged attack bounces off Base(11,4)..[0m
+[37mBase(12,4) attempts to buff Base(12,4) magic_range by 4 : Sucessful![0m
+[37m[1mbase[0m(4,6) attempts to buff [1mbase[0m(4,6) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(4,6) attempts to buff [1mBase[0m(4,8) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(4,6) attempts to buff [1mBase[0m(5,8) melee_skill by 2 : Sucessful![0m
+[37m[1mBase[0m(11,7) attempts to buff [1mbase[0m(9,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,7) attempts to buff [1mBase[0m(11,7) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,7) attempts to buff [1mBase[0m(11,8) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,7) attempts to buff [1mbase[0m(12,9) ballistic_range by 3 : Sucessful![0m
+[1mbase[0m(16,8) hit Base(16,7) with a melee attack. 
+[37mThe [1mbase[0m melee attack bounces off Base(16,7)..[0m
+[37mBase(12,4) attempts to buff Base(12,4) magic_range by 4 : Sucessful![0m
+[36mBase(16,5) attempts to buff [1mbase[0m(16,8) ballistic_defense_skill by -2 : Fails.[0m
+[37m[1mbase[0m(4,6) attempts to buff [1mbase[0m(4,6) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(4,6) attempts to buff [1mBase[0m(4,8) melee_skill by 2 : Sucessful![0m
+[37m[1mbase[0m(4,6) attempts to buff [1mBase[0m(5,8) melee_skill by 2 : Sucessful![0m
+[37m[1mBase[0m(11,7) attempts to buff [1mbase[0m(9,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,7) attempts to buff [1mBase[0m(11,7) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,7) attempts to buff [1mBase[0m(11,8) ballistic_range by 3 : Sucessful![0m
+[37m[1mBase[0m(11,7) attempts to buff [1mbase[0m(12,9) ballistic_range by 3 : Sucessful![0m
+Base(16,7) hit [1mbase[0m(16,8) with a melee attack. [33mBase damages [1mbase[0m for 1 wounds..[0m
+[31m[1mbase[0m[0m(16,8)[31m is killed![0m

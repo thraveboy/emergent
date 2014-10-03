@@ -15,4 +15,4 @@ team 1
 objective_points 0
 marked false
 specialty standard
-mutation wounds armor magic_range ballistic_range melee_skill ballistic_range
+mutation ballistic_range armor magic_range armor melee_damage magic_range

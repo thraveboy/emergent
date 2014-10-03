@@ -15,4 +15,4 @@ team 2
 objective_points 0
 marked false
 specialty standard
-mutation armor magic_range ballistic_skill
+mutation move move magic_range magics  +ballistic_range3 melee_skill move armor

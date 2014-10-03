@@ -15,4 +15,4 @@ team 2
 objective_points 0
 marked false
 specialty standard
-mutation wounds
+mutation magics  +melee_skill2 melee_damage magic_range

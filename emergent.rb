@@ -7,9 +7,9 @@ end
 
 require "readline"
 
-STEP_COMMAND_PAUSE_LENGTH = 0.0
-PROGRAM_PREVIEW_PAUSE_LENGTH = 0.01
-IMPORTANT_MULTIPLIER = 1
+STEP_COMMAND_PAUSE_LENGTH = 0
+PROGRAM_PREVIEW_PAUSE_LENGTH = 0
+IMPORTANT_PAUSE_LENGTH = 2
 PAUSE_LENGTH = 0
 
 CLEAR_SCREEN = FALSE
@@ -31,6 +31,7 @@ MAX_STEPS = 30
 $dump_logs = TRUE
 $current_step = 1
 
+$location_allowed_types =["being", "programmarker", "activeflag"]
 $output_team_stats_each_action = FALSE
 
 $program_steps_to_show = 30
@@ -83,8 +84,8 @@ def important_pause
 end
 
 def do_important_pauses
-  if $important_pause_switch
-    sleep IMPORTANT_MULTIPLIER * STEP_COMMAND_PAUSE_LENGTH
+  if $important_pause_switch && $dump_logs
+    sleep IMPORTANT_PAUSE_LENGTH
   end
   $important_pause_switch = false
 end
@@ -431,6 +432,9 @@ class ProgramMarker < Thing
   end
 end
 
+class ActiveFlag < Thing
+end
+
 #                         ......^^%.....World.~~
 
 class World < Thing
@@ -503,6 +507,7 @@ class World < Thing
   def add(obj, x, y)
     location = self.get_location(x, y)
     unless location.nil?
+      location.add(ActiveFlag.new)
       location.add(obj)
       return obj
     end
@@ -559,7 +564,8 @@ class World < Thing
         y_axis.each do |location|
           initial_location_strings = location.get_objects_of_type(String)
           beings_here = location.get_objects_of_type(Being)
-          markers_here = location.get_objects_of_type(ProgramMarker)
+          program_markers_here = location.get_objects_of_type(ProgramMarker)
+          active_here = location.remove("ActiveFlag")
           what_to_print = 'E'
           if beings_here != nil && beings_here != []
             displays.each do |current_display|
@@ -578,9 +584,12 @@ class World < Thing
                 what_to_print = world_location_to_print
             end
           end
-          if !markers_here.nil? && markers_here.size > 0
-            current_marker = markers_here[-1]
+          if !program_markers_here.nil? && program_markers_here.size > 0
+            current_marker = program_markers_here[-1]
             what_to_print = current_marker.display_value(current_display, what_to_print)
+          end
+          if !active_here.nil?
+            what_to_print = blink(what_to_print)
           end
           printl("#{what_to_print}", "map")
         end
@@ -619,18 +628,20 @@ class World < Thing
     end
     if simultaneous
       result_queue.each do |queue_action|
-        sleep STEP_COMMAND_PAUSE_LENGTH
-         if CLEAR_SCREEN
-          clear_screen
-         end
-         eval queue_action
-         if $output_team_stats_each_action
-           output_team_stats(beings, self)
-         end
-         if print_map_each_step
-           self.print_map(displays)
-         end
-         do_important_pauses
+        if $dump_logs
+          sleep STEP_COMMAND_PAUSE_LENGTH
+        end
+        if CLEAR_SCREEN
+         clear_screen
+        end
+        eval queue_action
+        if $output_team_stats_each_action
+          output_team_stats(beings, self)
+        end
+        if print_map_each_step
+          self.print_map(displays)
+        end
+        do_important_pauses
       end
     end
     if !print_map_each_step
@@ -678,7 +689,7 @@ end
 # .......Location..... location....ocation...
 class Location < Container
   def can_add?(what_to_add)
-    allowed_types = ["being", "programmarker"]
+    allowed_types = $location_allowed_types
     obj_type = nil
     if !(what_to_add.nil?)
       if allowed_types.include?(what_to_add.class.name.downcase)
@@ -1145,13 +1156,15 @@ class Attack_WorldOperator
                         (attacking_being_attack_damage.to_i + ($randomizer.rand(3)-1)) -
                          (def_being_armor.to_i + ($randomizer.rand(3)-1)))
                       if (removed_wounds > 0)
+                        world.add(ActiveFlag.new, x, y)
+                        world.add(ActiveFlag.new, loop_x, loop_y)
                         wound_string = return_string.concat(yellow("#{attacking_being_name} damages #{def_being_name} for #{removed_wounds} wounds.."))
                         damage_result =
                           "putsl '#{wound_string}'; damaged_being = self.remove('Being', #{loop_x}, #{loop_y}); if (!damaged_being.nil?) then damaged_being.wounds = damaged_being.wounds.to_i - #{removed_wounds}; if (damaged_being.wounds.to_i > 0) then self.add(damaged_being, #{loop_x}, #{loop_y}) else damaged_being_name = (damaged_being.team.to_i == 1 ? bold(damaged_being.name) : damaged_being.name); printl red(damaged_being_name); printl '(#{loop_x},#{loop_y})'; putsl red(' is killed!'); end; important_pause; end;"
                         result.push(damage_result)
                       else
                         bounce_string = "The #{attacking_being_name} #{@type} attack bounces off #{def_being_name}(#{loop_x},#{loop_y}).."
-                        bounce_result = "putsl '#{return_string}'; putsl white('#{bounce_string}'); important_pause";
+                        bounce_result = "putsl '#{return_string}'; putsl white('#{bounce_string}');";
                         result.push(bounce_result)
                       end
                     end
@@ -1599,11 +1612,13 @@ class LineOfCommand
     if File.exists?(a)
       File.read(a).each_line do |line|
         if !line.nil?
-          sleep PAUSE_LENGTH
-           if CLEAR_SCREEN
-             clear_screen
-           end
-          self.evaluate_command(line)
+          if $dump_logs
+            sleep PAUSE_LENGTH
+          end
+          if CLEAR_SCREEN
+            clear_screen
+          end
+         self.evaluate_command(line)
         end
       end
     end
