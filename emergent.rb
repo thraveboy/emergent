@@ -507,7 +507,6 @@ class World < Thing
   def add(obj, x, y)
     location = self.get_location(x, y)
     unless location.nil?
-      location.add(ActiveFlag.new)
       location.add(obj)
       return obj
     end
@@ -565,7 +564,9 @@ class World < Thing
           initial_location_strings = location.get_objects_of_type(String)
           beings_here = location.get_objects_of_type(Being)
           program_markers_here = location.get_objects_of_type(ProgramMarker)
-          active_here = location.remove("ActiveFlag")
+          if $dump_logs
+            active_here = location.remove("ActiveFlag")
+          end
           what_to_print = 'E'
           if beings_here != nil && beings_here != []
             displays.each do |current_display|
@@ -598,8 +599,7 @@ class World < Thing
     end
   end
 
-  def operate_over_space(operator, displays = [], simultaneous = true, beings = [],
-                         print_map_each_step = true)
+  def operate_over_space(operator, displays = [], beings = [], print_map_each_step = true)
     y=0
     world_dimensions = self.get_space_dimensions
     result_queue = []
@@ -609,40 +609,29 @@ class World < Thing
         current_result_array = operator.execute(self, x, y)
         if (!current_result_array.nil?)
           current_result_array.each do |result_to_push|
-            if simultaneous
-              result_queue.push(result_to_push)
-            else
-              eval result_to_push
-              if $output_team_stats_each_action
-                output_team_stats(beings, self)
-              end
-              if print_map_each_step
-                self.print_map(displays)
-              end
-            end
+           result_queue.push(result_to_push)
           end
         end
         x += 1
       end
       y += 1
     end
-    if simultaneous
-      result_queue.each do |queue_action|
-        if $dump_logs
-          sleep STEP_COMMAND_PAUSE_LENGTH
-        end
-        if CLEAR_SCREEN
-         clear_screen
-        end
-        eval queue_action
-        if $output_team_stats_each_action
-          output_team_stats(beings, self)
-        end
-        if print_map_each_step
-          self.print_map(displays)
-        end
-        do_important_pauses
+
+    result_queue.each do |queue_action|
+      if $dump_logs
+        sleep STEP_COMMAND_PAUSE_LENGTH
       end
+      if CLEAR_SCREEN
+       clear_screen
+      end
+      eval queue_action
+      if $output_team_stats_each_action
+        output_team_stats(beings, self)
+      end
+      if print_map_each_step
+        self.print_map(displays)
+      end
+      do_important_pauses
     end
     if !print_map_each_step
       self.print_map(displays)
@@ -1156,8 +1145,10 @@ class Attack_WorldOperator
                         (attacking_being_attack_damage.to_i + ($randomizer.rand(3)-1)) -
                          (def_being_armor.to_i + ($randomizer.rand(3)-1)))
                       if (removed_wounds > 0)
-                        world.add(ActiveFlag.new, x, y)
-                        world.add(ActiveFlag.new, loop_x, loop_y)
+                        if $dump_logs
+                          world.add(ActiveFlag.new, x, y)
+                          world.add(ActiveFlag.new, loop_x, loop_y)
+                        end
                         wound_string = return_string.concat(yellow("#{attacking_being_name} damages #{def_being_name} for #{removed_wounds} wounds.."))
                         damage_result =
                           "putsl '#{wound_string}'; damaged_being = self.remove('Being', #{loop_x}, #{loop_y}); if (!damaged_being.nil?) then damaged_being.wounds = damaged_being.wounds.to_i - #{removed_wounds}; if (damaged_being.wounds.to_i > 0) then self.add(damaged_being, #{loop_x}, #{loop_y}) else damaged_being_name = (damaged_being.team.to_i == 1 ? bold(damaged_being.name) : damaged_being.name); printl red(damaged_being_name); printl '(#{loop_x},#{loop_y})'; putsl red(' is killed!'); end; important_pause; end;"
@@ -1428,11 +1419,11 @@ def clear_markers(beings, world)
 end
 
 def set_markers_do_iterations(beings, world, displays = [], current_step = 0, last_step = 1)
-  world.operate_over_space(SetMarkers_WorldOperator.new, displays, true, beings)
+  world.operate_over_space(SetMarkers_WorldOperator.new, displays, beings)
   if last_step >= current_step then
     (current_step..last_step).each do |i|
       world.operate_over_space(ObjCommand_WorldOperator.new('programmarker'), displays,
-        true, beings, false)
+        beings, false)
       printl("Step: #{i}", "map")
       sleep(PROGRAM_PREVIEW_PAUSE_LENGTH)
     end
@@ -1553,18 +1544,18 @@ class LineOfCommand
       if ($current_step <= MAX_STEPS)
         $current_step += 1
         # "=====movement"
-        world.operate_over_space(ObjCommand_WorldOperator.new, displays, true, beings)
+        world.operate_over_space(ObjCommand_WorldOperator.new, displays, beings)
         if $dump_logs
           clear_markers([], world)
-          world.operate_over_space(SetMarkers_WorldOperator.new, displays, true, beings)
+          world.operate_over_space(SetMarkers_WorldOperator.new, displays, beings)
         end
         world.print_map(displays)
         # "-----magic"
-        world.operate_over_space(Magic_WorldOperator.new, displays, true, beings)
+        world.operate_over_space(Magic_WorldOperator.new, displays, beings)
         # "-----ranged attacks"
-        world.operate_over_space(Attack_WorldOperator.new('ranged'), displays, true, beings)
+        world.operate_over_space(Attack_WorldOperator.new('ranged'), displays,beings)
         # "+++++melee attacks"
-        world.operate_over_space(Attack_WorldOperator.new('melee'), displays, true, beings)
+        world.operate_over_space(Attack_WorldOperator.new('melee'), displays, beings)
         if $dump_logs
           set_markers_do_iterations(beings, world, displays, $current_step, $current_step)
           output_team_stats(beings, world)
