@@ -1,6 +1,7 @@
 *~
 *.results
 match-team.results
-display_logs/*
+display_logs/battle_log
 programs/outputProgram/*
 defeated
+call_stack.html
