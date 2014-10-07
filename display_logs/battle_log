@@ -1,49 +1,49 @@
-...Thing myalismer  created and initialized
+...Thing deviltryer  created and initialized
  ..
 ...Thing position-1 created and initialized
  ..
 Assigning program to being...
-...Thing Meleeer Understander created and initialized
+...Thing Meleeer Reasoner created and initialized
  ..
 ...Thing position-2 created and initialized
  ..
 Assigning program to being...
-...Thing Ballisticaler Eviler created and initialized
+...Thing Frenzieder Detrimenter created and initialized
  ..
 ...Thing position-3 created and initialized
  ..
 Assigning program to being...
-...Thing Dweomercrafter Reasoner created and initialized
+...Thing Maleficeer Masterhooder created and initialized
  ..
 ...Thing position-4 created and initialized
  ..
 Assigning program to being...
-...Thing Frenzieder Maintenanceer Masterhooder created and initialized
+...Thing Ballisticaler Justificationer Reasoner created and initialized
  ..
 ...Thing position-5 created and initialized
  ..
 Assigning program to being...
-...Thing carapaceer  created and initialized
+...Thing armor plateer  created and initialized
  ..
 ...Thing position-6 created and initialized
  ..
 Assigning program to being...
-...Thing horner  created and initialized
+...Thing plateer  created and initialized
  ..
 ...Thing position-7 created and initialized
  ..
 Assigning program to being...
-...Thing Helmer created and initialized
+...Thing Armor Plateer created and initialized
  ..
 ...Thing position-8 created and initialized
  ..
 Assigning program to being...
-...Thing frenzieder wanderer  created and initialized
+...Thing frenzieder traverseer  created and initialized
  ..
 ...Thing position-9 created and initialized
  ..
 Assigning program to being...
-...Thing Driveer created and initialized
+...Thing Manhandleer created and initialized
  ..
 ...Thing position-10 created and initialized
  ..
@@ -53,7 +53,7 @@ Assigning program to being...
 ...Thing position-11 created and initialized
  ..
 Assigning program to being...
-...Thing flirter  created and initialized
+...Thing manhandleer  created and initialized
  ..
 ...Thing position-12 created and initialized
  ..
@@ -79,42 +79,42 @@ incrementing team number. new beings will now be on team 2.
 ...Thing position-1 created and initialized
  ..
 Assigning program to being...
-...Thing Sleight Of Hander Training Areaer created and initialized
+...Thing Illusionismer Wanderer created and initialized
  ..
 ...Thing position-2 created and initialized
  ..
 Assigning program to being...
-...Thing Flower created and initialized
+...Thing Wikisaurus:movementer created and initialized
  ..
 ...Thing position-3 created and initialized
  ..
 Assigning program to being...
-...Thing Chitiner created and initialized
+...Thing Panoplyer created and initialized
  ..
 ...Thing position-4 created and initialized
  ..
 Assigning program to being...
-...Thing Meleeer Adeptnesser created and initialized
+...Thing Meleeer Reasoner created and initialized
  ..
 ...Thing position-5 created and initialized
  ..
 Assigning program to being...
-...Thing Ballisticaler Hurter created and initialized
+...Thing Ballisticaler Iller created and initialized
  ..
 ...Thing position-6 created and initialized
  ..
 Assigning program to being...
-...Thing Bewitcheryer created and initialized
+...Thing Exorcismer created and initialized
  ..
 ...Thing position-7 created and initialized
  ..
 Assigning program to being...
-...Thing Exorcismer Handicrafter created and initialized
+...Thing Illusionismer Techniqueer created and initialized
  ..
 ...Thing position-8 created and initialized
  ..
 Assigning program to being...
-...Thing Body Armorer created and initialized
+...Thing Panoplyer created and initialized
  ..
 ...Thing position-9 created and initialized
  ..
@@ -155,213 +155,89 @@ Assigning program to being...
  ..
 .....Adding beings to world....
 111111111111111222222222222222 done populating....
-[37mBewitcheryer(11,0) attempts to buff Exorcismer Handicrafter(10,0) magic_range by 4 : Sucessful![0m
-[37mBewitcheryer(11,0) attempts to buff Bewitcheryer(11,0) magic_range by 4 : Sucessful![0m
-[37mBewitcheryer(11,0) attempts to buff Ballisticaler Hurter(12,0) magic_range by 4 : Sucessful![0m
-[37m[1mmyalismer [0m(2,9) attempts to buff [1mmyalismer [0m(2,9) melee_skill by 2 : Sucessful![0m
-[37m[1mmyalismer [0m(2,9) attempts to buff [1mMeleeer Understander[0m(3,9) melee_skill by 2 : Sucessful![0m
-[37m[1mmyalismer [0m(2,9) attempts to buff [1mBallisticaler Eviler[0m(4,9) melee_skill by 2 : Sucessful![0m
-[37m[1mDriveer[0m(11,9) attempts to buff [1mHelmer[0m(9,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,9) attempts to buff [1mfrenzieder wanderer [0m(10,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,9) attempts to buff [1mDriveer[0m(11,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,9) attempts to buff [1mHelmer[0m(12,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,9) attempts to buff [1mflirter [0m(13,9) ballistic_range by 3 : Sucessful![0m
-[37mBewitcheryer(11,0) attempts to buff Exorcismer Handicrafter(10,0) magic_range by 4 : Sucessful![0m
-[37mBewitcheryer(11,0) attempts to buff Bewitcheryer(11,0) magic_range by 4 : Sucessful![0m
-[37mBewitcheryer(11,0) attempts to buff Ballisticaler Hurter(12,0) magic_range by 4 : Sucessful![0m
-[37m[1mmyalismer [0m(2,9) attempts to buff [1mmyalismer [0m(2,9) melee_skill by 2 : Sucessful![0m
-[37m[1mmyalismer [0m(2,9) attempts to buff [1mMeleeer Understander[0m(3,9) melee_skill by 2 : Sucessful![0m
-[37m[1mmyalismer [0m(2,9) attempts to buff [1mBallisticaler Eviler[0m(4,8) melee_skill by 2 : Sucessful![0m
-[37m[1mDriveer[0m(11,9) attempts to buff [1mHelmer[0m(9,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,9) attempts to buff [1mfrenzieder wanderer [0m(10,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,9) attempts to buff [1mDriveer[0m(11,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,9) attempts to buff [1mHelmer[0m(12,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,9) attempts to buff [1mflirter [0m(13,9) ballistic_range by 3 : Sucessful![0m
-[37mBewitcheryer(11,0) attempts to buff Exorcismer Handicrafter(10,0) magic_range by 4 : Sucessful![0m
-[37mBewitcheryer(11,0) attempts to buff Bewitcheryer(11,0) magic_range by 4 : Sucessful![0m
-[37mBewitcheryer(11,0) attempts to buff Ballisticaler Hurter(12,0) magic_range by 4 : Sucessful![0m
-[37m[1mmyalismer [0m(2,8) attempts to buff [1mmyalismer [0m(2,8) melee_skill by 2 : Sucessful![0m
-[37m[1mmyalismer [0m(2,8) attempts to buff [1mBallisticaler Eviler[0m(3,8) melee_skill by 2 : Sucessful![0m
-[37m[1mmyalismer [0m(2,8) attempts to buff [1mMeleeer Understander[0m(3,9) melee_skill by 2 : Sucessful![0m
-[37m[1mDriveer[0m(11,9) attempts to buff [1mHelmer[0m(9,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,9) attempts to buff [1mfrenzieder wanderer [0m(10,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,9) attempts to buff [1mDriveer[0m(11,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,9) attempts to buff [1mHelmer[0m(12,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,9) attempts to buff [1mflirter [0m(13,9) ballistic_range by 3 : Sucessful![0m
-[37mBewitcheryer(11,1) attempts to buff Exorcismer Handicrafter(10,0) magic_range by 4 : Sucessful![0m
-[37mBewitcheryer(11,1) attempts to buff Bewitcheryer(11,1) magic_range by 4 : Sucessful![0m
-[37mBewitcheryer(11,1) attempts to buff Ballisticaler Hurter(12,0) magic_range by 4 : Sucessful![0m
-[37m[1mmyalismer [0m(2,8) attempts to buff [1mmyalismer [0m(2,8) melee_skill by 2 : Sucessful![0m
-[37m[1mmyalismer [0m(2,8) attempts to buff [1mBallisticaler Eviler[0m(3,8) melee_skill by 2 : Sucessful![0m
-[37m[1mmyalismer [0m(2,8) attempts to buff [1mMeleeer Understander[0m(4,9) melee_skill by 2 : Sucessful![0m
-[37m[1mDriveer[0m(11,9) attempts to buff [1mHelmer[0m(9,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,9) attempts to buff [1mfrenzieder wanderer [0m(10,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,9) attempts to buff [1mDriveer[0m(11,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,9) attempts to buff [1mHelmer[0m(12,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,9) attempts to buff [1mflirter [0m(13,9) ballistic_range by 3 : Sucessful![0m
-[37mBewitcheryer(12,1) attempts to buff Ballisticaler Hurter(12,0) magic_range by 4 : Sucessful![0m
-[37mBewitcheryer(12,1) attempts to buff Bewitcheryer(12,1) magic_range by 4 : Sucessful![0m
-[37mBewitcheryer(12,1) attempts to buff Meleeer Adeptnesser(13,0) magic_range by 4 : Sucessful![0m
-[37m[1mmyalismer [0m(2,8) attempts to buff [1mmyalismer [0m(2,8) melee_skill by 2 : Sucessful![0m
-[37m[1mmyalismer [0m(2,8) attempts to buff [1mBallisticaler Eviler[0m(3,8) melee_skill by 2 : Sucessful![0m
-[37m[1mmyalismer [0m(2,8) attempts to buff [1mMeleeer Understander[0m(4,9) melee_skill by 2 : Sucessful![0m
-[37m[1mDriveer[0m(11,9) attempts to buff [1mfrenzieder wanderer [0m(10,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,9) attempts to buff [1mDriveer[0m(11,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,9) attempts to buff [1mHelmer[0m(12,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,9) attempts to buff [1mflirter [0m(13,9) ballistic_range by 3 : Sucessful![0m
-[37mBewitcheryer(11,1) attempts to buff Exorcismer Handicrafter(11,0) magic_range by 4 : Sucessful![0m
-[37mBewitcheryer(11,1) attempts to buff Bewitcheryer(11,1) magic_range by 4 : Sucessful![0m
-[37mBewitcheryer(11,1) attempts to buff Ballisticaler Hurter(12,0) magic_range by 4 : Sucessful![0m
-[37m[1mmyalismer [0m(2,7) attempts to buff [1mmyalismer [0m(2,7) melee_skill by 2 : Sucessful![0m
-[37m[1mmyalismer [0m(2,7) attempts to buff [1mBallisticaler Eviler[0m(3,8) melee_skill by 2 : Sucessful![0m
-[37m[1mmyalismer [0m(2,7) attempts to buff [1mMeleeer Understander[0m(3,9) melee_skill by 2 : Sucessful![0m
-[37m[1mDriveer[0m(11,9) attempts to buff [1mfrenzieder wanderer [0m(10,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,9) attempts to buff [1mDriveer[0m(11,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,9) attempts to buff [1mHelmer[0m(12,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,9) attempts to buff [1mflirter [0m(13,9) ballistic_range by 3 : Sucessful![0m
-[37mBewitcheryer(11,1) attempts to buff Body Armorer(10,0) magic_range by 4 : Sucessful![0m
-[37mBewitcheryer(11,1) attempts to buff Exorcismer Handicrafter(11,0) magic_range by 4 : Sucessful![0m
-[37mBewitcheryer(11,1) attempts to buff Bewitcheryer(11,1) magic_range by 4 : Sucessful![0m
-[37mBewitcheryer(11,1) attempts to buff Ballisticaler Hurter(12,0) magic_range by 4 : Sucessful![0m
-[37m[1mmyalismer [0m(2,7) attempts to buff [1mmyalismer [0m(2,7) melee_skill by 2 : Sucessful![0m
-[37m[1mmyalismer [0m(2,7) attempts to buff [1mMeleeer Understander[0m(2,9) melee_skill by 2 : Sucessful![0m
-[37m[1mmyalismer [0m(2,7) attempts to buff [1mBallisticaler Eviler[0m(3,8) melee_skill by 2 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mfrenzieder wanderer [0m(10,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mDriveer[0m(11,7) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mHelmer[0m(12,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mflirter [0m(13,9) ballistic_range by 3 : Sucessful![0m
-[37mBewitcheryer(11,1) attempts to buff Body Armorer(10,0) magic_range by 4 : Sucessful![0m
-[37mBewitcheryer(11,1) attempts to buff Exorcismer Handicrafter(11,0) magic_range by 4 : Sucessful![0m
-[37mBewitcheryer(11,1) attempts to buff Bewitcheryer(11,1) magic_range by 4 : Sucessful![0m
-[37mBewitcheryer(11,1) attempts to buff Ballisticaler Hurter(12,0) magic_range by 4 : Sucessful![0m
-[37m[1mmyalismer [0m(2,7) attempts to buff [1mmyalismer [0m(2,7) melee_skill by 2 : Sucessful![0m
-[37m[1mmyalismer [0m(2,7) attempts to buff [1mMeleeer Understander[0m(2,9) melee_skill by 2 : Sucessful![0m
-[37m[1mmyalismer [0m(2,7) attempts to buff [1mBallisticaler Eviler[0m(3,7) melee_skill by 2 : Sucessful![0m
-[37m[1mmyalismer [0m(2,7) attempts to buff [1mDweomercrafter Reasoner[0m(4,8) melee_skill by 2 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mfrenzieder wanderer [0m(9,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mDriveer[0m(11,7) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mHelmer[0m(12,9) ballistic_range by 3 : Sucessful![0m
-[37mBewitcheryer(11,2) attempts to buff Bewitcheryer(11,2) magic_range by 4 : Sucessful![0m
-[37m[1mmyalismer [0m(2,6) attempts to buff [1mmyalismer [0m(2,6) melee_skill by 2 : Sucessful![0m
-[37m[1mmyalismer [0m(2,6) attempts to buff [1mDweomercrafter Reasoner[0m(2,8) melee_skill by 2 : Sucessful![0m
-[37m[1mmyalismer [0m(2,6) attempts to buff [1mBallisticaler Eviler[0m(4,7) melee_skill by 2 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mfrenzieder wanderer [0m(10,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mDriveer[0m(11,7) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mHelmer[0m(13,9) ballistic_range by 3 : Sucessful![0m
-[37mBewitcheryer(11,2) attempts to buff Bewitcheryer(11,2) magic_range by 4 : Sucessful![0m
-[37mBewitcheryer(11,2) attempts to buff Ballisticaler Hurter(12,1) magic_range by 4 : Sucessful![0m
-[37m[1mmyalismer [0m(1,6) attempts to buff [1mmyalismer [0m(1,6) melee_skill by 2 : Sucessful![0m
-[37m[1mmyalismer [0m(1,6) attempts to buff [1mDweomercrafter Reasoner[0m(2,8) melee_skill by 2 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mHelmer[0m(9,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mfrenzieder wanderer [0m(10,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mDriveer[0m(11,7) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mHelmer[0m(13,9) ballistic_range by 3 : Sucessful![0m
-[37mBewitcheryer(11,2) attempts to buff Bewitcheryer(11,2) magic_range by 4 : Sucessful![0m
-[37mBewitcheryer(11,2) attempts to buff Ballisticaler Hurter(12,1) magic_range by 4 : Sucessful![0m
-[37m[1mmyalismer [0m(1,6) attempts to buff [1mmyalismer [0m(1,6) melee_skill by 2 : Sucessful![0m
-[37m[1mmyalismer [0m(1,6) attempts to buff [1mDweomercrafter Reasoner[0m(2,7) melee_skill by 2 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mHelmer[0m(9,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mfrenzieder wanderer [0m(10,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mDriveer[0m(11,7) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mHelmer[0m(13,9) ballistic_range by 3 : Sucessful![0m
-[37mBewitcheryer(11,2) attempts to buff Exorcismer Handicrafter(11,1) magic_range by 4 : Sucessful![0m
-[37mBewitcheryer(11,2) attempts to buff Bewitcheryer(11,2) magic_range by 4 : Sucessful![0m
-[37mBewitcheryer(11,2) attempts to buff Ballisticaler Hurter(12,1) magic_range by 4 : Sucessful![0m
-[37m[1mmyalismer [0m(1,6) attempts to buff [1mmyalismer [0m(1,6) melee_skill by 2 : Sucessful![0m
-[37m[1mmyalismer [0m(1,6) attempts to buff [1mDweomercrafter Reasoner[0m(2,7) melee_skill by 2 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mHelmer[0m(9,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mfrenzieder wanderer [0m(10,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mDriveer[0m(11,7) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mHelmer[0m(12,9) ballistic_range by 3 : Sucessful![0m
-[37mBewitcheryer(11,2) attempts to buff Exorcismer Handicrafter(11,1) magic_range by 4 : Sucessful![0m
-[37mBewitcheryer(11,2) attempts to buff Bewitcheryer(11,2) magic_range by 4 : Sucessful![0m
-[37mBewitcheryer(11,2) attempts to buff Ballisticaler Hurter(12,1) magic_range by 4 : Sucessful![0m
-[37m[1mmyalismer [0m(2,6) attempts to buff [1mmyalismer [0m(2,6) melee_skill by 2 : Sucessful![0m
-[37m[1mmyalismer [0m(2,6) attempts to buff [1mDweomercrafter Reasoner[0m(2,7) melee_skill by 2 : Sucessful![0m
-[37m[1mmyalismer [0m(2,6) attempts to buff [1mBallisticaler Eviler[0m(4,5) melee_skill by 2 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mHelmer[0m(9,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mDriveer[0m(11,7) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mfrenzieder wanderer [0m(11,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mHelmer[0m(12,9) ballistic_range by 3 : Sucessful![0m
-[37mBewitcheryer(11,4) attempts to buff Bewitcheryer(11,4) magic_range by 4 : Sucessful![0m
-[37m[1mmyalismer [0m(3,6) attempts to buff [1mDweomercrafter Reasoner[0m(2,7) melee_skill by 2 : Sucessful![0m
-[37m[1mmyalismer [0m(3,6) attempts to buff [1mmyalismer [0m(3,6) melee_skill by 2 : Sucessful![0m
-[37m[1mmyalismer [0m(3,6) attempts to buff [1mBallisticaler Eviler[0m(4,5) melee_skill by 2 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mHelmer[0m(9,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mfrenzieder wanderer [0m(10,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mDriveer[0m(11,7) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mHelmer[0m(13,9) ballistic_range by 3 : Sucessful![0m
-[1mDriveer[0m(11,7) hit Bewitcheryer(11,4) with a ranged attack. 
-[37mThe [1mDriveer[0m ranged attack bounces off Bewitcheryer(11,4)..[0m
-[37mBewitcheryer(12,4) attempts to buff Bewitcheryer(12,4) magic_range by 4 : Sucessful![0m
-[37m[1mmyalismer [0m(2,6) attempts to buff [1mmyalismer [0m(2,6) melee_skill by 2 : Sucessful![0m
-[37m[1mmyalismer [0m(2,6) attempts to buff [1mDweomercrafter Reasoner[0m(2,7) melee_skill by 2 : Sucessful![0m
-[37m[1mmyalismer [0m(2,6) attempts to buff [1mBallisticaler Eviler[0m(4,5) melee_skill by 2 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mHelmer[0m(9,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mfrenzieder wanderer [0m(10,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mDriveer[0m(11,7) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mHelmer[0m(13,9) ballistic_range by 3 : Sucessful![0m
-[37mBewitcheryer(12,4) attempts to buff Bewitcheryer(12,4) magic_range by 4 : Sucessful![0m
-[37m[1mmyalismer [0m(1,6) attempts to buff [1mmyalismer [0m(1,6) melee_skill by 2 : Sucessful![0m
-[37m[1mmyalismer [0m(1,6) attempts to buff [1mDweomercrafter Reasoner[0m(2,7) melee_skill by 2 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mHelmer[0m(9,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mDriveer[0m(11,7) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mfrenzieder wanderer [0m(11,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mHelmer[0m(13,9) ballistic_range by 3 : Sucessful![0m
-[37mBewitcheryer(12,4) attempts to buff Bewitcheryer(12,4) magic_range by 4 : Sucessful![0m
-[36mSleight Of Hander Training Areaer(19,4) attempts to buff [1mbase[0m(16,7) ballistic_defense_skill by -2 : Fails.[0m
-[37m[1mmyalismer [0m(1,6) attempts to buff [1mmyalismer [0m(1,6) melee_skill by 2 : Sucessful![0m
-[37m[1mmyalismer [0m(1,6) attempts to buff [1mDweomercrafter Reasoner[0m(2,6) melee_skill by 2 : Sucessful![0m
-[37m[1mmyalismer [0m(1,6) attempts to buff [1mBallisticaler Eviler[0m(3,5) melee_skill by 2 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mfrenzieder wanderer [0m(10,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mDriveer[0m(11,7) ballistic_range by 3 : Sucessful![0m
-[37mBewitcheryer(12,4) attempts to buff Bewitcheryer(12,4) magic_range by 4 : Sucessful![0m
-[35mSleight Of Hander Training Areaer(19,4) attempts to buff [1mbase[0m(16,6) ballistic_defense_skill by -2 : Succeeds.[0m
-[37m[1mmyalismer [0m(1,6) attempts to buff [1mmyalismer [0m(1,6) melee_skill by 2 : Sucessful![0m
-[37m[1mmyalismer [0m(1,6) attempts to buff [1mDweomercrafter Reasoner[0m(2,6) melee_skill by 2 : Sucessful![0m
-[37m[1mmyalismer [0m(1,6) attempts to buff [1mBallisticaler Eviler[0m(3,5) melee_skill by 2 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mHelmer[0m(9,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mfrenzieder wanderer [0m(10,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mDriveer[0m(11,7) ballistic_range by 3 : Sucessful![0m
-Ballisticaler Judgmenter(15,5) hit [1mbase[0m(16,6) with a melee attack. 
-[37mThe Ballisticaler Judgmenter melee attack bounces off [1mbase[0m(16,6)..[0m
-[1mbase[0m(16,6) hit Ballisticaler Judgmenter(15,5) with a melee attack. 
-[37mThe [1mbase[0m melee attack bounces off Ballisticaler Judgmenter(15,5)..[0m
-[37mBewitcheryer(11,4) attempts to buff Bewitcheryer(11,4) magic_range by 4 : Sucessful![0m
-[35mSleight Of Hander Training Areaer(19,4) attempts to buff [1mbase[0m(16,7) ballistic_defense_skill by -2 : Succeeds.[0m
-[37m[1mmyalismer [0m(0,6) attempts to buff [1mmyalismer [0m(0,6) melee_skill by 2 : Sucessful![0m
-[37m[1mmyalismer [0m(0,6) attempts to buff [1mDweomercrafter Reasoner[0m(2,6) melee_skill by 2 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mhorner [0m(9,5) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mHelmer[0m(9,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mfrenzieder wanderer [0m(10,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mDriveer[0m(11,7) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mHelmer[0m(13,9) ballistic_range by 3 : Sucessful![0m
-Ballisticaler Judgmenter(15,5) hit [1mbase[0m(15,6) with a melee attack. [33mBallisticaler Judgmenter damages [1mbase[0m for 1 wounds..[0m
-[31m[1mbase[0m[0m(15,6)[31m is killed![0m
-[1mbase[0m(15,6) hit Ballisticaler Judgmenter(15,5) with a melee attack. 
-[37mThe [1mbase[0m melee attack bounces off Ballisticaler Judgmenter(15,5)..[0m
-[37mBewitcheryer(12,4) attempts to buff Bewitcheryer(12,4) magic_range by 4 : Sucessful![0m
-[35mSleight Of Hander Training Areaer(19,4) attempts to buff [1mbase[0m(16,7) ballistic_defense_skill by -2 : Succeeds.[0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mHelmer[0m(9,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mfrenzieder wanderer [0m(10,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mDriveer[0m(11,7) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mHelmer[0m(12,9) ballistic_range by 3 : Sucessful![0m
-Ballisticaler Judgmenter(15,6) hit [1mbase[0m(15,7) with a ranged attack. [33mBallisticaler Judgmenter damages [1mbase[0m for 3 wounds..[0m
-[31m[1mbase[0m[0m(15,7)[31m is killed![0m
-[1mbase[0m(15,7) hit Ballisticaler Judgmenter(15,6) with a ranged attack. 
-[37mThe [1mbase[0m ranged attack bounces off Ballisticaler Judgmenter(15,6)..[0m
-Ballisticaler Judgmenter(15,6) hit [1mbase[0m(16,7) with a melee attack. 
-[37mThe Ballisticaler Judgmenter melee attack bounces off [1mbase[0m(16,7)..[0m
-[37mBewitcheryer(12,4) attempts to buff Bewitcheryer(12,4) magic_range by 4 : Sucessful![0m
-[35mSleight Of Hander Training Areaer(19,4) attempts to buff [1mbase[0m(16,7) ballistic_defense_skill by -2 : Succeeds.[0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mfrenzieder wanderer [0m(10,9) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mDriveer[0m(11,7) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,7) attempts to buff [1mHelmer[0m(12,9) ballistic_range by 3 : Sucessful![0m
-[1mbase[0m(16,7) hit Ballisticaler Judgmenter(16,6) with a ranged attack. 
-[37mThe [1mbase[0m ranged attack bounces off Ballisticaler Judgmenter(16,6)..[0m
-[37mBewitcheryer(12,4) attempts to buff Bewitcheryer(12,4) magic_range by 4 : Sucessful![0m
-[35mSleight Of Hander Training Areaer(19,4) attempts to buff [1mbase[0m(16,7) ballistic_defense_skill by -2 : Succeeds.[0m
-[37m[1mDriveer[0m(11,6) attempts to buff [1mhorner [0m(9,5) ballistic_range by 3 : Sucessful![0m
-[37m[1mDriveer[0m(11,6) attempts to buff [1mDriveer[0m(11,6) ballistic_range by 3 : Sucessful![0m
-Ballisticaler Judgmenter(16,6) hit [1mbase[0m(16,7) with a ranged attack. [33mBallisticaler Judgmenter damages [1mbase[0m for 1 wounds..[0m
-[31m[1mbase[0m[0m(16,7)[31m is killed![0m
+[37mExorcismer(11,0) attempts to buff Illusionismer Techniqueer(10,0) magic_range by 4 : Sucessful![0m
+[37mExorcismer(11,0) attempts to buff Exorcismer(11,0) magic_range by 4 : Sucessful![0m
+[37mExorcismer(11,0) attempts to buff Ballisticaler Iller(12,0) magic_range by 4 : Sucessful![0m
+[37m[1mdeviltryer [0m(2,9) attempts to buff [1mdeviltryer [0m(2,9) melee_skill by 2 : Sucessful![0m
+[37m[1mdeviltryer [0m(2,9) attempts to buff [1mMeleeer Reasoner[0m(3,9) melee_skill by 2 : Sucessful![0m
+[37m[1mdeviltryer [0m(2,9) attempts to buff [1mFrenzieder Detrimenter[0m(4,9) melee_skill by 2 : Sucessful![0m
+[37m[1mManhandleer[0m(11,9) attempts to buff [1mArmor Plateer[0m(9,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mManhandleer[0m(11,9) attempts to buff [1mfrenzieder traverseer [0m(10,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mManhandleer[0m(11,9) attempts to buff [1mManhandleer[0m(11,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mManhandleer[0m(11,9) attempts to buff [1mHelmer[0m(12,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mManhandleer[0m(11,9) attempts to buff [1mmanhandleer [0m(13,9) ballistic_range by 3 : Sucessful![0m
+[37mExorcismer(11,0) attempts to buff Illusionismer Techniqueer(10,0) magic_range by 4 : Sucessful![0m
+[37mExorcismer(11,0) attempts to buff Exorcismer(11,0) magic_range by 4 : Sucessful![0m
+[37mExorcismer(11,0) attempts to buff Ballisticaler Iller(12,0) magic_range by 4 : Sucessful![0m
+[37m[1mdeviltryer [0m(2,9) attempts to buff [1mdeviltryer [0m(2,9) melee_skill by 2 : Sucessful![0m
+[37m[1mdeviltryer [0m(2,9) attempts to buff [1mMeleeer Reasoner[0m(3,9) melee_skill by 2 : Sucessful![0m
+[37m[1mdeviltryer [0m(2,9) attempts to buff [1mFrenzieder Detrimenter[0m(4,8) melee_skill by 2 : Sucessful![0m
+[37m[1mManhandleer[0m(11,9) attempts to buff [1mArmor Plateer[0m(9,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mManhandleer[0m(11,9) attempts to buff [1mfrenzieder traverseer [0m(10,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mManhandleer[0m(11,9) attempts to buff [1mManhandleer[0m(11,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mManhandleer[0m(11,9) attempts to buff [1mHelmer[0m(12,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mManhandleer[0m(11,9) attempts to buff [1mmanhandleer [0m(13,9) ballistic_range by 3 : Sucessful![0m
+[37mExorcismer(11,0) attempts to buff Illusionismer Techniqueer(10,0) magic_range by 4 : Sucessful![0m
+[37mExorcismer(11,0) attempts to buff Exorcismer(11,0) magic_range by 4 : Sucessful![0m
+[37mExorcismer(11,0) attempts to buff Ballisticaler Iller(12,0) magic_range by 4 : Sucessful![0m
+[37m[1mdeviltryer [0m(2,8) attempts to buff [1mdeviltryer [0m(2,8) melee_skill by 2 : Sucessful![0m
+[37m[1mdeviltryer [0m(2,8) attempts to buff [1mFrenzieder Detrimenter[0m(3,8) melee_skill by 2 : Sucessful![0m
+[37m[1mdeviltryer [0m(2,8) attempts to buff [1mMeleeer Reasoner[0m(3,9) melee_skill by 2 : Sucessful![0m
+[37m[1mManhandleer[0m(11,9) attempts to buff [1mArmor Plateer[0m(9,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mManhandleer[0m(11,9) attempts to buff [1mfrenzieder traverseer [0m(10,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mManhandleer[0m(11,9) attempts to buff [1mManhandleer[0m(11,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mManhandleer[0m(11,9) attempts to buff [1mHelmer[0m(12,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mManhandleer[0m(11,9) attempts to buff [1mmanhandleer [0m(13,9) ballistic_range by 3 : Sucessful![0m
+[37mExorcismer(11,1) attempts to buff Illusionismer Techniqueer(10,0) magic_range by 4 : Sucessful![0m
+[37mExorcismer(11,1) attempts to buff Exorcismer(11,1) magic_range by 4 : Sucessful![0m
+[37mExorcismer(11,1) attempts to buff Ballisticaler Iller(12,0) magic_range by 4 : Sucessful![0m
+[37m[1mdeviltryer [0m(2,8) attempts to buff [1mdeviltryer [0m(2,8) melee_skill by 2 : Sucessful![0m
+[37m[1mdeviltryer [0m(2,8) attempts to buff [1mFrenzieder Detrimenter[0m(3,8) melee_skill by 2 : Sucessful![0m
+[37m[1mdeviltryer [0m(2,8) attempts to buff [1mMeleeer Reasoner[0m(4,9) melee_skill by 2 : Sucessful![0m
+[37m[1mManhandleer[0m(11,9) attempts to buff [1mArmor Plateer[0m(9,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mManhandleer[0m(11,9) attempts to buff [1mfrenzieder traverseer [0m(10,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mManhandleer[0m(11,9) attempts to buff [1mManhandleer[0m(11,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mManhandleer[0m(11,9) attempts to buff [1mHelmer[0m(12,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mManhandleer[0m(11,9) attempts to buff [1mmanhandleer [0m(13,9) ballistic_range by 3 : Sucessful![0m
+[37mExorcismer(12,1) attempts to buff Ballisticaler Iller(12,0) magic_range by 4 : Sucessful![0m
+[37mExorcismer(12,1) attempts to buff Exorcismer(12,1) magic_range by 4 : Sucessful![0m
+[37mExorcismer(12,1) attempts to buff Meleeer Reasoner(13,0) magic_range by 4 : Sucessful![0m
+[37m[1mdeviltryer [0m(2,8) attempts to buff [1mdeviltryer [0m(2,8) melee_skill by 2 : Sucessful![0m
+[37m[1mdeviltryer [0m(2,8) attempts to buff [1mFrenzieder Detrimenter[0m(3,8) melee_skill by 2 : Sucessful![0m
+[37m[1mdeviltryer [0m(2,8) attempts to buff [1mMeleeer Reasoner[0m(4,9) melee_skill by 2 : Sucessful![0m
+[37m[1mManhandleer[0m(11,9) attempts to buff [1mfrenzieder traverseer [0m(10,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mManhandleer[0m(11,9) attempts to buff [1mManhandleer[0m(11,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mManhandleer[0m(11,9) attempts to buff [1mHelmer[0m(12,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mManhandleer[0m(11,9) attempts to buff [1mmanhandleer [0m(13,9) ballistic_range by 3 : Sucessful![0m
+[37mExorcismer(11,1) attempts to buff Illusionismer Techniqueer(11,0) magic_range by 4 : Sucessful![0m
+[37mExorcismer(11,1) attempts to buff Exorcismer(11,1) magic_range by 4 : Sucessful![0m
+[37mExorcismer(11,1) attempts to buff Ballisticaler Iller(12,0) magic_range by 4 : Sucessful![0m
+[37m[1mdeviltryer [0m(2,7) attempts to buff [1mdeviltryer [0m(2,7) melee_skill by 2 : Sucessful![0m
+[37m[1mdeviltryer [0m(2,7) attempts to buff [1mFrenzieder Detrimenter[0m(3,8) melee_skill by 2 : Sucessful![0m
+[37m[1mdeviltryer [0m(2,7) attempts to buff [1mMeleeer Reasoner[0m(3,9) melee_skill by 2 : Sucessful![0m
+[37m[1mManhandleer[0m(11,9) attempts to buff [1mfrenzieder traverseer [0m(10,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mManhandleer[0m(11,9) attempts to buff [1mManhandleer[0m(11,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mManhandleer[0m(11,9) attempts to buff [1mHelmer[0m(12,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mManhandleer[0m(11,9) attempts to buff [1mmanhandleer [0m(13,9) ballistic_range by 3 : Sucessful![0m
+[37mExorcismer(11,1) attempts to buff Panoplyer(10,0) magic_range by 4 : Sucessful![0m
+[37mExorcismer(11,1) attempts to buff Illusionismer Techniqueer(11,0) magic_range by 4 : Sucessful![0m
+[37mExorcismer(11,1) attempts to buff Exorcismer(11,1) magic_range by 4 : Sucessful![0m
+[37mExorcismer(11,1) attempts to buff Ballisticaler Iller(12,0) magic_range by 4 : Sucessful![0m
+[37m[1mdeviltryer [0m(2,7) attempts to buff [1mdeviltryer [0m(2,7) melee_skill by 2 : Sucessful![0m
+[37m[1mdeviltryer [0m(2,7) attempts to buff [1mMeleeer Reasoner[0m(2,9) melee_skill by 2 : Sucessful![0m
+[37m[1mdeviltryer [0m(2,7) attempts to buff [1mFrenzieder Detrimenter[0m(3,8) melee_skill by 2 : Sucessful![0m
+[37m[1mManhandleer[0m(11,7) attempts to buff [1mfrenzieder traverseer [0m(10,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mManhandleer[0m(11,7) attempts to buff [1mManhandleer[0m(11,7) ballistic_range by 3 : Sucessful![0m
+[37m[1mManhandleer[0m(11,7) attempts to buff [1mHelmer[0m(12,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mManhandleer[0m(11,7) attempts to buff [1mmanhandleer [0m(13,9) ballistic_range by 3 : Sucessful![0m
+[37mExorcismer(11,1) attempts to buff Panoplyer(10,0) magic_range by 4 : Sucessful![0m
+[37mExorcismer(11,1) attempts to buff Illusionismer Techniqueer(11,0) magic_range by 4 : Sucessful![0m
+[37mExorcismer(11,1) attempts to buff Exorcismer(11,1) magic_range by 4 : Sucessful![0m
+[37mExorcismer(11,1) attempts to buff Ballisticaler Iller(12,0) magic_range by 4 : Sucessful![0m
+[37m[1mdeviltryer [0m(2,7) attempts to buff [1mdeviltryer [0m(2,7) melee_skill by 2 : Sucessful![0m
+[37m[1mdeviltryer [0m(2,7) attempts to buff [1mMeleeer Reasoner[0m(2,9) melee_skill by 2 : Sucessful![0m
+[37m[1mdeviltryer [0m(2,7) attempts to buff [1mFrenzieder Detrimenter[0m(3,7) melee_skill by 2 : Sucessful![0m
+[37m[1mdeviltryer [0m(2,7) attempts to buff [1mMaleficeer Masterhooder[0m(4,8) melee_skill by 2 : Sucessful![0m
+[37m[1mManhandleer[0m(11,7) attempts to buff [1mfrenzieder traverseer [0m(9,9) ballistic_range by 3 : Sucessful![0m
+[37m[1mManhandleer[0m(11,7) attempts to buff [1mManhandleer[0m(11,7) ballistic_range by 3 : Sucessful![0m
+[37m[1mManhandleer[0m(11,7) attempts to buff [1mHelmer[0m(12,9) ballistic_range by 3 : Sucessful![0m

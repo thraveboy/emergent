@@ -5,42 +5,42 @@ Team 2:
    w:2 a:1 md:1 ms:1 bd:2 br:1 bs:2 bds:0
    mr:1 ms:2 mv:1 d: n:n1
    m:[0m     
-[37mP:2 Sleight Of Hander Training Areaer
+[37mP:2 Illusionismer Wanderer
    pt:9 (Magic_range)
    w:2 a:2 md:1 ms:1 bd:3 br:2 bs:1 bds:0
    mr:3 ms:1 mv:1 d: n:w0
    m: -ballistic_defense_skill2[0m     
-[37mP:3 Flower
+[37mP:3 Wikisaurus:movementer
    pt:6 (Move)
    w:1 a:1 md:1 ms:2 bd:2 br:1 bs:2 bds:0
    mr:1 ms:1 mv:2 d: n:w1
    m: -magic_skill2[0m     
-[37mP:4 Chitiner
+[37mP:4 Panoplyer
    pt:7 (Armor)
    w:1 a:3 md:2 ms:1 bd:1 br:2 bs:1 bds:0
    mr:3 ms:1 mv:1 d: n:w0
    m:[0m     
-[37mP:5 Meleeer Adeptnesser
+[37mP:5 Meleeer Reasoner
    pt:10 (Melee_skill)
    w:2 a:1 md:3 ms:4 bd:1 br:2 bs:1 bds:0
    mr:2 ms:1 mv:2 d: n:n0
    m:[0m     
-[37mP:6 Ballisticaler Hurter
+[37mP:6 Ballisticaler Iller
    pt:5 (Ballistic_damage)
    w:1 a:1 md:1 ms:1 bd:3 br:3 bs:1 bds:0
    mr:1 ms:1 mv:1 d: n:n0
    m:[0m     
-[37mP:7 Bewitcheryer
+[37mP:7 Exorcismer
    pt:9 (Magics)
    w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
    mr:1 ms:2 mv:2 d: n:e2
    m: +magic_range4[0m     
-[37mP:8 Exorcismer Handicrafter
+[37mP:8 Illusionismer Techniqueer
    pt:10 (Magic_skill)
    w:1 a:2 md:3 ms:1 bd:2 br:2 bs:2 bds:0
    mr:2 ms:3 mv:1 d: n:n2
    m:[0m     
-[37mP:9 Body Armorer
+[37mP:9 Panoplyer
    pt:6 (Armor)
    w:1 a:2 md:2 ms:1 bd:1 br:1 bs:1 bds:1
    mr:1 ms:1 mv:2 d: n:n1
@@ -76,52 +76,52 @@ Team 2:
    mr:1 ms:1 mv:1 d: n:e1
    m:[0m          
 Team 1: 
-[37mP:1 myalismer 
+[37mP:1 deviltryer 
    pt:4 (magics)
    w:1 a:1 md:2 ms:1 bd:1 br:1 bs:1 bds:0
    mr:2 ms:1 mv:1 d: n:w0
    m: +melee_skill2[0m     
-[37mP:2 Meleeer Understander
+[37mP:2 Meleeer Reasoner
    pt:7 (Melee_skill)
    w:1 a:2 md:1 ms:2 bd:2 br:1 bs:2 bds:0
    mr:2 ms:1 mv:1 d: n:w2
    m: -armor2[0m     
-[37mP:3 Ballisticaler Eviler
+[37mP:3 Frenzieder Detrimenter
    pt:8 (Ballistic_damage)
    w:1 a:2 md:2 ms:1 bd:4 br:1 bs:1 bds:0
    mr:1 ms:3 mv:1 d: n:n0
    m:[0m     
-[37mP:4 Dweomercrafter Reasoner
+[37mP:4 Maleficeer Masterhooder
    pt:9 (Magic_skill)
    w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
    mr:2 ms:3 mv:2 d: n:w1
    m: -armor3[0m     
-[37mP:5 Frenzieder Maintenanceer Masterhooder
+[37mP:5 Ballisticaler Justificationer Reasoner
    pt:10 (Ballistic_defense_skill)
    w:2 a:1 md:2 ms:1 bd:1 br:1 bs:3 bds:3
    mr:2 ms:2 mv:1 d: n:n1
    m:[0m     
-[37mP:6 carapaceer 
+[37mP:6 armor plateer 
    pt:2 (armor)
    w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
    mr:1 ms:1 mv:1 d: n:n2
    m:[0m     
-[37mP:7 horner 
+[37mP:7 plateer 
    pt:4 (armor)
    w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
    mr:2 ms:1 mv:1 d: n:n0
    m:[0m     
-[37mP:8 Helmer
+[37mP:8 Armor Plateer
    pt:5 (Armor)
    w:1 a:3 md:1 ms:1 bd:1 br:1 bs:2 bds:0
    mr:1 ms:1 mv:2 d: n:e2
    m:[0m     
-[37mP:9 frenzieder wanderer 
+[37mP:9 frenzieder traverseer 
    pt:4 (ballistic_range)
    w:1 a:1 md:1 ms:2 bd:1 br:2 bs:1 bds:0
    mr:1 ms:2 mv:1 d: n:e1
    m:[0m     
-[37mP:10 Driveer
+[37mP:10 Manhandleer
    pt:10 (Move)
    w:1 a:2 md:1 ms:2 bd:1 br:1 bs:1 bds:0
    mr:2 ms:1 mv:4 d: n:w1
@@ -131,7 +131,7 @@ Team 1:
    w:1 a:3 md:1 ms:2 bd:2 br:1 bs:1 bds:0
    mr:1 ms:1 mv:1 d: n:w1
    m:[0m     
-[37mP:12 flirter 
+[37mP:12 manhandleer 
    pt:2 (move)
    w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
    mr:1 ms:1 mv:2 d: n:w2
@@ -160,42 +160,42 @@ Team 2:
    w:2 a:1 md:1 ms:1 bd:2 br:1 bs:2 bds:0
    mr:1 ms:2 mv:1 d:s n:e2
    m:[0m     
-[37mP:2 Sleight Of Hander Training Areaer
+[37mP:2 Illusionismer Wanderer
    pt:9 (Magic_range)
    w:2 a:2 md:1 ms:1 bd:3 br:2 bs:1 bds:0
    mr:3 ms:1 mv:1 d:e n:n0
    m: -ballistic_defense_skill2[0m     
-[37mP:3 Flower
+[37mP:3 Wikisaurus:movementer
    pt:6 (Move)
    w:1 a:1 md:1 ms:2 bd:2 br:1 bs:2 bds:0
    mr:1 ms:1 mv:2 d:e n:e1
    m: -magic_skill2[0m     
-[37mP:4 Chitiner
+[37mP:4 Panoplyer
    pt:7 (Armor)
    w:1 a:3 md:2 ms:1 bd:1 br:2 bs:1 bds:0
    mr:3 ms:1 mv:1 d:e n:e2
    m:[0m     
-[37mP:5 Meleeer Adeptnesser
+[37mP:5 Meleeer Reasoner
    pt:10 (Melee_skill)
    w:2 a:1 md:3 ms:4 bd:1 br:2 bs:1 bds:0
    mr:2 ms:1 mv:2 d:s n:w1
    m:[0m     
-[37mP:6 Ballisticaler Hurter
+[37mP:6 Ballisticaler Iller
    pt:5 (Ballistic_damage)
    w:1 a:1 md:1 ms:1 bd:3 br:3 bs:1 bds:0
    mr:1 ms:1 mv:1 d:s n:e2
    m:[0m     
-[37mP:7 Bewitcheryer
+[37mP:7 Exorcismer
    pt:9 (Magics)
    w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
    mr:5 ms:2 mv:2 d:w n:e2
    m: +magic_range4[0m     
-[37mP:8 Exorcismer Handicrafter
+[37mP:8 Illusionismer Techniqueer
    pt:10 (Magic_skill)
    w:1 a:2 md:3 ms:1 bd:2 br:2 bs:2 bds:0
    mr:6 ms:3 mv:1 d:s n:w2
    m:[0m     
-[37mP:9 Body Armorer
+[37mP:9 Panoplyer
    pt:6 (Armor)
    w:1 a:2 md:2 ms:1 bd:1 br:1 bs:1 bds:1
    mr:1 ms:1 mv:2 d:s n:n0
@@ -231,52 +231,52 @@ Team 2:
    mr:1 ms:1 mv:1 d:w n:e2
    m:[0m          
 Team 1: 
-[37mP:1 myalismer 
+[37mP:1 deviltryer 
    pt:4 (magics)
    w:1 a:1 md:2 ms:1 bd:1 br:1 bs:1 bds:0
    mr:2 ms:1 mv:1 d:w n:w0
    m: +melee_skill2[0m     
-[37mP:2 Meleeer Understander
+[37mP:2 Meleeer Reasoner
    pt:7 (Melee_skill)
    w:1 a:2 md:1 ms:2 bd:2 br:1 bs:2 bds:0
    mr:2 ms:1 mv:1 d:w n:w0
    m: -armor2[0m     
-[37mP:3 Ballisticaler Eviler
+[37mP:3 Frenzieder Detrimenter
    pt:8 (Ballistic_damage)
    w:1 a:2 md:2 ms:1 bd:4 br:1 bs:1 bds:0
    mr:1 ms:3 mv:1 d:n n:n1
    m:[0m     
-[37mP:4 Dweomercrafter Reasoner
+[37mP:4 Maleficeer Masterhooder
    pt:9 (Magic_skill)
    w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
    mr:2 ms:3 mv:2 d:w n:w1
    m: -armor3[0m     
-[37mP:5 Frenzieder Maintenanceer Masterhooder
+[37mP:5 Ballisticaler Justificationer Reasoner
    pt:10 (Ballistic_defense_skill)
    w:2 a:1 md:2 ms:1 bd:1 br:1 bs:3 bds:3
    mr:2 ms:2 mv:1 d:n n:n2
    m:[0m     
-[37mP:6 carapaceer 
+[37mP:6 armor plateer 
    pt:2 (armor)
    w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
    mr:1 ms:1 mv:1 d:n n:e1
    m:[0m     
-[37mP:7 horner 
+[37mP:7 plateer 
    pt:4 (armor)
    w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
    mr:2 ms:1 mv:1 d:n n:e1
    m:[0m     
-[37mP:8 Helmer
+[37mP:8 Armor Plateer
    pt:5 (Armor)
    w:1 a:3 md:1 ms:1 bd:1 br:1 bs:2 bds:0
    mr:1 ms:1 mv:2 d:e n:w0
    m:[0m     
-[37mP:9 frenzieder wanderer 
+[37mP:9 frenzieder traverseer 
    pt:4 (ballistic_range)
    w:1 a:1 md:1 ms:2 bd:1 br:2 bs:1 bds:0
    mr:1 ms:2 mv:1 d:e n:w1
    m:[0m     
-[37mP:10 Driveer
+[37mP:10 Manhandleer
    pt:10 (Move)
    w:1 a:2 md:1 ms:2 bd:1 br:1 bs:1 bds:0
    mr:2 ms:1 mv:4 d:w n:e0
@@ -286,7 +286,7 @@ Team 1:
    w:1 a:3 md:1 ms:2 bd:2 br:1 bs:1 bds:0
    mr:1 ms:1 mv:1 d:w n:w1
    m:[0m     
-[37mP:12 flirter 
+[37mP:12 manhandleer 
    pt:2 (move)
    w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
    mr:1 ms:1 mv:2 d:w n:e0
@@ -315,42 +315,42 @@ Team 2:
    w:2 a:1 md:1 ms:1 bd:2 br:1 bs:2 bds:0
    mr:1 ms:2 mv:1 d:w n:n1
    m:[0m     
-[37mP:2 Sleight Of Hander Training Areaer
+[37mP:2 Illusionismer Wanderer
    pt:9 (Magic_range)
    w:2 a:2 md:1 ms:1 bd:3 br:2 bs:1 bds:0
    mr:3 ms:1 mv:1 d:s n:w1
    m: -ballistic_defense_skill2[0m     
-[37mP:3 Flower
+[37mP:3 Wikisaurus:movementer
    pt:6 (Move)
    w:1 a:1 md:1 ms:2 bd:2 br:1 bs:2 bds:0
    mr:1 ms:1 mv:2 d:w n:e2
    m: -magic_skill2[0m     
-[37mP:4 Chitiner
+[37mP:4 Panoplyer
    pt:7 (Armor)
    w:1 a:3 md:2 ms:1 bd:1 br:2 bs:1 bds:0
    mr:3 ms:1 mv:1 d:w n:e1
    m:[0m     
-[37mP:5 Meleeer Adeptnesser
+[37mP:5 Meleeer Reasoner
    pt:10 (Melee_skill)
    w:2 a:1 md:3 ms:4 bd:1 br:2 bs:1 bds:0
    mr:2 ms:1 mv:2 d:e n:e0
    m:[0m     
-[37mP:6 Ballisticaler Hurter
+[37mP:6 Ballisticaler Iller
    pt:5 (Ballistic_damage)
    w:1 a:1 md:1 ms:1 bd:3 br:3 bs:1 bds:0
    mr:1 ms:1 mv:1 d:w n:e2
    m:[0m     
-[37mP:7 Bewitcheryer
+[37mP:7 Exorcismer
    pt:9 (Magics)
    w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
    mr:5 ms:2 mv:2 d:w n:e1
    m: +magic_range4[0m     
-[37mP:8 Exorcismer Handicrafter
+[37mP:8 Illusionismer Techniqueer
    pt:10 (Magic_skill)
    w:1 a:2 md:3 ms:1 bd:2 br:2 bs:2 bds:0
    mr:6 ms:3 mv:1 d:e n:e1
    m:[0m     
-[37mP:9 Body Armorer
+[37mP:9 Panoplyer
    pt:6 (Armor)
    w:1 a:2 md:2 ms:1 bd:1 br:1 bs:1 bds:1
    mr:1 ms:1 mv:2 d:s n:w2
@@ -386,52 +386,52 @@ Team 2:
    mr:1 ms:1 mv:1 d:w n:e0
    m:[0m          
 Team 1: 
-[37mP:1 myalismer 
+[37mP:1 deviltryer 
    pt:4 (magics)
    w:1 a:1 md:2 ms:1 bd:1 br:1 bs:1 bds:0
    mr:2 ms:1 mv:1 d:w n:n2
    m: +melee_skill2[0m     
-[37mP:2 Meleeer Understander
+[37mP:2 Meleeer Reasoner
    pt:7 (Melee_skill)
    w:1 a:2 md:1 ms:2 bd:2 br:1 bs:2 bds:0
    mr:2 ms:1 mv:1 d:w n:n1
    m: -armor2[0m     
-[37mP:3 Ballisticaler Eviler
+[37mP:3 Frenzieder Detrimenter
    pt:8 (Ballistic_damage)
    w:1 a:2 md:2 ms:1 bd:4 br:1 bs:1 bds:0
    mr:1 ms:3 mv:1 d:n n:w1
    m:[0m     
-[37mP:4 Dweomercrafter Reasoner
+[37mP:4 Maleficeer Masterhooder
    pt:9 (Magic_skill)
    w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
    mr:2 ms:3 mv:2 d:w n:n2
    m: -armor3[0m     
-[37mP:5 Frenzieder Maintenanceer Masterhooder
+[37mP:5 Ballisticaler Justificationer Reasoner
    pt:10 (Ballistic_defense_skill)
    w:2 a:1 md:2 ms:1 bd:1 br:1 bs:3 bds:3
    mr:2 ms:2 mv:1 d:n n:n2
    m:[0m     
-[37mP:6 carapaceer 
+[37mP:6 armor plateer 
    pt:2 (armor)
    w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
    mr:1 ms:1 mv:1 d:e n:n1
    m:[0m     
-[37mP:7 horner 
+[37mP:7 plateer 
    pt:4 (armor)
    w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
    mr:2 ms:1 mv:1 d:e n:e0
    m:[0m     
-[37mP:8 Helmer
+[37mP:8 Armor Plateer
    pt:5 (Armor)
    w:1 a:3 md:1 ms:1 bd:1 br:1 bs:2 bds:0
    mr:1 ms:1 mv:2 d:w n:w0
    m:[0m     
-[37mP:9 frenzieder wanderer 
+[37mP:9 frenzieder traverseer 
    pt:4 (ballistic_range)
    w:1 a:1 md:1 ms:2 bd:1 br:2 bs:1 bds:0
    mr:1 ms:2 mv:1 d:w n:w2
    m:[0m     
-[37mP:10 Driveer
+[37mP:10 Manhandleer
    pt:10 (Move)
    w:1 a:2 md:1 ms:2 bd:1 br:1 bs:1 bds:0
    mr:2 ms:1 mv:4 d:e n:e2
@@ -441,7 +441,7 @@ Team 1:
    w:1 a:3 md:1 ms:2 bd:2 br:1 bs:1 bds:0
    mr:1 ms:1 mv:1 d:w n:n2
    m:[0m     
-[37mP:12 flirter 
+[37mP:12 manhandleer 
    pt:2 (move)
    w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
    mr:1 ms:1 mv:2 d:e n:w1
@@ -470,42 +470,42 @@ Team 2:
    w:2 a:1 md:1 ms:1 bd:2 br:1 bs:2 bds:0
    mr:1 ms:2 mv:1 d:s n:n2
    m:[0m     
-[37mP:2 Sleight Of Hander Training Areaer
+[37mP:2 Illusionismer Wanderer
    pt:9 (Magic_range)
    w:2 a:2 md:1 ms:1 bd:3 br:2 bs:1 bds:0
    mr:3 ms:1 mv:1 d:e n:e0
    m: -ballistic_defense_skill2[0m     
-[37mP:3 Flower
+[37mP:3 Wikisaurus:movementer
    pt:6 (Move)
    w:1 a:1 md:1 ms:2 bd:2 br:1 bs:2 bds:0
    mr:1 ms:1 mv:2 d:w n:e1
    m: -magic_skill2[0m     
-[37mP:4 Chitiner
+[37mP:4 Panoplyer
    pt:7 (Armor)
    w:1 a:3 md:2 ms:1 bd:1 br:2 bs:1 bds:0
    mr:3 ms:1 mv:1 d:w n:e0
    m:[0m     
-[37mP:5 Meleeer Adeptnesser
+[37mP:5 Meleeer Reasoner
    pt:10 (Melee_skill)
    w:2 a:1 md:3 ms:4 bd:1 br:2 bs:1 bds:0
    mr:2 ms:1 mv:2 d:w n:e1
    m:[0m     
-[37mP:6 Ballisticaler Hurter
+[37mP:6 Ballisticaler Iller
    pt:5 (Ballistic_damage)
    w:1 a:1 md:1 ms:1 bd:3 br:3 bs:1 bds:0
    mr:1 ms:1 mv:1 d:w n:w0
    m:[0m     
-[37mP:7 Bewitcheryer
+[37mP:7 Exorcismer
    pt:9 (Magics)
    w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
    mr:5 ms:2 mv:2 d:w n:n1
    m: +magic_range4[0m     
-[37mP:8 Exorcismer Handicrafter
+[37mP:8 Illusionismer Techniqueer
    pt:10 (Magic_skill)
    w:1 a:2 md:3 ms:1 bd:2 br:2 bs:2 bds:0
    mr:6 ms:3 mv:1 d:w n:n0
    m:[0m     
-[37mP:9 Body Armorer
+[37mP:9 Panoplyer
    pt:6 (Armor)
    w:1 a:2 md:2 ms:1 bd:1 br:1 bs:1 bds:1
    mr:1 ms:1 mv:2 d:e n:n0
@@ -541,52 +541,52 @@ Team 2:
    mr:1 ms:1 mv:1 d:w n:w2
    m:[0m          
 Team 1: 
-[37mP:1 myalismer 
+[37mP:1 deviltryer 
    pt:4 (magics)
    w:1 a:1 md:2 ms:1 bd:1 br:1 bs:1 bds:0
    mr:2 ms:1 mv:1 d:n n:e1
    m: +melee_skill2[0m     
-[37mP:2 Meleeer Understander
+[37mP:2 Meleeer Reasoner
    pt:7 (Melee_skill)
    w:1 a:2 md:1 ms:2 bd:2 br:1 bs:2 bds:0
    mr:2 ms:1 mv:1 d:n n:e1
    m: -armor2[0m     
-[37mP:3 Ballisticaler Eviler
+[37mP:3 Frenzieder Detrimenter
    pt:8 (Ballistic_damage)
    w:1 a:2 md:2 ms:1 bd:4 br:1 bs:1 bds:0
    mr:1 ms:3 mv:1 d:w n:n0
    m:[0m     
-[44m[37mP:4 Dweomercrafter Reasoner
+[44m[37mP:4 Maleficeer Masterhooder
    pt:19 (Magic_skill)
    w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
    mr:2 ms:3 mv:2 d:n n:n2
    m: -armor3[0m[0m     
-[37mP:5 Frenzieder Maintenanceer Masterhooder
+[37mP:5 Ballisticaler Justificationer Reasoner
    pt:10 (Ballistic_defense_skill)
    w:2 a:1 md:2 ms:1 bd:1 br:1 bs:3 bds:3
    mr:2 ms:2 mv:1 d:n n:e2
    m:[0m     
-[37mP:6 carapaceer 
+[37mP:6 armor plateer 
    pt:2 (armor)
    w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
    mr:1 ms:1 mv:1 d:n n:e1
    m:[0m     
-[37mP:7 horner 
+[37mP:7 plateer 
    pt:4 (armor)
    w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
    mr:2 ms:1 mv:1 d:e n:n1
    m:[0m     
-[37mP:8 Helmer
+[37mP:8 Armor Plateer
    pt:5 (Armor)
    w:1 a:3 md:1 ms:1 bd:1 br:1 bs:2 bds:0
    mr:1 ms:1 mv:2 d:w n:n1
    m:[0m     
-[37mP:9 frenzieder wanderer 
+[37mP:9 frenzieder traverseer 
    pt:4 (ballistic_range)
    w:1 a:1 md:1 ms:2 bd:1 br:2 bs:1 bds:0
    mr:1 ms:2 mv:1 d:w n:e2
    m:[0m     
-[37mP:10 Driveer
+[37mP:10 Manhandleer
    pt:10 (Move)
    w:1 a:2 md:1 ms:2 bd:1 br:1 bs:1 bds:0
    mr:2 ms:1 mv:4 d:e n:e2
@@ -596,7 +596,7 @@ Team 1:
    w:1 a:3 md:1 ms:2 bd:2 br:1 bs:1 bds:0
    mr:1 ms:1 mv:1 d:n n:n2
    m:[0m     
-[37mP:12 flirter 
+[37mP:12 manhandleer 
    pt:2 (move)
    w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
    mr:1 ms:1 mv:2 d:w n:n2
@@ -625,42 +625,42 @@ Team 2:
    w:2 a:1 md:1 ms:1 bd:2 br:1 bs:2 bds:0
    mr:1 ms:2 mv:1 d:s n:e0
    m:[0m     
-[37mP:2 Sleight Of Hander Training Areaer
+[37mP:2 Illusionismer Wanderer
    pt:9 (Magic_range)
    w:2 a:2 md:1 ms:1 bd:3 br:2 bs:1 bds:0
    mr:3 ms:1 mv:1 d:w n:w2
    m: -ballistic_defense_skill2[0m     
-[37mP:3 Flower
+[37mP:3 Wikisaurus:movementer
    pt:6 (Move)
    w:1 a:1 md:1 ms:2 bd:2 br:1 bs:2 bds:0
    mr:1 ms:1 mv:2 d:w n:w1
    m: -magic_skill2[0m     
-[37mP:4 Chitiner
+[37mP:4 Panoplyer
    pt:7 (Armor)
    w:1 a:3 md:2 ms:1 bd:1 br:2 bs:1 bds:0
    mr:3 ms:1 mv:1 d:w n:n2
    m:[0m     
-[37mP:5 Meleeer Adeptnesser
+[37mP:5 Meleeer Reasoner
    pt:10 (Melee_skill)
    w:2 a:1 md:3 ms:4 bd:1 br:2 bs:1 bds:0
    mr:2 ms:1 mv:2 d:w n:w1
    m:[0m     
-[37mP:6 Ballisticaler Hurter
+[37mP:6 Ballisticaler Iller
    pt:5 (Ballistic_damage)
    w:1 a:1 md:1 ms:1 bd:3 br:3 bs:1 bds:0
    mr:5 ms:1 mv:1 d:e n:e0
    m:[0m     
-[37mP:7 Bewitcheryer
+[37mP:7 Exorcismer
    pt:9 (Magics)
    w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
    mr:5 ms:2 mv:2 d:s n:w2
    m: +magic_range4[0m     
-[37mP:8 Exorcismer Handicrafter
+[37mP:8 Illusionismer Techniqueer
    pt:10 (Magic_skill)
    w:1 a:2 md:3 ms:1 bd:2 br:2 bs:2 bds:0
    mr:6 ms:3 mv:1 d:s n:e0
    m:[0m     
-[37mP:9 Body Armorer
+[37mP:9 Panoplyer
    pt:6 (Armor)
    w:1 a:2 md:2 ms:1 bd:1 br:1 bs:1 bds:1
    mr:1 ms:1 mv:2 d:s n:w2
@@ -696,52 +696,52 @@ Team 2:
    mr:1 ms:1 mv:1 d:e n:n0
    m:[0m          
 Team 1: 
-[37mP:1 myalismer 
+[37mP:1 deviltryer 
    pt:4 (magics)
    w:1 a:1 md:2 ms:1 bd:1 br:1 bs:1 bds:0
    mr:2 ms:1 mv:1 d:e n:w2
    m: +melee_skill2[0m     
-[37mP:2 Meleeer Understander
+[37mP:2 Meleeer Reasoner
    pt:7 (Melee_skill)
    w:1 a:2 md:1 ms:2 bd:2 br:1 bs:2 bds:0
    mr:2 ms:1 mv:1 d:e n:w0
    m: -armor2[0m     
-[37mP:3 Ballisticaler Eviler
+[37mP:3 Frenzieder Detrimenter
    pt:8 (Ballistic_damage)
    w:1 a:2 md:2 ms:1 bd:4 br:1 bs:1 bds:0
    mr:1 ms:3 mv:1 d:n n:e0
    m:[0m     
-[44m[37mP:4 Dweomercrafter Reasoner
+[44m[37mP:4 Maleficeer Masterhooder
    pt:19 (Magic_skill)
    w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
    mr:2 ms:3 mv:2 d:n n:w0
    m: -armor3[0m[0m     
-[37mP:5 Frenzieder Maintenanceer Masterhooder
+[37mP:5 Ballisticaler Justificationer Reasoner
    pt:10 (Ballistic_defense_skill)
    w:2 a:1 md:2 ms:1 bd:1 br:1 bs:3 bds:3
    mr:2 ms:2 mv:1 d:e n:w0
    m:[0m     
-[37mP:6 carapaceer 
+[37mP:6 armor plateer 
    pt:2 (armor)
    w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
    mr:1 ms:1 mv:1 d:e n:n0
    m:[0m     
-[37mP:7 horner 
+[37mP:7 plateer 
    pt:4 (armor)
    w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
    mr:2 ms:1 mv:1 d:n n:e0
    m:[0m     
-[37mP:8 Helmer
+[37mP:8 Armor Plateer
    pt:5 (Armor)
    w:1 a:3 md:1 ms:1 bd:1 br:1 bs:2 bds:0
    mr:1 ms:1 mv:2 d:n n:w2
    m:[0m     
-[37mP:9 frenzieder wanderer 
+[37mP:9 frenzieder traverseer 
    pt:4 (ballistic_range)
    w:1 a:1 md:1 ms:2 bd:1 br:2 bs:1 bds:0
    mr:1 ms:2 mv:1 d:e n:e0
    m:[0m     
-[37mP:10 Driveer
+[37mP:10 Manhandleer
    pt:10 (Move)
    w:1 a:2 md:1 ms:2 bd:1 br:1 bs:1 bds:0
    mr:2 ms:1 mv:4 d:e n:w0
@@ -751,7 +751,7 @@ Team 1:
    w:1 a:3 md:1 ms:2 bd:2 br:1 bs:1 bds:0
    mr:1 ms:1 mv:1 d:n n:e0
    m:[0m     
-[37mP:12 flirter 
+[37mP:12 manhandleer 
    pt:2 (move)
    w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
    mr:1 ms:1 mv:2 d:n n:e0
@@ -780,42 +780,42 @@ Team 2:
    w:2 a:1 md:1 ms:1 bd:2 br:1 bs:2 bds:0
    mr:1 ms:2 mv:1 d:w n:e1
    m:[0m     
-[37mP:2 Sleight Of Hander Training Areaer
+[37mP:2 Illusionismer Wanderer
    pt:9 (Magic_range)
    w:2 a:2 md:1 ms:1 bd:3 br:2 bs:1 bds:0
    mr:3 ms:1 mv:1 d:e n:n2
    m: -ballistic_defense_skill2[0m     
-[37mP:3 Flower
+[37mP:3 Wikisaurus:movementer
    pt:6 (Move)
    w:1 a:1 md:1 ms:2 bd:2 br:1 bs:2 bds:0
    mr:1 ms:1 mv:2 d:e n:w2
    m: -magic_skill2[0m     
-[44m[37mP:4 Chitiner
+[44m[37mP:4 Panoplyer
    pt:17 (Armor)
    w:1 a:3 md:2 ms:1 bd:1 br:2 bs:1 bds:0
    mr:3 ms:1 mv:1 d:s n:n1
    m:[0m[0m     
-[37mP:5 Meleeer Adeptnesser
+[37mP:5 Meleeer Reasoner
    pt:10 (Melee_skill)
    w:2 a:1 md:3 ms:4 bd:1 br:2 bs:1 bds:0
    mr:6 ms:1 mv:2 d:e n:e2
    m:[0m     
-[37mP:6 Ballisticaler Hurter
+[37mP:6 Ballisticaler Iller
    pt:5 (Ballistic_damage)
    w:1 a:1 md:1 ms:1 bd:3 br:3 bs:1 bds:0
    mr:5 ms:1 mv:1 d:w n:n2
    m:[0m     
-[37mP:7 Bewitcheryer
+[37mP:7 Exorcismer
    pt:9 (Magics)
    w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
    mr:5 ms:2 mv:2 d:e n:e2
    m: +magic_range4[0m     
-[37mP:8 Exorcismer Handicrafter
+[37mP:8 Illusionismer Techniqueer
    pt:10 (Magic_skill)
    w:1 a:2 md:3 ms:1 bd:2 br:2 bs:2 bds:0
    mr:2 ms:3 mv:1 d:w n:w1
    m:[0m     
-[37mP:9 Body Armorer
+[37mP:9 Panoplyer
    pt:6 (Armor)
    w:1 a:2 md:2 ms:1 bd:1 br:1 bs:1 bds:1
    mr:1 ms:1 mv:2 d:e n:e2
@@ -851,52 +851,52 @@ Team 2:
    mr:1 ms:1 mv:1 d:s n:e1
    m:[0m          
 Team 1: 
-[37mP:1 myalismer 
+[37mP:1 deviltryer 
    pt:4 (magics)
    w:1 a:1 md:2 ms:1 bd:1 br:1 bs:1 bds:0
    mr:2 ms:1 mv:1 d:w n:n1
    m: +melee_skill2[0m     
-[37mP:2 Meleeer Understander
+[37mP:2 Meleeer Reasoner
    pt:7 (Melee_skill)
    w:1 a:2 md:1 ms:2 bd:2 br:1 bs:2 bds:0
    mr:2 ms:1 mv:1 d:w n:w1
    m: -armor2[0m     
-[37mP:3 Ballisticaler Eviler
+[37mP:3 Frenzieder Detrimenter
    pt:8 (Ballistic_damage)
    w:1 a:2 md:2 ms:1 bd:4 br:1 bs:1 bds:0
    mr:1 ms:3 mv:1 d:e n:n0
    m:[0m     
-[44m[37mP:4 Dweomercrafter Reasoner
+[44m[37mP:4 Maleficeer Masterhooder
    pt:19 (Magic_skill)
    w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
    mr:2 ms:3 mv:2 d:w n:n2
    m: -armor3[0m[0m     
-[37mP:5 Frenzieder Maintenanceer Masterhooder
+[37mP:5 Ballisticaler Justificationer Reasoner
    pt:10 (Ballistic_defense_skill)
    w:2 a:1 md:2 ms:1 bd:1 br:1 bs:3 bds:3
    mr:2 ms:2 mv:1 d:w n:w0
    m:[0m     
-[37mP:6 carapaceer 
+[37mP:6 armor plateer 
    pt:2 (armor)
    w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
    mr:1 ms:1 mv:1 d:n n:n2
    m:[0m     
-[37mP:7 horner 
+[37mP:7 plateer 
    pt:4 (armor)
    w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
    mr:2 ms:1 mv:1 d:e n:w1
    m:[0m     
-[37mP:8 Helmer
+[37mP:8 Armor Plateer
    pt:5 (Armor)
    w:1 a:3 md:1 ms:1 bd:1 br:1 bs:2 bds:0
    mr:1 ms:1 mv:2 d:w n:n1
    m:[0m     
-[37mP:9 frenzieder wanderer 
+[37mP:9 frenzieder traverseer 
    pt:4 (ballistic_range)
    w:1 a:1 md:1 ms:2 bd:1 br:2 bs:1 bds:0
    mr:1 ms:2 mv:1 d:e n:e0
    m:[0m     
-[37mP:10 Driveer
+[37mP:10 Manhandleer
    pt:10 (Move)
    w:1 a:2 md:1 ms:2 bd:1 br:1 bs:1 bds:0
    mr:2 ms:1 mv:4 d:w n:n0
@@ -906,7 +906,7 @@ Team 1:
    w:1 a:3 md:1 ms:2 bd:2 br:1 bs:1 bds:0
    mr:1 ms:1 mv:1 d:e n:e0
    m:[0m     
-[37mP:12 flirter 
+[37mP:12 manhandleer 
    pt:2 (move)
    w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
    mr:1 ms:1 mv:2 d:e n:e1
@@ -935,42 +935,42 @@ Team 2:
    w:2 a:1 md:1 ms:1 bd:2 br:1 bs:2 bds:0
    mr:1 ms:2 mv:1 d:w n:n0
    m:[0m     
-[37mP:2 Sleight Of Hander Training Areaer
+[37mP:2 Illusionismer Wanderer
    pt:9 (Magic_range)
    w:2 a:2 md:1 ms:1 bd:3 br:2 bs:1 bds:0
    mr:3 ms:1 mv:1 d:s n:n2
    m: -ballistic_defense_skill2[0m     
-[37mP:3 Flower
+[37mP:3 Wikisaurus:movementer
    pt:6 (Move)
    w:1 a:1 md:1 ms:2 bd:2 br:1 bs:2 bds:0
    mr:1 ms:1 mv:2 d:e n:w2
    m: -magic_skill2[0m     
-[44m[37mP:4 Chitiner
+[44m[37mP:4 Panoplyer
    pt:17 (Armor)
    w:1 a:3 md:2 ms:1 bd:1 br:2 bs:1 bds:0
    mr:3 ms:1 mv:1 d:s n:e1
    m:[0m[0m     
-[37mP:5 Meleeer Adeptnesser
+[37mP:5 Meleeer Reasoner
    pt:10 (Melee_skill)
    w:2 a:1 md:3 ms:4 bd:1 br:2 bs:1 bds:0
    mr:2 ms:1 mv:2 d:w n:n0
    m:[0m     
-[37mP:6 Ballisticaler Hurter
+[37mP:6 Ballisticaler Iller
    pt:5 (Ballistic_damage)
    w:1 a:1 md:1 ms:1 bd:3 br:3 bs:1 bds:0
    mr:5 ms:1 mv:1 d:s n:n0
    m:[0m     
-[37mP:7 Bewitcheryer
+[37mP:7 Exorcismer
    pt:9 (Magics)
    w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
    mr:5 ms:2 mv:2 d:w n:n0
    m: +magic_range4[0m     
-[37mP:8 Exorcismer Handicrafter
+[37mP:8 Illusionismer Techniqueer
    pt:10 (Magic_skill)
    w:1 a:2 md:3 ms:1 bd:2 br:2 bs:2 bds:0
    mr:6 ms:3 mv:1 d:e n:e0
    m:[0m     
-[37mP:9 Body Armorer
+[37mP:9 Panoplyer
    pt:6 (Armor)
    w:1 a:2 md:2 ms:1 bd:1 br:1 bs:1 bds:1
    mr:1 ms:1 mv:2 d:w n:w2
@@ -1006,52 +1006,52 @@ Team 2:
    mr:1 ms:1 mv:1 d:w n:e2
    m:[0m          
 Team 1: 
-[37mP:1 myalismer 
+[37mP:1 deviltryer 
    pt:4 (magics)
    w:1 a:1 md:2 ms:1 bd:1 br:1 bs:1 bds:0
    mr:2 ms:1 mv:1 d:n n:e0
    m: +melee_skill2[0m     
-[37mP:2 Meleeer Understander
+[37mP:2 Meleeer Reasoner
    pt:7 (Melee_skill)
    w:1 a:2 md:1 ms:2 bd:2 br:1 bs:2 bds:0
    mr:2 ms:1 mv:1 d:w n:w2
    m: -armor2[0m     
-[37mP:3 Ballisticaler Eviler
+[37mP:3 Frenzieder Detrimenter
    pt:8 (Ballistic_damage)
    w:1 a:2 md:2 ms:1 bd:4 br:1 bs:1 bds:0
    mr:1 ms:3 mv:1 d:n n:e0
    m:[0m     
-[44m[37mP:4 Dweomercrafter Reasoner
+[44m[37mP:4 Maleficeer Masterhooder
    pt:19 (Magic_skill)
    w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
    mr:2 ms:3 mv:2 d:n n:n1
    m: -armor3[0m[0m     
-[37mP:5 Frenzieder Maintenanceer Masterhooder
+[37mP:5 Ballisticaler Justificationer Reasoner
    pt:10 (Ballistic_defense_skill)
    w:2 a:1 md:2 ms:1 bd:1 br:1 bs:3 bds:3
    mr:2 ms:2 mv:1 d:w n:e1
    m:[0m     
-[37mP:6 carapaceer 
+[37mP:6 armor plateer 
    pt:2 (armor)
    w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
    mr:1 ms:1 mv:1 d:n n:n0
    m:[0m     
-[37mP:7 horner 
+[37mP:7 plateer 
    pt:4 (armor)
    w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
    mr:2 ms:1 mv:1 d:w n:w0
    m:[0m     
-[37mP:8 Helmer
+[37mP:8 Armor Plateer
    pt:5 (Armor)
    w:1 a:3 md:1 ms:1 bd:1 br:1 bs:2 bds:0
    mr:1 ms:1 mv:2 d:n n:w2
    m:[0m     
-[37mP:9 frenzieder wanderer 
+[37mP:9 frenzieder traverseer 
    pt:4 (ballistic_range)
    w:1 a:1 md:1 ms:2 bd:1 br:2 bs:1 bds:0
    mr:1 ms:2 mv:1 d:e n:n2
    m:[0m     
-[37mP:10 Driveer
+[37mP:10 Manhandleer
    pt:10 (Move)
    w:1 a:2 md:1 ms:2 bd:1 br:1 bs:1 bds:0
    mr:2 ms:1 mv:4 d:n n:n2
@@ -1061,7 +1061,7 @@ Team 1:
    w:1 a:3 md:1 ms:2 bd:2 br:1 bs:1 bds:0
    mr:1 ms:1 mv:1 d:e n:w0
    m:[0m     
-[37mP:12 flirter 
+[37mP:12 manhandleer 
    pt:2 (move)
    w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
    mr:1 ms:1 mv:2 d:e n:e0
@@ -1090,42 +1090,42 @@ Team 2:
    w:2 a:1 md:1 ms:1 bd:2 br:1 bs:2 bds:0
    mr:1 ms:2 mv:1 d:s n:n1
    m:[0m     
-[37mP:2 Sleight Of Hander Training Areaer
+[37mP:2 Illusionismer Wanderer
    pt:9 (Magic_range)
    w:2 a:2 md:1 ms:1 bd:3 br:2 bs:1 bds:0
    mr:3 ms:1 mv:1 d:s n:w2
    m: -ballistic_defense_skill2[0m     
-[37mP:3 Flower
+[37mP:3 Wikisaurus:movementer
    pt:6 (Move)
    w:1 a:1 md:1 ms:2 bd:2 br:1 bs:2 bds:0
    mr:1 ms:1 mv:2 d:e n:w1
    m: -magic_skill2[0m     
-[44m[37mP:4 Chitiner
+[44m[37mP:4 Panoplyer
    pt:17 (Armor)
    w:1 a:3 md:2 ms:1 bd:1 br:2 bs:1 bds:0
    mr:3 ms:1 mv:1 d:w n:n2
    m:[0m[0m     
-[37mP:5 Meleeer Adeptnesser
+[37mP:5 Meleeer Reasoner
    pt:10 (Melee_skill)
    w:2 a:1 md:3 ms:4 bd:1 br:2 bs:1 bds:0
    mr:2 ms:1 mv:2 d:s n:e2
    m:[0m     
-[37mP:6 Ballisticaler Hurter
+[37mP:6 Ballisticaler Iller
    pt:5 (Ballistic_damage)
    w:1 a:1 md:1 ms:1 bd:3 br:3 bs:1 bds:0
    mr:5 ms:1 mv:1 d:s n:n0
    m:[0m     
-[37mP:7 Bewitcheryer
+[37mP:7 Exorcismer
    pt:9 (Magics)
    w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
    mr:5 ms:2 mv:2 d:s n:n0
    m: +magic_range4[0m     
-[37mP:8 Exorcismer Handicrafter
+[37mP:8 Illusionismer Techniqueer
    pt:10 (Magic_skill)
    w:1 a:2 md:3 ms:1 bd:2 br:2 bs:2 bds:0
    mr:6 ms:3 mv:1 d:w n:e0
    m:[0m     
-[37mP:9 Body Armorer
+[37mP:9 Panoplyer
    pt:6 (Armor)
    w:1 a:2 md:2 ms:1 bd:1 br:1 bs:1 bds:1
    mr:5 ms:1 mv:2 d:e n:n0
@@ -1161,52 +1161,52 @@ Team 2:
    mr:1 ms:1 mv:1 d:w n:w1
    m:[0m          
 Team 1: 
-[37mP:1 myalismer 
+[37mP:1 deviltryer 
    pt:4 (magics)
    w:1 a:1 md:2 ms:1 bd:1 br:1 bs:1 bds:0
    mr:2 ms:1 mv:1 d:e n:w2
    m: +melee_skill2[0m     
-[37mP:2 Meleeer Understander
+[37mP:2 Meleeer Reasoner
    pt:7 (Melee_skill)
    w:1 a:2 md:1 ms:2 bd:2 br:1 bs:2 bds:0
    mr:2 ms:1 mv:1 d:w n:n0
    m: -armor2[0m     
-[37mP:3 Ballisticaler Eviler
+[37mP:3 Frenzieder Detrimenter
    pt:8 (Ballistic_damage)
    w:1 a:2 md:2 ms:1 bd:4 br:1 bs:1 bds:0
    mr:1 ms:3 mv:1 d:e n:n2
    m:[0m     
-[44m[37mP:4 Dweomercrafter Reasoner
+[44m[37mP:4 Maleficeer Masterhooder
    pt:19 (Magic_skill)
    w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
    mr:2 ms:3 mv:2 d:n n:w1
    m: -armor3[0m[0m     
-[37mP:5 Frenzieder Maintenanceer Masterhooder
+[37mP:5 Ballisticaler Justificationer Reasoner
    pt:10 (Ballistic_defense_skill)
    w:2 a:1 md:2 ms:1 bd:1 br:1 bs:3 bds:3
    mr:2 ms:2 mv:1 d:e n:e0
    m:[0m     
-[37mP:6 carapaceer 
+[37mP:6 armor plateer 
    pt:2 (armor)
    w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
    mr:1 ms:1 mv:1 d:n n:n0
    m:[0m     
-[37mP:7 horner 
+[37mP:7 plateer 
    pt:4 (armor)
    w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
    mr:2 ms:1 mv:1 d:w n:n0
    m:[0m     
-[37mP:8 Helmer
+[37mP:8 Armor Plateer
    pt:5 (Armor)
    w:1 a:3 md:1 ms:1 bd:1 br:1 bs:2 bds:0
    mr:1 ms:1 mv:2 d:w n:n0
    m:[0m     
-[37mP:9 frenzieder wanderer 
+[37mP:9 frenzieder traverseer 
    pt:4 (ballistic_range)
    w:1 a:1 md:1 ms:2 bd:1 br:2 bs:1 bds:0
    mr:1 ms:2 mv:1 d:n n:w1
    m:[0m     
-[37mP:10 Driveer
+[37mP:10 Manhandleer
    pt:10 (Move)
    w:1 a:2 md:1 ms:2 bd:1 br:1 bs:1 bds:0
    mr:2 ms:1 mv:4 d:n n:e0
@@ -1216,7 +1216,7 @@ Team 1:
    w:1 a:3 md:1 ms:2 bd:2 br:1 bs:1 bds:0
    mr:1 ms:1 mv:1 d:w n:w0
    m:[0m     
-[37mP:12 flirter 
+[37mP:12 manhandleer 
    pt:2 (move)
    w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
    mr:1 ms:1 mv:2 d:e n:e1
@@ -1245,42 +1245,42 @@ Team 2:
    w:2 a:1 md:1 ms:1 bd:2 br:1 bs:2 bds:0
    mr:1 ms:2 mv:1 d:s n:n0
    m:[0m     
-[37mP:2 Sleight Of Hander Training Areaer
+[37mP:2 Illusionismer Wanderer
    pt:9 (Magic_range)
    w:2 a:2 md:1 ms:1 bd:3 br:2 bs:1 bds:0
    mr:3 ms:1 mv:1 d:e n:e0
    m: -ballistic_defense_skill2[0m     
-[37mP:3 Flower
+[37mP:3 Wikisaurus:movementer
    pt:6 (Move)
    w:1 a:1 md:1 ms:2 bd:2 br:1 bs:2 bds:0
    mr:1 ms:1 mv:2 d:e n:n2
    m: -magic_skill2[0m     
-[44m[37mP:4 Chitiner
+[44m[37mP:4 Panoplyer
    pt:17 (Armor)
    w:1 a:3 md:2 ms:1 bd:1 br:2 bs:1 bds:0
    mr:3 ms:1 mv:1 d:s n:w0
    m:[0m[0m     
-[37mP:5 Meleeer Adeptnesser
+[37mP:5 Meleeer Reasoner
    pt:10 (Melee_skill)
    w:2 a:1 md:3 ms:4 bd:1 br:2 bs:1 bds:0
    mr:2 ms:1 mv:2 d:w n:e1
    m:[0m     
-[37mP:6 Ballisticaler Hurter
+[37mP:6 Ballisticaler Iller
    pt:5 (Ballistic_damage)
    w:1 a:1 md:1 ms:1 bd:3 br:3 bs:1 bds:0
    mr:5 ms:1 mv:1 d:s n:n0
    m:[0m     
-[37mP:7 Bewitcheryer
+[37mP:7 Exorcismer
    pt:9 (Magics)
    w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
    mr:5 ms:2 mv:2 d:s n:n1
    m: +magic_range4[0m     
-[37mP:8 Exorcismer Handicrafter
+[37mP:8 Illusionismer Techniqueer
    pt:10 (Magic_skill)
    w:1 a:2 md:3 ms:1 bd:2 br:2 bs:2 bds:0
    mr:6 ms:3 mv:1 d:w n:e0
    m:[0m     
-[37mP:9 Body Armorer
+[37mP:9 Panoplyer
    pt:6 (Armor)
    w:1 a:2 md:2 ms:1 bd:1 br:1 bs:1 bds:1
    mr:5 ms:1 mv:2 d:s n:n0
@@ -1316,52 +1316,52 @@ Team 2:
    mr:1 ms:1 mv:1 d:e n:e1
    m:[0m          
 Team 1: 
-[37mP:1 myalismer 
+[37mP:1 deviltryer 
    pt:4 (magics)
    w:1 a:1 md:2 ms:1 bd:1 br:1 bs:1 bds:0
    mr:2 ms:1 mv:1 d:w n:n1
    m: +melee_skill2[0m     
-[37mP:2 Meleeer Understander
+[37mP:2 Meleeer Reasoner
    pt:7 (Melee_skill)
    w:1 a:2 md:1 ms:2 bd:2 br:1 bs:2 bds:0
    mr:2 ms:1 mv:1 d:n n:n2
    m: -armor2[0m     
-[37mP:3 Ballisticaler Eviler
+[37mP:3 Frenzieder Detrimenter
    pt:8 (Ballistic_damage)
    w:1 a:2 md:2 ms:1 bd:4 br:1 bs:1 bds:0
    mr:1 ms:3 mv:1 d:n n:e2
    m:[0m     
-[37mP:4 Dweomercrafter Reasoner
+[37mP:4 Maleficeer Masterhooder
    pt:9 (Magic_skill)
    w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
    mr:2 ms:3 mv:2 d:w n:w2
    m: -armor3[0m     
-[37mP:5 Frenzieder Maintenanceer Masterhooder
+[37mP:5 Ballisticaler Justificationer Reasoner
    pt:10 (Ballistic_defense_skill)
    w:2 a:1 md:2 ms:1 bd:1 br:1 bs:3 bds:3
    mr:2 ms:2 mv:1 d:e n:n0
    m:[0m     
-[37mP:6 carapaceer 
+[37mP:6 armor plateer 
    pt:2 (armor)
    w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
    mr:1 ms:1 mv:1 d:n n:n2
    m:[0m     
-[37mP:7 horner 
+[37mP:7 plateer 
    pt:4 (armor)
    w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
    mr:2 ms:1 mv:1 d:n n:w1
    m:[0m     
-[37mP:8 Helmer
+[37mP:8 Armor Plateer
    pt:5 (Armor)
    w:1 a:3 md:1 ms:1 bd:1 br:1 bs:2 bds:0
    mr:1 ms:1 mv:2 d:n n:w0
    m:[0m     
-[37mP:9 frenzieder wanderer 
+[37mP:9 frenzieder traverseer 
    pt:4 (ballistic_range)
    w:1 a:1 md:1 ms:2 bd:1 br:2 bs:1 bds:0
    mr:1 ms:2 mv:1 d:w n:e2
    m:[0m     
-[37mP:10 Driveer
+[37mP:10 Manhandleer
    pt:10 (Move)
    w:1 a:2 md:1 ms:2 bd:1 br:1 bs:1 bds:0
    mr:2 ms:1 mv:4 d:e n:e2
@@ -1371,7 +1371,7 @@ Team 1:
    w:1 a:3 md:1 ms:2 bd:2 br:1 bs:1 bds:0
    mr:1 ms:1 mv:1 d:w n:e1
    m:[0m     
-[37mP:12 flirter 
+[37mP:12 manhandleer 
    pt:2 (move)
    w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
    mr:1 ms:1 mv:2 d:e n:w1
@@ -1393,2173 +1393,3 @@ Team 1:
    m:[0m          
 Team 2 Points: 83     
 Team 1 Points: 73     
-[2J[2HCurrent step: 9     
-Team 2: 
-[37mP:1 Ballisticaler Judgmenter
-   pt:5 (Ballistic_skill)
-   w:2 a:1 md:1 ms:1 bd:2 br:1 bs:2 bds:0
-   mr:1 ms:2 mv:1 d:s n:n2
-   m:[0m     
-[37mP:2 Sleight Of Hander Training Areaer
-   pt:9 (Magic_range)
-   w:2 a:2 md:1 ms:1 bd:3 br:2 bs:1 bds:0
-   mr:3 ms:1 mv:1 d:w n:n1
-   m: -ballistic_defense_skill2[0m     
-[37mP:3 Flower
-   pt:6 (Move)
-   w:1 a:1 md:1 ms:2 bd:2 br:1 bs:2 bds:0
-   mr:1 ms:1 mv:2 d:s n:e2
-   m: -magic_skill2[0m     
-[44m[37mP:4 Chitiner
-   pt:17 (Armor)
-   w:1 a:3 md:2 ms:1 bd:1 br:2 bs:1 bds:0
-   mr:3 ms:1 mv:1 d:e n:n0
-   m:[0m[0m     
-[37mP:5 Meleeer Adeptnesser
-   pt:10 (Melee_skill)
-   w:2 a:1 md:3 ms:4 bd:1 br:2 bs:1 bds:0
-   mr:2 ms:1 mv:2 d:w n:w1
-   m:[0m     
-[37mP:6 Ballisticaler Hurter
-   pt:5 (Ballistic_damage)
-   w:1 a:1 md:1 ms:1 bd:3 br:3 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:s n:n1
-   m:[0m     
-[37mP:7 Bewitcheryer
-   pt:9 (Magics)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:5 ms:2 mv:2 d:s n:e1
-   m: +magic_range4[0m     
-[37mP:8 Exorcismer Handicrafter
-   pt:10 (Magic_skill)
-   w:1 a:2 md:3 ms:1 bd:2 br:2 bs:2 bds:0
-   mr:2 ms:3 mv:1 d:w n:n0
-   m:[0m     
-[37mP:9 Body Armorer
-   pt:6 (Armor)
-   w:1 a:2 md:2 ms:1 bd:1 br:1 bs:1 bds:1
-   mr:1 ms:1 mv:2 d:s n:w0
-   m: -magic_skill1[0m     
-[37mP:10 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:n1
-   m:[0m     
-[37mP:11 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:e1
-   m:[0m     
-[37mP:12 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:s n:n0
-   m:[0m     
-[37mP:13 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:w0
-   m:[0m     
-[37mP:14 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:w2
-   m:[0m     
-[37mP:15 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:n1
-   m:[0m          
-Team 1: 
-[37mP:1 myalismer 
-   pt:4 (magics)
-   w:1 a:1 md:2 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:1 mv:1 d:n n:w1
-   m: +melee_skill2[0m     
-[37mP:2 Meleeer Understander
-   pt:7 (Melee_skill)
-   w:1 a:2 md:1 ms:2 bd:2 br:1 bs:2 bds:0
-   mr:2 ms:1 mv:1 d:n n:n1
-   m: -armor2[0m     
-[37mP:3 Ballisticaler Eviler
-   pt:8 (Ballistic_damage)
-   w:1 a:2 md:2 ms:1 bd:4 br:1 bs:1 bds:0
-   mr:1 ms:3 mv:1 d:e n:e1
-   m:[0m     
-[37mP:4 Dweomercrafter Reasoner
-   pt:9 (Magic_skill)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:3 mv:2 d:w n:w1
-   m: -armor3[0m     
-[37mP:5 Frenzieder Maintenanceer Masterhooder
-   pt:10 (Ballistic_defense_skill)
-   w:2 a:1 md:2 ms:1 bd:1 br:1 bs:3 bds:3
-   mr:2 ms:2 mv:1 d:n n:e2
-   m:[0m     
-[37mP:6 carapaceer 
-   pt:2 (armor)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:n n:w1
-   m:[0m     
-[37mP:7 horner 
-   pt:4 (armor)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:2 ms:1 mv:1 d:w n:n2
-   m:[0m     
-[37mP:8 Helmer
-   pt:5 (Armor)
-   w:1 a:3 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:1 ms:1 mv:2 d:w n:e1
-   m:[0m     
-[37mP:9 frenzieder wanderer 
-   pt:4 (ballistic_range)
-   w:1 a:1 md:1 ms:2 bd:1 br:2 bs:1 bds:0
-   mr:1 ms:2 mv:1 d:e n:w0
-   m:[0m     
-[37mP:10 Driveer
-   pt:10 (Move)
-   w:1 a:2 md:1 ms:2 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:1 mv:4 d:e n:e0
-   m: +ballistic_range3[0m     
-[37mP:11 Helmer
-   pt:5 (Armor)
-   w:1 a:3 md:1 ms:2 bd:2 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:w0
-   m:[0m     
-[37mP:12 flirter 
-   pt:2 (move)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:2 d:w n:w1
-   m:[0m     
-[37mP:13 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:e0
-   m:[0m     
-[37mP:14 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:n0
-   m:[0m     
-[37mP:15 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:e0
-   m:[0m          
-Team 2 Points: 83     
-Team 1 Points: 73     
-[2J[2HCurrent step: 10     
-Team 2: 
-[37mP:1 Ballisticaler Judgmenter
-   pt:5 (Ballistic_skill)
-   w:2 a:1 md:1 ms:1 bd:2 br:1 bs:2 bds:0
-   mr:1 ms:2 mv:1 d:s n:e0
-   m:[0m     
-[37mP:2 Sleight Of Hander Training Areaer
-   pt:9 (Magic_range)
-   w:2 a:2 md:1 ms:1 bd:3 br:2 bs:1 bds:0
-   mr:3 ms:1 mv:1 d:s n:n2
-   m: -ballistic_defense_skill2[0m     
-[37mP:3 Flower
-   pt:6 (Move)
-   w:1 a:1 md:1 ms:2 bd:2 br:1 bs:2 bds:0
-   mr:1 ms:1 mv:2 d:w n:n1
-   m: -magic_skill2[0m     
-[44m[37mP:4 Chitiner
-   pt:17 (Armor)
-   w:1 a:3 md:2 ms:1 bd:1 br:2 bs:1 bds:0
-   mr:3 ms:1 mv:1 d:s n:e0
-   m:[0m[0m     
-[37mP:5 Meleeer Adeptnesser
-   pt:10 (Melee_skill)
-   w:2 a:1 md:3 ms:4 bd:1 br:2 bs:1 bds:0
-   mr:2 ms:1 mv:2 d:e n:e1
-   m:[0m     
-[37mP:6 Ballisticaler Hurter
-   pt:5 (Ballistic_damage)
-   w:1 a:1 md:1 ms:1 bd:3 br:3 bs:1 bds:0
-   mr:5 ms:1 mv:1 d:s n:n0
-   m:[0m     
-[37mP:7 Bewitcheryer
-   pt:9 (Magics)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:5 ms:2 mv:2 d:w n:n0
-   m: +magic_range4[0m     
-[37mP:8 Exorcismer Handicrafter
-   pt:10 (Magic_skill)
-   w:1 a:2 md:3 ms:1 bd:2 br:2 bs:2 bds:0
-   mr:2 ms:3 mv:1 d:s n:n0
-   m:[0m     
-[37mP:9 Body Armorer
-   pt:6 (Armor)
-   w:1 a:2 md:2 ms:1 bd:1 br:1 bs:1 bds:1
-   mr:1 ms:1 mv:2 d:e n:e1
-   m: -magic_skill1[0m     
-[37mP:10 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:s n:n0
-   m:[0m     
-[37mP:11 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:e0
-   m:[0m     
-[37mP:12 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:s n:e2
-   m:[0m     
-[37mP:13 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:w0
-   m:[0m     
-[37mP:14 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:n2
-   m:[0m     
-[37mP:15 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:s n:w2
-   m:[0m          
-Team 1: 
-[44m[37mP:1 myalismer 
-   pt:14 (magics)
-   w:1 a:1 md:2 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:1 mv:1 d:w n:w0
-   m: +melee_skill2[0m[0m     
-[37mP:2 Meleeer Understander
-   pt:7 (Melee_skill)
-   w:1 a:2 md:1 ms:2 bd:2 br:1 bs:2 bds:0
-   mr:2 ms:1 mv:1 d:n n:w0
-   m: -armor2[0m     
-[37mP:3 Ballisticaler Eviler
-   pt:8 (Ballistic_damage)
-   w:1 a:2 md:2 ms:1 bd:4 br:1 bs:1 bds:0
-   mr:1 ms:3 mv:1 d:e n:n1
-   m:[0m     
-[37mP:4 Dweomercrafter Reasoner
-   pt:9 (Magic_skill)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:3 mv:2 d:w n:n1
-   m: -armor3[0m     
-[37mP:5 Frenzieder Maintenanceer Masterhooder
-   pt:10 (Ballistic_defense_skill)
-   w:2 a:1 md:2 ms:1 bd:1 br:1 bs:3 bds:3
-   mr:2 ms:2 mv:1 d:e n:e1
-   m:[0m     
-[44m[37mP:6 carapaceer 
-   pt:12 (armor)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:e0
-   m:[0m[0m     
-[37mP:7 horner 
-   pt:4 (armor)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:2 ms:1 mv:1 d:n n:e2
-   m:[0m     
-[37mP:8 Helmer
-   pt:5 (Armor)
-   w:1 a:3 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:1 ms:1 mv:2 d:e n:e1
-   m:[0m     
-[37mP:9 frenzieder wanderer 
-   pt:4 (ballistic_range)
-   w:1 a:1 md:1 ms:2 bd:1 br:2 bs:1 bds:0
-   mr:1 ms:2 mv:1 d:w n:n1
-   m:[0m     
-[37mP:10 Driveer
-   pt:10 (Move)
-   w:1 a:2 md:1 ms:2 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:1 mv:4 d:e n:e0
-   m: +ballistic_range3[0m     
-[37mP:11 Helmer
-   pt:5 (Armor)
-   w:1 a:3 md:1 ms:2 bd:2 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:w0
-   m:[0m     
-[37mP:12 flirter 
-   pt:2 (move)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:2 d:w n:e1
-   m:[0m     
-[37mP:13 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:w0
-   m:[0m     
-[37mP:14 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:n n:n1
-   m:[0m     
-[37mP:15 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:w1
-   m:[0m          
-Team 2 Points: 83     
-Team 1 Points: 93     
-[2J[2HCurrent step: 11     
-Team 2: 
-[37mP:1 Ballisticaler Judgmenter
-   pt:5 (Ballistic_skill)
-   w:2 a:1 md:1 ms:1 bd:2 br:1 bs:2 bds:0
-   mr:1 ms:2 mv:1 d:w n:e1
-   m:[0m     
-[37mP:2 Sleight Of Hander Training Areaer
-   pt:9 (Magic_range)
-   w:2 a:2 md:1 ms:1 bd:3 br:2 bs:1 bds:0
-   mr:3 ms:1 mv:1 d:s n:e1
-   m: -ballistic_defense_skill2[0m     
-[37mP:3 Flower
-   pt:6 (Move)
-   w:1 a:1 md:1 ms:2 bd:2 br:1 bs:2 bds:0
-   mr:1 ms:1 mv:2 d:s n:w1
-   m: -magic_skill2[0m     
-[44m[37mP:4 Chitiner
-   pt:17 (Armor)
-   w:1 a:3 md:2 ms:1 bd:1 br:2 bs:1 bds:0
-   mr:3 ms:1 mv:1 d:w n:e1
-   m:[0m[0m     
-[37mP:5 Meleeer Adeptnesser
-   pt:10 (Melee_skill)
-   w:2 a:1 md:3 ms:4 bd:1 br:2 bs:1 bds:0
-   mr:2 ms:1 mv:2 d:w n:n1
-   m:[0m     
-[37mP:6 Ballisticaler Hurter
-   pt:5 (Ballistic_damage)
-   w:1 a:1 md:1 ms:1 bd:3 br:3 bs:1 bds:0
-   mr:5 ms:1 mv:1 d:s n:e1
-   m:[0m     
-[37mP:7 Bewitcheryer
-   pt:9 (Magics)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:5 ms:2 mv:2 d:s n:e0
-   m: +magic_range4[0m     
-[37mP:8 Exorcismer Handicrafter
-   pt:10 (Magic_skill)
-   w:1 a:2 md:3 ms:1 bd:2 br:2 bs:2 bds:0
-   mr:2 ms:3 mv:1 d:s n:n1
-   m:[0m     
-[37mP:9 Body Armorer
-   pt:6 (Armor)
-   w:1 a:2 md:2 ms:1 bd:1 br:1 bs:1 bds:1
-   mr:1 ms:1 mv:2 d:w n:n2
-   m: -magic_skill1[0m     
-[37mP:10 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:s n:w0
-   m:[0m     
-[37mP:11 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:e0
-   m:[0m     
-[37mP:12 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:n2
-   m:[0m     
-[37mP:13 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:w2
-   m:[0m     
-[37mP:14 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:s n:e1
-   m:[0m     
-[37mP:15 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:e2
-   m:[0m          
-Team 1: 
-[44m[37mP:1 myalismer 
-   pt:14 (magics)
-   w:1 a:1 md:2 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:1 mv:1 d:w n:n1
-   m: +melee_skill2[0m[0m     
-[37mP:2 Meleeer Understander
-   pt:7 (Melee_skill)
-   w:1 a:2 md:1 ms:2 bd:2 br:1 bs:2 bds:0
-   mr:2 ms:1 mv:1 d:w n:w2
-   m: -armor2[0m     
-[37mP:3 Ballisticaler Eviler
-   pt:8 (Ballistic_damage)
-   w:1 a:2 md:2 ms:1 bd:4 br:1 bs:1 bds:0
-   mr:1 ms:3 mv:1 d:n n:n1
-   m:[0m     
-[37mP:4 Dweomercrafter Reasoner
-   pt:9 (Magic_skill)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:3 mv:2 d:n n:n0
-   m: -armor3[0m     
-[37mP:5 Frenzieder Maintenanceer Masterhooder
-   pt:10 (Ballistic_defense_skill)
-   w:2 a:1 md:2 ms:1 bd:1 br:1 bs:3 bds:3
-   mr:2 ms:2 mv:1 d:e n:n1
-   m:[0m     
-[44m[37mP:6 carapaceer 
-   pt:12 (armor)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:w2
-   m:[0m[0m     
-[37mP:7 horner 
-   pt:4 (armor)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:2 ms:1 mv:1 d:e n:n1
-   m:[0m     
-[37mP:8 Helmer
-   pt:5 (Armor)
-   w:1 a:3 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:1 ms:1 mv:2 d:e n:e2
-   m:[0m     
-[37mP:9 frenzieder wanderer 
-   pt:4 (ballistic_range)
-   w:1 a:1 md:1 ms:2 bd:1 br:2 bs:1 bds:0
-   mr:1 ms:2 mv:1 d:n n:w1
-   m:[0m     
-[37mP:10 Driveer
-   pt:10 (Move)
-   w:1 a:2 md:1 ms:2 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:1 mv:4 d:e n:n0
-   m: +ballistic_range3[0m     
-[37mP:11 Helmer
-   pt:5 (Armor)
-   w:1 a:3 md:1 ms:2 bd:2 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:w1
-   m:[0m     
-[37mP:12 flirter 
-   pt:2 (move)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:2 d:e n:w0
-   m:[0m     
-[37mP:13 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:w1
-   m:[0m     
-[37mP:14 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:n n:w2
-   m:[0m     
-[37mP:15 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:w0
-   m:[0m          
-Team 2 Points: 83     
-Team 1 Points: 93     
-[2J[2HCurrent step: 12     
-Team 2: 
-[37mP:1 Ballisticaler Judgmenter
-   pt:5 (Ballistic_skill)
-   w:2 a:1 md:1 ms:1 bd:2 br:1 bs:2 bds:0
-   mr:1 ms:2 mv:1 d:w n:w1
-   m:[0m     
-[37mP:2 Sleight Of Hander Training Areaer
-   pt:9 (Magic_range)
-   w:2 a:2 md:1 ms:1 bd:3 br:2 bs:1 bds:0
-   mr:3 ms:1 mv:1 d:w n:n1
-   m: -ballistic_defense_skill2[0m     
-[37mP:3 Flower
-   pt:6 (Move)
-   w:1 a:1 md:1 ms:2 bd:2 br:1 bs:2 bds:0
-   mr:1 ms:1 mv:2 d:e n:w1
-   m: -magic_skill2[0m     
-[44m[37mP:4 Chitiner
-   pt:17 (Armor)
-   w:1 a:3 md:2 ms:1 bd:1 br:2 bs:1 bds:0
-   mr:3 ms:1 mv:1 d:w n:w0
-   m:[0m[0m     
-[37mP:5 Meleeer Adeptnesser
-   pt:10 (Melee_skill)
-   w:2 a:1 md:3 ms:4 bd:1 br:2 bs:1 bds:0
-   mr:2 ms:1 mv:2 d:s n:n2
-   m:[0m     
-[37mP:6 Ballisticaler Hurter
-   pt:5 (Ballistic_damage)
-   w:1 a:1 md:1 ms:1 bd:3 br:3 bs:1 bds:0
-   mr:5 ms:1 mv:1 d:w n:n1
-   m:[0m     
-[37mP:7 Bewitcheryer
-   pt:9 (Magics)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:5 ms:2 mv:2 d:w n:w1
-   m: +magic_range4[0m     
-[37mP:8 Exorcismer Handicrafter
-   pt:10 (Magic_skill)
-   w:1 a:2 md:3 ms:1 bd:2 br:2 bs:2 bds:0
-   mr:6 ms:3 mv:1 d:s n:w1
-   m:[0m     
-[37mP:9 Body Armorer
-   pt:6 (Armor)
-   w:1 a:2 md:2 ms:1 bd:1 br:1 bs:1 bds:1
-   mr:1 ms:1 mv:2 d:s n:e1
-   m: -magic_skill1[0m     
-[37mP:10 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:n0
-   m:[0m     
-[37mP:11 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:n0
-   m:[0m     
-[37mP:12 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:s n:e1
-   m:[0m     
-[37mP:13 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:w0
-   m:[0m     
-[37mP:14 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:w0
-   m:[0m     
-[37mP:15 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:e2
-   m:[0m          
-Team 1: 
-[44m[37mP:1 myalismer 
-   pt:14 (magics)
-   w:1 a:1 md:2 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:1 mv:1 d:n n:e1
-   m: +melee_skill2[0m[0m     
-[37mP:2 Meleeer Understander
-   pt:7 (Melee_skill)
-   w:1 a:2 md:1 ms:2 bd:2 br:1 bs:2 bds:0
-   mr:2 ms:1 mv:1 d:w n:w0
-   m: -armor2[0m     
-[37mP:3 Ballisticaler Eviler
-   pt:8 (Ballistic_damage)
-   w:1 a:2 md:2 ms:1 bd:4 br:1 bs:1 bds:0
-   mr:1 ms:3 mv:1 d:n n:n0
-   m:[0m     
-[37mP:4 Dweomercrafter Reasoner
-   pt:9 (Magic_skill)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:3 mv:2 d:n n:w2
-   m: -armor3[0m     
-[37mP:5 Frenzieder Maintenanceer Masterhooder
-   pt:10 (Ballistic_defense_skill)
-   w:2 a:1 md:2 ms:1 bd:1 br:1 bs:3 bds:3
-   mr:2 ms:2 mv:1 d:n n:w1
-   m:[0m     
-[44m[37mP:6 carapaceer 
-   pt:12 (armor)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:n0
-   m:[0m[0m     
-[37mP:7 horner 
-   pt:4 (armor)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:2 ms:1 mv:1 d:n n:n1
-   m:[0m     
-[37mP:8 Helmer
-   pt:5 (Armor)
-   w:1 a:3 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:1 ms:1 mv:2 d:e n:w2
-   m:[0m     
-[37mP:9 frenzieder wanderer 
-   pt:4 (ballistic_range)
-   w:1 a:1 md:1 ms:2 bd:1 br:2 bs:1 bds:0
-   mr:1 ms:2 mv:1 d:w n:e2
-   m:[0m     
-[37mP:10 Driveer
-   pt:10 (Move)
-   w:1 a:2 md:1 ms:2 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:1 mv:4 d:n n:e1
-   m: +ballistic_range3[0m     
-[37mP:11 Helmer
-   pt:5 (Armor)
-   w:1 a:3 md:1 ms:2 bd:2 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:w0
-   m:[0m     
-[37mP:12 flirter 
-   pt:2 (move)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:2 d:w n:n1
-   m:[0m     
-[37mP:13 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:n1
-   m:[0m     
-[37mP:14 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:w0
-   m:[0m     
-[37mP:15 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:e0
-   m:[0m          
-Team 2 Points: 83     
-Team 1 Points: 93     
-[2J[2HCurrent step: 13     
-Team 2: 
-[37mP:1 Ballisticaler Judgmenter
-   pt:5 (Ballistic_skill)
-   w:2 a:1 md:1 ms:1 bd:2 br:1 bs:2 bds:0
-   mr:1 ms:2 mv:1 d:e n:n0
-   m:[0m     
-[37mP:2 Sleight Of Hander Training Areaer
-   pt:9 (Magic_range)
-   w:2 a:2 md:1 ms:1 bd:3 br:2 bs:1 bds:0
-   mr:3 ms:1 mv:1 d:s n:n1
-   m: -ballistic_defense_skill2[0m     
-[37mP:3 Flower
-   pt:6 (Move)
-   w:1 a:1 md:1 ms:2 bd:2 br:1 bs:2 bds:0
-   mr:1 ms:1 mv:2 d:e n:w0
-   m: -magic_skill2[0m     
-[44m[37mP:4 Chitiner
-   pt:17 (Armor)
-   w:1 a:3 md:2 ms:1 bd:1 br:2 bs:1 bds:0
-   mr:3 ms:1 mv:1 d:e n:n0
-   m:[0m[0m     
-[37mP:5 Meleeer Adeptnesser
-   pt:10 (Melee_skill)
-   w:2 a:1 md:3 ms:4 bd:1 br:2 bs:1 bds:0
-   mr:2 ms:1 mv:2 d:s n:n0
-   m:[0m     
-[37mP:6 Ballisticaler Hurter
-   pt:5 (Ballistic_damage)
-   w:1 a:1 md:1 ms:1 bd:3 br:3 bs:1 bds:0
-   mr:5 ms:1 mv:1 d:s n:w1
-   m:[0m     
-[37mP:7 Bewitcheryer
-   pt:9 (Magics)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:5 ms:2 mv:2 d:e n:n2
-   m: +magic_range4[0m     
-[37mP:8 Exorcismer Handicrafter
-   pt:10 (Magic_skill)
-   w:1 a:2 md:3 ms:1 bd:2 br:2 bs:2 bds:0
-   mr:6 ms:3 mv:1 d:e n:w0
-   m:[0m     
-[37mP:9 Body Armorer
-   pt:6 (Armor)
-   w:1 a:2 md:2 ms:1 bd:1 br:1 bs:1 bds:1
-   mr:1 ms:1 mv:2 d:w n:n0
-   m: -magic_skill1[0m     
-[37mP:10 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:s n:n2
-   m:[0m     
-[37mP:11 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:s n:e0
-   m:[0m     
-[37mP:12 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:n0
-   m:[0m     
-[37mP:13 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:e1
-   m:[0m     
-[37mP:14 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:n2
-   m:[0m     
-[37mP:15 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:e2
-   m:[0m          
-Team 1: 
-[37mP:1 myalismer 
-   pt:4 (magics)
-   w:1 a:1 md:2 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:1 mv:1 d:e n:e2
-   m: +melee_skill2[0m     
-[37mP:2 Meleeer Understander
-   pt:7 (Melee_skill)
-   w:1 a:2 md:1 ms:2 bd:2 br:1 bs:2 bds:0
-   mr:2 ms:1 mv:1 d:w n:w1
-   m: -armor2[0m     
-[37mP:3 Ballisticaler Eviler
-   pt:8 (Ballistic_damage)
-   w:1 a:2 md:2 ms:1 bd:4 br:1 bs:1 bds:0
-   mr:1 ms:3 mv:1 d:n n:e1
-   m:[0m     
-[37mP:4 Dweomercrafter Reasoner
-   pt:9 (Magic_skill)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:3 mv:2 d:w n:n0
-   m: -armor3[0m     
-[37mP:5 Frenzieder Maintenanceer Masterhooder
-   pt:10 (Ballistic_defense_skill)
-   w:2 a:1 md:2 ms:1 bd:1 br:1 bs:3 bds:3
-   mr:2 ms:2 mv:1 d:w n:n0
-   m:[0m     
-[44m[37mP:6 carapaceer 
-   pt:12 (armor)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:n n:e1
-   m:[0m[0m     
-[37mP:7 horner 
-   pt:4 (armor)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:2 ms:1 mv:1 d:n n:w0
-   m:[0m     
-[37mP:8 Helmer
-   pt:5 (Armor)
-   w:1 a:3 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:1 ms:1 mv:2 d:w n:w0
-   m:[0m     
-[37mP:9 frenzieder wanderer 
-   pt:4 (ballistic_range)
-   w:1 a:1 md:1 ms:2 bd:1 br:2 bs:1 bds:0
-   mr:1 ms:2 mv:1 d:e n:w1
-   m:[0m     
-[37mP:10 Driveer
-   pt:10 (Move)
-   w:1 a:2 md:1 ms:2 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:1 mv:4 d:e n:n0
-   m: +ballistic_range3[0m     
-[37mP:11 Helmer
-   pt:5 (Armor)
-   w:1 a:3 md:1 ms:2 bd:2 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:e1
-   m:[0m     
-[37mP:12 flirter 
-   pt:2 (move)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:2 d:n n:n0
-   m:[0m     
-[37mP:13 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:n n:w0
-   m:[0m     
-[37mP:14 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:w2
-   m:[0m     
-[37mP:15 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:e2
-   m:[0m          
-Team 2 Points: 83     
-Team 1 Points: 83     
-[2J[2HCurrent step: 14     
-Team 2: 
-[37mP:1 Ballisticaler Judgmenter
-   pt:5 (Ballistic_skill)
-   w:2 a:1 md:1 ms:1 bd:2 br:1 bs:2 bds:0
-   mr:1 ms:2 mv:1 d:s n:w0
-   m:[0m     
-[37mP:2 Sleight Of Hander Training Areaer
-   pt:9 (Magic_range)
-   w:2 a:2 md:1 ms:1 bd:3 br:2 bs:1 bds:0
-   mr:3 ms:1 mv:1 d:s n:e2
-   m: -ballistic_defense_skill2[0m     
-[37mP:3 Flower
-   pt:6 (Move)
-   w:1 a:1 md:1 ms:2 bd:2 br:1 bs:2 bds:0
-   mr:1 ms:1 mv:2 d:e n:n2
-   m: -magic_skill2[0m     
-[44m[37mP:4 Chitiner
-   pt:17 (Armor)
-   w:1 a:3 md:2 ms:1 bd:1 br:2 bs:1 bds:0
-   mr:3 ms:1 mv:1 d:s n:n1
-   m:[0m[0m     
-[37mP:5 Meleeer Adeptnesser
-   pt:10 (Melee_skill)
-   w:2 a:1 md:3 ms:4 bd:1 br:2 bs:1 bds:0
-   mr:2 ms:1 mv:2 d:s n:e1
-   m:[0m     
-[37mP:6 Ballisticaler Hurter
-   pt:5 (Ballistic_damage)
-   w:1 a:1 md:1 ms:1 bd:3 br:3 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:e1
-   m:[0m     
-[37mP:7 Bewitcheryer
-   pt:9 (Magics)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:5 ms:2 mv:2 d:s n:w2
-   m: +magic_range4[0m     
-[37mP:8 Exorcismer Handicrafter
-   pt:10 (Magic_skill)
-   w:1 a:2 md:3 ms:1 bd:2 br:2 bs:2 bds:0
-   mr:2 ms:3 mv:1 d:e n:w0
-   m:[0m     
-[37mP:9 Body Armorer
-   pt:6 (Armor)
-   w:1 a:2 md:2 ms:1 bd:1 br:1 bs:1 bds:1
-   mr:1 ms:1 mv:2 d:s n:n2
-   m: -magic_skill1[0m     
-[37mP:10 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:s n:n0
-   m:[0m     
-[37mP:11 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:e2
-   m:[0m     
-[37mP:12 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:s n:w2
-   m:[0m     
-[37mP:13 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:w2
-   m:[0m     
-[37mP:14 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:s n:e1
-   m:[0m     
-[37mP:15 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:e2
-   m:[0m          
-Team 1: 
-[37mP:1 myalismer 
-   pt:4 (magics)
-   w:1 a:1 md:2 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:1 mv:1 d:e n:w2
-   m: +melee_skill2[0m     
-[37mP:2 Meleeer Understander
-   pt:7 (Melee_skill)
-   w:1 a:2 md:1 ms:2 bd:2 br:1 bs:2 bds:0
-   mr:2 ms:1 mv:1 d:w n:e2
-   m: -armor2[0m     
-[37mP:3 Ballisticaler Eviler
-   pt:8 (Ballistic_damage)
-   w:1 a:2 md:2 ms:1 bd:4 br:1 bs:1 bds:0
-   mr:1 ms:3 mv:1 d:e n:e2
-   m:[0m     
-[37mP:4 Dweomercrafter Reasoner
-   pt:9 (Magic_skill)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:3 mv:2 d:n n:n1
-   m: -armor3[0m     
-[37mP:5 Frenzieder Maintenanceer Masterhooder
-   pt:10 (Ballistic_defense_skill)
-   w:2 a:1 md:2 ms:1 bd:1 br:1 bs:3 bds:3
-   mr:2 ms:2 mv:1 d:n n:e0
-   m:[0m     
-[37mP:6 carapaceer 
-   pt:2 (armor)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:w2
-   m:[0m     
-[37mP:7 horner 
-   pt:4 (armor)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:2 ms:1 mv:1 d:w n:n1
-   m:[0m     
-[37mP:8 Helmer
-   pt:5 (Armor)
-   w:1 a:3 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:1 ms:1 mv:2 d:w n:n1
-   m:[0m     
-[37mP:9 frenzieder wanderer 
-   pt:4 (ballistic_range)
-   w:1 a:1 md:1 ms:2 bd:1 br:2 bs:1 bds:0
-   mr:1 ms:2 mv:1 d:w n:w1
-   m:[0m     
-[37mP:10 Driveer
-   pt:10 (Move)
-   w:1 a:2 md:1 ms:2 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:1 mv:4 d:n n:n0
-   m: +ballistic_range3[0m     
-[37mP:11 Helmer
-   pt:5 (Armor)
-   w:1 a:3 md:1 ms:2 bd:2 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:n1
-   m:[0m     
-[37mP:12 flirter 
-   pt:2 (move)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:2 d:n n:e0
-   m:[0m     
-[37mP:13 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:w0
-   m:[0m     
-[37mP:14 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:w1
-   m:[0m     
-[37mP:15 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:n2
-   m:[0m          
-Team 2 Points: 83     
-Team 1 Points: 73     
-[2J[2HCurrent step: 15     
-Team 2: 
-[37mP:1 Ballisticaler Judgmenter
-   pt:5 (Ballistic_skill)
-   w:2 a:1 md:1 ms:1 bd:2 br:1 bs:2 bds:0
-   mr:1 ms:2 mv:1 d:e n:n0
-   m:[0m     
-[37mP:2 Sleight Of Hander Training Areaer
-   pt:9 (Magic_range)
-   w:2 a:2 md:1 ms:1 bd:3 br:2 bs:1 bds:0
-   mr:3 ms:1 mv:1 d:w n:w1
-   m: -ballistic_defense_skill2[0m     
-[37mP:3 Flower
-   pt:6 (Move)
-   w:1 a:1 md:1 ms:2 bd:2 br:1 bs:2 bds:0
-   mr:1 ms:1 mv:2 d:s n:w1
-   m: -magic_skill2[0m     
-[44m[37mP:4 Chitiner
-   pt:17 (Armor)
-   w:1 a:3 md:2 ms:1 bd:1 br:2 bs:1 bds:0
-   mr:3 ms:1 mv:1 d:s n:w1
-   m:[0m[0m     
-[37mP:5 Meleeer Adeptnesser
-   pt:10 (Melee_skill)
-   w:2 a:1 md:3 ms:4 bd:1 br:2 bs:1 bds:0
-   mr:2 ms:1 mv:2 d:w n:e2
-   m:[0m     
-[37mP:6 Ballisticaler Hurter
-   pt:5 (Ballistic_damage)
-   w:1 a:1 md:1 ms:1 bd:3 br:3 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:w2
-   m:[0m     
-[44m[37mP:7 Bewitcheryer
-   pt:19 (Magics)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:5 ms:2 mv:2 d:e n:n0
-   m: +magic_range4[0m[0m     
-[37mP:8 Exorcismer Handicrafter
-   pt:10 (Magic_skill)
-   w:1 a:2 md:3 ms:1 bd:2 br:2 bs:2 bds:0
-   mr:2 ms:3 mv:1 d:e n:e0
-   m:[0m     
-[37mP:9 Body Armorer
-   pt:6 (Armor)
-   w:1 a:2 md:2 ms:1 bd:1 br:1 bs:1 bds:1
-   mr:1 ms:1 mv:2 d:s n:w0
-   m: -magic_skill1[0m     
-[37mP:10 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:s n:e2
-   m:[0m     
-[37mP:11 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:w1
-   m:[0m     
-[37mP:12 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:e0
-   m:[0m     
-[37mP:13 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:e1
-   m:[0m     
-[37mP:14 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:n0
-   m:[0m     
-[37mP:15 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:e2
-   m:[0m          
-Team 1: 
-[37mP:1 myalismer 
-   pt:4 (magics)
-   w:1 a:1 md:2 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:1 mv:1 d:w n:w2
-   m: +melee_skill2[0m     
-[37mP:2 Meleeer Understander
-   pt:7 (Melee_skill)
-   w:1 a:2 md:1 ms:2 bd:2 br:1 bs:2 bds:0
-   mr:2 ms:1 mv:1 d:e n:w2
-   m: -armor2[0m     
-[37mP:3 Ballisticaler Eviler
-   pt:8 (Ballistic_damage)
-   w:1 a:2 md:2 ms:1 bd:4 br:1 bs:1 bds:0
-   mr:1 ms:3 mv:1 d:e n:e0
-   m:[0m     
-[37mP:4 Dweomercrafter Reasoner
-   pt:9 (Magic_skill)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:3 mv:2 d:n n:w1
-   m: -armor3[0m     
-[37mP:5 Frenzieder Maintenanceer Masterhooder
-   pt:10 (Ballistic_defense_skill)
-   w:2 a:1 md:2 ms:1 bd:1 br:1 bs:3 bds:3
-   mr:2 ms:2 mv:1 d:e n:e0
-   m:[0m     
-[44m[37mP:6 carapaceer 
-   pt:12 (armor)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:e1
-   m:[0m[0m     
-[37mP:7 horner 
-   pt:4 (armor)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:2 ms:1 mv:1 d:n n:n2
-   m:[0m     
-[37mP:8 Helmer
-   pt:5 (Armor)
-   w:1 a:3 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:1 ms:1 mv:2 d:n n:e1
-   m:[0m     
-[37mP:9 frenzieder wanderer 
-   pt:4 (ballistic_range)
-   w:1 a:1 md:1 ms:2 bd:1 br:2 bs:1 bds:0
-   mr:1 ms:2 mv:1 d:w n:e2
-   m:[0m     
-[37mP:10 Driveer
-   pt:10 (Move)
-   w:1 a:2 md:1 ms:2 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:1 mv:4 d:n n:e2
-   m: +ballistic_range3[0m     
-[37mP:11 Helmer
-   pt:5 (Armor)
-   w:1 a:3 md:1 ms:2 bd:2 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:n n:w0
-   m:[0m     
-[37mP:12 flirter 
-   pt:2 (move)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:2 d:e n:n2
-   m:[0m     
-[37mP:13 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:e0
-   m:[0m     
-[37mP:14 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:e2
-   m:[0m     
-[37mP:15 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:n n:e2
-   m:[0m          
-Team 2 Points: 93     
-Team 1 Points: 83     
-[2J[2HCurrent step: 16     
-Team 2: 
-[37mP:1 Ballisticaler Judgmenter
-   pt:5 (Ballistic_skill)
-   w:2 a:1 md:1 ms:1 bd:2 br:1 bs:2 bds:0
-   mr:1 ms:2 mv:1 d:s n:w0
-   m:[0m     
-[37mP:2 Sleight Of Hander Training Areaer
-   pt:9 (Magic_range)
-   w:2 a:2 md:1 ms:1 bd:3 br:2 bs:1 bds:0
-   mr:3 ms:1 mv:1 d:e n:n0
-   m: -ballistic_defense_skill2[0m     
-[44m[37mP:3 Flower
-   pt:16 (Move)
-   w:1 a:1 md:1 ms:2 bd:2 br:1 bs:2 bds:0
-   mr:1 ms:1 mv:2 d:e n:n2
-   m: -magic_skill2[0m[0m     
-[37mP:4 Chitiner
-   pt:7 (Armor)
-   w:1 a:3 md:2 ms:1 bd:1 br:2 bs:1 bds:0
-   mr:3 ms:1 mv:1 d:e n:e2
-   m:[0m     
-[37mP:5 Meleeer Adeptnesser
-   pt:10 (Melee_skill)
-   w:2 a:1 md:3 ms:4 bd:1 br:2 bs:1 bds:0
-   mr:2 ms:1 mv:2 d:w n:w0
-   m:[0m     
-[37mP:6 Ballisticaler Hurter
-   pt:5 (Ballistic_damage)
-   w:1 a:1 md:1 ms:1 bd:3 br:3 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:n0
-   m:[0m     
-[44m[37mP:7 Bewitcheryer
-   pt:19 (Magics)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:5 ms:2 mv:2 d:s n:w2
-   m: +magic_range4[0m[0m     
-[37mP:8 Exorcismer Handicrafter
-   pt:10 (Magic_skill)
-   w:1 a:2 md:3 ms:1 bd:2 br:2 bs:2 bds:0
-   mr:2 ms:3 mv:1 d:w n:w0
-   m:[0m     
-[37mP:9 Body Armorer
-   pt:6 (Armor)
-   w:1 a:2 md:2 ms:1 bd:1 br:1 bs:1 bds:1
-   mr:1 ms:1 mv:2 d:e n:e0
-   m: -magic_skill1[0m     
-[37mP:10 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:n2
-   m:[0m     
-[37mP:11 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:e2
-   m:[0m     
-[37mP:12 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:w0
-   m:[0m     
-[37mP:13 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:w1
-   m:[0m     
-[37mP:14 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:s n:w0
-   m:[0m     
-[37mP:15 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:e2
-   m:[0m          
-Team 1: 
-[44m[37mP:1 myalismer 
-   pt:14 (magics)
-   w:1 a:1 md:2 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:1 mv:1 d:w n:n0
-   m: +melee_skill2[0m[0m     
-[37mP:2 Meleeer Understander
-   pt:7 (Melee_skill)
-   w:1 a:2 md:1 ms:2 bd:2 br:1 bs:2 bds:0
-   mr:2 ms:1 mv:1 d:w n:w0
-   m: -armor2[0m     
-[37mP:3 Ballisticaler Eviler
-   pt:8 (Ballistic_damage)
-   w:1 a:2 md:2 ms:1 bd:4 br:1 bs:1 bds:0
-   mr:1 ms:3 mv:1 d:e n:w2
-   m:[0m     
-[37mP:4 Dweomercrafter Reasoner
-   pt:9 (Magic_skill)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:3 mv:2 d:w n:n1
-   m: -armor3[0m     
-[37mP:5 Frenzieder Maintenanceer Masterhooder
-   pt:10 (Ballistic_defense_skill)
-   w:2 a:1 md:2 ms:1 bd:1 br:1 bs:3 bds:3
-   mr:2 ms:2 mv:1 d:e n:e0
-   m:[0m     
-[37mP:6 carapaceer 
-   pt:2 (armor)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:w2
-   m:[0m     
-[37mP:7 horner 
-   pt:4 (armor)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:2 ms:1 mv:1 d:n n:e2
-   m:[0m     
-[37mP:8 Helmer
-   pt:5 (Armor)
-   w:1 a:3 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:1 ms:1 mv:2 d:e n:w2
-   m:[0m     
-[37mP:9 frenzieder wanderer 
-   pt:4 (ballistic_range)
-   w:1 a:1 md:1 ms:2 bd:1 br:2 bs:1 bds:0
-   mr:1 ms:2 mv:1 d:e n:w1
-   m:[0m     
-[37mP:10 Driveer
-   pt:10 (Move)
-   w:1 a:2 md:1 ms:2 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:1 mv:4 d:e n:e2
-   m: +ballistic_range3[0m     
-[37mP:11 Helmer
-   pt:5 (Armor)
-   w:1 a:3 md:1 ms:2 bd:2 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:e1
-   m:[0m     
-[37mP:12 flirter 
-   pt:2 (move)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:2 d:n n:n0
-   m:[0m     
-[37mP:13 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:w2
-   m:[0m     
-[37mP:14 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:e1
-   m:[0m     
-[37mP:15 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:w0
-   m:[0m          
-Team 2 Points: 93     
-Team 1 Points: 83     
-[2J[2HCurrent step: 17     
-Team 2: 
-[37mP:1 Ballisticaler Judgmenter
-   pt:5 (Ballistic_skill)
-   w:2 a:1 md:1 ms:1 bd:2 br:1 bs:2 bds:0
-   mr:1 ms:2 mv:1 d:e n:n0
-   m:[0m     
-[37mP:2 Sleight Of Hander Training Areaer
-   pt:9 (Magic_range)
-   w:2 a:2 md:1 ms:1 bd:3 br:2 bs:1 bds:0
-   mr:3 ms:1 mv:1 d:s n:w2
-   m: -ballistic_defense_skill2[0m     
-[44m[37mP:3 Flower
-   pt:16 (Move)
-   w:1 a:1 md:1 ms:2 bd:2 br:1 bs:2 bds:0
-   mr:1 ms:1 mv:2 d:s n:n2
-   m: -magic_skill2[0m[0m     
-[44m[37mP:4 Chitiner
-   pt:17 (Armor)
-   w:1 a:3 md:2 ms:1 bd:1 br:2 bs:1 bds:0
-   mr:3 ms:1 mv:1 d:w n:w2
-   m:[0m[0m     
-[37mP:5 Meleeer Adeptnesser
-   pt:10 (Melee_skill)
-   w:2 a:1 md:3 ms:4 bd:1 br:2 bs:1 bds:0
-   mr:2 ms:1 mv:2 d:e n:n0
-   m:[0m     
-[37mP:6 Ballisticaler Hurter
-   pt:5 (Ballistic_damage)
-   w:1 a:1 md:1 ms:1 bd:3 br:3 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:s n:n0
-   m:[0m     
-[44m[37mP:7 Bewitcheryer
-   pt:19 (Magics)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:5 ms:2 mv:2 d:e n:w1
-   m: +magic_range4[0m[0m     
-[37mP:8 Exorcismer Handicrafter
-   pt:10 (Magic_skill)
-   w:1 a:2 md:3 ms:1 bd:2 br:2 bs:2 bds:0
-   mr:2 ms:3 mv:1 d:e n:w0
-   m:[0m     
-[37mP:9 Body Armorer
-   pt:6 (Armor)
-   w:1 a:2 md:2 ms:1 bd:1 br:1 bs:1 bds:1
-   mr:1 ms:1 mv:2 d:w n:n0
-   m: -magic_skill1[0m     
-[37mP:10 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:s n:e0
-   m:[0m     
-[37mP:11 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:e0
-   m:[0m     
-[37mP:12 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:e0
-   m:[0m     
-[37mP:13 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:n2
-   m:[0m     
-[37mP:14 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:e1
-   m:[0m     
-[37mP:15 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:e2
-   m:[0m          
-Team 1: 
-[44m[37mP:1 myalismer 
-   pt:14 (magics)
-   w:1 a:1 md:2 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:1 mv:1 d:n n:n0
-   m: +melee_skill2[0m[0m     
-[37mP:2 Meleeer Understander
-   pt:7 (Melee_skill)
-   w:1 a:2 md:1 ms:2 bd:2 br:1 bs:2 bds:0
-   mr:2 ms:1 mv:1 d:w n:e1
-   m: -armor2[0m     
-[37mP:3 Ballisticaler Eviler
-   pt:8 (Ballistic_damage)
-   w:1 a:2 md:2 ms:1 bd:4 br:1 bs:1 bds:0
-   mr:1 ms:3 mv:1 d:w n:e0
-   m:[0m     
-[37mP:4 Dweomercrafter Reasoner
-   pt:9 (Magic_skill)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:3 mv:2 d:n n:w0
-   m: -armor3[0m     
-[37mP:5 Frenzieder Maintenanceer Masterhooder
-   pt:10 (Ballistic_defense_skill)
-   w:2 a:1 md:2 ms:1 bd:1 br:1 bs:3 bds:3
-   mr:2 ms:2 mv:1 d:e n:w1
-   m:[0m     
-[44m[37mP:6 carapaceer 
-   pt:12 (armor)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:n0
-   m:[0m[0m     
-[37mP:7 horner 
-   pt:4 (armor)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:2 ms:1 mv:1 d:e n:n2
-   m:[0m     
-[37mP:8 Helmer
-   pt:5 (Armor)
-   w:1 a:3 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:1 ms:1 mv:2 d:w n:e2
-   m:[0m     
-[37mP:9 frenzieder wanderer 
-   pt:4 (ballistic_range)
-   w:1 a:1 md:1 ms:2 bd:1 br:2 bs:1 bds:0
-   mr:1 ms:2 mv:1 d:w n:n0
-   m:[0m     
-[37mP:10 Driveer
-   pt:10 (Move)
-   w:1 a:2 md:1 ms:2 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:1 mv:4 d:e n:n0
-   m: +ballistic_range3[0m     
-[37mP:11 Helmer
-   pt:5 (Armor)
-   w:1 a:3 md:1 ms:2 bd:2 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:e2
-   m:[0m     
-[37mP:12 flirter 
-   pt:2 (move)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:2 d:n n:n2
-   m:[0m     
-[37mP:13 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:w2
-   m:[0m     
-[37mP:14 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:n2
-   m:[0m     
-[37mP:15 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:w1
-   m:[0m          
-Team 2 Points: 103     
-Team 1 Points: 93     
-[2J[2HCurrent step: 18     
-Team 2: 
-[37mP:1 Ballisticaler Judgmenter
-   pt:5 (Ballistic_skill)
-   w:2 a:1 md:1 ms:1 bd:2 br:1 bs:2 bds:0
-   mr:1 ms:2 mv:1 d:s n:n0
-   m:[0m     
-[37mP:2 Sleight Of Hander Training Areaer
-   pt:9 (Magic_range)
-   w:2 a:2 md:1 ms:1 bd:3 br:2 bs:1 bds:0
-   mr:3 ms:1 mv:1 d:e n:e0
-   m: -ballistic_defense_skill2[0m     
-[44m[37mP:3 Flower
-   pt:16 (Move)
-   w:1 a:1 md:1 ms:2 bd:2 br:1 bs:2 bds:0
-   mr:1 ms:1 mv:2 d:s n:e1
-   m: -magic_skill2[0m[0m     
-[37mP:4 Chitiner
-   pt:7 (Armor)
-   w:1 a:3 md:2 ms:1 bd:1 br:2 bs:1 bds:0
-   mr:3 ms:1 mv:1 d:e n:e1
-   m:[0m     
-[37mP:5 Meleeer Adeptnesser
-   pt:10 (Melee_skill)
-   w:2 a:1 md:3 ms:4 bd:1 br:2 bs:1 bds:0
-   mr:2 ms:1 mv:2 d:s n:n1
-   m:[0m     
-[37mP:6 Ballisticaler Hurter
-   pt:5 (Ballistic_damage)
-   w:1 a:1 md:1 ms:1 bd:3 br:3 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:s n:n1
-   m:[0m     
-[44m[37mP:7 Bewitcheryer
-   pt:19 (Magics)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:5 ms:2 mv:2 d:e n:e1
-   m: +magic_range4[0m[0m     
-[37mP:8 Exorcismer Handicrafter
-   pt:10 (Magic_skill)
-   w:1 a:2 md:3 ms:1 bd:2 br:2 bs:2 bds:0
-   mr:2 ms:3 mv:1 d:e n:e2
-   m:[0m     
-[37mP:9 Body Armorer
-   pt:6 (Armor)
-   w:1 a:2 md:2 ms:1 bd:1 br:1 bs:1 bds:1
-   mr:1 ms:1 mv:2 d:s n:e1
-   m: -magic_skill1[0m     
-[37mP:10 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:n2
-   m:[0m     
-[37mP:11 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:n2
-   m:[0m     
-[37mP:12 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:n0
-   m:[0m     
-[37mP:13 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:s n:w1
-   m:[0m     
-[37mP:14 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:e0
-   m:[0m     
-[37mP:15 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:e2
-   m:[0m          
-Team 1: 
-[44m[37mP:1 myalismer 
-   pt:14 (magics)
-   w:1 a:1 md:2 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:1 mv:1 d:n n:w1
-   m: +melee_skill2[0m[0m     
-[37mP:2 Meleeer Understander
-   pt:7 (Melee_skill)
-   w:1 a:2 md:1 ms:2 bd:2 br:1 bs:2 bds:0
-   mr:2 ms:1 mv:1 d:e n:w2
-   m: -armor2[0m     
-[37mP:3 Ballisticaler Eviler
-   pt:8 (Ballistic_damage)
-   w:1 a:2 md:2 ms:1 bd:4 br:1 bs:1 bds:0
-   mr:1 ms:3 mv:1 d:e n:n0
-   m:[0m     
-[37mP:4 Dweomercrafter Reasoner
-   pt:9 (Magic_skill)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:3 mv:2 d:w n:w2
-   m: -armor3[0m     
-[37mP:5 Frenzieder Maintenanceer Masterhooder
-   pt:10 (Ballistic_defense_skill)
-   w:2 a:1 md:2 ms:1 bd:1 br:1 bs:3 bds:3
-   mr:2 ms:2 mv:1 d:w n:n0
-   m:[0m     
-[44m[37mP:6 carapaceer 
-   pt:12 (armor)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:n n:w2
-   m:[0m[0m     
-[37mP:7 horner 
-   pt:4 (armor)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:2 ms:1 mv:1 d:n n:e2
-   m:[0m     
-[37mP:8 Helmer
-   pt:5 (Armor)
-   w:1 a:3 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:1 ms:1 mv:2 d:e n:n2
-   m:[0m     
-[37mP:9 frenzieder wanderer 
-   pt:4 (ballistic_range)
-   w:1 a:1 md:1 ms:2 bd:1 br:2 bs:1 bds:0
-   mr:1 ms:2 mv:1 d:n n:w1
-   m:[0m     
-[37mP:10 Driveer
-   pt:10 (Move)
-   w:1 a:2 md:1 ms:2 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:1 mv:4 d:n n:n0
-   m: +ballistic_range3[0m     
-[37mP:11 Helmer
-   pt:5 (Armor)
-   w:1 a:3 md:1 ms:2 bd:2 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:w1
-   m:[0m     
-[37mP:12 flirter 
-   pt:2 (move)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:2 d:n n:e0
-   m:[0m     
-[37mP:13 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:n1
-   m:[0m     
-[37mP:14 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:-2
-   mr:1 ms:1 mv:1 d:n n:w1
-   m:[0m     
-[37mP:15 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:n2
-   m:[0m          
-Team 2 Points: 93     
-Team 1 Points: 93     
-[2J[2HCurrent step: 19     
-Team 2: 
-[37mP:1 Ballisticaler Judgmenter
-   pt:5 (Ballistic_skill)
-   w:2 a:1 md:1 ms:1 bd:2 br:1 bs:2 bds:0
-   mr:1 ms:2 mv:1 d:s n:n2
-   m:[0m     
-[37mP:2 Sleight Of Hander Training Areaer
-   pt:9 (Magic_range)
-   w:2 a:2 md:1 ms:1 bd:3 br:2 bs:1 bds:0
-   mr:3 ms:1 mv:1 d:w n:n0
-   m: -ballistic_defense_skill2[0m     
-[37mP:3 Flower
-   pt:6 (Move)
-   w:1 a:1 md:1 ms:2 bd:2 br:1 bs:2 bds:0
-   mr:1 ms:1 mv:2 d:w n:n0
-   m: -magic_skill2[0m     
-[44m[37mP:4 Chitiner
-   pt:17 (Armor)
-   w:1 a:3 md:2 ms:1 bd:1 br:2 bs:1 bds:0
-   mr:3 ms:1 mv:1 d:w n:w1
-   m:[0m[0m     
-[37mP:5 Meleeer Adeptnesser
-   pt:10 (Melee_skill)
-   w:2 a:1 md:3 ms:4 bd:1 br:2 bs:1 bds:0
-   mr:2 ms:1 mv:2 d:s n:n2
-   m:[0m     
-[37mP:6 Ballisticaler Hurter
-   pt:5 (Ballistic_damage)
-   w:1 a:1 md:1 ms:1 bd:3 br:3 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:s n:w0
-   m:[0m     
-[37mP:7 Bewitcheryer
-   pt:9 (Magics)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:5 ms:2 mv:2 d:w n:w2
-   m: +magic_range4[0m     
-[37mP:8 Exorcismer Handicrafter
-   pt:10 (Magic_skill)
-   w:1 a:2 md:3 ms:1 bd:2 br:2 bs:2 bds:0
-   mr:2 ms:3 mv:1 d:w n:e0
-   m:[0m     
-[37mP:9 Body Armorer
-   pt:6 (Armor)
-   w:1 a:2 md:2 ms:1 bd:1 br:1 bs:1 bds:1
-   mr:1 ms:1 mv:2 d:w n:e0
-   m: -magic_skill1[0m     
-[37mP:10 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:s n:n0
-   m:[0m     
-[37mP:11 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:s n:e1
-   m:[0m     
-[37mP:12 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:s n:e1
-   m:[0m     
-[37mP:13 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:n0
-   m:[0m     
-[37mP:14 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:w0
-   m:[0m     
-[37mP:15 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:e2
-   m:[0m          
-Team 1: 
-[37mP:1 myalismer 
-   pt:4 (magics)
-   w:1 a:1 md:2 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:1 mv:1 d:w n:w2
-   m: +melee_skill2[0m     
-[37mP:2 Meleeer Understander
-   pt:7 (Melee_skill)
-   w:1 a:2 md:1 ms:2 bd:2 br:1 bs:2 bds:0
-   mr:2 ms:1 mv:1 d:w n:e1
-   m: -armor2[0m     
-[37mP:3 Ballisticaler Eviler
-   pt:8 (Ballistic_damage)
-   w:1 a:2 md:2 ms:1 bd:4 br:1 bs:1 bds:0
-   mr:1 ms:3 mv:1 d:n n:w2
-   m:[0m     
-[37mP:4 Dweomercrafter Reasoner
-   pt:9 (Magic_skill)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:3 mv:2 d:w n:e0
-   m: -armor3[0m     
-[37mP:5 Frenzieder Maintenanceer Masterhooder
-   pt:10 (Ballistic_defense_skill)
-   w:2 a:1 md:2 ms:1 bd:1 br:1 bs:3 bds:3
-   mr:2 ms:2 mv:1 d:n n:e0
-   m:[0m     
-[44m[37mP:6 carapaceer 
-   pt:12 (armor)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:n2
-   m:[0m[0m     
-[37mP:7 horner 
-   pt:4 (armor)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:2 ms:1 mv:1 d:e n:w2
-   m:[0m     
-[37mP:8 Helmer
-   pt:5 (Armor)
-   w:1 a:3 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:1 ms:1 mv:2 d:n n:w0
-   m:[0m     
-[37mP:9 frenzieder wanderer 
-   pt:4 (ballistic_range)
-   w:1 a:1 md:1 ms:2 bd:1 br:2 bs:1 bds:0
-   mr:1 ms:2 mv:1 d:w n:n2
-   m:[0m     
-[37mP:10 Driveer
-   pt:10 (Move)
-   w:1 a:2 md:1 ms:2 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:1 mv:4 d:n n:w1
-   m: +ballistic_range3[0m     
-[37mP:11 Helmer
-   pt:5 (Armor)
-   w:1 a:3 md:1 ms:2 bd:2 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:w2
-   m:[0m     
-[37mP:12 flirter 
-   pt:2 (move)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:2 d:e n:w2
-   m:[0m     
-[37mP:13 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:n n:n2
-   m:[0m     
-[31mP:14 base
-   pt:1 (standard)
-   w:0 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:e2
-   m:[0m     
-[37mP:15 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:-2
-   mr:1 ms:1 mv:1 d:n n:w0
-   m:[0m          
-Team 2 Points: 83     
-Team 1 Points: 81     
-[2J[2HCurrent step: 20     
-Team 2: 
-[37mP:1 Ballisticaler Judgmenter
-   pt:5 (Ballistic_skill)
-   w:2 a:1 md:1 ms:1 bd:2 br:1 bs:2 bds:0
-   mr:1 ms:2 mv:1 d:s n:w1
-   m:[0m     
-[37mP:2 Sleight Of Hander Training Areaer
-   pt:9 (Magic_range)
-   w:2 a:2 md:1 ms:1 bd:3 br:2 bs:1 bds:0
-   mr:3 ms:1 mv:1 d:s n:w2
-   m: -ballistic_defense_skill2[0m     
-[37mP:3 Flower
-   pt:6 (Move)
-   w:1 a:1 md:1 ms:2 bd:2 br:1 bs:2 bds:0
-   mr:1 ms:1 mv:2 d:s n:e2
-   m: -magic_skill2[0m     
-[37mP:4 Chitiner
-   pt:7 (Armor)
-   w:1 a:3 md:2 ms:1 bd:1 br:2 bs:1 bds:0
-   mr:3 ms:1 mv:1 d:e n:n0
-   m:[0m     
-[37mP:5 Meleeer Adeptnesser
-   pt:10 (Melee_skill)
-   w:2 a:1 md:3 ms:4 bd:1 br:2 bs:1 bds:0
-   mr:2 ms:1 mv:2 d:s n:w2
-   m:[0m     
-[37mP:6 Ballisticaler Hurter
-   pt:5 (Ballistic_damage)
-   w:1 a:1 md:1 ms:1 bd:3 br:3 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:e1
-   m:[0m     
-[44m[37mP:7 Bewitcheryer
-   pt:19 (Magics)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:5 ms:2 mv:2 d:e n:n0
-   m: +magic_range4[0m[0m     
-[37mP:8 Exorcismer Handicrafter
-   pt:10 (Magic_skill)
-   w:1 a:2 md:3 ms:1 bd:2 br:2 bs:2 bds:0
-   mr:2 ms:3 mv:1 d:w n:w0
-   m:[0m     
-[37mP:9 Body Armorer
-   pt:6 (Armor)
-   w:1 a:2 md:2 ms:1 bd:1 br:1 bs:1 bds:1
-   mr:1 ms:1 mv:2 d:w n:n2
-   m: -magic_skill1[0m     
-[37mP:10 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:s n:w2
-   m:[0m     
-[37mP:11 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:n0
-   m:[0m     
-[37mP:12 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:n1
-   m:[0m     
-[37mP:13 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:s n:w1
-   m:[0m     
-[37mP:14 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:w0
-   m:[0m     
-[37mP:15 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:e2
-   m:[0m          
-Team 1: 
-[37mP:1 myalismer 
-   pt:4 (magics)
-   w:1 a:1 md:2 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:1 mv:1 d:w n:w1
-   m: +melee_skill2[0m     
-[37mP:2 Meleeer Understander
-   pt:7 (Melee_skill)
-   w:1 a:2 md:1 ms:2 bd:2 br:1 bs:2 bds:0
-   mr:2 ms:1 mv:1 d:e n:n1
-   m: -armor2[0m     
-[37mP:3 Ballisticaler Eviler
-   pt:8 (Ballistic_damage)
-   w:1 a:2 md:2 ms:1 bd:4 br:1 bs:1 bds:0
-   mr:1 ms:3 mv:1 d:w n:w2
-   m:[0m     
-[37mP:4 Dweomercrafter Reasoner
-   pt:9 (Magic_skill)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:3 mv:2 d:e n:n1
-   m: -armor3[0m     
-[37mP:5 Frenzieder Maintenanceer Masterhooder
-   pt:10 (Ballistic_defense_skill)
-   w:2 a:1 md:2 ms:1 bd:1 br:1 bs:3 bds:3
-   mr:2 ms:2 mv:1 d:e n:w0
-   m:[0m     
-[44m[37mP:6 carapaceer 
-   pt:12 (armor)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:n n:w2
-   m:[0m[0m     
-[37mP:7 horner 
-   pt:4 (armor)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:2 ms:1 mv:1 d:w n:w0
-   m:[0m     
-[37mP:8 Helmer
-   pt:5 (Armor)
-   w:1 a:3 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:1 ms:1 mv:2 d:w n:w2
-   m:[0m     
-[37mP:9 frenzieder wanderer 
-   pt:4 (ballistic_range)
-   w:1 a:1 md:1 ms:2 bd:1 br:2 bs:1 bds:0
-   mr:1 ms:2 mv:1 d:n n:w0
-   m:[0m     
-[37mP:10 Driveer
-   pt:10 (Move)
-   w:1 a:2 md:1 ms:2 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:1 mv:4 d:w n:n0
-   m: +ballistic_range3[0m     
-[37mP:11 Helmer
-   pt:5 (Armor)
-   w:1 a:3 md:1 ms:2 bd:2 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:n1
-   m:[0m     
-[37mP:12 flirter 
-   pt:2 (move)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:2 d:w n:e1
-   m:[0m     
-[31mP:13 base
-   pt:1 (standard)
-   w:-2 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:n n:w0
-   m:[0m     
-[31mP:14 base
-   pt:1 (standard)
-   w:0 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:e2
-   m:[0m     
-[37mP:15 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:-2
-   mr:1 ms:1 mv:1 d:w n:n2
-   m:[0m          
-Team 2 Points: 83     
-Team 1 Points: 79     
-[2J[2HCurrent step: 21     
-Team 2: 
-[37mP:1 Ballisticaler Judgmenter
-   pt:5 (Ballistic_skill)
-   w:2 a:1 md:1 ms:1 bd:2 br:1 bs:2 bds:0
-   mr:1 ms:2 mv:1 d:e n:n2
-   m:[0m     
-[37mP:2 Sleight Of Hander Training Areaer
-   pt:9 (Magic_range)
-   w:2 a:2 md:1 ms:1 bd:3 br:2 bs:1 bds:0
-   mr:3 ms:1 mv:1 d:e n:w1
-   m: -ballistic_defense_skill2[0m     
-[37mP:3 Flower
-   pt:6 (Move)
-   w:1 a:1 md:1 ms:2 bd:2 br:1 bs:2 bds:0
-   mr:1 ms:1 mv:2 d:w n:n1
-   m: -magic_skill2[0m     
-[37mP:4 Chitiner
-   pt:7 (Armor)
-   w:1 a:3 md:2 ms:1 bd:1 br:2 bs:1 bds:0
-   mr:3 ms:1 mv:1 d:s n:n0
-   m:[0m     
-[37mP:5 Meleeer Adeptnesser
-   pt:10 (Melee_skill)
-   w:2 a:1 md:3 ms:4 bd:1 br:2 bs:1 bds:0
-   mr:2 ms:1 mv:2 d:e n:e1
-   m:[0m     
-[37mP:6 Ballisticaler Hurter
-   pt:5 (Ballistic_damage)
-   w:1 a:1 md:1 ms:1 bd:3 br:3 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:n2
-   m:[0m     
-[44m[37mP:7 Bewitcheryer
-   pt:19 (Magics)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:5 ms:2 mv:2 d:s n:w2
-   m: +magic_range4[0m[0m     
-[37mP:8 Exorcismer Handicrafter
-   pt:10 (Magic_skill)
-   w:1 a:2 md:3 ms:1 bd:2 br:2 bs:2 bds:0
-   mr:2 ms:3 mv:1 d:e n:e1
-   m:[0m     
-[37mP:9 Body Armorer
-   pt:6 (Armor)
-   w:1 a:2 md:2 ms:1 bd:1 br:1 bs:1 bds:1
-   mr:1 ms:1 mv:2 d:s n:e1
-   m: -magic_skill1[0m     
-[37mP:10 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:w1
-   m:[0m     
-[37mP:11 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:s n:n0
-   m:[0m     
-[37mP:12 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:s n:w1
-   m:[0m     
-[37mP:13 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:e0
-   m:[0m     
-[37mP:14 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:e0
-   m:[0m     
-[37mP:15 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:e2
-   m:[0m          
-Team 1: 
-[37mP:1 myalismer 
-   pt:4 (magics)
-   w:1 a:1 md:2 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:1 mv:1 d:w n:w1
-   m: +melee_skill2[0m     
-[37mP:2 Meleeer Understander
-   pt:7 (Melee_skill)
-   w:1 a:2 md:1 ms:2 bd:2 br:1 bs:2 bds:0
-   mr:2 ms:1 mv:1 d:n n:w2
-   m: -armor2[0m     
-[37mP:3 Ballisticaler Eviler
-   pt:8 (Ballistic_damage)
-   w:1 a:2 md:2 ms:1 bd:4 br:1 bs:1 bds:0
-   mr:1 ms:3 mv:1 d:w n:w0
-   m:[0m     
-[37mP:4 Dweomercrafter Reasoner
-   pt:9 (Magic_skill)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:3 mv:2 d:n n:w0
-   m: -armor3[0m     
-[37mP:5 Frenzieder Maintenanceer Masterhooder
-   pt:10 (Ballistic_defense_skill)
-   w:2 a:1 md:2 ms:1 bd:1 br:1 bs:3 bds:3
-   mr:2 ms:2 mv:1 d:w n:n2
-   m:[0m     
-[44m[37mP:6 carapaceer 
-   pt:12 (armor)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:w0
-   m:[0m[0m     
-[37mP:7 horner 
-   pt:4 (armor)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:2 ms:1 mv:1 d:w n:e1
-   m:[0m     
-[37mP:8 Helmer
-   pt:5 (Armor)
-   w:1 a:3 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:1 ms:1 mv:2 d:w n:w2
-   m:[0m     
-[37mP:9 frenzieder wanderer 
-   pt:4 (ballistic_range)
-   w:1 a:1 md:1 ms:2 bd:1 br:2 bs:1 bds:0
-   mr:1 ms:2 mv:1 d:w n:w2
-   m:[0m     
-[37mP:10 Driveer
-   pt:10 (Move)
-   w:1 a:2 md:1 ms:2 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:1 mv:4 d:n n:n1
-   m: +ballistic_range3[0m     
-[37mP:11 Helmer
-   pt:5 (Armor)
-   w:1 a:3 md:1 ms:2 bd:2 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:n n:n1
-   m:[0m     
-[37mP:12 flirter 
-   pt:2 (move)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:2 d:e n:w2
-   m:[0m     
-[31mP:13 base
-   pt:1 (standard)
-   w:-2 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:n n:w0
-   m:[0m     
-[31mP:14 base
-   pt:1 (standard)
-   w:0 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:e2
-   m:[0m     
-[37mP:15 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:-2
-   mr:1 ms:1 mv:1 d:n n:e0
-   m:[0m          
-Team 2 Points: 83     
-Team 1 Points: 79     
-[2J[2HCurrent step: 22     
-Team 2: 
-[37mP:1 Ballisticaler Judgmenter
-   pt:5 (Ballistic_skill)
-   w:2 a:1 md:1 ms:1 bd:2 br:1 bs:2 bds:0
-   mr:1 ms:2 mv:1 d:s n:n0
-   m:[0m     
-[37mP:2 Sleight Of Hander Training Areaer
-   pt:9 (Magic_range)
-   w:2 a:2 md:1 ms:1 bd:3 br:2 bs:1 bds:0
-   mr:3 ms:1 mv:1 d:e n:n2
-   m: -ballistic_defense_skill2[0m     
-[37mP:3 Flower
-   pt:6 (Move)
-   w:1 a:1 md:1 ms:2 bd:2 br:1 bs:2 bds:0
-   mr:1 ms:1 mv:2 d:s n:e1
-   m: -magic_skill2[0m     
-[37mP:4 Chitiner
-   pt:7 (Armor)
-   w:1 a:3 md:2 ms:1 bd:1 br:2 bs:1 bds:0
-   mr:3 ms:1 mv:1 d:s n:w2
-   m:[0m     
-[37mP:5 Meleeer Adeptnesser
-   pt:10 (Melee_skill)
-   w:2 a:1 md:3 ms:4 bd:1 br:2 bs:1 bds:0
-   mr:2 ms:1 mv:2 d:w n:n1
-   m:[0m     
-[37mP:6 Ballisticaler Hurter
-   pt:5 (Ballistic_damage)
-   w:1 a:1 md:1 ms:1 bd:3 br:3 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:s n:e2
-   m:[0m     
-[44m[37mP:7 Bewitcheryer
-   pt:19 (Magics)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:5 ms:2 mv:2 d:e n:n0
-   m: +magic_range4[0m[0m     
-[37mP:8 Exorcismer Handicrafter
-   pt:10 (Magic_skill)
-   w:1 a:2 md:3 ms:1 bd:2 br:2 bs:2 bds:0
-   mr:2 ms:3 mv:1 d:w n:n2
-   m:[0m     
-[37mP:9 Body Armorer
-   pt:6 (Armor)
-   w:1 a:2 md:2 ms:1 bd:1 br:1 bs:1 bds:1
-   mr:1 ms:1 mv:2 d:w n:n1
-   m: -magic_skill1[0m     
-[37mP:10 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:n0
-   m:[0m     
-[37mP:11 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:s n:w2
-   m:[0m     
-[37mP:12 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:n2
-   m:[0m     
-[37mP:13 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:e2
-   m:[0m     
-[37mP:14 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:w2
-   m:[0m     
-[37mP:15 base
-   pt:1 (standard)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:e2
-   m:[0m          
-Team 1: 
-[37mP:1 myalismer 
-   pt:4 (magics)
-   w:1 a:1 md:2 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:1 mv:1 d:w n:w1
-   m: +melee_skill2[0m     
-[37mP:2 Meleeer Understander
-   pt:7 (Melee_skill)
-   w:1 a:2 md:1 ms:2 bd:2 br:1 bs:2 bds:0
-   mr:2 ms:1 mv:1 d:w n:e1
-   m: -armor2[0m     
-[37mP:3 Ballisticaler Eviler
-   pt:8 (Ballistic_damage)
-   w:1 a:2 md:2 ms:1 bd:4 br:1 bs:1 bds:0
-   mr:1 ms:3 mv:1 d:w n:n1
-   m:[0m     
-[37mP:4 Dweomercrafter Reasoner
-   pt:9 (Magic_skill)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:3 mv:2 d:w n:w0
-   m: -armor3[0m     
-[37mP:5 Frenzieder Maintenanceer Masterhooder
-   pt:10 (Ballistic_defense_skill)
-   w:2 a:1 md:2 ms:1 bd:1 br:1 bs:3 bds:3
-   mr:2 ms:2 mv:1 d:n n:n1
-   m:[0m     
-[44m[37mP:6 carapaceer 
-   pt:12 (armor)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:w2
-   m:[0m[0m     
-[37mP:7 horner 
-   pt:4 (armor)
-   w:1 a:2 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:2 ms:1 mv:1 d:e n:w1
-   m:[0m     
-[37mP:8 Helmer
-   pt:5 (Armor)
-   w:1 a:3 md:1 ms:1 bd:1 br:1 bs:2 bds:0
-   mr:1 ms:1 mv:2 d:w n:e2
-   m:[0m     
-[37mP:9 frenzieder wanderer 
-   pt:4 (ballistic_range)
-   w:1 a:1 md:1 ms:2 bd:1 br:2 bs:1 bds:0
-   mr:1 ms:2 mv:1 d:w n:n0
-   m:[0m     
-[37mP:10 Driveer
-   pt:10 (Move)
-   w:1 a:2 md:1 ms:2 bd:1 br:1 bs:1 bds:0
-   mr:2 ms:1 mv:4 d:n n:e1
-   m: +ballistic_range3[0m     
-[37mP:11 Helmer
-   pt:5 (Armor)
-   w:1 a:3 md:1 ms:2 bd:2 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:n n:w0
-   m:[0m     
-[37mP:12 flirter 
-   pt:2 (move)
-   w:1 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:2 d:w n:n0
-   m:[0m     
-[31mP:13 base
-   pt:1 (standard)
-   w:-2 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:n n:w0
-   m:[0m     
-[31mP:14 base
-   pt:1 (standard)
-   w:0 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:w n:e2
-   m:[0m     
-[31mP:15 base
-   pt:1 (standard)
-   w:0 a:1 md:1 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:n2
-   m:[0m          
-Team 2 Points: 83     
-Team 1 Points: 77     

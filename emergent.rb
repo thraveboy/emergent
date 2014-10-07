@@ -308,9 +308,9 @@ class Being < Thing
     display_value = display.get(@specialty)
     if display_value != ''
       if @team.to_i == 1
-        display_value = white(display_value)
+        display_value = magneta(display_value)
       else
-        display_value = red(display_value)
+        display_value = yellow(display_value)
       end
       if @wounds.to_i > 2
          display_value = bold(display_value)
@@ -547,11 +547,11 @@ class World < Thing
       return world_location_to_print
     end
     if blocked_location?(world_location_to_print)
-      return blue(world_location_to_print)
+      return red(world_location_to_print)
     elsif objective_location?(world_location_to_print)
-      return bold(magneta(world_location_to_print))
+      return bold(green(world_location_to_print))
     end
-    return world_location_to_print
+    return white(world_location_to_print)
   end
 
   def print_map(displays = [])
@@ -575,7 +575,7 @@ class World < Thing
               what_to_print = current_being.display_value(current_display)
               if initial_location_strings != nil && initial_location_strings[0] != nil
                 if objective_location?(initial_location_strings[0])
-                  what_to_print = cyan_bg(what_to_print)
+                  what_to_print = blue_bg(what_to_print)
                 end
               end
             end
