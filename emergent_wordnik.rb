@@ -5,6 +5,14 @@ Wordnik.configure do |config|
     config.logger = Logger.new('/dev/null')
 end
 
+if SEED != 0
+  $randomizer = Random.new(SEED)
+else
+  $randomizer = Random.new
+end
+
+$synonym_api_cache_hash = Hash.new
+
 def find_synonym(word)
   word = word.strip
   if word[-1] == 's'
@@ -27,13 +35,4 @@ rescue
   end
   return word
 end
-
-
-if SEED != 0
-  $randomizer = Random.new(SEED)
-else
-  $randomizer = Random.new
-end
-
-$synonym_api_cache_hash = Hash.new
 

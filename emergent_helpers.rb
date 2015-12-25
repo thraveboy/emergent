@@ -18,3 +18,9 @@ def putsl (text, log_file = "battle")
   end
 end
 
+if SEED != 0
+  $randomizer = Random.new(SEED)
+else
+  $randomizer = Random.new
+end
+
