@@ -1,6 +1,6 @@
 To create generate a new map, and two teams:
 
-emergent 40 20 10 50
+emergent 40 10 10 50
 
 and then automatically evolve them
 

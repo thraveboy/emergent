@@ -1,32 +1,7 @@
-%w(rubygems wordnik).each {|lib| require lib}
-
-Wordnik.configure do |config|
-    config.api_key = '998ae573b71f710d940080a44b401386ba5b536b5d7e95faf'
-    config.logger = Logger.new('/dev/null')
-end
 
 require "readline"
-
-STEP_COMMAND_PAUSE_LENGTH = 0
-PROGRAM_PREVIEW_PAUSE_LENGTH = 0
-IMPORTANT_PAUSE_LENGTH = 2
-PAUSE_LENGTH = 0
-
-CLEAR_SCREEN = FALSE
-CLEAR_SCREEN_MAP_LOG = TRUE
-CLEAR_SCREEN_TEAM_LOG = TRUE
-
-SEED = 0
-TOTAL_MUTATIONS = 60
-
-PROGRAM_MUTATIONS = 10
-PROGRAM_MUTATION_MAX_SIZE = 3
-
-MAP_LOG_FILE = "display_logs/map_log"
-TEAM_LOG_FILE = "display_logs/team_log"
-BATTLE_LOG_FILE = "display_logs/battle_log"
-
-MAX_STEPS = 30
+require "./emergent-constants"
+require "./emergent-helpers"
 
 $dump_logs = TRUE
 $current_step = 1
@@ -48,26 +23,6 @@ $team_log = File.new(TEAM_LOG_FILE, 'w')
 $map_log.sync = true
 $battle_log.sync = true
 $team_log.sync = true
-
-def printl (text, log_file = "battle")
-  if $dump_logs
-    print text
-    if log_file == "battle"
-      $battle_log.write text
-    elsif log_file == "team"
-     $team_log.write text
-    else
-      $map_log.write text
-    end
-  end
-end
-
-def putsl (text, log_file = "battle")
-  if $dump_logs
-    text_with_newline = text.dup.concat("\n")
-    printl(text_with_newline, log_file)
-  end
-end
 
 $buffable_stats = ['armor', 'ballistic_skill', 'ballistic_range', 'ballistic_damage',
   'ballistic_defense_skill', 'melee_damage', 'melee_skill', 'move', 'magic_skill', 'magic_range']
@@ -110,28 +65,6 @@ end
 
 $synonym_api_cache_hash = Hash.new
 
-def find_synonym(word)
-  word = word.strip
-  if word[-1] == 's'
-    word = word[0..-2]
-  end
-  if $synonym_api_cache_hash["#{word}"].nil? && $dump_logs
-    related_hash = Wordnik.word.get_related("#{word}", :type => 'synonym')
-    related_array= related_hash[0]["words"]
-    $synonym_api_cache_hash["#{word}"] = related_array
-  elsif !$synonym_api_cache_hash["#{word}"].nil?
-    related_array = $synonym_api_cache_hash["#{word}"]
-  else
-    related_array = ["#{word}"]
-  end
-  rand_word = related_array[$randomizer.rand(related_array.size)]
-  return rand_word
-rescue
-  if !$synonym_api_cache_hash.nil? && !word.nil? && $synonym_api_cache_hash["#{word}"].nil?
-    $synonym_api_cache_hash["#{word}"] = ["#{word}"]
-  end
-  return word
-end
 
 # Colored Output
 def colorize(text, color_code)
@@ -549,9 +482,9 @@ class World < Thing
     if blocked_location?(world_location_to_print)
       return red(world_location_to_print)
     elsif objective_location?(world_location_to_print)
-      return bold(green(world_location_to_print))
+      return bold(white(world_location_to_print))
     end
-    return white(world_location_to_print)
+    return green(world_location_to_print)
   end
 
   def print_map(displays = [])
@@ -908,6 +841,22 @@ class SetMarkers_WorldOperator < Thing
   end
 end
 
+class SetVisibilityMaps_WorldOperator < Thing
+  def initialize(default_visibility = 1)
+    @default_visibility = default_visibility
+  end
+
+  def execute (world, x, y)
+    location_beings = world.get('being', x, y)
+    if !location_beings.nil? && location_beings != []
+      location_beings.each do |current_being|
+        range = current_being.ballistic_range.to_i
+        facing = current_being.instance_variable_get('@facing')
+      end
+    end
+  end
+end
+
 
 class ObjCommand_WorldOperator
   def initialize(type = 'being', remove_on_add = true)
@@ -1214,7 +1163,7 @@ end
 
 class MutatePrograms_BeingOperator < Thing
   def execute(beings, team = 1)
-    mutation_types = 'new'
+    mutation_types = 'news'
     beings.each do |current_being|
       if !current_being.nil? && !current_being.team.nil? && !current_being.program.nil?
         if current_being.team.to_i == team
