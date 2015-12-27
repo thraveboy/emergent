@@ -320,7 +320,6 @@ class World < Thing
   def initialize(filename)
     super(filename)
     @space = []
-    @default_visibility = 
     y_axis = 0
     while instance_variable_get("@y#{y_axis}") != nil
       x_as_string = instance_variable_get("@y#{y_axis}")
@@ -420,10 +419,6 @@ class World < Thing
       return true
     end
     return false
-  end
-
-  def get_visibilty_map(x, y, facing = "")
-
   end
 
   def colorize_location(world_location_to_print)
@@ -773,6 +768,52 @@ class ClearMarkers_WorldOperator < Thing
   def execute(world, x, y)
     world.remove('programmarker', x, y)
   end
+end
+
+class ClearComputeBeingVisbility_WorldOperator < Thing
+  def initialize(default_visibility = DEFAULT_WORLD_VISBILITY)
+    @default_visibility = default_visbility
+  end
+
+  def _initializeBeingVisibilityMap(visibility)
+    nil_visibility_map = []
+    (1..visbility).each do |y_init|
+      y_row_loc_array = []
+      (1..visbility).each do |x_init|
+        y_row_location_array.push(nil)
+      end
+      nil_visibility_map.push(y_row_loc_array)
+    end
+    return nil_visibility_map
+  end
+
+  def execute(world, x, y)
+    visibilty = @default_visibility
+    return_visibility_map = self._initializeBeingVisbilityMap(visbility)
+    location_beings = world.get('being', x, y)
+    visibility_being = nil
+    if (location_beings != nil) && (location_beings != [])
+      visibility_being = location_beings.pop
+    end
+    if visibility_being == nil
+      return
+    end
+    x_min = 0
+    x_max = 0
+    y_min = 0
+    y_max = 0
+    facing = visbility_being.instance_variable_get('@facing')
+    case facing
+    when 'n'
+    when 'e'
+    when 's'
+    when 'w'
+    end
+    location_beings.push(visibility_being)
+
+  end
+
+
 end
 
 class SetMarkers_WorldOperator < Thing

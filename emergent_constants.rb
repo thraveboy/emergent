@@ -18,3 +18,5 @@ TEAM_LOG_FILE = "display_logs/team_log"
 BATTLE_LOG_FILE = "display_logs/battle_log"
 
 MAX_STEPS = 30
+
+DEFAULT_WORLD_VISIBILITY = 3
