@@ -1,47 +1,47 @@
 [2J[2HCurrent step: 0     
 Team 2: 
-[37mP:1 Meleeer Masterhooder
+[37mP:1 Meleeer Handicrafter
    pt:10 (Melee_skill)
    w:1 a:3 md:2 ms:3 bd:3 br:1 bs:2 bds:1
    mr:1 ms:1 mv:1 d: n:w0
    m:[0m     
-[37mP:2 breacher 
+[37mP:2 lacerateer 
    pt:4 (wounds)
    w:2 a:2 md:1 ms:2 bd:1 br:1 bs:1 bds:0
    mr:1 ms:1 mv:1 d: n:s0
    m:[0m     
-[37mP:3 Deviltryer Strayer
+[37mP:3 Sleight Of Hander Roamer
    pt:6 (Magic_range)
    w:1 a:1 md:1 ms:1 bd:2 br:2 bs:1 bds:0
    mr:3 ms:1 mv:2 d: n:e1
    m:[0m     
-[37mP:4 Meleeer Harmer
+[37mP:4 Meleeer Injuryer
    pt:7 (Melee_damage)
    w:1 a:1 md:2 ms:1 bd:1 br:1 bs:1 bds:0
    mr:1 ms:1 mv:1 d: n:e2
    m: -armor5[0m     
-[37mP:5 Chitiner
+[37mP:5 Armour Plateer
    pt:9 (Armor)
    w:1 a:3 md:1 ms:2 bd:2 br:1 bs:3 bds:1
    mr:1 ms:1 mv:2 d: n:s2
    m:[0m          
 Team 1: 
-[37mP:1 Meleeer Mischiefer
+[37mP:1 Meleeer Hurter
    pt:8 (Melee_damage)
    w:2 a:1 md:2 ms:1 bd:1 br:1 bs:2 bds:1
    mr:1 ms:1 mv:1 d: n:w0
    m: +magic_skill3[0m     
-[37mP:2 Frenzieder Causeer
+[37mP:2 Frenzieder Reasoner
    pt:5 (Ballistic_skill)
    w:1 a:1 md:1 ms:2 bd:1 br:2 bs:2 bds:0
    mr:2 ms:1 mv:1 d: n:s0
    m:[0m     
-[37mP:3 Ballisticaler Advocacyer Knowledgeer
+[37mP:3 Ballisticaler Vindicationer Causeer
    pt:8 (Ballistic_defense_skill)
    w:2 a:1 md:2 ms:1 bd:2 br:1 bs:1 bds:2
    mr:1 ms:2 mv:1 d: n:e1
    m: +ballistic_skill1[0m     
-[37mP:4 Rouseer
+[37mP:4 Conveyer
    pt:5 (Move)
    w:1 a:1 md:1 ms:2 bd:2 br:1 bs:1 bds:1
    mr:1 ms:1 mv:2 d: n:e2
@@ -55,48 +55,48 @@ Team 2 Points: 36
 Team 1 Points: 31     
 [2J[2HCurrent step: 1     
 Team 2: 
-[37mP:1 Meleeer Masterhooder
+[37mP:1 Meleeer Handicrafter
    pt:10 (Melee_skill)
    w:1 a:3 md:2 ms:3 bd:3 br:1 bs:2 bds:1
    mr:1 ms:1 mv:1 d:e n:s2
    m:[0m     
-[37mP:2 breacher 
+[37mP:2 lacerateer 
    pt:4 (wounds)
    w:2 a:2 md:1 ms:2 bd:1 br:1 bs:1 bds:0
    mr:1 ms:1 mv:1 d:n n:w0
    m:[0m     
-[37mP:3 Deviltryer Strayer
+[37mP:3 Sleight Of Hander Roamer
    pt:6 (Magic_range)
    w:1 a:1 md:1 ms:1 bd:2 br:2 bs:1 bds:0
    mr:3 ms:1 mv:2 d:w n:n1
    m:[0m     
-[37mP:4 Meleeer Harmer
+[37mP:4 Meleeer Injuryer
    pt:7 (Melee_damage)
    w:1 a:1 md:2 ms:1 bd:1 br:1 bs:1 bds:0
    mr:1 ms:1 mv:1 d:w n:n1
    m: -armor5[0m     
-[37mP:5 Chitiner
+[37mP:5 Armour Plateer
    pt:9 (Armor)
    w:1 a:3 md:1 ms:2 bd:2 br:1 bs:3 bds:1
    mr:1 ms:1 mv:2 d:n n:e0
    m:[0m          
 Team 1: 
-[37mP:1 Meleeer Mischiefer
+[37mP:1 Meleeer Hurter
    pt:8 (Melee_damage)
    w:2 a:1 md:2 ms:1 bd:1 br:1 bs:2 bds:1
    mr:1 ms:4 mv:1 d:w n:s2
    m: +magic_skill3[0m     
-[37mP:2 Frenzieder Causeer
+[37mP:2 Frenzieder Reasoner
    pt:5 (Ballistic_skill)
    w:1 a:1 md:1 ms:2 bd:1 br:2 bs:2 bds:0
    mr:2 ms:4 mv:1 d:s n:w0
    m:[0m     
-[37mP:3 Ballisticaler Advocacyer Knowledgeer
+[37mP:3 Ballisticaler Vindicationer Causeer
    pt:8 (Ballistic_defense_skill)
    w:2 a:1 md:2 ms:1 bd:2 br:1 bs:1 bds:2
    mr:1 ms:2 mv:1 d:e n:n1
    m: +ballistic_skill1[0m     
-[37mP:4 Rouseer
+[37mP:4 Conveyer
    pt:5 (Move)
    w:1 a:1 md:1 ms:2 bd:2 br:1 bs:1 bds:1
    mr:1 ms:1 mv:2 d:e n:n1
@@ -108,168 +108,58 @@ Team 1:
    m:[0m          
 Team 2 Points: 36     
 Team 1 Points: 31     
-[2J[2HCurrent step: 2     
+[2J[2HCurrent step: 1     
 Team 2: 
-[37mP:1 Meleeer Masterhooder
+[37mP:1 Meleeer Handicrafter
    pt:10 (Melee_skill)
    w:1 a:3 md:2 ms:3 bd:3 br:1 bs:2 bds:1
-   mr:1 ms:1 mv:1 d:n n:n1
+   mr:1 ms:1 mv:1 d:e n:s2
    m:[0m     
-[37mP:2 breacher 
+[37mP:2 lacerateer 
    pt:4 (wounds)
    w:2 a:2 md:1 ms:2 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:e n:n1
+   mr:1 ms:1 mv:1 d:n n:w0
    m:[0m     
-[37mP:3 Deviltryer Strayer
+[37mP:3 Sleight Of Hander Roamer
    pt:6 (Magic_range)
    w:1 a:1 md:1 ms:1 bd:2 br:2 bs:1 bds:0
-   mr:3 ms:1 mv:2 d:s n:e1
+   mr:3 ms:1 mv:2 d:w n:n1
    m:[0m     
-[37mP:4 Meleeer Harmer
+[37mP:4 Meleeer Injuryer
    pt:7 (Melee_damage)
    w:1 a:1 md:2 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:s n:n1
+   mr:1 ms:1 mv:1 d:w n:n1
    m: -armor5[0m     
-[37mP:5 Chitiner
+[37mP:5 Armour Plateer
    pt:9 (Armor)
    w:1 a:3 md:1 ms:2 bd:2 br:1 bs:3 bds:1
-   mr:1 ms:1 mv:2 d:w n:w2
+   mr:1 ms:1 mv:2 d:n n:e0
    m:[0m          
 Team 1: 
-[37mP:1 Meleeer Mischiefer
+[37mP:1 Meleeer Hurter
    pt:8 (Melee_damage)
    w:2 a:1 md:2 ms:1 bd:1 br:1 bs:2 bds:1
-   mr:1 ms:4 mv:1 d:s n:n1
+   mr:1 ms:1 mv:1 d:w n:s2
    m: +magic_skill3[0m     
-[37mP:2 Frenzieder Causeer
+[37mP:2 Frenzieder Reasoner
    pt:5 (Ballistic_skill)
    w:1 a:1 md:1 ms:2 bd:1 br:2 bs:2 bds:0
-   mr:2 ms:4 mv:1 d:w n:n1
+   mr:2 ms:1 mv:1 d:s n:w0
    m:[0m     
-[37mP:3 Ballisticaler Advocacyer Knowledgeer
+[37mP:3 Ballisticaler Vindicationer Causeer
    pt:8 (Ballistic_defense_skill)
    w:2 a:1 md:2 ms:1 bd:2 br:1 bs:1 bds:2
-   mr:1 ms:2 mv:1 d:n n:e1
+   mr:1 ms:2 mv:1 d:e n:n1
    m: +ballistic_skill1[0m     
-[37mP:4 Rouseer
+[37mP:4 Conveyer
    pt:5 (Move)
    w:1 a:1 md:1 ms:2 bd:2 br:1 bs:1 bds:1
-   mr:1 ms:1 mv:2 d:n n:n1
+   mr:1 ms:1 mv:2 d:e n:n1
    m:[0m     
 [37mP:5 Meleeer Injuryer
    pt:5 (Melee_damage)
    w:1 a:2 md:2 ms:1 bd:1 br:1 bs:2 bds:1
-   mr:1 ms:1 mv:1 d:e n:w2
-   m:[0m          
-Team 2 Points: 36     
-Team 1 Points: 31     
-[2J[2HCurrent step: 3     
-Team 2: 
-[37mP:1 Meleeer Masterhooder
-   pt:10 (Melee_skill)
-   w:1 a:3 md:2 ms:3 bd:3 br:1 bs:2 bds:1
-   mr:1 ms:1 mv:1 d:n n:n1
-   m:[0m     
-[37mP:2 breacher 
-   pt:4 (wounds)
-   w:2 a:2 md:1 ms:2 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:s n:n1
-   m:[0m     
-[37mP:3 Deviltryer Strayer
-   pt:6 (Magic_range)
-   w:1 a:1 md:1 ms:1 bd:2 br:2 bs:1 bds:0
-   mr:3 ms:1 mv:2 d:w n:s2
-   m:[0m     
-[37mP:4 Meleeer Harmer
-   pt:7 (Melee_damage)
-   w:1 a:1 md:2 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:s n:s2
-   m: -armor5[0m     
-[37mP:5 Chitiner
-   pt:9 (Armor)
-   w:1 a:3 md:1 ms:2 bd:2 br:1 bs:3 bds:1
-   mr:1 ms:1 mv:2 d:e n:n0
-   m:[0m          
-Team 1: 
-[37mP:1 Meleeer Mischiefer
-   pt:8 (Melee_damage)
-   w:2 a:1 md:2 ms:1 bd:1 br:1 bs:2 bds:1
-   mr:1 ms:4 mv:1 d:n n:e0
-   m: +magic_skill3[0m     
-[37mP:2 Frenzieder Causeer
-   pt:5 (Ballistic_skill)
-   w:1 a:1 md:1 ms:2 bd:1 br:2 bs:2 bds:0
-   mr:2 ms:4 mv:1 d:n n:n1
-   m:[0m     
-[37mP:3 Ballisticaler Advocacyer Knowledgeer
-   pt:8 (Ballistic_defense_skill)
-   w:2 a:1 md:2 ms:1 bd:2 br:1 bs:1 bds:2
-   mr:1 ms:2 mv:1 d:e n:s2
-   m: +ballistic_skill1[0m     
-[37mP:4 Rouseer
-   pt:5 (Move)
-   w:1 a:1 md:1 ms:2 bd:2 br:1 bs:1 bds:1
-   mr:1 ms:1 mv:2 d:n n:s2
-   m:[0m     
-[37mP:5 Meleeer Injuryer
-   pt:5 (Melee_damage)
-   w:1 a:2 md:2 ms:1 bd:1 br:1 bs:2 bds:1
-   mr:1 ms:1 mv:1 d:w n:n0
-   m:[0m          
-Team 2 Points: 36     
-Team 1 Points: 31     
-[2J[2HCurrent step: 3     
-Team 2: 
-[37mP:1 Meleeer Masterhooder
-   pt:10 (Melee_skill)
-   w:1 a:3 md:2 ms:3 bd:3 br:1 bs:2 bds:1
-   mr:1 ms:1 mv:1 d:n n:n1
-   m:[0m     
-[37mP:2 breacher 
-   pt:4 (wounds)
-   w:2 a:2 md:1 ms:2 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:s n:n1
-   m:[0m     
-[37mP:3 Deviltryer Strayer
-   pt:6 (Magic_range)
-   w:1 a:1 md:1 ms:1 bd:2 br:2 bs:1 bds:0
-   mr:3 ms:1 mv:2 d:w n:s2
-   m:[0m     
-[37mP:4 Meleeer Harmer
-   pt:7 (Melee_damage)
-   w:1 a:1 md:2 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d:s n:s2
-   m: -armor5[0m     
-[37mP:5 Chitiner
-   pt:9 (Armor)
-   w:1 a:3 md:1 ms:2 bd:2 br:1 bs:3 bds:1
-   mr:1 ms:1 mv:2 d:e n:n0
-   m:[0m          
-Team 1: 
-[37mP:1 Meleeer Mischiefer
-   pt:8 (Melee_damage)
-   w:2 a:1 md:2 ms:1 bd:1 br:1 bs:2 bds:1
-   mr:1 ms:1 mv:1 d:n n:e0
-   m: +magic_skill3[0m     
-[37mP:2 Frenzieder Causeer
-   pt:5 (Ballistic_skill)
-   w:1 a:1 md:1 ms:2 bd:1 br:2 bs:2 bds:0
-   mr:2 ms:1 mv:1 d:n n:n1
-   m:[0m     
-[37mP:3 Ballisticaler Advocacyer Knowledgeer
-   pt:8 (Ballistic_defense_skill)
-   w:2 a:1 md:2 ms:1 bd:2 br:1 bs:1 bds:2
-   mr:1 ms:2 mv:1 d:e n:s2
-   m: +ballistic_skill1[0m     
-[37mP:4 Rouseer
-   pt:5 (Move)
-   w:1 a:1 md:1 ms:2 bd:2 br:1 bs:1 bds:1
-   mr:1 ms:1 mv:2 d:n n:s2
-   m:[0m     
-[37mP:5 Meleeer Injuryer
-   pt:5 (Melee_damage)
-   w:1 a:2 md:2 ms:1 bd:1 br:1 bs:2 bds:1
-   mr:1 ms:1 mv:1 d:w n:n0
+   mr:1 ms:1 mv:1 d:s n:e0
    m:[0m          
 Team 2 Points: 36     
 Team 1 Points: 31     

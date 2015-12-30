@@ -794,6 +794,7 @@ class ClearComputeBeingVisbility_WorldOperator < Thing
     visibility_being = nil
     if (location_beings != nil) && (location_beings != [])
       visibility_being = location_beings.pop
+      location_beings.push(visibility_being)
     end
     if visibility_being == nil
       return
@@ -805,12 +806,37 @@ class ClearComputeBeingVisbility_WorldOperator < Thing
     facing = visbility_being.instance_variable_get('@facing')
     case facing
     when 'n'
+      x_min = x - visibility
+      x_max = x + visibility
+      y_min = y
+      y_max = y - visibility
     when 'e'
+      x_min = y - visibility
+      x_max = y + visibility
+      y_min = x
+      y_max = x + visibility
     when 's'
+      x_min = x + visibility
+      x_max = x - visibility
+      y_min = y
+      y_max = y + visibility
     when 'w'
+      x_min = y + visibility
+      x_max = y - visibility
+      y_min = x
+      y_max = x - visibility
     end
-    location_beings.push(visibility_being)
-
+    y_insert_coord = 0
+    (y_min..y_max).each do |y_coord|
+      x_insert_coord = 0
+      (x_min..x_max).each do |x_coord|
+        current_location = world.get_location(x_coord, y_coord)
+        return_visbility_map[y_insert_coord][x_insert_coord] =
+          current_location;
+        x_insert_coord += 1
+      end
+      y_insert_coord += 1
+    end
   end
 
 
