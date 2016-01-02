@@ -140,13 +140,14 @@ end
 #      ...`.'#.``      Being
 
 class Being < Thing
+  attr_accessor :facing
+  attr_accessor :marked
+  attr_accessor :objective_points
   attr_accessor :points
   attr_accessor :program
-  attr_accessor :team
-  attr_accessor :objective_points
-  attr_accessor :marked
-  attr_accessor :facing
   attr_accessor :specialty
+  attr_accessor :team
+  attr_accessor :visbility_map
 
   def print_this_baby_out(omitted_variables = [], display = [], output_being_file = nil)
     being_omit = ['initialized', 'filename']
@@ -158,12 +159,14 @@ class Being < Thing
 
   def initialize(filename = nil)
     super(filename)
+    @facing = ''
+    @marked = false
+    @objective_points = 0
     @points = 1
     @program = ''
-    @team = $team_number
-    @objective_points = 0
-    @marked = false
     @specialty = "standard"
+    @team = $team_number
+    @visbility_map = []
     $buffable_stats.each do |buffable_stat|
       buff_instance_var = "@#{buffable_stat}_buffs"
       if self.instance_variable_defined?("#{buff_instance_var}")
@@ -770,8 +773,8 @@ class ClearMarkers_WorldOperator < Thing
   end
 end
 
-class ClearComputeBeingVisbility_WorldOperator < Thing
-  def initialize(default_visibility = DEFAULT_WORLD_VISBILITY)
+class ComputeBeingVisbilityMaps_WorldOperator < Thing
+  def initialize(default_visibility = DEFAULT_WORLD_VISIBILITY)
     @default_visibility = default_visbility
   end
 
@@ -831,14 +834,15 @@ class ClearComputeBeingVisbility_WorldOperator < Thing
       x_insert_coord = 0
       (x_min..x_max).each do |x_coord|
         current_location = world.get_location(x_coord, y_coord)
-        return_visbility_map[y_insert_coord][x_insert_coord] =
+        return_visibility_map[y_insert_coord][x_insert_coord] =
           current_location;
         x_insert_coord += 1
       end
       y_insert_coord += 1
     end
+    # Set being visibility map
+    visibility_being.visbility_map = return_visibility_map
   end
-
 
 end
 
@@ -854,22 +858,6 @@ class SetMarkers_WorldOperator < Thing
         new_marker.program = current_being.program
         new_marker.move = current_being.move
         world.add(new_marker, x, y)
-      end
-    end
-  end
-end
-
-class SetVisibilityMaps_WorldOperator < Thing
-  def initialize(default_visibility = 1)
-    @default_visibility = default_visibility
-  end
-
-  def execute (world, x, y)
-    location_beings = world.get('being', x, y)
-    if !location_beings.nil? && location_beings != []
-      location_beings.each do |current_being|
-        range = current_being.ballistic_range.to_i
-        facing = current_being.instance_variable_get('@facing')
       end
     end
   end
@@ -1530,6 +1518,8 @@ class LineOfCommand
       end
     elsif shortcut_everything?("teams", guess)
       output_team_stats(beings, world)
+    elsif shortcut_everything?("visbility", guess)
+      world.operate_over_space(ComputeBeingVisbilityMaps_WorldOperator.new(), displays, beings)
     elsif self.is_list_objects_command?(@types, guess)
       list_type = self.get_list_type(@types, guess)
       if !list_type.nil?
@@ -1553,10 +1543,15 @@ class LineOfCommand
             end
           end
         else
-          putsl ">err"
+          putsl ">err - reading unknown type (by file extension)"
+          puts guess
           putsl "err<"
         end
-       end
+      else
+         putsl "> no op"
+         putsl guess
+         putsl "no op <"
+      end
     end
 
     worlds = instance_variable_get("@worlds")

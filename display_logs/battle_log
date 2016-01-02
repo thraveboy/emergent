@@ -1,19 +1,25 @@
-...Thing Meleeer Hurter created and initialized
+> no op
+units/current_team_1
+no op <
+> no op
+programs/current_team_1_programs
+no op <
+...Thing Meleeer Impairer created and initialized
  ..
 ...Thing position-1 created and initialized
  ..
 Assigning program to being...
-...Thing Frenzieder Reasoner created and initialized
+...Thing Frenzieder Techniqueer created and initialized
  ..
 ...Thing position-2 created and initialized
  ..
 Assigning program to being...
-...Thing Ballisticaler Vindicationer Causeer created and initialized
+...Thing Frenzieder Maintenanceer Reasoner created and initialized
  ..
 ...Thing position-3 created and initialized
  ..
 Assigning program to being...
-...Thing Conveyer created and initialized
+...Thing Proposeer created and initialized
  ..
 ...Thing position-4 created and initialized
  ..
@@ -24,27 +30,33 @@ Assigning program to being...
  ..
 Assigning program to being...
 incrementing team number. new beings will now be on team 2.
-...Thing Meleeer Handicrafter created and initialized
+> no op
+units/current_team_2
+no op <
+> no op
+programs/current_team_2_programs
+no op <
+...Thing Meleeer Crafter created and initialized
  ..
 ...Thing position-1 created and initialized
  ..
 Assigning program to being...
-...Thing lacerateer  created and initialized
+...Thing lanceer  created and initialized
  ..
 ...Thing position-2 created and initialized
  ..
 Assigning program to being...
-...Thing Sleight Of Hander Roamer created and initialized
+...Thing Black Arter Training Areaer created and initialized
  ..
 ...Thing position-3 created and initialized
  ..
 Assigning program to being...
-...Thing Meleeer Injuryer created and initialized
+...Thing Meleeer Iller created and initialized
  ..
 ...Thing position-4 created and initialized
  ..
 Assigning program to being...
-...Thing Armour Plateer created and initialized
+...Thing Body Armorer created and initialized
  ..
 ...Thing position-5 created and initialized
  ..
@@ -55,8 +67,3 @@ Assigning program to being...
  ..
 .....Adding beings to world....
 1111122222 done populating....
-[37m[1mMeleeer Hurter[0m(17,9) attempts to buff [1mMeleeer Hurter[0m(17,9) magic_skill by 3 : Sucessful![0m
-[37m[1mMeleeer Hurter[0m(17,9) attempts to buff [1mFrenzieder Reasoner[0m(18,9) magic_skill by 3 : Sucessful![0m
-[37m[1mBallisticaler Vindicationer Causeer[0m(19,9) attempts to buff [1mFrenzieder Reasoner[0m(18,9) ballistic_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Vindicationer Causeer[0m(19,9) attempts to buff [1mBallisticaler Vindicationer Causeer[0m(19,9) ballistic_skill by 1 : Sucessful![0m
-[37m[1mBallisticaler Vindicationer Causeer[0m(19,9) attempts to buff [1mConveyer[0m(20,9) ballistic_skill by 1 : Sucessful![0m
