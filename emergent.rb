@@ -774,25 +774,25 @@ class ClearMarkers_WorldOperator < Thing
 end
 
 class ComputeBeingVisbilityMaps_WorldOperator < Thing
-  def initialize(default_visibility = DEFAULT_WORLD_VISIBILITY)
-    @default_visibility = default_visbility
+  def initialize(visibility = DEFAULT_WORLD_VISIBILITY)
+    @default_visibility = visibility
   end
 
-  def _initializeBeingVisibilityMap(visibility)
-    nil_visibility_map = []
-    (1..visbility).each do |y_init|
+  def initialized_vis_map(visibility)
+    initialized_visibility_map = []
+    (0..visibility).each do |y_init|
       y_row_loc_array = []
-      (1..visbility).each do |x_init|
-        y_row_location_array.push(nil)
+      (0..visibility).each do |x_init|
+        y_row_loc_array.push(Location.new())
       end
-      nil_visibility_map.push(y_row_loc_array)
+      initialized_visibility_map.push(y_row_loc_array)
     end
-    return nil_visibility_map
+    return initialized_visibility_map
   end
 
   def execute(world, x, y)
-    visibilty = @default_visibility
-    return_visibility_map = self._initializeBeingVisbilityMap(visbility)
+    visibility = @default_visibility
+    return_visibility_map = initialized_vis_map(visibility)
     location_beings = world.get('being', x, y)
     visibility_being = nil
     if (location_beings != nil) && (location_beings != [])
@@ -807,7 +807,7 @@ class ComputeBeingVisbilityMaps_WorldOperator < Thing
     y_min = 0
     y_max = 0
     facing = visbility_being.instance_variable_get('@facing')
-    case facing
+     case facing
     when 'n'
       x_min = x - visibility
       x_max = x + visibility
