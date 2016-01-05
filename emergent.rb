@@ -842,6 +842,7 @@ class ComputeBeingVisbilityMaps_WorldOperator < Thing
     end
     # Set being visibility map
     visibility_being.visbility_map = return_visibility_map
+    return nil
   end
 
 end
