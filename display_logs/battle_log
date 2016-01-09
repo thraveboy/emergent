@@ -9,22 +9,22 @@ no op <
 ...Thing position-1 created and initialized
  ..
 Assigning program to being...
-...Thing Frenzieder Causeer created and initialized
+...Thing Frenzieder Knowledgeer created and initialized
  ..
 ...Thing position-2 created and initialized
  ..
 Assigning program to being...
-...Thing Ballisticaler Justificationer Reasoner created and initialized
+...Thing Frenzieder Protectioner Adeptnesser created and initialized
  ..
 ...Thing position-3 created and initialized
  ..
 Assigning program to being...
-...Thing Rouseer created and initialized
+...Thing Floater created and initialized
  ..
 ...Thing position-4 created and initialized
  ..
 Assigning program to being...
-...Thing Meleeer Hurter created and initialized
+...Thing Meleeer Eviler created and initialized
  ..
 ...Thing position-5 created and initialized
  ..
@@ -36,27 +36,27 @@ no op <
 > no op
 programs/current_team_2_programs
 no op <
-...Thing Meleeer Reasoner created and initialized
+...Thing Meleeer Techniqueer created and initialized
  ..
 ...Thing position-1 created and initialized
  ..
 Assigning program to being...
-...Thing calker  created and initialized
+...Thing lacerationer  created and initialized
  ..
 ...Thing position-2 created and initialized
  ..
 Assigning program to being...
-...Thing Epodeer Training Areaer created and initialized
+...Thing Illusionismer Scopeer created and initialized
  ..
 ...Thing position-3 created and initialized
  ..
 Assigning program to being...
-...Thing Meleeer Detrimenter created and initialized
+...Thing Meleeer Impairer created and initialized
  ..
 ...Thing position-4 created and initialized
  ..
 Assigning program to being...
-...Thing Body Armorer created and initialized
+...Thing Helmer created and initialized
  ..
 ...Thing position-5 created and initialized
  ..
@@ -67,3 +67,223 @@ Assigning program to being...
  ..
 .....Adding beings to world....
 1111122222 done populating....
+beings in existence...
+being 1 : name Meleeer Eviler
+move 1
+ballistic_skill 2
+ballistic_range 1
+ballistic_damage 1
+melee_skill 1
+melee_damage 2
+armor 1
+wounds 2
+magic_range 1
+magic_skill 1
+points 8
+program w0 s2 n1 e0 w1 n0 e2 n0 e0 w1 e2 e0 w0 n2 n1 e2 n0 w1 n0 n0 e0 e1 w2 s1 n0 w0 e1 s1 s0 w0 
+team 1
+objective_points 0
+marked false
+specialty Melee_damage
+mutation melee_damage magics  +magic_skill3 ballistic_defense_skill wounds ballistic_skill
+facing 
+visibility_map #<World:0x007fe00cad9a28>
+magics  +magic_skill3
+ballistic_defense_skill 1
+visibility_map(print_map):
+being 2 : name Frenzieder Knowledgeer
+move 1
+ballistic_skill 2
+ballistic_range 2
+ballistic_damage 1
+melee_skill 2
+melee_damage 1
+armor 1
+wounds 1
+magic_range 2
+magic_skill 1
+points 5
+program s0 w0 n1 n1 n2 e1 w0 n0 n0 w1 n1 w2 n0 w1 n0 w0 n0 e1 e0 n1 s2 n2 w1 n0 n1 w1 e2 n0 w1 e2 
+team 1
+objective_points 0
+marked false
+specialty Ballistic_skill
+mutation ballistic_skill ballistic_range magic_range melee_skill
+facing 
+visibility_map #<World:0x007fe00cad9258>
+visibility_map(print_map):
+being 3 : name Frenzieder Protectioner Adeptnesser
+move 1
+ballistic_skill 1
+ballistic_range 1
+ballistic_damage 2
+melee_skill 1
+melee_damage 2
+armor 1
+wounds 2
+magic_range 1
+magic_skill 2
+points 8
+program e1 n1 e1 s2 e1 n0 n1 e2 s2 e2 w1 w1 n0 w1 n2 n0 s2 n0 s2 w0 n0 s1 n0 s0 n1 w2 s2 w1 e2 n0 
+team 1
+objective_points 0
+marked false
+specialty Ballistic_defense_skill
+mutation wounds ballistic_damage melee_damage magics  +ballistic_skill1 ballistic_defense_skill magic_skill ballistic_defense_skill
+facing 
+visibility_map #<World:0x007fe00cad8a88>
+magics  +ballistic_skill1
+ballistic_defense_skill 2
+visibility_map(print_map):
+being 4 : name Floater
+move 2
+ballistic_skill 1
+ballistic_range 1
+ballistic_damage 2
+melee_skill 2
+melee_damage 1
+armor 1
+wounds 1
+magic_range 1
+magic_skill 1
+points 5
+program e2 n1 n1 s2 w1 n0 s2 s1 n0 w2 n1 w2 n0 s2 n2 n2 e1 n1 w1 n0 e0 s1 w2 w1 n2 w0 e0 w0 s1 n0 
+team 1
+objective_points 0
+marked false
+specialty Move
+mutation move melee_skill ballistic_damage ballistic_defense_skill
+facing 
+visibility_map #<World:0x007fe00cad82b8>
+ballistic_defense_skill 1
+visibility_map(print_map):
+being 5 : name Meleeer Eviler
+move 1
+ballistic_skill 2
+ballistic_range 1
+ballistic_damage 1
+melee_skill 1
+melee_damage 2
+armor 2
+wounds 1
+magic_range 1
+magic_skill 1
+points 5
+program s2 e0 w2 n0 w2 w2 n2 w0 s2 s2 n0 n0 e1 n0 w0 e1 w1 e1 s1 w0 w1 n0 n0 n1 e1 w0 e1 w2 e1 n2 
+team 1
+objective_points 0
+marked false
+specialty Melee_damage
+mutation melee_damage ballistic_skill armor ballistic_defense_skill
+facing 
+visibility_map #<World:0x007fe00d10dfe8>
+ballistic_defense_skill 1
+visibility_map(print_map):
+being 6 : name Meleeer Techniqueer
+move 1
+ballistic_skill 2
+ballistic_range 1
+ballistic_damage 3
+melee_skill 3
+melee_damage 2
+armor 3
+wounds 1
+magic_range 1
+magic_skill 1
+points 10
+program w0 s2 n1 e0 w1 n0 e2 n0 e0 w1 e2 e0 w0 n2 n1 e2 n0 w1 n0 n0 e0 e1 w2 s1 n0 w0 e1 s1 s0 w0 
+team 2
+objective_points 0
+marked false
+specialty Melee_skill
+mutation melee_skill ballistic_skill melee_skill ballistic_defense_skill ballistic_damage armor melee_damage armor ballistic_damage
+facing 
+visibility_map #<World:0x007fe00bb890c8>
+ballistic_defense_skill 1
+visibility_map(print_map):
+being 7 : name lacerationer 
+move 1
+ballistic_skill 1
+ballistic_range 1
+ballistic_damage 1
+melee_skill 2
+melee_damage 1
+armor 2
+wounds 2
+magic_range 1
+magic_skill 1
+points 4
+program s0 w0 n1 n1 n2 e1 w0 n0 n0 w1 n1 w2 n0 w1 n0 w0 n0 e1 e0 n1 s2 n2 w1 n0 n1 w1 e2 n0 w1 e2 
+team 2
+objective_points 0
+marked false
+specialty wounds
+mutation wounds armor melee_skill
+facing 
+visibility_map #<World:0x007fe00bb89898>
+visibility_map(print_map):
+being 8 : name Illusionismer Scopeer
+move 2
+ballistic_skill 1
+ballistic_range 2
+ballistic_damage 2
+melee_skill 1
+melee_damage 1
+armor 1
+wounds 1
+magic_range 3
+magic_skill 1
+points 6
+program e1 n1 e1 s2 e1 n0 n1 e2 s2 e2 w1 w1 n0 w1 n2 n0 s2 n0 s2 w0 n0 s1 n0 s0 n1 w2 s2 w1 e2 n0 
+team 2
+objective_points 0
+marked false
+specialty Magic_range
+mutation move ballistic_range ballistic_damage magic_range magic_range
+facing 
+visibility_map #<World:0x007fe00bb8a068>
+visibility_map(print_map):
+being 9 : name Meleeer Impairer
+move 1
+ballistic_skill 1
+ballistic_range 1
+ballistic_damage 1
+melee_skill 1
+melee_damage 2
+armor 1
+wounds 1
+magic_range 1
+magic_skill 1
+points 7
+program e2 n1 n1 s2 w1 n0 s2 s1 n0 w2 n1 w2 n0 s2 n2 n2 e1 n1 w1 n0 e0 s1 w2 w1 n2 w0 e0 w0 s1 n0 
+team 2
+objective_points 0
+marked false
+specialty Melee_damage
+mutation melee_damage magics  -armor5
+facing 
+visibility_map #<World:0x007fe00bb8a838>
+magics  -armor5
+visibility_map(print_map):
+being 10 : name Helmer
+move 2
+ballistic_skill 3
+ballistic_range 1
+ballistic_damage 2
+melee_skill 2
+melee_damage 1
+armor 3
+wounds 1
+magic_range 1
+magic_skill 1
+points 9
+program s2 e0 w2 n0 w2 w2 n2 w0 s2 s2 n0 n0 e1 n0 w0 e1 w1 e1 s1 w0 w1 n0 n0 n1 e1 w0 e1 w2 e1 n2 
+team 2
+objective_points 0
+marked false
+specialty Armor
+mutation armor melee_skill move ballistic_defense_skill ballistic_damage ballistic_skill armor ballistic_skill
+facing 
+visibility_map #<World:0x007fe00bb8b008>
+ballistic_defense_skill 1
+visibility_map(print_map):

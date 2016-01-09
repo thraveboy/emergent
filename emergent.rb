@@ -147,7 +147,7 @@ class Being < Thing
   attr_accessor :program
   attr_accessor :specialty
   attr_accessor :team
-  attr_accessor :visbility_map
+  attr_accessor :visibility_map
 
   def print_this_baby_out(omitted_variables = [], display = [], output_being_file = nil)
     being_omit = ['initialized', 'filename']
@@ -155,6 +155,10 @@ class Being < Thing
       omitted_variables.push(bo)
     end
     super(omitted_variables, display, output_being_file)
+    if !@visibility_map.nil?
+      putsl "visibility_map(print_map):"
+      @visibility_map.print_map()
+    end
   end
 
   def initialize(filename = nil)
@@ -166,7 +170,7 @@ class Being < Thing
     @program = ''
     @specialty = "standard"
     @team = $team_number
-    @visbility_map = []
+    @visibility_map = nil
     $buffable_stats.each do |buffable_stat|
       buff_instance_var = "@#{buffable_stat}_buffs"
       if self.instance_variable_defined?("#{buff_instance_var}")
@@ -320,25 +324,34 @@ end
 #                         ......^^%.....World.~~
 
 class World < Thing
-  def initialize(filename)
+  def initialize(filename = nil)
     super(filename)
     @space = []
-    y_axis = 0
-    while instance_variable_get("@y#{y_axis}") != nil
-      x_as_string = instance_variable_get("@y#{y_axis}")
-      x_max = x_as_string.length
-      x_space = []
-      if x_max > 0
-        x_max -= 1
-        for x_axis in 0..x_max
-          current_space = Location.new
-          current_space.add(x_as_string[x_axis])
-          x_space[x_axis] = current_space
+    if !filename.nil?
+      y_axis = 0
+      while instance_variable_get("@y#{y_axis}") != nil
+        x_as_string = instance_variable_get("@y#{y_axis}")
+        x_max = x_as_string.length
+        x_space = []
+        if x_max > 0
+          x_max -= 1
+          for x_axis in 0..x_max
+            current_space = Location.new
+            current_space.add(x_as_string[x_axis])
+            x_space[x_axis] = current_space
+          end
         end
+        @space[y_axis] = x_space
+        y_axis += 1
       end
-      @space[y_axis] = x_space
-      y_axis += 1
+    else
+      @space[0] = []
     end
+  end
+
+  def set_space(new_space)
+    @space = new_space
+    return self
   end
 
   def get_space_dimensions
@@ -792,7 +805,7 @@ class ComputeBeingVisbilityMaps_WorldOperator < Thing
 
   def execute(world, x, y)
     visibility = @default_visibility
-    return_visibility_map = initialized_vis_map(visibility)
+    visibility_map = initialized_vis_map(visibility)
     location_beings = world.get('being', x, y)
     visibility_being = nil
     if (location_beings != nil) && (location_beings != [])
@@ -806,8 +819,8 @@ class ComputeBeingVisbilityMaps_WorldOperator < Thing
     x_max = 0
     y_min = 0
     y_max = 0
-    facing = visbility_being.instance_variable_get('@facing')
-     case facing
+    facing = visibility_being.instance_variable_get('@facing')
+    case facing
     when 'n'
       x_min = x - visibility
       x_max = x + visibility
@@ -834,14 +847,14 @@ class ComputeBeingVisbilityMaps_WorldOperator < Thing
       x_insert_coord = 0
       (x_min..x_max).each do |x_coord|
         current_location = world.get_location(x_coord, y_coord)
-        return_visibility_map[y_insert_coord][x_insert_coord] =
+        visibility_map[y_insert_coord][x_insert_coord] =
           current_location;
         x_insert_coord += 1
       end
       y_insert_coord += 1
     end
     # Set being visibility map
-    visibility_being.visbility_map = return_visibility_map
+    visibility_being.visibility_map = World.new.set_space(visibility_map)
     return nil
   end
 
