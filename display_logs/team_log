@@ -1,110 +1,60 @@
 [2J[2HCurrent step: 0     
-Team 2: 
-[37mP:1 Meleeer Techniqueer
-   pt:10 (Melee_skill)
-   w:1 a:3 md:2 ms:3 bd:3 br:1 bs:2 bds:1
-   mr:1 ms:1 mv:1 d: n:w0
-   m:[0m     
-[37mP:2 lacerationer 
-   pt:4 (wounds)
-   w:2 a:2 md:1 ms:2 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d: n:s0
-   m:[0m     
-[37mP:3 Illusionismer Scopeer
-   pt:6 (Magic_range)
-   w:1 a:1 md:1 ms:1 bd:2 br:2 bs:1 bds:0
-   mr:3 ms:1 mv:2 d: n:e1
-   m:[0m     
-[37mP:4 Meleeer Impairer
-   pt:7 (Melee_damage)
-   w:1 a:1 md:2 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d: n:e2
-   m: -armor5[0m     
-[37mP:5 Helmer
-   pt:9 (Armor)
-   w:1 a:3 md:1 ms:2 bd:2 br:1 bs:3 bds:1
-   mr:1 ms:1 mv:2 d: n:s2
-   m:[0m          
+Team 2:      
 Team 1: 
-[37mP:1 Meleeer Eviler
+[37mP:1 Meleeer Mischiefer
    pt:8 (Melee_damage)
    w:2 a:1 md:2 ms:1 bd:1 br:1 bs:2 bds:1
    mr:1 ms:1 mv:1 d: n:w0
    m: +magic_skill3[0m     
-[37mP:2 Frenzieder Knowledgeer
+[37mP:2 Frenzieder Masterhooder
    pt:5 (Ballistic_skill)
    w:1 a:1 md:1 ms:2 bd:1 br:2 bs:2 bds:0
    mr:2 ms:1 mv:1 d: n:s0
    m:[0m     
-[37mP:3 Frenzieder Protectioner Adeptnesser
+[37mP:3 Frenzieder Espousaler Handicrafter
    pt:8 (Ballistic_defense_skill)
    w:2 a:1 md:2 ms:1 bd:2 br:1 bs:1 bds:2
    mr:1 ms:2 mv:1 d: n:e1
    m: +ballistic_skill1[0m     
-[37mP:4 Floater
+[37mP:4 Manhandleer
    pt:5 (Move)
    w:1 a:1 md:1 ms:2 bd:2 br:1 bs:1 bds:1
    mr:1 ms:1 mv:2 d: n:e2
    m:[0m     
-[37mP:5 Meleeer Eviler
+[37mP:5 Meleeer Detrimenter
    pt:5 (Melee_damage)
    w:1 a:2 md:2 ms:1 bd:1 br:1 bs:2 bds:1
    mr:1 ms:1 mv:1 d: n:s2
    m:[0m          
-Team 2 Points: 36     
+Team 2 Points: 0     
 Team 1 Points: 31     
 [2J[2HCurrent step: 0     
-Team 2: 
-[37mP:1 Meleeer Techniqueer
-   pt:10 (Melee_skill)
-   w:1 a:3 md:2 ms:3 bd:3 br:1 bs:2 bds:1
-   mr:1 ms:1 mv:1 d: n:w0
-   m:[0m     
-[37mP:2 lacerationer 
-   pt:4 (wounds)
-   w:2 a:2 md:1 ms:2 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d: n:s0
-   m:[0m     
-[37mP:3 Illusionismer Scopeer
-   pt:6 (Magic_range)
-   w:1 a:1 md:1 ms:1 bd:2 br:2 bs:1 bds:0
-   mr:3 ms:1 mv:2 d: n:e1
-   m:[0m     
-[37mP:4 Meleeer Impairer
-   pt:7 (Melee_damage)
-   w:1 a:1 md:2 ms:1 bd:1 br:1 bs:1 bds:0
-   mr:1 ms:1 mv:1 d: n:e2
-   m: -armor5[0m     
-[37mP:5 Helmer
-   pt:9 (Armor)
-   w:1 a:3 md:1 ms:2 bd:2 br:1 bs:3 bds:1
-   mr:1 ms:1 mv:2 d: n:s2
-   m:[0m          
+Team 2:      
 Team 1: 
-[37mP:1 Meleeer Eviler
+[37mP:1 Meleeer Mischiefer
    pt:8 (Melee_damage)
    w:2 a:1 md:2 ms:1 bd:1 br:1 bs:2 bds:1
    mr:1 ms:1 mv:1 d: n:w0
    m: +magic_skill3[0m     
-[37mP:2 Frenzieder Knowledgeer
+[37mP:2 Frenzieder Masterhooder
    pt:5 (Ballistic_skill)
    w:1 a:1 md:1 ms:2 bd:1 br:2 bs:2 bds:0
    mr:2 ms:1 mv:1 d: n:s0
    m:[0m     
-[37mP:3 Frenzieder Protectioner Adeptnesser
+[37mP:3 Frenzieder Espousaler Handicrafter
    pt:8 (Ballistic_defense_skill)
    w:2 a:1 md:2 ms:1 bd:2 br:1 bs:1 bds:2
    mr:1 ms:2 mv:1 d: n:e1
    m: +ballistic_skill1[0m     
-[37mP:4 Floater
+[37mP:4 Manhandleer
    pt:5 (Move)
    w:1 a:1 md:1 ms:2 bd:2 br:1 bs:1 bds:1
    mr:1 ms:1 mv:2 d: n:e2
    m:[0m     
-[37mP:5 Meleeer Eviler
+[37mP:5 Meleeer Detrimenter
    pt:5 (Melee_damage)
    w:1 a:2 md:2 ms:1 bd:1 br:1 bs:2 bds:1
    mr:1 ms:1 mv:1 d: n:s2
    m:[0m          
-Team 2 Points: 36     
+Team 2 Points: 0     
 Team 1 Points: 31     

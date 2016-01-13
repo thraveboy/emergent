@@ -456,11 +456,13 @@ class World < Thing
       end
       @space.each do |y_axis|
         y_axis.each do |location|
-          initial_location_strings = location.get_objects_of_type(String)
-          beings_here = location.get_objects_of_type(Being)
-          program_markers_here = location.get_objects_of_type(ProgramMarker)
-          if $dump_logs
-            active_here = location.remove("ActiveFlag")
+          if !location.nil?
+            initial_location_strings = location.get_objects_of_type(String)
+            beings_here = location.get_objects_of_type(Being)
+            program_markers_here = location.get_objects_of_type(ProgramMarker)
+            if $dump_logs
+              active_here = location.remove("ActiveFlag")
+            end
           end
           what_to_print = 'E'
           if beings_here != nil && beings_here != []
@@ -793,9 +795,10 @@ class ComputeBeingVisbilityMaps_WorldOperator < Thing
 
   def initialized_vis_map(visibility)
     initialized_visibility_map = []
-    (0..visibility).each do |y_init|
+    map_width_height = 2 * visibility
+    (0..map_width_height).each do |y_init|
       y_row_loc_array = []
-      (0..visibility).each do |x_init|
+      (0..map_width_height).each do |x_init|
         y_row_loc_array.push(Location.new())
       end
       initialized_visibility_map.push(y_row_loc_array)
@@ -815,46 +818,36 @@ class ComputeBeingVisbilityMaps_WorldOperator < Thing
     if visibility_being == nil
       return
     end
-    x_min = 0
-    x_max = 0
-    y_min = 0
-    y_max = 0
-    facing = visibility_being.instance_variable_get('@facing')
-    case facing
-    when 'n'
-      x_min = x - visibility
-      x_max = x + visibility
-      y_min = y
-      y_max = y - visibility
-    when 'e'
-      x_min = y - visibility
-      x_max = y + visibility
-      y_min = x
-      y_max = x + visibility
-    when 's'
-      x_min = x + visibility
-      x_max = x - visibility
-      y_min = y
-      y_max = y + visibility
-    when 'w'
-      x_min = y + visibility
-      x_max = y - visibility
-      y_min = x
-      y_max = x - visibility
-    end
+    x_min = x - visibility
+    x_max = x + visibility
+    y_min = y - visibility
+    y_max = y + visibility
+    x_step = 1
+    y_step = 1
+    puts "x(min,max)-y(min,max): #{x_min},#{x_max}-#{y_min},#{y_max}"
     y_insert_coord = 0
-    (y_min..y_max).each do |y_coord|
+    y_min.step(y_max, y_step).each do |y_coord|
       x_insert_coord = 0
-      (x_min..x_max).each do |x_coord|
+      x_min.step(x_max, x_step).each do |x_coord|
+        original_x_coord = x_coord
+        original_y_coord = y_coord
+        if ns_ew_flip == true
+          x_coord = original_y_coord
+          y_coord = original_x_coord
+        end
+        puts "coord(x,y)-insert(x,y): #{x_coord},#{y_coord}-#{x_insert_coord},#{y_insert_coord}"
         current_location = world.get_location(x_coord, y_coord)
         visibility_map[y_insert_coord][x_insert_coord] =
           current_location;
+        x_coord = original_x_coord
+        y_coord = original_y_coord
         x_insert_coord += 1
       end
       y_insert_coord += 1
     end
     # Set being visibility map
     visibility_being.visibility_map = World.new.set_space(visibility_map)
+    visibility_being.visibility_map.print_map()
     return nil
   end
 
