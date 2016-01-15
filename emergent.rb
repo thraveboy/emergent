@@ -157,7 +157,7 @@ class Being < Thing
     super(omitted_variables, display, output_being_file)
     if !@visibility_map.nil?
       putsl "visibility_map(print_map):"
-      @visibility_map.print_map()
+      @visibility_map.print_map(display)
     end
   end
 
@@ -824,7 +824,6 @@ class ComputeBeingVisbilityMaps_WorldOperator < Thing
     y_max = y + visibility
     x_step = 1
     y_step = 1
-    puts "x(min,max)-y(min,max): #{x_min},#{x_max}-#{y_min},#{y_max}"
     y_insert_coord = 0
     y_min.step(y_max, y_step).each do |y_coord|
       x_insert_coord = 0
@@ -835,7 +834,6 @@ class ComputeBeingVisbilityMaps_WorldOperator < Thing
           x_coord = original_y_coord
           y_coord = original_x_coord
         end
-        puts "coord(x,y)-insert(x,y): #{x_coord},#{y_coord}-#{x_insert_coord},#{y_insert_coord}"
         current_location = world.get_location(x_coord, y_coord)
         visibility_map[y_insert_coord][x_insert_coord] =
           current_location;
@@ -847,7 +845,6 @@ class ComputeBeingVisbilityMaps_WorldOperator < Thing
     end
     # Set being visibility map
     visibility_being.visibility_map = World.new.set_space(visibility_map)
-    visibility_being.visibility_map.print_map()
     return nil
   end
 
